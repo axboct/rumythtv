@@ -1,0 +1,4356 @@
+<?xml version="1.0" encoding="UTF-8"?><city version="1.2" last_updated="Sat, 16 Jan 2010 05:06:21 +0200">
+	<city id="13513">
+		<name></name>
+		<name_en>Artemivsk</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3209">
+		<name>Авдеевка</name>
+		<name_en>Avdiivka</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="38">
+		<name>Ай-Петри</name>
+		<name_en>Ai-Petri</name_en>
+		<region>Крым</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1163">
+		<name>Александрия</name>
+		<name_en>Oleksandriia</name_en>
+		<region>Кировоградская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3210">
+		<name>Александровка</name>
+		<name_en>Aleksandrovka</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3373">
+		<name>Александровск</name>
+		<name_en>Aleksandrovsk</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13509">
+		<name>Александровск</name>
+		<name_en>Oleksandrivsk</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13511">
+		<name>Алмазная</name>
+		<name_en>Almazna</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3111">
+		<name>Алупка</name>
+		<name_en>Alupka</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="33">
+		<name>Алушта</name>
+		<name_en>Alushta</name_en>
+		<region>Крым</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="116">
+		<name>Алчевск</name>
+		<name_en>Alchevsk</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3401">
+		<name>Алчевск</name>
+		<name_en>Kommunarsk</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3212">
+		<name>Амвросиевка</name>
+		<name_en>Amvrosievka</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3458">
+		<name>Ананьев</name>
+		<name_en>Ananiv</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3253">
+		<name>Андрушовка</name>
+		<name_en>Andrushivka</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="117">
+		<name>Антрацит</name>
+		<name_en>Antratsyt</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3178">
+		<name>Апостолово</name>
+		<name_en>Apostolove</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3443">
+		<name>Арбузинка</name>
+		<name_en>Arbuzinka</name_en>
+		<region>Николаевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3112">
+		<name>Армянск</name>
+		<name_en>Armyansk</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="50">
+		<name>Артёмовск</name>
+		<name_en>Artemivsk</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3460">
+		<name>Арциз</name>
+		<name_en>Artsyz</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="69">
+		<name>Аскания-Нова</name>
+		<name_en>Askania-Nova</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1164">
+		<name>Ахтырка</name>
+		<name_en>Okhtyrka</name_en>
+		<region>Сумская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3114">
+		<name>Балаклава</name>
+		<name_en>Balaklava</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3554">
+		<name>Балаклея</name>
+		<name_en>Balakliia</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3461">
+		<name>Балта</name>
+		<name_en>Balta</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3133">
+		<name>Бар</name>
+		<name_en>Bar</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3177">
+		<name>Барак</name>
+		<name_en>Shack</name_en>
+		<region>Волынская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3254">
+		<name>Барановка</name>
+		<name_en>Baranivka</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3555">
+		<name>Барвенково</name>
+		<name_en>Barvinkove</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3330">
+		<name>Барышевка</name>
+		<name_en>Barishevka</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3632">
+		<name>Бахмач</name>
+		<name_en>Bakhmach</name_en>
+		<region>Черниговская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3115">
+		<name>Бахчисарай</name>
+		<name_en>Bakhchisaray</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3444">
+		<name>Баштанка</name>
+		<name_en>Bashtanka</name_en>
+		<region>Николаевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="34">
+		<name>Белая Церковь</name>
+		<name_en>Bila Tserkva</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="168">
+		<name>Белгород-Днестровский</name>
+		<name_en>Bilhorod-Dnistrovskyi</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3374">
+		<name>Беловодск</name>
+		<name_en>Belovodsk</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3116">
+		<name>Белогорск</name>
+		<name_en>Bilohirsk</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3595">
+		<name>Белогорье</name>
+		<name_en>Belogorye</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3577">
+		<name>Белозерка</name>
+		<name_en>Belozerka</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3377">
+		<name>Белокуракино</name>
+		<name_en>Belokurakino</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="233">
+		<name>Белополье</name>
+		<name_en>Bilopillia</name_en>
+		<region>Сумская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3462">
+		<name>Беляевка</name>
+		<name_en>Beliaevka</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1165">
+		<name>Бердичев</name>
+		<name_en>Berdychiv</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="18">
+		<name>Бердянск</name>
+		<name_en>Berdyansk</name_en>
+		<region>Запорожская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="234">
+		<name>Берегово</name>
+		<name_en>Berehove</name_en>
+		<region>Закарпатская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="68">
+		<name>Бережаны</name>
+		<name_en>Berezhany</name_en>
+		<region>Тернопольская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3331">
+		<name>Березань</name>
+		<name_en>Berezan</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3463">
+		<name>Березино</name>
+		<name_en>Berezino</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3445">
+		<name>Березне</name>
+		<name_en>Berezne</name_en>
+		<region>Николаевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3464">
+		<name>Березовка</name>
+		<name_en>Berezovka</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13515">
+		<name>Берестечко</name>
+		<name_en>Berestechko</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3578">
+		<name>Берислав</name>
+		<name_en>Beryslav</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3134">
+		<name>Бершадь</name>
+		<name_en>Bershad</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3556">
+		<name>Близнюки</name>
+		<name_en>Blizniuky</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="235">
+		<name>Бобринец</name>
+		<name_en>Bobrynets</name_en>
+		<region>Кировоградская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3634">
+		<name>Бобровица</name>
+		<name_en>Bobrovytsia</name_en>
+		<region>Черниговская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="111">
+		<name>Богодухов</name>
+		<name_en>Bohodukhiv</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3308">
+		<name>Богородчаны</name>
+		<name_en>Bororodchany</name_en>
+		<region>Ивано-Франковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3332">
+		<name>Богуслав</name>
+		<name_en>Bohuslav</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3465">
+		<name>Болград</name>
+		<name_en>Bolhrad</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3309">
+		<name>Болехов</name>
+		<name_en>Bolekhiv</name_en>
+		<region>Ивано-Франковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3635">
+		<name>Борзна</name>
+		<name_en>Borzna</name_en>
+		<region>Черниговская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3418">
+		<name>Борислав</name>
+		<name_en>Boryslav</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3596">
+		<name>Борисов</name>
+		<name_en>Borisov</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="35">
+		<name>Борисполь</name>
+		<name_en>Boryspil</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3333">
+		<name>Боровая</name>
+		<name_en>Borovaia</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3558">
+		<name>Боровая</name>
+		<name_en>Borovaya</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3466">
+		<name>Бородинское сражение</name>
+		<name_en>Borodino</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3334">
+		<name>Бородянка</name>
+		<name_en>Borodianka</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3535">
+		<name>Борщёв</name>
+		<name_en>Borschiv</name_en>
+		<region>Тернопольская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="159">
+		<name>Боярка</name>
+		<name_en>Boiarka</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3446">
+		<name>Братское</name>
+		<name_en>Bratskoe</name_en>
+		<region>Николаевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="118">
+		<name>Бровары</name>
+		<name_en>Brovary</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="60">
+		<name>Броды</name>
+		<name_en>Brody</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3257">
+		<name>Брусилов</name>
+		<name_en>Brusilov</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3135">
+		<name>Брэила</name>
+		<name_en>Brailov</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1166">
+		<name>Брянка</name>
+		<name_en>Brianka</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3313">
+		<name>Бурштын</name>
+		<name_en>Burshtyn</name_en>
+		<region>Ивано-Франковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3520">
+		<name>Бурынь</name>
+		<name_en>Buryn</name_en>
+		<region>Сумская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="160">
+		<name>Буск</name>
+		<name_en>Busk</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13429">
+		<name>Буча</name>
+		<name_en>Bucha</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3536">
+		<name>Бучач</name>
+		<name_en>Buchach</name_en>
+		<region>Тернопольская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3561">
+		<name>Валки</name>
+		<name_en>Valky</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3636">
+		<name>Варва</name>
+		<name_en>Varva</name_en>
+		<region>Черниговская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3291">
+		<name>Васильевка</name>
+		<name_en>Vasylivka</name_en>
+		<region>Запорожская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="119">
+		<name>Васильков</name>
+		<name_en>Vasylkiv</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3181">
+		<name>Васильковка</name>
+		<name_en>Vasilkovka</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3614">
+		<name>Ватутино</name>
+		<name_en>Vatutine</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3655">
+		<name>Вашковцы</name>
+		<name_en>Vashkivtsi</name_en>
+		<region>Черновицкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="70">
+		<name>Великая Александровка</name>
+		<name_en>Velyka Oleksandrivka</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3486">
+		<name>Великая Багачка</name>
+		<name_en>Velikaya Bagachka</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3579">
+		<name>Великая Лепетиха</name>
+		<name_en>Velikaya Lepetiha</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3467">
+		<name>Великая Михайловка</name>
+		<name_en>Velikaya Mihailovka</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3221">
+		<name>Великая Новоселка</name>
+		<name_en>Velikaya Novoselka</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3521">
+		<name>Великая Писаревка</name>
+		<name_en>Velikaya Pisarevka</name_en>
+		<region>Сумская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3279">
+		<name>Великий Березный</name>
+		<name_en>Velikiy Berezniy</name_en>
+		<region>Закарпатская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="237">
+		<name>Великий Бурлук</name>
+		<name_en>Velykyi-burluk</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3182">
+		<name>Верхнеднепровск</name>
+		<name_en>Verkhnodniprovsk</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3580">
+		<name>Верхний Рогачик</name>
+		<name_en>Verhniy Rogachik</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3315">
+		<name>Верховина</name>
+		<name_en>Verkhovyna</name_en>
+		<region>Ивано-Франковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3448">
+		<name>Веселиново</name>
+		<name_en>Veselinovo</name_en>
+		<region>Николаевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3292">
+		<name>Веселое</name>
+		<name_en>Veseloe</name_en>
+		<region>Запорожская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="238">
+		<name>Веселый Подол</name>
+		<name_en>Veselyi-podil</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3656">
+		<name>Вижница</name>
+		<name_en>Vyzhnytsia</name_en>
+		<region>Черновицкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1167">
+		<name>Вилково</name>
+		<name_en>Vylkove</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="10">
+		<name>Винница</name>
+		<name_en>Vinnytsia</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3281">
+		<name>Виноградов</name>
+		<name_en>Vynohradiv</name_en>
+		<region>Закарпатская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3597">
+		<name>Виньковцы</name>
+		<name_en>Vinykovcy</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="120">
+		<name>Вишнёвое</name>
+		<name_en>Vyshneve</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="46">
+		<name>Владимир-Волынский</name>
+		<name_en>Volodymyr-Volynskyi</name_en>
+		<region>Волынская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3507">
+		<name>Владимирец</name>
+		<name_en>Vadimerech</name_en>
+		<region>Ровенская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3449">
+		<name>Вознесенск</name>
+		<name_en>Voznesensk</name_en>
+		<region>Николаевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3223">
+		<name>Волноваха</name>
+		<name_en>Volnovakha</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1168">
+		<name>Воловец</name>
+		<name_en>Volovec</name_en>
+		<region>Закарпатская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3335">
+		<name>Володарка</name>
+		<name_en>Volodarka</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3385">
+		<name>Володарск</name>
+		<name_en>Volodarsk</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3260">
+		<name>Володарск-Волынский</name>
+		<name_en>Volodarsk-Volinskiy</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3224">
+		<name>Володарское</name>
+		<name_en>Volodarskoe</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3598">
+		<name>Волочиск</name>
+		<name_en>Volochysk</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3562">
+		<name>Волчанск</name>
+		<name_en>Vovchansk</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3184">
+		<name>Вольногорск</name>
+		<name_en>Vilnohirsk</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13519">
+		<name>Вольнянск</name>
+		<name_en>Vilniansk</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3522">
+		<name>Ворожба</name>
+		<name_en>Vorozba</name_en>
+		<region>Сумская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3523">
+		<name>Воронеж</name>
+		<name_en>Voroneg</name_en>
+		<region>Сумская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="121">
+		<name>Ворохта</name>
+		<name_en>Vorokhta</name_en>
+		<region>Ивано-Франковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3450">
+		<name>Врадиевка</name>
+		<name_en>Vradievka</name_en>
+		<region>Николаевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3581">
+		<name>Высокополье</name>
+		<name_en>Visokopolye</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13521">
+		<name>Вышгород</name>
+		<name_en>Vyshhorod</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3488">
+		<name>Гадяч</name>
+		<name_en>Hadiach</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="239">
+		<name>Гайворон</name>
+		<name_en>Haivoron</name_en>
+		<region>Кировоградская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="45">
+		<name>Гайсин</name>
+		<name_en>Haisyn</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3318">
+		<name>Галич</name>
+		<name_en>Halych</name_en>
+		<region>Ивано-Франковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3117">
+		<name>Гаспра</name>
+		<name_en>Gaspra</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3305">
+		<name>Гёйтепе</name>
+		<name_en>Prishib</name_en>
+		<region>Запорожская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="169">
+		<name>Геническ</name>
+		<name_en>Henichesk</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3389">
+		<name>Георгиевка</name>
+		<name_en>Georgievka</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3657">
+		<name>Герца</name>
+		<name_en>Hertsa</name_en>
+		<region>Черновицкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3489">
+		<name>Глобино</name>
+		<name_en>Hlobyne</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3524">
+		<name>Глухов</name>
+		<name_en>Hlukhiv</name_en>
+		<region>Сумская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3658">
+		<name>Глыбокая</name>
+		<name_en>Hlyboka</name_en>
+		<region>Черновицкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3582">
+		<name>Голая Пристань</name>
+		<name_en>Hola Prystan</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3356">
+		<name>Голованевск</name>
+		<name_en>Golovanevsk</name_en>
+		<region>Кировоградская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="122">
+		<name>Горловка</name>
+		<name_en>Horlivka</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3583">
+		<name>Горностаевка</name>
+		<name_en>Gornostaevka</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3423">
+		<name>Горняк</name>
+		<name_en>Gorniak</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3320">
+		<name>Городенка</name>
+		<name_en>Horodenka</name_en>
+		<region>Ивано-Франковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3615">
+		<name>Городище</name>
+		<name_en>Horodysche</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3638">
+		<name>Городня</name>
+		<name_en>Horodnia</name_en>
+		<region>Черниговская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3599">
+		<name>Городок</name>
+		<name_en>Horodok</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3165">
+		<name>Горохов</name>
+		<name_en>Horokhiv</name_en>
+		<region>Волынская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3508">
+		<name>Гоща</name>
+		<name_en>Gosha</name_en>
+		<region>Ровенская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3492">
+		<name>Гребёнка</name>
+		<name_en>Hrebinka</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3293">
+		<name>Гуляйполе</name>
+		<name_en>Huliaipole</name_en>
+		<region>Запорожская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3119">
+		<name>Гурзуф</name>
+		<name_en>Gurzuf</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3540">
+		<name>Гусятин</name>
+		<name_en>Gusiatyn</name_en>
+		<region>Тернопольская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="240">
+		<name>Дарьевка</name>
+		<name_en>Darivka</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="241">
+		<name>Дебальцево</name>
+		<name_en>Debaltseve</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3509">
+		<name>Демидовка</name>
+		<name_en>Demidovka</name_en>
+		<region>Ровенская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3601">
+		<name>Деражня</name>
+		<name_en>Derazhnia</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3564">
+		<name>Дергачи</name>
+		<name_en>Derhachi</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="39">
+		<name>Джанкой</name>
+		<name_en>Dzhankoy</name_en>
+		<region>Крым</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3229">
+		<name>Дзержинск</name>
+		<name_en>Dzerzhynsk</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3493">
+		<name>Диканька</name>
+		<name_en>Dikanka</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1169">
+		<name>Димитров</name>
+		<name_en>Dymytrov</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="123">
+		<name>Днепродзержинск</name>
+		<name_en>Dniprodzerzhynsk</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="16">
+		<name>Днепропетровск</name>
+		<name_en>Dnipropetrovsk</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3357">
+		<name>Добровеличковка</name>
+		<name_en>Dbrovelichkova</name_en>
+		<region>Кировоградская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3230">
+		<name>Доброполье</name>
+		<name_en>Dobropillia</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3231">
+		<name>Докучаевск</name>
+		<name_en>Dokuchaevsk</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13531">
+		<name>Долина</name>
+		<name_en>Dolyna</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3358">
+		<name>Долинская</name>
+		<name_en>Dolynska</name_en>
+		<region>Кировоградская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3451">
+		<name>Доманевка</name>
+		<name_en>Domanevka</name_en>
+		<region>Николаевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="7">
+		<name>Донецк</name>
+		<name_en>Donetsk</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3232">
+		<name>Донской</name>
+		<name_en>Donskoe</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3616">
+		<name>Драбов</name>
+		<name_en>Drabov</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="242">
+		<name>Дрогобыч</name>
+		<name_en>Drohobych</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="86698">
+		<name>Дрогобыч</name>
+		<name_en>Drogobych</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="161">
+		<name>Дружба</name>
+		<name_en>Druzhba</name_en>
+		<region>Сумская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1170">
+		<name>Дружковка</name>
+		<name_en>Druzhkivka</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3510">
+		<name>Дубно</name>
+		<name_en>Dubno</name_en>
+		<region>Ровенская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3511">
+		<name>Дубровица</name>
+		<name_en>Dubrovytsia</name_en>
+		<region>Ровенская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3602">
+		<name>Дунаевцы</name>
+		<name_en>Dunaivtsi</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="26">
+		<name>Евпатория</name>
+		<name_en>Eupatoria</name_en>
+		<region>Крым</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3452">
+		<name>Еланец</name>
+		<name_en>Elanec</name_en>
+		<region>Николаевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3264">
+		<name>Емильчино</name>
+		<name_en>Emilychino</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1171">
+		<name>Енакиево</name>
+		<name_en>Yenakiieve</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="243">
+		<name>Жашков</name>
+		<name_en>Zhashkiv</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13535">
+		<name>Ждановка</name>
+		<name_en>Zhdanivka</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1172">
+		<name>Железный порт</name>
+		<name_en>Zhelezniy port</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1173">
+		<name>Жёлтые Воды</name>
+		<name_en>Zhovti Vody</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3426">
+		<name>Жидачов</name>
+		<name_en>Gidacov</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3">
+		<name>Житомир</name>
+		<name_en>Zhytomyr</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="124">
+		<name>Жмеринка</name>
+		<name_en>Zhmerynka</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3427">
+		<name>Жовква</name>
+		<name_en>Zhovkva</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3541">
+		<name>Залещики</name>
+		<name_en>Zalischyky</name_en>
+		<region>Тернопольская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="17">
+		<name>Запорожье</name>
+		<name_en>Zaporizhia</name_en>
+		<region>Запорожская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3512">
+		<name>Заречное</name>
+		<name_en>Zarechnoe</name_en>
+		<region>Ровенская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1174">
+		<name>Заставна</name>
+		<name_en>Zastavna</name_en>
+		<region>Черновицкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1175">
+		<name>Затока</name>
+		<name_en>Zatoka</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3565">
+		<name>Зачепиловка</name>
+		<name_en>Zacepilovka</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="125">
+		<name>Збараж</name>
+		<name_en>Zbarazh</name_en>
+		<region>Тернопольская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3543">
+		<name>Зборов</name>
+		<name_en>Zboriv</name_en>
+		<region>Тернопольская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="244">
+		<name>Звенигородка</name>
+		<name_en>Zvenyhorodka</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3339">
+		<name>Згуровка</name>
+		<name_en>Zgurovka</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3513">
+		<name>Здолбунов</name>
+		<name_en>Zdolbuniv</name_en>
+		<region>Ровенская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3494">
+		<name>Зеньков</name>
+		<name_en>Zinkiv</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3566">
+		<name>Змиев</name>
+		<name_en>Zmiiv</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="114">
+		<name>Знаменка</name>
+		<name_en>Znamianka</name_en>
+		<region>Кировоградская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="74">
+		<name>Золотоноша</name>
+		<name_en>Zolotonosha</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3428">
+		<name>Золочев</name>
+		<name_en>Zolochiv</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3567">
+		<name>Золочев</name>
+		<name_en>Zolocev</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3236">
+		<name>Зуевка</name>
+		<name_en>Zuevka</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3167">
+		<name>Иваничи</name>
+		<name_en>Ivanichy</name_en>
+		<region>Волынская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3340">
+		<name>Иванков</name>
+		<name_en>Ivankov</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="32">
+		<name>Ивано-Франковск</name>
+		<name_en>Ivano-Frankivsk</name_en>
+		<region>Ивано-Франковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3429">
+		<name>Ивано-Франковск</name>
+		<name_en>Ivano-Frankovsk</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="63">
+		<name>Измаил</name>
+		<name_en>Izmail</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="112">
+		<name>Изюм</name>
+		<name_en>Izium</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3603">
+		<name>Изяслав</name>
+		<name_en>Iziaslav Ukraine</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3143">
+		<name>Ильинцы</name>
+		<name_en>Iliyncy</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="126">
+		<name>Ильичёвск</name>
+		<name_en>Illichivsk</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3193">
+		<name>Ингулец</name>
+		<name_en>Ingulec</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13430">
+		<name>Инкерман</name>
+		<name_en>Inkerman</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="127">
+		<name>Ирпень</name>
+		<name_en>Irpin</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3283">
+		<name>Иршава</name>
+		<name_en>Irshava</name_en>
+		<region>Закарпатская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3641">
+		<name>Ичня</name>
+		<name_en>Ichnia</name_en>
+		<region>Черниговская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3341">
+		<name>Кагарлык</name>
+		<name_en>Kaharlyk</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3453">
+		<name>Казанка</name>
+		<name_en>Kazanka</name_en>
+		<region>Николаевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1176">
+		<name>Казатин</name>
+		<name_en>Koziatyn</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3585">
+		<name>Каланчак</name>
+		<name_en>Kalanchak</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3144">
+		<name>Калиновка</name>
+		<name_en>Kalynivka</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1177">
+		<name>Калуш</name>
+		<name_en>Kalush</name_en>
+		<region>Ивано-Франковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="73">
+		<name>Каменец-Подольский</name>
+		<name_en>Kamianets-Podilskyi</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3620">
+		<name>Каменка</name>
+		<name_en>Kamianka</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3430">
+		<name>Каменка-Бугская</name>
+		<name_en>Kamianka-Buzka</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3295">
+		<name>Каменка-Днепровская</name>
+		<name_en>Kamianka-Dniprovska</name_en>
+		<region>Запорожская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1178">
+		<name>Камень-Каширский</name>
+		<name_en>Kamin-Kashyrskyi</name_en>
+		<region>Волынская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1179">
+		<name>Канев</name>
+		<name_en>Kaniv</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3495">
+		<name>Карловка</name>
+		<name_en>Karlivka</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3621">
+		<name>Катеринополь</name>
+		<name_en>Katerinopoy</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3587">
+		<name>Каховка</name>
+		<name_en>Kakhovka</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3109">
+		<name>Кача</name>
+		<name_en>Kacha</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3569">
+		<name>Кегичёвка</name>
+		<name_en>Kegicheka</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3659">
+		<name>Кельменцы</name>
+		<name_en>Kelymency</name_en>
+		<region>Черновицкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="41">
+		<name>Керчь</name>
+		<name_en>Kerch</name_en>
+		<region>Крым</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3168">
+		<name>Киверцы</name>
+		<name_en>Kivertsi</name_en>
+		<region>Волынская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="23">
+		<name>Киев</name>
+		<name_en>Kiev</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3470">
+		<name>Килия</name>
+		<name_en>Kiliya</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="245">
+		<name>Кирилловка</name>
+		<name_en>Kyrylivka</name_en>
+		<region>Запорожская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3298">
+		<name>Кирилловка</name>
+		<name_en>Kirillovka</name_en>
+		<region>Запорожская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="14">
+		<name>Кировоград</name>
+		<name_en>Kirovohrad</name_en>
+		<region>Кировоградская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3240">
+		<name>Кировск</name>
+		<name_en>Kirovsk</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3122">
+		<name>Кировское</name>
+		<name_en>Kirovske</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3660">
+		<name>Кицмань</name>
+		<name_en>Kitsman</name_en>
+		<region>Черновицкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="246">
+		<name>Клепинино</name>
+		<name_en>Klepynine</name_en>
+		<region>Крым</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="247">
+		<name>Кобеляки</name>
+		<name_en>Kobeliaky</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1180">
+		<name>Коблево</name>
+		<name_en>Koblevo</name_en>
+		<region>Николаевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="47">
+		<name>Ковель</name>
+		<name_en>Kovel</name_en>
+		<region>Волынская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3471">
+		<name>Кодыма</name>
+		<name_en>Kodyma</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3642">
+		<name>Козелец</name>
+		<name_en>Kozelec</name_en>
+		<region>Черниговская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3496">
+		<name>Козельщина</name>
+		<name_en>Kozelshina</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3344">
+		<name>Козин</name>
+		<name_en>Kozin</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3546">
+		<name>Козлов</name>
+		<name_en>Kozlov</name_en>
+		<region>Тернопольская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3547">
+		<name>Козова</name>
+		<name_en>Kozova</name_en>
+		<region>Тернопольская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3123">
+		<name>Коктебель</name>
+		<name_en>Koktebel</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3570">
+		<name>Коломак</name>
+		<name_en>Kolomak</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="56">
+		<name>Коломыя</name>
+		<name_en>Kolomyia</name_en>
+		<region>Ивано-Франковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3472">
+		<name>Коминтерновское</name>
+		<name_en>Kominternovskoe</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="248">
+		<name>Комиссаровка</name>
+		<name_en>Komisarivka</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3363">
+		<name>Компанеевка</name>
+		<name_en>Kompaneevka</name_en>
+		<region>Кировоградская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1181">
+		<name>Комсомольск</name>
+		<name_en>Komsomolsk</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1214">
+		<name>Комсомольский</name>
+		<name_en>Komsomolskiy</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="67">
+		<name>Конотоп</name>
+		<name_en>Konotop</name_en>
+		<region>Сумская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1182">
+		<name>Константиновка</name>
+		<name_en>Kostiantynivka</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13431">
+		<name>Кореиз</name>
+		<name_en>Koreiz</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3516">
+		<name>Корец</name>
+		<name_en>Korets</name_en>
+		<region>Ровенская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3643">
+		<name>Короп</name>
+		<name_en>Korop</name_en>
+		<region>Черниговская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1183">
+		<name>Коростень</name>
+		<name_en>Korosten</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3267">
+		<name>Коростышев</name>
+		<name_en>Korostyshiv</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3622">
+		<name>Корсунь-Шевченковский</name>
+		<name_en>Korsun-Shevchenkivskyi</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3644">
+		<name>Корюковка</name>
+		<name_en>Koriukivka</name_en>
+		<region>Черниговская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1184">
+		<name>Косов</name>
+		<name_en>Kosiv</name_en>
+		<region>Ивано-Франковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3517">
+		<name>Костополь</name>
+		<name_en>Kostopil</name_en>
+		<region>Ровенская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3497">
+		<name>Котельва</name>
+		<name_en>Kotelyva</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3473">
+		<name>Котовск</name>
+		<name_en>Kotovsk</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="128">
+		<name>Краматорск</name>
+		<name_en>Kramatorsk</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3604">
+		<name>Красилов</name>
+		<name_en>Krasyliv</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="51">
+		<name>Красноармейск</name>
+		<name_en>Krasnoarmiisk</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3124">
+		<name>Красногвардейское</name>
+		<name_en>Krasnogvardeyiskoe</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="113">
+		<name>Красноград</name>
+		<name_en>Krasnohrad</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1185">
+		<name>Краснодон</name>
+		<name_en>Krasnodon</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3571">
+		<name>Краснокутск</name>
+		<name_en>Krasnokutsk</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3125">
+		<name>Красноперекопск</name>
+		<name_en>Krasnoperekopsk</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3527">
+		<name>Краснополье</name>
+		<name_en>Krasnopolye</name_en>
+		<region>Сумская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3474">
+		<name>Красные Окны</name>
+		<name_en>Krasnye Okny</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3241">
+		<name>Красный Лиман</name>
+		<name_en>Krasnyi Lyman</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="129">
+		<name>Красный Луч</name>
+		<name_en>Krasnyi Luch</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="249">
+		<name>Кременец</name>
+		<name_en>Kremenets</name_en>
+		<region>Тернопольская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3402">
+		<name>Кременная</name>
+		<name_en>Kremennaia</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="64">
+		<name>Кременчуг</name>
+		<name_en>Kremenchuk</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3454">
+		<name>Кривое Озеро</name>
+		<name_en>Krivoe Ozero</name_en>
+		<region>Николаевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="29">
+		<name>Кривой Рог</name>
+		<name_en>Kryvyi Rih</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3196">
+		<name>Кринички</name>
+		<name_en>Krinichky</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3528">
+		<name>Кролевец</name>
+		<name_en>Krolevets</name_en>
+		<region>Сумская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1186">
+		<name>Кузнецовск</name>
+		<name_en>Kuznetsovsk</name_en>
+		<region>Ривненская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3299">
+		<name>Куйбышево</name>
+		<name_en>Kuibishevo</name_en>
+		<region>Запорожская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3645">
+		<name>Куликовка</name>
+		<name_en>Kulikova</name_en>
+		<region>Черниговская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="250">
+		<name>Купянск</name>
+		<name_en>Kupiansk</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13539">
+		<name>Ладыжин</name>
+		<name_en>Ladyzhyn</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1187">
+		<name>Лазурное</name>
+		<name_en>Lazurnoe</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3548">
+		<name>Лановцы</name>
+		<name_en>Lanivtsi</name_en>
+		<region>Тернопольская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3529">
+		<name>Лебедин</name>
+		<name_en>Lebedyn</name_en>
+		<region>Сумская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3126">
+		<name>Ленино</name>
+		<name_en>Lenino</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3605">
+		<name>Летичев</name>
+		<name_en>Letychiv</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13432">
+		<name>Ливадия</name>
+		<name_en>Livadiya</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3530">
+		<name>Липовая Долина</name>
+		<name_en>Lipovaia Dolina</name_en>
+		<region>Сумская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3147">
+		<name>Липовец</name>
+		<name_en>Lipovec</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="130">
+		<name>Лисичанск</name>
+		<name_en>Lysychansk</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3148">
+		<name>Литин</name>
+		<name_en>Litin</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="251">
+		<name>Лозовая</name>
+		<name_en>Lozova</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3169">
+		<name>Локачи</name>
+		<name_en>Lokachy</name_en>
+		<region>Волынская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3498">
+		<name>Лохвица</name>
+		<name_en>Lokhvytsia</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="65">
+		<name>Лубны</name>
+		<name_en>Lubny</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="31">
+		<name>Луганск</name>
+		<name_en>Luhansk</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3268">
+		<name>Лугины</name>
+		<name_en>Luginy</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3403">
+		<name>Лутугино</name>
+		<name_en>Lutuhyne</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="28">
+		<name>Луцк</name>
+		<name_en>Lutsk</name_en>
+		<region>Волынская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3624">
+		<name>Лысянка</name>
+		<name_en>Lisianka</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="15">
+		<name>Львов</name>
+		<name_en>Lviv</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3269">
+		<name>Любар</name>
+		<name_en>Liubar</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="162">
+		<name>Любашевка</name>
+		<name_en>Liubashivka</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3475">
+		<name>Любашевка</name>
+		<name_en>Liubashovka</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3170">
+		<name>Любешов</name>
+		<name_en>Liubeshov</name_en>
+		<region>Волынская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3171">
+		<name>Любомль</name>
+		<name_en>Liuboml</name_en>
+		<region>Волынская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3572">
+		<name>Люботин</name>
+		<name_en>Liubotyn</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3197">
+		<name>Магдалиновка</name>
+		<name_en>Magdalinovka</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3345">
+		<name>Макаров</name>
+		<name_en>Makarov</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="131">
+		<name>Макеевка</name>
+		<name_en>Makiivka</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3364">
+		<name>Малая Виска</name>
+		<name_en>Mala Vyska</name_en>
+		<region>Кировоградская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3270">
+		<name>Малин</name>
+		<name_en>Malyn</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3242">
+		<name>Мангуш</name>
+		<name_en>Mangush</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3172">
+		<name>Маневичи</name>
+		<name_en>Manevichy</name_en>
+		<region>Волынская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3625">
+		<name>Маньковка</name>
+		<name_en>Manykovka</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="132">
+		<name>Марганец</name>
+		<name_en>Marhanets</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="20">
+		<name>Мариуполь</name>
+		<name_en>Mariupol</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3404">
+		<name>Марковка</name>
+		<name_en>Markovka</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3243">
+		<name>Марьинка</name>
+		<name_en>Maryinka</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3127">
+		<name>Массандра</name>
+		<name_en>Massandra</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3499">
+		<name>Машевка</name>
+		<name_en>Mashevka</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3284">
+		<name>Межгорье</name>
+		<name_en>Mezgorie</name_en>
+		<region>Закарпатская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3198">
+		<name>Межевая</name>
+		<name_en>Megevaya</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="55">
+		<name>Мелитополь</name>
+		<name_en>Melitopol</name_en>
+		<region>Запорожская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3405">
+		<name>Меловое</name>
+		<name_en>Melovoe</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3646">
+		<name>Мена</name>
+		<name_en>Mena</name_en>
+		<region>Черниговская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="163">
+		<name>Мерефа</name>
+		<name_en>Merefa</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="133">
+		<name>Миргород</name>
+		<name_en>Myrhorod</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="165">
+		<name>Мироновка</name>
+		<name_en>Myronivka</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3300">
+		<name>Михайловка</name>
+		<name_en>Mihailovka</name_en>
+		<region>Запорожская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3518">
+		<name>Млинов</name>
+		<name_en>Mlinov</name_en>
+		<region>Ровенская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="164">
+		<name>Могилёв-Подольский</name>
+		<name_en>Mohyliv-Podilskyi</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13543">
+		<name>Молодогвардейск</name>
+		<name_en>Molodohvardiysk</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13545">
+		<name>Молочанск</name>
+		<name_en>Molochansk</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3549">
+		<name>Монастыриска</name>
+		<name_en>Monastyryska</name_en>
+		<region>Тернопольская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3626">
+		<name>Монастырище</name>
+		<name_en>Monastyrysche</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1188">
+		<name>Моршин</name>
+		<name_en>Morshyn</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3431">
+		<name>Мостиска</name>
+		<name_en>Mostyska</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="134">
+		<name>Мукачево</name>
+		<name_en>Mukachevo</name_en>
+		<region>Закарпатская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3324">
+		<name>Надворная</name>
+		<name_en>Nadvornaia</name_en>
+		<region>Ивано-Франковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3271">
+		<name>Народичи</name>
+		<name_en>Narodichy</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3531">
+		<name>Недригайлов</name>
+		<name_en>Nedrigailov</name_en>
+		<region>Сумская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="77">
+		<name>Нежин</name>
+		<name_en>Nizhyn</name_en>
+		<region>Черниговская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3150">
+		<name>Немиров</name>
+		<name_en>Nemyriv</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1189">
+		<name>Нетешин</name>
+		<name_en>Netishyn</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3128">
+		<name>Нижнегорский</name>
+		<name_en>Nignegorskiy</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3588">
+		<name>Нижние Серогозы</name>
+		<name_en>Nignye Serogzy</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="11">
+		<name>Николаев</name>
+		<name_en>Mykolaiv</name_en>
+		<region>Николаевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13549">
+		<name>Николаев</name>
+		<name_en>Mykolaiv</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3476">
+		<name>Николаевка</name>
+		<name_en>Nikolaevka</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="48">
+		<name>Никополь</name>
+		<name_en>Nikopol</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3573">
+		<name>Новая Водолага</name>
+		<name_en>Novaya Vodolaga</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="72">
+		<name>Новая Каховка</name>
+		<name_en>Nova Kakhovka</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3455">
+		<name>Новая Одесса</name>
+		<name_en>Nova Odesa</name_en>
+		<region>Николаевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="252">
+		<name>Новая Ушица</name>
+		<name_en>Nova-ushytsia</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13551">
+		<name>Новгород-Северский</name>
+		<name_en>Novhorod-Siverskyi</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3365">
+		<name>Новгородка</name>
+		<name_en>Novgorodka</name_en>
+		<region>Кировоградская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3244">
+		<name>Новоазовск</name>
+		<name_en>Novoazovsk</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3406">
+		<name>Новоайдар</name>
+		<name_en>Novoaidar</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3366">
+		<name>Новоархангельск</name>
+		<name_en>Novoarhangelysk</name_en>
+		<region>Кировоградская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="135">
+		<name>Нововолынск</name>
+		<name_en>Novovolynsk</name_en>
+		<region>Волынская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3589">
+		<name>Нововоронцовка</name>
+		<name_en>Novovoroncovka</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="52">
+		<name>Новоград-Волынский</name>
+		<name_en>Novohrad-Volynskyi</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13553">
+		<name>Новогродовка</name>
+		<name_en>Novohrodivka</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3661">
+		<name>Новоднестровск</name>
+		<name_en>Novodnistrovsk</name_en>
+		<region>Черновицкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="253">
+		<name>Новомиргород</name>
+		<name_en>Novomyrhorod</name_en>
+		<region>Кировоградская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1190">
+		<name>Новомосковск</name>
+		<name_en>Novomoskovsk</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3301">
+		<name>Новониколаевка</name>
+		<name_en>Novonikolaevka</name_en>
+		<region>Запорожская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3407">
+		<name>Новопсков</name>
+		<name_en>Novopskov</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1191">
+		<name>Новоселица</name>
+		<name_en>Novoselytsia</name_en>
+		<region>Черновицкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3590">
+		<name>Новотроицкое</name>
+		<name_en>Novotroickoe</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3367">
+		<name>Новоукраинка</name>
+		<name_en>Novoukrainka</name_en>
+		<region>Кировоградская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3500">
+		<name>Новые Санжары</name>
+		<name_en>Novye Sangary</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3456">
+		<name>Новый Буг</name>
+		<name_en>Novyi Buh</name_en>
+		<region>Николаевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3648">
+		<name>Носовка</name>
+		<name_en>Nosivka</name_en>
+		<region>Черниговская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3347">
+		<name>Обухов</name>
+		<name_en>Obukhiv</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3477">
+		<name>Овидиополь</name>
+		<name_en>Ovidiopoly</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="53">
+		<name>Овруч</name>
+		<name_en>Ovruch</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="25">
+		<name>Одесса</name>
+		<name_en>Odessa</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="254">
+		<name>Олевск</name>
+		<name_en>Olevsk</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3368">
+		<name>Ольшанка</name>
+		<name_en>Olyshanka</name_en>
+		<region>Кировоградская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3369">
+		<name>Онуфриевка</name>
+		<name_en>Onufrievka</name_en>
+		<region>Кировоградская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3151">
+		<name>Оратов</name>
+		<name_en>Oratov</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3199">
+		<name>Орджоникидзе</name>
+		<name_en>Ordzhonikidze</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3302">
+		<name>Орехов</name>
+		<name_en>Orikhiv</name_en>
+		<region>Запорожская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3501">
+		<name>Оржица</name>
+		<name_en>Orgica</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3519">
+		<name>Острог</name>
+		<name_en>Ostrog</name_en>
+		<region>Ровенская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1192">
+		<name>Очаков</name>
+		<name_en>Ochakiv</name_en>
+		<region>Николаевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="49">
+		<name>Павлоград</name>
+		<name_en>Pavlohrad</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13433">
+		<name>Партенит</name>
+		<name_en>Partenid</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="115">
+		<name>Первомайск</name>
+		<name_en>Pervomaisk</name_en>
+		<region>Николаевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13557">
+		<name>Первомайск</name>
+		<name_en>Pervomaisk</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3574">
+		<name>Первомайский</name>
+		<name_en>Pervomaiskyi</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3129">
+		<name>Первомайское</name>
+		<name_en>Pervomaiskoe</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3408">
+		<name>Перевальск</name>
+		<name_en>Perevalsk</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3433">
+		<name>Перемышляны</name>
+		<name_en>Pereishliany</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3285">
+		<name>Перечин</name>
+		<name_en>Perechyn</name_en>
+		<region>Закарпатская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3348">
+		<name>Переяслав-Хмельницкий</name>
+		<name_en>Pereiaslav-Khmelnytskyi</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3200">
+		<name>Першотравенск</name>
+		<name_en>Pershotravensk</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3370">
+		<name>Петрово</name>
+		<name_en>Petrovo</name_en>
+		<region>Кировоградская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13561">
+		<name>Петровское</name>
+		<name_en>Petrovske</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3201">
+		<name>Петропавловка</name>
+		<name_en>Petropavlovka</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1193">
+		<name>Пирятин</name>
+		<name_en>Pyriatyn</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3153">
+		<name>Погребище</name>
+		<name_en>Pohrebysche</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3550">
+		<name>Подволочиск</name>
+		<name_en>Podvolochinsk</name_en>
+		<region>Тернопольская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13563">
+		<name>Подгайцы</name>
+		<name_en>Pidhaitsi</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="136">
+		<name>Подобовец</name>
+		<name_en>Podobovec</name_en>
+		<region>Закарпатская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3202">
+		<name>Покровское</name>
+		<name_en>Pokrovskoe</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3349">
+		<name>Полесское</name>
+		<name_en>Polesskoe</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3303">
+		<name>Пологи</name>
+		<name_en>Polohy</name_en>
+		<region>Запорожская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3606">
+		<name>Полонное</name>
+		<name_en>Polonne</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1">
+		<name>Полтава</name>
+		<name_en>Poltava</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3409">
+		<name>Попасная</name>
+		<name_en>Popasna</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3272">
+		<name>Попельня</name>
+		<name_en>Popelynya</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13565">
+		<name>Почаев</name>
+		<name_en>Pochaiv</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3304">
+		<name>Приазовское</name>
+		<name_en>Priazovskoe</name_en>
+		<region>Запорожская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="78">
+		<name>Прилуки</name>
+		<name_en>Pryluky</name_en>
+		<region>Черниговская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1195">
+		<name>Приморск</name>
+		<name_en>Prymorsk</name_en>
+		<region>Запорожская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13569">
+		<name>Припять</name>
+		<name_en>Prypiat</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3434">
+		<name>Пустомыты</name>
+		<name_en>Pustomyty</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3532">
+		<name>Путивль</name>
+		<name_en>Putyvl</name_en>
+		<region>Сумская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3662">
+		<name>Путила</name>
+		<name_en>Putila</name_en>
+		<region>Черновицкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3203">
+		<name>Пятихатки</name>
+		<name_en>Piatykhatky</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="61">
+		<name>Рава-Русская</name>
+		<name_en>Rava-Ruska</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3435">
+		<name>Рава-Русская</name>
+		<name_en>Rava-Russkaya</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3436">
+		<name>Радехов</name>
+		<name_en>Radekhiv</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13571">
+		<name>Радивилов</name>
+		<name_en>Radyvyliv</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3273">
+		<name>Радомышль</name>
+		<name_en>Radomyshl</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3478">
+		<name>Раздельная</name>
+		<name_en>Razdelnaya</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3130">
+		<name>Раздольное</name>
+		<name_en>Razdolnoe</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3350">
+		<name>Ракитное</name>
+		<name_en>Rakitnoe</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3173">
+		<name>Ратно</name>
+		<name_en>Ratno</name_en>
+		<region>Волынская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="255">
+		<name>Рахов</name>
+		<name_en>Rakhiv</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1196">
+		<name>Рени</name>
+		<name_en>Reni</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3649">
+		<name>Репки</name>
+		<name_en>Repky</name_en>
+		<region>Черниговская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3502">
+		<name>Решетиловка</name>
+		<name_en>Reshetilovka</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13573">
+		<name>Ржищев</name>
+		<name_en>Rzhyschiv</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1197">
+		<name>Ровеньки</name>
+		<name_en>Rovenky</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="6">
+		<name>Ровно</name>
+		<name_en>Rivne</name_en>
+		<region>Ривненская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3325">
+		<name>Рогатин</name>
+		<name_en>Rohatyn</name_en>
+		<region>Ивано-Франковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3174">
+		<name>Рожище</name>
+		<name_en>Rozhysche</name_en>
+		<region>Волынская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3326">
+		<name>Рожнятов</name>
+		<name_en>Rozniakov</name_en>
+		<region>Ивано-Франковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="257">
+		<name>Ромны</name>
+		<name_en>Romny</name_en>
+		<region>Сумская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1198">
+		<name>Рубежное</name>
+		<name_en>Rubizhne</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3274">
+		<name>Ружин</name>
+		<name_en>Rugin</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3479">
+		<name>Саврань</name>
+		<name_en>Savrany</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="58">
+		<name>Саки</name>
+		<name_en>Saky</name_en>
+		<region>Крым</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3437">
+		<name>Самбор</name>
+		<name_en>Sambir</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3480">
+		<name>Сарата</name>
+		<name_en>Sarata</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="66">
+		<name>Сарны</name>
+		<name_en>Sarny</name_en>
+		<region>Ривненская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3575">
+		<name>Сахновщина</name>
+		<name_en>Sahnovshina</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1199">
+		<name>Свалява</name>
+		<name_en>Svaliava</name_en>
+		<region>Закарпатская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3410">
+		<name>Сватово</name>
+		<name_en>Svatove</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1200">
+		<name>Свердловск</name>
+		<name_en>Sverdlovsk</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="57">
+		<name>Светловодск</name>
+		<name_en>Svitlovodsk</name_en>
+		<region>Кировоградская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="273">
+		<name>Свитязь</name>
+		<name_en>Svitjaz</name_en>
+		<region>Волынская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="22">
+		<name>Севастополь</name>
+		<name_en>Sevastopol</name_en>
+		<region>Крым</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1201">
+		<name>Северодонецк</name>
+		<name_en>Sievierodonetsk</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3248">
+		<name>Селидово</name>
+		<name_en>Selydove</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="258">
+		<name>Семёновка</name>
+		<name_en>Semenivka</name_en>
+		<region>Черниговская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1202">
+		<name>Сергеевка</name>
+		<name_en>Sergeevka</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3533">
+		<name>Середина-Буда</name>
+		<name_en>Seredyna-Buda</name_en>
+		<region>Сумская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3131">
+		<name>Симеиз</name>
+		<name_en>Simeiz</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="24">
+		<name>Симферополь</name>
+		<name_en>Simferopol</name_en>
+		<region>Крым</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3204">
+		<name>Синельниково</name>
+		<name_en>Synelnykove</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="137">
+		<name>Синяк</name>
+		<name_en>Syniak</name_en>
+		<region>Закарпатская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1203">
+		<name>Скадовск</name>
+		<name_en>Skadovsk</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1204">
+		<name>Скалат</name>
+		<name_en>Skalat</name_en>
+		<region>Тернопольская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3351">
+		<name>Сквира</name>
+		<name_en>Skvyra</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="62">
+		<name>Сколе</name>
+		<name_en>Skole</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="138">
+		<name>Славское</name>
+		<name_en>Slavske</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3608">
+		<name>Славута</name>
+		<name_en>Slavuta</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1205">
+		<name>Славутич</name>
+		<name_en>Slavutych</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3411">
+		<name>Славяносербск</name>
+		<name_en>Slavianoserbsk</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="139">
+		<name>Славянск</name>
+		<name_en>Sloviansk</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="75">
+		<name>Смела</name>
+		<name_en>Smila Ukraine</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1206">
+		<name>Снежное</name>
+		<name_en>Snizhne</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3327">
+		<name>Снятын</name>
+		<name_en>Sniatyn</name_en>
+		<region>Ивано-Франковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3132">
+		<name>Советский</name>
+		<name_en>Sovetskiy</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3438">
+		<name>Сокаль</name>
+		<name_en>Sokal</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3663">
+		<name>Сокиряны</name>
+		<name_en>Sokyriany</name_en>
+		<region>Черновицкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13605">
+		<name>Соледар</name>
+		<name_en>Soledar</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3650">
+		<name>Сосница</name>
+		<name_en>Sosnica</name_en>
+		<region>Черниговская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3352">
+		<name>Ставище</name>
+		<name_en>Stavishe</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3412">
+		<name>Станично-Луганское</name>
+		<name_en>Stanichno-Luganskoe</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3175">
+		<name>Старая Выжевка</name>
+		<name_en>Staraya Vigevka</name_en>
+		<region>Волынская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3609">
+		<name>Старая Синява</name>
+		<name_en>Staraya Siniava</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3413">
+		<name>Старобельск</name>
+		<name_en>Starobilsk</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3249">
+		<name>Старобешево</name>
+		<name_en>Starobeshevo</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3610">
+		<name>Староконстантинов</name>
+		<name_en>Starokostiantyniv</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13607">
+		<name>Старый Крым</name>
+		<name_en>Staryi Krym</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3439">
+		<name>Старый Самбор</name>
+		<name_en>Staryi Sambir</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="141">
+		<name>Стаханов</name>
+		<name_en>Stakhanov Ukraine</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1207">
+		<name>Сторожинец</name>
+		<name_en>Storozhynets</name_en>
+		<region>Черновицкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="140">
+		<name>Стрый</name>
+		<name_en>Stryi</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3440">
+		<name>Стрый</name>
+		<name_en>Striy</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="59">
+		<name>Судак</name>
+		<name_en>Sudak</name_en>
+		<region>Крым</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="4">
+		<name>Сумы</name>
+		<name_en>Sumy</name_en>
+		<region>Сумская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13613">
+		<name>Счастье</name>
+		<name_en>Shchastia</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13593">
+		<name>Таврийск</name>
+		<name_en>Tavriisk</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3652">
+		<name>Талалаевка</name>
+		<name_en>Talalaevka</name_en>
+		<region>Черниговская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3627">
+		<name>Тальное</name>
+		<name_en>Talne</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3353">
+		<name>Тараща</name>
+		<name_en>Tarascha</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3481">
+		<name>Тарутино</name>
+		<name_en>Tarutino</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3482">
+		<name>Татарбунары</name>
+		<name_en>Tatarbunary</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3250">
+		<name>Тельманово</name>
+		<name_en>Telymanovo</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3611">
+		<name>Теофиполь</name>
+		<name_en>Teofipoly</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3155">
+		<name>Теплик</name>
+		<name_en>Teplik</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13595">
+		<name>Теплогорск</name>
+		<name_en>Teplohirsk</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13597">
+		<name>Теплодар</name>
+		<name_en>Teplodar</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3551">
+		<name>Теребовля</name>
+		<name_en>Terebovlia</name_en>
+		<region>Тернопольская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13599">
+		<name>Терновка</name>
+		<name_en>Ternivka</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13">
+		<name>Тернополь</name>
+		<name_en>Ternopil</name_en>
+		<region>Тернопольская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="260">
+		<name>Тетерев</name>
+		<name_en>Teteriv</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3354">
+		<name>Тетиев</name>
+		<name_en>Tetiiv</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3328">
+		<name>Тлумач</name>
+		<name_en>Tlumach</name_en>
+		<region>Ивано-Франковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3306">
+		<name>Токмак</name>
+		<name_en>Tokmak</name_en>
+		<region>Запорожская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3206">
+		<name>Томаковка</name>
+		<name_en>Tomakova</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3156">
+		<name>Томашполь</name>
+		<name_en>Tmashpoly</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1208">
+		<name>Торез</name>
+		<name_en>Torez</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3414">
+		<name>Троицкое</name>
+		<name_en>Troichkoe</name_en>
+		<region>Луганская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3157">
+		<name>Тростянец</name>
+		<name_en>Trostianec</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3205">
+		<name>Трохимброд</name>
+		<name_en>Sofievka</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="142">
+		<name>Трускавец</name>
+		<name_en>Truskavets</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3158">
+		<name>Тульчин</name>
+		<name_en>Tulchyn</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3176">
+		<name>Турийск</name>
+		<name_en>Turiysk</name_en>
+		<region>Волынская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="261">
+		<name>Турка</name>
+		<name_en>Turka</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3286">
+		<name>Тячев</name>
+		<name_en>Tiachiv</name_en>
+		<region>Закарпатская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13585">
+		<name>Угледар</name>
+		<name_en>Vuhledar</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="30">
+		<name>Ужгород</name>
+		<name_en>Uzhhorod</name_en>
+		<region>Закарпатская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="13434">
+		<name>Украинка</name>
+		<name_en>Ukrainka</name_en>
+		<region></region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3371">
+		<name>Ульяновка</name>
+		<name_en>Ulyanovka</name_en>
+		<region>Кировоградская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="76">
+		<name>Умань</name>
+		<name_en>Uman</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3372">
+		<name>Устиновка</name>
+		<name_en>Ustinovka</name_en>
+		<region>Кировоградская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1211">
+		<name>Фастов</name>
+		<name_en>Fastiv</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="43">
+		<name>Феодосия</name>
+		<name_en>Feodosiya</name_en>
+		<region>Крым</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="143">
+		<name>Форос</name>
+		<name_en>Foros</name_en>
+		<region>Крым</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3483">
+		<name>Фрунзовка</name>
+		<name_en>Frunzovka</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3251">
+		<name>Харцызск</name>
+		<name_en>Khartsyzk</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="19">
+		<name>Харьков</name>
+		<name_en>Kharkiv</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="8">
+		<name>Херсон</name>
+		<name_en>Kherson</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="262">
+		<name>Хмельник</name>
+		<name_en>Khmilnyk</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="12">
+		<name>Хмельницкий</name>
+		<name_en>Khmelnytskyi</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3503">
+		<name>Хорол</name>
+		<name_en>Khorol</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="144">
+		<name>Хотин</name>
+		<name_en>Khotyn</name_en>
+		<region>Черновицкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3628">
+		<name>Христиновка</name>
+		<name_en>Khrystynivka</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="263">
+		<name>Хуст</name>
+		<name_en>Khust</name_en>
+		<region>Закарпатская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3207">
+		<name>Царичанка</name>
+		<name_en>Carichanka</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3591">
+		<name>Цюрупинск</name>
+		<name_en>Tsiurupynsk</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3592">
+		<name>Чаплинка</name>
+		<name_en>Caplinka</name_en>
+		<region>Херсонская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="264">
+		<name>Чаплино</name>
+		<name_en>Chaplyno</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3612">
+		<name>Чемеровцы</name>
+		<name_en>Chemerovcy</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3275">
+		<name>Червоноармейск</name>
+		<name_en>Chernoarmeysk</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="145">
+		<name>Червоноград</name>
+		<name_en>Chervonohrad</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="2">
+		<name>Черкассы</name>
+		<name_en>Cherkasy</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="5">
+		<name>Чернигов</name>
+		<name_en>Chernihiv</name_en>
+		<region>Черниговская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3307">
+		<name>Черниговка</name>
+		<name_en>Chernigovka</name_en>
+		<region>Запорожская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3629">
+		<name>Чернобай</name>
+		<name_en>Chernobay</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="36">
+		<name>Чернобыль</name>
+		<name_en>Chernobyl</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="9">
+		<name>Черновцы</name>
+		<name_en>Chernivtsi</name_en>
+		<region>Черновицкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="44">
+		<name>Черноморское</name>
+		<name_en>Chornomorske</name_en>
+		<region>Крым</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3504">
+		<name>Чернухи</name>
+		<name_en>Chernuhy</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3276">
+		<name>Черняхов</name>
+		<name_en>Cherniahov</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3160">
+		<name>Чечельник</name>
+		<name_en>Chechelnik</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="265">
+		<name>Чигирин</name>
+		<name_en>Chyhyryn</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3287">
+		<name>Чоп</name>
+		<name_en>Chop</name_en>
+		<region>Закарпатская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="266">
+		<name>Чортков</name>
+		<name_en>Chortkiv</name_en>
+		<region>Тернопольская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3552">
+		<name>Чортков</name>
+		<name_en>Cortkov</name_en>
+		<region>Тернопольская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="166">
+		<name>Чугуев</name>
+		<name_en>Chuhuiv</name_en>
+		<region>Ивано-Франковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3277">
+		<name>Чуднов</name>
+		<name_en>Chudnov</name_en>
+		<region>Житомирская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3505">
+		<name>Чутово</name>
+		<name_en>Chutovo</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3161">
+		<name>Шаргород</name>
+		<name_en>Sharhorod</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="146">
+		<name>Шахтёрск</name>
+		<name_en>Shakhtarsk</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3576">
+		<name>Шевченково</name>
+		<name_en>Shevchenkove</name_en>
+		<region>Харьковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="167">
+		<name>Шепетовка</name>
+		<name_en>Shepetivka</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3208">
+		<name>Широкое</name>
+		<name_en>Shirikoe</name_en>
+		<region>Днепропетровская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3484">
+		<name>Ширяево</name>
+		<name_en>Shiriaevo</name_en>
+		<region>Одесская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3506">
+		<name>Шишаки</name>
+		<name_en>Shishaky</name_en>
+		<region>Полтавская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="147">
+		<name>Шостка</name>
+		<name_en>Shostka</name_en>
+		<region>Сумская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3630">
+		<name>Шпола</name>
+		<name_en>Shpola</name_en>
+		<region>Черкасская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3553">
+		<name>Шумск</name>
+		<name_en>Shumsk</name_en>
+		<region>Тернопольская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="1213">
+		<name>Щёлкино</name>
+		<name_en>Shcholkine</name_en>
+		<region>Крым</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="79">
+		<name>Щорс</name>
+		<name_en>Schors</name_en>
+		<region>Черниговская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="148">
+		<name>Энергодар</name>
+		<name_en>Enerhodar</name_en>
+		<region>Запорожская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="149">
+		<name>Южноукраинск</name>
+		<name_en>Yuzhnoukrainsk</name_en>
+		<region>Николаевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3442">
+		<name>Яворов</name>
+		<name_en>Yavoriv</name_en>
+		<region>Львовская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="37">
+		<name>Яготин</name>
+		<name_en>Yahotyn</name_en>
+		<region>Киевская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="21">
+		<name>Ялта</name>
+		<name_en>Yalta</name_en>
+		<region>Крым</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3162">
+		<name>Ямполь</name>
+		<name_en>Yampil Vinnytsia Oblast</name_en>
+		<region>Винницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="150">
+		<name>Яремча</name>
+		<name_en>Yaremche</name_en>
+		<region>Ивано-Франковская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3613">
+		<name>Ярмолинцы</name>
+		<name_en>Iarmolincy</name_en>
+		<region>Хмельницкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="3252">
+		<name>Ясиноватая</name>
+		<name_en>Yasynuvata</name_en>
+		<region>Донецкая область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+	<city id="54">
+		<name>Ясиня</name>
+		<name_en>Yasnya</name_en>
+		<region>Закарпатская область</region>
+		<country>Украина</country>
+		<country_id>804</country_id>
+	</city>
+</city>
