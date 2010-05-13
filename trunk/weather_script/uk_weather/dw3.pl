@@ -159,7 +159,7 @@ if (defined $opt_T) {
 
 if (defined $opt_l) {
     my $search = shift;
-    my $s_url='http://weather.co.ua/xml/feed.xml?mode=city&search='.$search;
+    my $s_url='http://xml.weather.co.ua/1.2/city/?search='.$search;
     my $response = get $s_url; 
     die unless defined $response;
     my $xml = XMLin($response,forcearray=>1);
@@ -186,7 +186,7 @@ if (defined $opt_d) {
 
  my $locid = shift;
  if (!(defined $opt_u && defined $locid && !$locid eq "")) {
-    die "Invalid usage - sample ./dwua_xml -u SI 16 ";
+    die "Invalid usage - sample ./dw3 -u SI 16 ";
  }
  else 
  {
