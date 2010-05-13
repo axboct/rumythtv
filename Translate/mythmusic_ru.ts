@@ -4,27 +4,27 @@
 <context>
     <name>AlbumArtImages</name>
     <message>
-        <location filename="../mythmusic/metadata.cpp" line="1590"/>
+        <location filename="../mythmusic/metadata.cpp" line="1623"/>
         <source>Unknown</source>
-        <translation>Неизвестно</translation>
+        <translation type="unfinished">Неизвестно</translation>
     </message>
     <message>
-        <location filename="../mythmusic/metadata.cpp" line="1591"/>
+        <location filename="../mythmusic/metadata.cpp" line="1624"/>
         <source>Front Cover</source>
-        <translation>Обложка</translation>
+        <translation type="unfinished">Обложка</translation>
     </message>
     <message>
-        <location filename="../mythmusic/metadata.cpp" line="1592"/>
+        <location filename="../mythmusic/metadata.cpp" line="1625"/>
         <source>Back Cover</source>
-        <translation>Обратная сторона</translation>
+        <translation type="unfinished">Обратная сторона</translation>
     </message>
     <message>
-        <location filename="../mythmusic/metadata.cpp" line="1593"/>
+        <location filename="../mythmusic/metadata.cpp" line="1626"/>
         <source>CD</source>
         <translation>CD</translation>
     </message>
     <message>
-        <location filename="../mythmusic/metadata.cpp" line="1594"/>
+        <location filename="../mythmusic/metadata.cpp" line="1627"/>
         <source>Inlay</source>
         <translation>Inlay</translation>
     </message>
@@ -84,27 +84,27 @@
         <location filename="../mythmusic/databasebox.cpp" line="358"/>
         <location filename="../mythmusic/databasebox.cpp" line="378"/>
         <source>CD Created</source>
-        <translation>CD создан</translation>
+        <translation type="unfinished">CD создан</translation>
     </message>
     <message>
         <location filename="../mythmusic/databasebox.cpp" line="434"/>
         <source>CD-RW Blanking Progress</source>
-        <translation>Прогресс очистки CD-RW</translation>
+        <translation type="unfinished">Прогресс очистки CD-RW</translation>
     </message>
     <message>
         <location filename="../mythmusic/databasebox.cpp" line="659"/>
         <source>Compilation Artist:	</source>
-        <translation>Исполнители сборника:	</translation>
+        <translation type="unfinished">Исполнитель сборника:	</translation>
     </message>
     <message>
         <location filename="../mythmusic/databasebox.cpp" line="664"/>
         <source>Artist:	</source>
-        <translation>Исполнитель:	</translation>
+        <translation type="unfinished">Исполнитель:	</translation>
     </message>
     <message>
         <location filename="../mythmusic/databasebox.cpp" line="668"/>
         <source>Album:	</source>
-        <translation>Альбом:	</translation>
+        <translation type="unfinished">Альбом:	</translation>
     </message>
     <message>
         <location filename="../mythmusic/databasebox.cpp" line="672"/>
@@ -119,7 +119,7 @@
     <message>
         <location filename="../mythmusic/databasebox.cpp" line="695"/>
         <source>Genre: </source>
-        <translation>Жанр: </translation>
+        <translation type="unfinished">Жанр: </translation>
     </message>
     <message>
         <location filename="../mythmusic/databasebox.cpp" line="820"/>
@@ -129,17 +129,17 @@
     <message>
         <location filename="../mythmusic/databasebox.cpp" line="823"/>
         <source>Delete This Playlist</source>
-        <translation>Удалить плейлист</translation>
+        <translation type="unfinished">Удалить этот плейлист</translation>
     </message>
     <message>
         <location filename="../mythmusic/databasebox.cpp" line="830"/>
         <source>Rename This Playlist</source>
-        <translation>Переименовать плейлист</translation>
+        <translation type="unfinished">Переименовать этот плейлист</translation>
     </message>
     <message>
         <location filename="../mythmusic/databasebox.cpp" line="860"/>
         <source>Copy To New Playlist</source>
-        <translation>Копировать в новый плейлист</translation>
+        <translation type="unfinished">Копировать в новый плейлист</translation>
     </message>
     <message>
         <location filename="../mythmusic/databasebox.cpp" line="863"/>
@@ -149,115 +149,115 @@
     <message>
         <location filename="../mythmusic/databasebox.cpp" line="866"/>
         <source>Save Back to Playlist Tree</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сохранить в дерево плейлистов</translation>
     </message>
     <message>
         <location filename="../mythmusic/databasebox.cpp" line="890"/>
         <source>Create Audio CD from Playlist</source>
-        <translation>Создать Audio CD из плейлиста</translation>
+        <translation type="unfinished">Создать Audio CD на основе плейлиста</translation>
     </message>
     <message>
         <location filename="../mythmusic/databasebox.cpp" line="895"/>
         <source>Create MP3 CD from Playlist</source>
-        <translation>Создать CD с MP3 из плейлиста</translation>
+        <translation type="unfinished">Создать CD с MP3 на основе плейлиста</translation>
     </message>
     <message>
         <location filename="../mythmusic/databasebox.cpp" line="898"/>
         <source>Clear CD-RW Disk</source>
-        <translation>Очистить диск CD-RW</translation>
+        <translation type="unfinished">Очистить диск CD-RW</translation>
     </message>
 </context>
 <context>
     <name>EditMetadataDialog</name>
     <message>
-        <location filename="../mythmusic/editmetadata.cpp" line="387"/>
+        <location filename="../mythmusic/editmetadata.cpp" line="376"/>
         <source>Track Info.</source>
         <translation type="unfinished">Информация о дорожке.</translation>
     </message>
     <message>
-        <location filename="../mythmusic/editmetadata.cpp" line="394"/>
+        <location filename="../mythmusic/editmetadata.cpp" line="383"/>
         <source>Album Art</source>
-        <translation>Обложка</translation>
+        <translation type="unfinished">Обложка</translation>
     </message>
     <message>
-        <location filename="../mythmusic/editmetadata.cpp" line="401"/>
+        <location filename="../mythmusic/editmetadata.cpp" line="390"/>
         <source>Statistics</source>
-        <translation>Статистика</translation>
+        <translation type="unfinished">Статистика</translation>
     </message>
     <message>
-        <location filename="../mythmusic/editmetadata.cpp" line="408"/>
+        <location filename="../mythmusic/editmetadata.cpp" line="397"/>
         <source>Done</source>
-        <translation>Готово</translation>
+        <translation type="unfinished">Готово</translation>
     </message>
     <message>
-        <location filename="../mythmusic/editmetadata.cpp" line="513"/>
-        <location filename="../mythmusic/editmetadata.cpp" line="517"/>
+        <location filename="../mythmusic/editmetadata.cpp" line="502"/>
+        <location filename="../mythmusic/editmetadata.cpp" line="506"/>
         <source>Various Artists</source>
-        <translation>Разные исполнители</translation>
+        <translation type="unfinished">Разные исполнители</translation>
     </message>
     <message>
-        <location filename="../mythmusic/editmetadata.cpp" line="551"/>
+        <location filename="../mythmusic/editmetadata.cpp" line="540"/>
         <source>Select an Artist</source>
-        <translation>Выбрать исполнителя</translation>
+        <translation type="unfinished">Выбрать исполнителя</translation>
     </message>
     <message>
-        <location filename="../mythmusic/editmetadata.cpp" line="565"/>
+        <location filename="../mythmusic/editmetadata.cpp" line="554"/>
         <source>Select a Compilation Artist</source>
-        <translation>Выбрать исполнителя сборника</translation>
+        <translation type="unfinished">Выбрать исполнителя сборника</translation>
     </message>
     <message>
-        <location filename="../mythmusic/editmetadata.cpp" line="579"/>
+        <location filename="../mythmusic/editmetadata.cpp" line="568"/>
         <source>Select an Album</source>
-        <translation>Выбрать альбом</translation>
+        <translation type="unfinished">Выбрать альбом</translation>
     </message>
     <message>
-        <location filename="../mythmusic/editmetadata.cpp" line="600"/>
+        <location filename="../mythmusic/editmetadata.cpp" line="589"/>
         <source>Select a Genre</source>
-        <translation>Выбрать жанр</translation>
+        <translation type="unfinished">Выбрать жанр</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/editmetadata.cpp" line="607"/>
+        <source>Save Changes?</source>
+        <translation type="unfinished">Сохранить изменения?</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/editmetadata.cpp" line="613"/>
+        <source>Save Changes</source>
+        <translation type="unfinished">Сохранить изменения</translation>
     </message>
     <message>
         <location filename="../mythmusic/editmetadata.cpp" line="618"/>
-        <source>Save Changes?</source>
-        <translation>Сохранить изменения?</translation>
+        <source>Save to Database Only</source>
+        <translation type="unfinished">Сохранить только в базу данных</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/editmetadata.cpp" line="622"/>
+        <source>Save to File Only</source>
+        <translation type="unfinished">Сохранить только в файл</translation>
     </message>
     <message>
         <location filename="../mythmusic/editmetadata.cpp" line="624"/>
-        <source>Save Changes</source>
-        <translation>Сохранить изменения</translation>
+        <source>Save to File and Database</source>
+        <translation type="unfinished">Сохранить в файл и базу данных</translation>
     </message>
     <message>
         <location filename="../mythmusic/editmetadata.cpp" line="629"/>
-        <source>Save to Database Only</source>
-        <translation>Сохранить только в базу данных</translation>
-    </message>
-    <message>
-        <location filename="../mythmusic/editmetadata.cpp" line="633"/>
-        <source>Save to File Only</source>
-        <translation>Сохранить только в файл</translation>
-    </message>
-    <message>
-        <location filename="../mythmusic/editmetadata.cpp" line="635"/>
-        <source>Save to File and Database</source>
-        <translation>Сохранить в файл и базу данных</translation>
-    </message>
-    <message>
-        <location filename="../mythmusic/editmetadata.cpp" line="640"/>
         <source>Exit/Do Not Save</source>
-        <translation>Выйти/Не сохранять</translation>
+        <translation type="unfinished">Выйти/Не сохранять</translation>
     </message>
     <message>
-        <location filename="../mythmusic/editmetadata.cpp" line="643"/>
+        <location filename="../mythmusic/editmetadata.cpp" line="632"/>
         <source>Cancel</source>
-        <translation>Отмена</translation>
+        <translation type="unfinished">Отмена</translation>
     </message>
     <message>
-        <location filename="../mythmusic/editmetadata.cpp" line="683"/>
-        <location filename="../mythmusic/editmetadata.cpp" line="705"/>
+        <location filename="../mythmusic/editmetadata.cpp" line="672"/>
+        <location filename="../mythmusic/editmetadata.cpp" line="694"/>
         <source>Are you sure you want to save the modified metadata to the file?</source>
-        <translation>Вы уверены что хотите сохранить измененные метаданные в файл?</translation>
+        <translation type="unfinished">Вы уверены что хотите сохранить измененные метаданные в файл?</translation>
     </message>
     <message>
-        <location filename="../mythmusic/editmetadata.cpp" line="729"/>
+        <location filename="../mythmusic/editmetadata.cpp" line="718"/>
         <source>Change Image Type</source>
         <translation type="unfinished">Изменить тип элемента</translation>
     </message>
@@ -286,7 +286,7 @@
         <location filename="../mythmusic/importmusic.cpp" line="841"/>
         <location filename="../mythmusic/importmusic.cpp" line="1005"/>
         <source>Inlay</source>
-        <translation>Вкладыш</translation>
+        <translation>Inlay</translation>
     </message>
     <message>
         <location filename="../mythmusic/importmusic.cpp" line="843"/>
@@ -297,12 +297,12 @@
     <message>
         <location filename="../mythmusic/importmusic.cpp" line="976"/>
         <source>File Already Exists</source>
-        <translation>Файл уже существует</translation>
+        <translation type="unfinished">Файл уже существует</translation>
     </message>
     <message>
         <location filename="../mythmusic/importmusic.cpp" line="978"/>
         <source>New File</source>
-        <translation>Новый файл</translation>
+        <translation type="unfinished">Новый файл</translation>
     </message>
 </context>
 <context>
@@ -388,126 +388,207 @@ Could not copy file to: %1</source>
 <context>
     <name>MiniPlayer</name>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="92"/>
         <source>Stopped</source>
-        <translation>Остановлено</translation>
+        <translation type="obsolete">Остановлено</translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="199"/>
         <source>Mute: On</source>
-        <translation>Звук: Выкл</translation>
+        <translation type="obsolete">Звук: Выкл</translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="201"/>
         <source>Mute: Off</source>
-        <translation>Звук: Вкл</translation>
+        <translation type="obsolete">Звук: Вкл</translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="297"/>
         <source>kbps</source>
-        <translation>кбит/с</translation>
+        <translation type="obsolete">кбит/с</translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="297"/>
-        <location filename="../mythmusic/miniplayer.cpp" line="303"/>
         <source>kHz</source>
-        <translation>кГц</translation>
+        <translation type="obsolete">kHz</translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="297"/>
-        <location filename="../mythmusic/miniplayer.cpp" line="303"/>
         <source>ch</source>
-        <translation>кан</translation>
+        <translation type="obsolete">ch</translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="402"/>
         <source>%1  by  %2</source>
         <comment>Music track &apos;title by artist&apos;</comment>
-        <translation>%1  от  %2</translation>
+        <translation type="obsolete">%1  от  %2</translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="551"/>
         <source>Shuffle Mode: </source>
-        <translation type="unfinished">Режим вперемешку: </translation>
+        <translation type="obsolete">Режим вперемешку: </translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="555"/>
         <source>Smart</source>
-        <translation>Умный</translation>
+        <translation type="obsolete">Умный</translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="560"/>
         <source>Rand</source>
-        <translation type="unfinished">Случайный</translation>
+        <translation type="obsolete">Случайный</translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="565"/>
         <source>Album</source>
-        <translation type="unfinished">Альбом</translation>
+        <translation type="obsolete">Альбом</translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="570"/>
         <source>Artist</source>
-        <translation type="unfinished">Исполнитель</translation>
+        <translation type="obsolete">Исполнитель</translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="575"/>
-        <location filename="../mythmusic/miniplayer.cpp" line="606"/>
         <source>None</source>
-        <translation type="unfinished">Нет</translation>
+        <translation type="obsolete">Нет</translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="592"/>
         <source>Repeat Mode: </source>
-        <translation type="unfinished">Режим повтора: </translation>
+        <translation type="obsolete">Режим повтора: </translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="596"/>
         <source>All</source>
-        <translation type="unfinished">Все</translation>
+        <translation type="obsolete">Все</translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="601"/>
         <source>Track</source>
-        <translation type="unfinished">Дорожка</translation>
+        <translation type="obsolete">Дорожка</translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="623"/>
         <source>Auto Show Player: </source>
-        <translation type="unfinished">Автоматически показывать плеер: </translation>
+        <translation type="obsolete">Автоматически показывать плеер: </translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="625"/>
         <source>On</source>
-        <translation type="unfinished">Вкл</translation>
+        <translation type="obsolete">Вкл</translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="627"/>
         <source>Off</source>
-        <translation type="unfinished">Выкл</translation>
+        <translation type="obsolete">Выкл</translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="643"/>
         <source>Volume: </source>
-        <translation type="unfinished">Громкость: </translation>
+        <translation type="obsolete">Громкость: </translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="646"/>
         <source>(muted)</source>
-        <translation type="unfinished">(без звука)</translation>
+        <translation type="obsolete">(без звука)</translation>
     </message>
     <message>
-        <location filename="../mythmusic/miniplayer.cpp" line="681"/>
+        <source>Speed: </source>
+        <translation type="obsolete">Скорость: </translation>
+    </message>
+</context>
+<context>
+    <name>MusicCommon</name>
+    <message>
+        <location filename="../mythmusic/musiccommon.cpp" line="608"/>
         <source>Speed: </source>
         <translation type="unfinished">Скорость: </translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/musiccommon.cpp" line="866"/>
+        <source>Playing stream.</source>
+        <translation type="unfinished">Воспроизведение потока.</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/musiccommon.cpp" line="879"/>
+        <source>Buffering stream.</source>
+        <translation type="unfinished">Буфферизация потока.</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/musiccommon.cpp" line="883"/>
+        <source>Stream paused.</source>
+        <translation type="unfinished">Поток приостановлен.</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/musiccommon.cpp" line="925"/>
+        <source>kbps</source>
+        <translation type="unfinished">кбит/с</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/musiccommon.cpp" line="925"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="931"/>
+        <source>kHz</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/musiccommon.cpp" line="925"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="931"/>
+        <source>ch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/musiccommon.cpp" line="951"/>
+        <source>Output error.</source>
+        <translation type="unfinished">Ошибка вывода.</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/musiccommon.cpp" line="966"/>
+        <source>Stream stopped.</source>
+        <translation type="unfinished">Поток остановлен.</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/musiccommon.cpp" line="976"/>
+        <source>Finished playing stream.</source>
+        <translation type="unfinished">Окончание воспроизведения потока.</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/musiccommon.cpp" line="988"/>
+        <source>Decoder error.</source>
+        <translation type="unfinished">Ошибка декодирования.</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/musiccommon.cpp" line="1013"/>
+        <source>Sync List With Current Track</source>
+        <translation type="unfinished">Синхронизировать список с текущей дорожкой</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/musiccommon.cpp" line="1017"/>
+        <source>Remove Selected Track</source>
+        <translation type="unfinished">Удалить выбранную дорожку</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/musiccommon.cpp" line="1029"/>
+        <source>Remove All Tracks</source>
+        <translation type="unfinished">Удалить все дорожки</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/musiccommon.cpp" line="1033"/>
+        <source>Save As New Playlist</source>
+        <translation type="unfinished">Сохранить как новый плейлист</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/musiccommon.cpp" line="1037"/>
+        <source>Switch To Move Mode</source>
+        <translation type="unfinished">Переключиться в режим перемещения</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/musiccommon.cpp" line="1044"/>
+        <source>Switch To Select Mode</source>
+        <translation type="unfinished">Переключиться в режим выбора</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/musiccommon.cpp" line="1054"/>
+        <source>No - Exit, Stop Playing</source>
+        <translation type="unfinished">Нет - Выйти, остановить воспроизведение</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/musiccommon.cpp" line="1060"/>
+        <source>Yes - Exit, Continue Playing</source>
+        <translation type="unfinished">Да - Выйти, продолжить воспроизведение</translation>
     </message>
 </context>
 <context>
     <name>MusicPlayer</name>
     <message>
-        <location filename="../mythmusic/musicplayer.cpp" line="616"/>
+        <location filename="../mythmusic/musicplayer.cpp" line="653"/>
         <source>playlist root</source>
         <translation type="unfinished">корень плейлиста</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/musicplayer.cpp" line="998"/>
+        <location filename="../mythmusic/musicplayer.cpp" line="1001"/>
+        <source>Muted</source>
+        <translation type="unfinished">Звук выкл</translation>
     </message>
 </context>
 <context>
@@ -676,226 +757,226 @@ Could not copy file to: %1</source>
         <translation type="unfinished">4 Визуализация</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="354"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="355"/>
         <source>Visualization: </source>
         <translation type="unfinished">Визуализация: </translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="414"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="415"/>
         <source>Exiting Music Player
 Do you want to continue playing in the background?</source>
         <translation type="unfinished">Выход из музыкального плеера
-Вы хотите чтобы воспроизведение продолжалось в фоновом режиме?</translation>
-    </message>
-    <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="416"/>
-        <source>No - Exit, Stop Playing</source>
-        <translation type="unfinished">Нет - Выйти, Остановить воспроизведение</translation>
+Хотите продолжить воспроизведение в фоновом режиме?</translation>
     </message>
     <message>
         <location filename="../mythmusic/playbackbox.cpp" line="417"/>
-        <source>Yes - Exit, Continue Playing</source>
-        <translation type="unfinished">Да - Выйти, Продолжить воспроизведение</translation>
+        <source>No - Exit, Stop Playing</source>
+        <translation type="unfinished">Нет - Выйти, остановить воспроизведение</translation>
     </message>
     <message>
         <location filename="../mythmusic/playbackbox.cpp" line="418"/>
+        <source>Yes - Exit, Continue Playing</source>
+        <translation type="unfinished">Да - Выйти, продолжить воспроизведение</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/playbackbox.cpp" line="419"/>
         <source>Cancel</source>
         <translation type="unfinished">Отмена</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="610"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="611"/>
         <source>Change Filter</source>
         <translation type="unfinished">Изменить фильтр</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="614"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="615"/>
         <source>Smart playlists</source>
         <translation type="unfinished">Умные плейлисты</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="624"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="625"/>
         <source>Search</source>
         <translation type="unfinished">Поиск</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="626"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="627"/>
         <source>From CD</source>
-        <translation type="unfinished">С CD</translation>
+        <translation type="unfinished">С компакт-диска</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="628"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="629"/>
         <source>All Tracks</source>
         <translation type="unfinished">Все дорожки</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="632"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="633"/>
         <source>Tracks by current Artist</source>
         <translation type="unfinished">Дорожки по текущему исполнителю</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="634"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="635"/>
         <source>Tracks from current Album</source>
         <translation type="unfinished">Дорожки по текущему альбому</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="636"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="637"/>
         <source>Tracks from current Genre</source>
         <translation type="unfinished">Дорожки по текущему жанру</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="638"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="639"/>
         <source>Tracks from current Year</source>
         <translation type="unfinished">Дорожки по текущему году</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="640"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="641"/>
         <source>Tracks with same Title</source>
         <translation type="unfinished">Дорожки с таким же названием</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="1298"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1300"/>
         <source>Speed: </source>
         <translation type="unfinished">Скорость: </translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="1597"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1599"/>
         <source>Smart</source>
-        <translation type="unfinished">Умный</translation>
+        <translation type="unfinished">Умн</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="1602"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1604"/>
         <source>Rand</source>
         <translation type="unfinished">Случ</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="1607"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1609"/>
         <source>Album</source>
-        <translation type="unfinished">Альбом</translation>
+        <translation type="unfinished">Альб</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="1612"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1614"/>
         <source>Artist</source>
-        <translation type="unfinished">Исполнитель</translation>
+        <translation type="unfinished">Исп</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="1617"/>
-        <location filename="../mythmusic/playbackbox.cpp" line="1706"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1619"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1708"/>
         <source>None</source>
         <translation type="unfinished">Нет</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="1629"/>
-        <location filename="../mythmusic/playbackbox.cpp" line="1632"/>
-        <location filename="../mythmusic/playbackbox.cpp" line="1636"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1631"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1634"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1638"/>
         <source>Shuffle</source>
-        <translation type="unfinished">Вперемешку</translation>
+        <translation type="unfinished">Вперем</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="1696"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1698"/>
         <source>All</source>
         <translation type="unfinished">Все</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="1701"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1703"/>
         <source>Track</source>
-        <translation type="unfinished">Дорожка</translation>
+        <translation type="unfinished">Дор</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="1719"/>
-        <location filename="../mythmusic/playbackbox.cpp" line="1722"/>
-        <location filename="../mythmusic/playbackbox.cpp" line="1726"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1721"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1724"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1728"/>
         <source>Repeat</source>
         <translation type="unfinished">Повтор</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="1919"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1922"/>
         <source>Playing stream.</source>
         <translation type="unfinished">Воспроизведение потока.</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="1923"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1926"/>
         <source>Buffering stream.</source>
         <translation type="unfinished">Буфферизация потока.</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="1927"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1930"/>
         <source>Stream paused.</source>
         <translation type="unfinished">Поток приостановлен.</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="1963"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1966"/>
         <source>kbps</source>
         <translation type="unfinished">кбит/с</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="1963"/>
-        <location filename="../mythmusic/playbackbox.cpp" line="1969"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1966"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1972"/>
         <source>kHz</source>
         <translation type="unfinished">кГц</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="1963"/>
-        <location filename="../mythmusic/playbackbox.cpp" line="1969"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1966"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1972"/>
         <source>ch</source>
         <translation type="unfinished">кан</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="1990"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1993"/>
         <source>Output error.</source>
         <translation type="unfinished">Ошибка вывода.</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="2005"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="2008"/>
         <source>Stream stopped.</source>
         <translation type="unfinished">Поток остановлен.</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="2009"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="2012"/>
         <source>Finished playing stream.</source>
         <translation type="unfinished">Окончание воспроизведения потока.</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="2018"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="2021"/>
         <source>Decoder error.</source>
         <translation type="unfinished">Ошибка декодирования.</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="2340"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="2343"/>
         <source>Update Playlist Options</source>
-        <translation>Update Playlist Options</translation>
+        <translation type="unfinished">Обновить настройки плейлиста</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="2343"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="2346"/>
         <source>Replace</source>
         <translation type="unfinished">Замена</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="2344"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="2347"/>
         <source>Insert after current track</source>
         <translation type="unfinished">Вставить после текущей дорожки</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="2345"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="2348"/>
         <source>Append to end</source>
         <translation type="unfinished">Добавить в конец</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="2360"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="2363"/>
         <source>Continue playing current track</source>
         <translation type="unfinished">Продолжить воспроизведение текущей дорожки</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="2361"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="2364"/>
         <source>Play first track</source>
         <translation type="unfinished">Воспроизвести первую дорожку</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="2362"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="2365"/>
         <source>Play first new track</source>
         <translation type="unfinished">Воспроизвести первую новую дорожку</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="2368"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="2371"/>
         <source>Remove Duplicates</source>
         <translation type="unfinished">Удалить дупликаты</translation>
     </message>
@@ -905,48 +986,48 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/avfdecoder.cpp" line="480"/>
         <source>Internal Decoder</source>
-        <translation>Внутренний декодер</translation>
+        <translation type="unfinished">Внутренний декодер</translation>
     </message>
     <message>
         <location filename="../mythmusic/cddecoder-darwin.cpp" line="424"/>
         <source>OSX Audio CD mount parser</source>
-        <translation type="unfinished">OSX Audio CD mount parser</translation>
+        <translation>OSX Audio CD mount parser</translation>
     </message>
     <message>
         <location filename="../mythmusic/cddecoder-windows.cpp" line="110"/>
         <source>Windows CD parser</source>
-        <translation type="unfinished">Windows CD parser</translation>
+        <translation>Windows CD parser</translation>
     </message>
     <message>
         <location filename="../mythmusic/cddecoder.cpp" line="433"/>
         <source>Various Artists</source>
-        <translation>Разные исполнители</translation>
+        <translation type="unfinished">Разные исполнители</translation>
     </message>
     <message>
         <location filename="../mythmusic/cddecoder.cpp" line="457"/>
         <source>Track %1</source>
-        <translation>Дорожка %1</translation>
+        <translation type="unfinished">Дорожка %1</translation>
     </message>
     <message>
         <location filename="../mythmusic/cddecoder.cpp" line="582"/>
         <source>Ogg Vorbis Audio</source>
-        <translation type="unfinished">Ogg Vorbis Audio</translation>
+        <translation>Ogg Vorbis Audio</translation>
     </message>
     <message>
         <location filename="../mythmusic/cdrip.cpp" line="210"/>
         <source>Importing </source>
-        <translation>Импортирование </translation>
+        <translation type="unfinished">Импортирование </translation>
     </message>
     <message>
         <location filename="../mythmusic/databasebox.cpp" line="69"/>
         <source>The theme you are using does not contain the %1 element. Please contact the theme creator and ask if they could please update it.&lt;br&gt;&lt;br&gt;The next screen will be empty. Escape out of it to return to the menu.</source>
-        <translation>Тема которую Вы используете не содержит элемент %1. Пожалуйста обратитесь к создателю темы.&lt;br&gt;&lt;br&gt;Следующий экран будет пустым. Выйдите в меню.</translation>
+        <translation type="unfinished">Тема которую вы используете не содержит элемент %1. Пожалуйста обратитесь к создателю темы.&lt;br&gt;&lt;br&gt;Следующий экран будет пустым. Выйдите в меню.</translation>
     </message>
     <message>
         <location filename="../mythmusic/databasebox.cpp" line="1353"/>
-        <location filename="../mythmusic/metadata.cpp" line="1133"/>
+        <location filename="../mythmusic/metadata.cpp" line="1166"/>
         <source>Unknown</source>
-        <translation>Неизвестный</translation>
+        <translation type="unfinished">Неизвестный</translation>
     </message>
     <message>
         <location filename="../mythmusic/filescanner.cpp" line="328"/>
@@ -982,7 +1063,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="45"/>
         <source>This directory must exist, and the user running MythMusic needs to have write permission to the directory.</source>
-        <translation>Этот каталог должен существовать, пользователь запускающий MythMusic должен иметь права на запись в этот каталог.</translation>
+        <translation type="unfinished">Этот каталог должен существовать, пользователь запускающий MythMusic должен иметь права на запись в этот каталог.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="54"/>
@@ -997,7 +1078,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="66"/>
         <source>Audio Device used for playback. &apos;default&apos; will use the device specified in MythTV</source>
-        <translation type="unfinished">Аудио устройство используется для воспроизведения. &quot;по умолчанию&quot; будет использовать устройство заданное в MythTV</translation>
+        <translation type="unfinished">Аудио устройство используемое для воспроизведения. &quot;по умолчанию&quot; будет использовать устройство заданное в MythTV</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="73"/>
@@ -1007,7 +1088,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="75"/>
         <source>MythTV can upconvert stereo tracks to 5.1 audio. Set this option to enable it by default. You can enable or disable the upconversion during playback at anytime.</source>
-        <translation type="unfinished">MythTV может преобразовать стерео дорожки в дорожки 5.1. Установите эту опцию, чтобы включить такое поведение по умолчанию. Вы можете включить или выключить преобразование в во время воспроизведения.</translation>
+        <translation type="unfinished">MythTV может преобразовать стерео в 5.1. Установите эту опцию, чтобы включить такое поведение по умолчанию. Вы можете включить или выключить преобразование во время воспроизведения.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="84"/>
@@ -1027,12 +1108,12 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="95"/>
         <source>Order in which to sort the Music Tree. Possible values are a space-separated list of genre, splitartist, splitartist1, artist, album, and title OR the keyword &quot;directory&quot; to indicate that the onscreen tree mirrors the filesystem.</source>
-        <translation>Order in which to sort the Music Tree. Possible values are a space-separated list of genre, splitartist, splitartist1, artist, album, and title OR the keyword &quot;directory&quot; to indicate that the onscreen tree mirrors the filesystem.</translation>
+        <translation type="unfinished">Порядок сортировки дерева музыки. Значениями являются разделенный проблелами список ключевых слов genre, splitartist, splitartist1, artist, album, and title или одно слово &quot;directory&quot;, которое означает что дерево музыки будет содержать каталоги файловой системы.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="106"/>
         <source>Script Path</source>
-        <translation>Script Path</translation>
+        <translation type="unfinished">Путь к скрипту</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="108"/>
@@ -1047,7 +1128,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="118"/>
         <source>Directory and filename Format used to grab information if no ID3 information is found. Accepts GENRE, ARTIST, ALBUM, TITLE, ARTIST_TITLE and TRACK_TITLE.</source>
-        <translation type="unfinished">Формат каталога и имени файла, используется чтобы получить информацию, если не найдено информации в ID3 тегах. Может принимать значения GENRE, ARTIST, ALBUM, TITLE, ARTIST_TITLE и TRACK_TITLE.</translation>
+        <translation type="unfinished">Формат каталога и имени файла используемый для получения информ. о дорожке, если не найдена информ. в ID3 тегах. Доступно: GENRE, ARTIST, ALBUM, TITLE, ARTIST_TITLE и TRACK_TITLE.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="129"/>
@@ -1057,7 +1138,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="131"/>
         <source>If set, MythMusic will skip checking ID3 tags in files and just try to determine Genre, Artist, Album, and Track number and title from the filename.</source>
-        <translation type="unfinished">Если установлено, MythMusic пропустит проверку тегов ID3 и попытается определить жанр, исполнителя, альбом, номер дорожки и название из файла.</translation>
+        <translation type="unfinished">Если установлено, MythMusic пропустит проверку тегов ID3 и попытается определить жанр, исполнителя, альбом, номер и название дорожки по имени файла.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="141"/>
@@ -1082,7 +1163,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="145"/>
         <source>Some mp3 players don&apos;t understand tags encoded in UTF8 or UTF16, this setting allows you to change the encoding format used. Currently applies only to ID3 tags.</source>
-        <translation type="unfinished">Некоторые mp3 плееры не понимают тегов в кодировке UTF8 и UTF16, эта настройка позволяет изменить используемую кодировку. Применяется только к тегам ID3.</translation>
+        <translation type="unfinished">Некоторые mp3 плееры не понимают тегов в кодировках UTF8 и UTF16, эта настройка позволяет изменить используемую кодировку. Применяется только к тегам ID3.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="152"/>
@@ -1092,7 +1173,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="154"/>
         <source>Automatically lookup an audio CD if it is present and show its information in the Music Selection Tree.</source>
-        <translation type="unfinished">Автоматически распознавать аудио CD, если он присутствует и показывать информацию о нем в дереве музыки.</translation>
+        <translation type="unfinished">Автоматически распознавать аудио CD, если он присутствует, и показывать информацию о нем в дереве музыки.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="163"/>
@@ -1117,7 +1198,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="186"/>
         <source>Encoding</source>
-        <translation type="unfinished">Кодирование</translation>
+        <translation type="unfinished">Кодер</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="187"/>
@@ -1132,7 +1213,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="189"/>
         <source>Audio encoder to use for CD ripping. Note that the quality level &apos;Perfect&apos; will use the FLAC encoder.</source>
-        <translation type="unfinished">Аудио кодер используется для импорта CD. Обратите внимание, что при выборе качества &quot;Отличное&quot; будет использоваться кодер FLAC.</translation>
+        <translation type="unfinished">Аудио кодер используется при импорте CD. Обратите внимание, что при выборе качества &quot;Отличное&quot; будет использоваться кодер FLAC.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="198"/>
@@ -1147,7 +1228,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="200"/>
         <source>Medium</source>
-        <translation type="unfinished">Средне</translation>
+        <translation type="unfinished">Среднее</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="201"/>
@@ -1172,7 +1253,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="212"/>
         <source>If set, the MP3 encoder will use variable bitrates (VBR) except for the low quality setting. The Ogg encoder will always use variable bitrates.</source>
-        <translation type="unfinished">Если установлено, то кодер MP3 будет использовать переменный битрейт (VBR), за исключением выбора низкого качества. Кодер Ogg будет использоват переменный битрейт в любом случае.</translation>
+        <translation type="unfinished">Если установлено, то кодер MP3 будет использовать переменный битрейт, за исключением низкого качества. Кодер Ogg использует переменный битрейт в любом случае.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="221"/>
@@ -1222,7 +1303,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="256"/>
         <source>If set, the CD tray will automatically open after the CD has been ripped.</source>
-        <translation type="unfinished">Если установлено, CD будет автоматически извлечен оп окончании импорта.</translation>
+        <translation type="unfinished">Если установлено, CD будет автоматически извлечен по окончании импорта.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="264"/>
@@ -1232,17 +1313,17 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="266"/>
         <source>Used in &quot;Smart&quot; Shuffle mode. This weighting affects how much strength is given to your rating of a given track when ordering a group of songs.</source>
-        <translation>Used in &quot;Smart&quot; Shuffle mode. This weighting affects how much strength is given to your rating of a given track when ordering a group of songs.</translation>
+        <translation type="unfinished">Используется в &quot;умном&quot; режиме вперемешку. Этот вес определяет сколько &quot;силы&quot; дается рейтингу дорожки, при определения порядка сортировки группы песен.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="276"/>
         <source>Play Count Weight</source>
-        <translation>Play Count Weight</translation>
+        <translation type="unfinished">Вес числа воспроизведений</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="278"/>
         <source>Used in &quot;Smart&quot; Shuffle mode. This weighting affects how much strength is given to how many times a given track has been played when ordering a group of songs.</source>
-        <translation>Used in &quot;Smart&quot; Shuffle mode. This weighting affects how much strength is given to how many times a given track has been played when ordering a group of songs.</translation>
+        <translation type="unfinished">Используется в &quot;умном&quot; режиме вперемешку. Этот вес определяет сколько &quot;силы&quot; дается числу воспроизведений дорожки, при определения порядка сортировки группы песен.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="288"/>
@@ -1252,17 +1333,17 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="290"/>
         <source>Used in &quot;Smart&quot; Shuffle mode. This weighting affects how much strength is given to how long it has been since a given track was played when ordering a group of songs.</source>
-        <translation>Used in &quot;Smart&quot; Shuffle mode. This weighting affects how much strength is given to how long it has been since a given track was played when ordering a group of songs.</translation>
+        <translation type="unfinished">Используется в &quot;умном&quot; режиме вперемешку. Этот вес определяет сколько &quot;силы&quot; дается времени последнего воспроизведения, при определения порядка сортировки группы песен.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="300"/>
         <source>Random Weight</source>
-        <translation>Random Weight</translation>
+        <translation type="unfinished">Вес случайнов</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="302"/>
         <source>Used in &quot;Smart&quot; Shuffle mode. This weighting affects how much strength is given to good old (peudo-)randomness when ordering a group of songs.</source>
-        <translation type="unfinished">Используется в &quot;умном&quot; режиме перемешивания. This weighting affects how much strength is given to good old (pseudo-)randomness when ordering a group of songs.</translation>
+        <translation type="unfinished">Используется в &quot;умном&quot; режиме вперемешку. Этот вес определяет сколько &quot;силы&quot; дается случайности, при определения порядка сортировки группы песен.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="312"/>
@@ -1287,7 +1368,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="324"/>
         <source>Average</source>
-        <translation type="unfinished">Среднее</translation>
+        <translation type="unfinished">Средне</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="325"/>
@@ -1297,7 +1378,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="326"/>
         <source>Determines how many groups we have in the artist tree.  Few gives &apos;A B C D&apos; as per the old behaviour, average gives two letters per group, many gives one letter per group.</source>
-        <translation type="unfinished">Определяет число групп отображаемых в дереве исполнителей.  Мало дает &apos;A B C D&apos;, средне дает две буквы на группу, много дает по группе на букву.</translation>
+        <translation type="unfinished">Определяет число групп отображаемых в дереве исполнителей.  &quot;Мало&quot; дает &apos;A B C D&apos;, &quot;Средне&quot; дает две буквы на группу, &quot;Много&quot; дает по группе на букву.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="336"/>
@@ -1327,7 +1408,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="357"/>
         <source>If selected, you can navigate your entire music tree from the playing screen. N.B. Does not work with accelerated buttons disabled</source>
-        <translation type="unfinished">Если выбрано, вы можете осуществлять навигацию по полному дереву музыки с экрана воспроизведения. Не работает если отключено управление с клавиатуры или ДУ.</translation>
+        <translation type="unfinished">Если выбрано, вы можете перемещаться по полному дереву музыки с экрана воспроизведения. Не работает если отключено управление с клавиатуры или ДУ.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="368"/>
@@ -1377,7 +1458,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="384"/>
         <source>Exact</source>
-        <translation type="unfinished">Точно</translation>
+        <translation type="unfinished">Место</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="385"/>
@@ -1407,7 +1488,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="398"/>
         <source>Specify what action to take when exiting mythmusic plugin.</source>
-        <translation type="unfinished">Задайте какое действие будет выполняться при выходе из mythmusic.</translation>
+        <translation type="unfinished">Выберите какое действие будет выполняться при выходе из mythmusic.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="405"/>
@@ -1432,12 +1513,12 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="425"/>
         <source>Show Album Art at the start of each song</source>
-        <translation type="unfinished">Показывать обложку при начале воспроизведения каждой песни</translation>
+        <translation type="unfinished">Показывать обложку в начале каждой песни</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="427"/>
         <source>When the song changes and the new song has an album art image display it in the visualizer for a short period.</source>
-        <translation>When the song changes and the new song has an album art image display it in the visualiser for a short period.</translation>
+        <translation type="unfinished">При смене песни, в случае если песню имеет обложку, то она на короткое время отображается в визуализаторе.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="435"/>
@@ -1452,7 +1533,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="445"/>
         <source>Width for Visual Scaling</source>
-        <translation>Width for Visual Scaling</translation>
+        <translation type="unfinished">Ширина для масштабирования</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="447"/>
@@ -1493,12 +1574,12 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="493"/>
         <source>Requires a SCSI or an IDE-SCSI CD Writer.</source>
-        <translation type="unfinished">Необходим SCSI или IDE-SCSI привод CD-W.</translation>
+        <translation type="unfinished">Необходим SCSI или IDE-SCSI привод CD-R(W).</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="501"/>
         <source>CD-Writer Device</source>
-        <translation type="unfinished">Устройство CD-W</translation>
+        <translation type="unfinished">Устройство CD-R(W)</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="502"/>
@@ -1508,7 +1589,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="503"/>
         <source> &apos;default&apos; will let the MediaMonitor choose a device.</source>
-        <translation type="unfinished"> &apos;по умолчанию&apos; позволяет выбрать устройство MediaMonitor.</translation>
+        <translation type="unfinished"> &apos;default&apos; позволяет выбрать устройство MediaMonitor.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="511"/>
@@ -1548,7 +1629,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="537"/>
         <source>CD Writer speed. Auto will use the recomended speed.</source>
-        <translation type="unfinished">Скорость привода CD-W. Автоматичесая будет использовать рекомендованную скорость.</translation>
+        <translation type="unfinished">Скорость привода CD-R(W). &quot;Авто&quot; будет использовать рекомендованную скорость.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="545"/>
@@ -1558,7 +1639,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="546"/>
         <source>Fast</source>
-        <translation type="unfinished">Быстро</translation>
+        <translation type="unfinished">Быстрая</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="547"/>
@@ -1612,95 +1693,95 @@ Do you want to continue playing in the background?</source>
     </message>
     <message>
         <location filename="../mythmusic/main.cpp" line="220"/>
-        <location filename="../mythmusic/playbackbox.cpp" line="1026"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1027"/>
         <source>Rebuilding music tree</source>
         <translation type="unfinished">Обновить дерево музыки</translation>
     </message>
     <message>
         <location filename="../mythmusic/metadata.cpp" line="544"/>
-        <location filename="../mythmusic/metadata.cpp" line="836"/>
-        <location filename="../mythmusic/metadata.cpp" line="1008"/>
         <source>Unknown Artist</source>
         <translation type="unfinished">Неизвестный исполнитель</translation>
     </message>
     <message>
-        <location filename="../mythmusic/metadata.cpp" line="548"/>
-        <location filename="../mythmusic/metadata.cpp" line="840"/>
-        <location filename="../mythmusic/metadata.cpp" line="1012"/>
+        <location filename="../mythmusic/metadata.cpp" line="549"/>
         <source>Unknown Album</source>
         <translation type="unfinished">Неизвестный альбом</translation>
     </message>
     <message>
-        <location filename="../mythmusic/metadata.cpp" line="552"/>
+        <location filename="../mythmusic/metadata.cpp" line="553"/>
         <source>Unknown Genre</source>
         <translation type="unfinished">Неизвестный жанр</translation>
     </message>
     <message>
-        <location filename="../mythmusic/metadata.cpp" line="844"/>
-        <location filename="../mythmusic/metadata.cpp" line="1016"/>
         <source>Unknown Title</source>
-        <translation type="unfinished">Неизвестный исполнитель</translation>
+        <translation type="obsolete">Неизвестный исполнитель</translation>
     </message>
     <message>
-        <location filename="../mythmusic/metadata.cpp" line="892"/>
-        <location filename="../mythmusic/metadata.cpp" line="1243"/>
+        <location filename="../mythmusic/metadata.cpp" line="672"/>
+        <source>%1  by  %2</source>
+        <comment>Music track &apos;title by artist&apos;</comment>
+        <translation type="unfinished">%1  от  %2</translation>
+    </message>
+    <message>
+        <location filename="../mythmusic/metadata.cpp" line="937"/>
+        <location filename="../mythmusic/metadata.cpp" line="1276"/>
         <source>CD -- none</source>
         <translation type="unfinished">CD -- нет</translation>
     </message>
     <message>
-        <location filename="../mythmusic/metadata.cpp" line="897"/>
+        <location filename="../mythmusic/metadata.cpp" line="942"/>
         <source>All My Music</source>
         <translation type="unfinished">Вся моя музыка</translation>
     </message>
     <message>
-        <location filename="../mythmusic/metadata.cpp" line="1136"/>
-        <location filename="../mythmusic/metadata.cpp" line="1371"/>
+        <location filename="../mythmusic/metadata.cpp" line="1169"/>
+        <location filename="../mythmusic/metadata.cpp" line="1404"/>
         <source>title</source>
         <translation type="unfinished">название</translation>
     </message>
     <message>
-        <location filename="../mythmusic/metadata.cpp" line="1151"/>
+        <location filename="../mythmusic/metadata.cpp" line="1184"/>
         <source>Missing database entry: %1</source>
         <translation type="unfinished">Отсутвует элемент базы данных: %1</translation>
     </message>
     <message>
-        <location filename="../mythmusic/metadata.cpp" line="1163"/>
+        <location filename="../mythmusic/metadata.cpp" line="1196"/>
         <source>Ooops</source>
         <translation type="unfinished">Упс</translation>
     </message>
     <message>
-        <location filename="../mythmusic/metadata.cpp" line="1369"/>
-        <location filename="../mythmusic/metadata.cpp" line="1399"/>
+        <location filename="../mythmusic/metadata.cpp" line="1402"/>
+        <location filename="../mythmusic/metadata.cpp" line="1432"/>
         <source>%1 - %2</source>
         <translation>%1 - %2</translation>
     </message>
     <message>
-        <location filename="../mythmusic/metadata.cpp" line="1605"/>
+        <location filename="../mythmusic/metadata.cpp" line="1638"/>
         <source>front</source>
         <translation type="unfinished">перед</translation>
     </message>
     <message>
-        <location filename="../mythmusic/metadata.cpp" line="1607"/>
+        <location filename="../mythmusic/metadata.cpp" line="1640"/>
         <source>back</source>
         <translation type="unfinished">назад</translation>
     </message>
     <message>
-        <location filename="../mythmusic/metadata.cpp" line="1609"/>
+        <location filename="../mythmusic/metadata.cpp" line="1642"/>
         <source>inlay</source>
         <translation>inlay</translation>
     </message>
     <message>
-        <location filename="../mythmusic/metadata.cpp" line="1611"/>
+        <location filename="../mythmusic/metadata.cpp" line="1644"/>
         <source>cd</source>
         <translation>cd</translation>
     </message>
     <message>
-        <location filename="../mythmusic/metadata.cpp" line="1613"/>
+        <location filename="../mythmusic/metadata.cpp" line="1646"/>
         <source>cover</source>
         <translation type="unfinished">обложка</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playbackbox.cpp" line="1151"/>
+        <location filename="../mythmusic/playbackbox.cpp" line="1153"/>
         <source>Loading Music</source>
         <translation type="unfinished">Загрузка музыки</translation>
     </message>
@@ -1710,17 +1791,17 @@ Do you want to continue playing in the background?</source>
         <translation type="unfinished">Не инициализировано</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playlist.cpp" line="308"/>
+        <location filename="../mythmusic/playlist.cpp" line="322"/>
         <source>oops</source>
         <translation type="unfinished">упс</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playlist.cpp" line="1288"/>
+        <location filename="../mythmusic/playlist.cpp" line="1334"/>
         <source>Creating CD File System</source>
         <translation type="unfinished">Создание файловой системы CD</translation>
     </message>
     <message>
-        <location filename="../mythmusic/playlist.cpp" line="1345"/>
+        <location filename="../mythmusic/playlist.cpp" line="1391"/>
         <source>Burning CD</source>
         <translation type="unfinished">Записать CD</translation>
     </message>
@@ -2081,7 +2162,7 @@ Do you want to remove the existing track?</source>
     <message>
         <location filename="../mythmusic/smartplaylist.cpp" line="1692"/>
         <source>Track No.</source>
-        <translation type="unfinished">№ дор.</translation>
+        <translation>№ дор.</translation>
     </message>
     <message>
         <location filename="../mythmusic/smartplaylist.cpp" line="1701"/>
@@ -2094,52 +2175,52 @@ Do you want to remove the existing track?</source>
     <message>
         <location filename="../mythmusic/smartplaylist.cpp" line="1762"/>
         <source>Smart Playlists</source>
-        <translation type="unfinished">Умные плейлисты</translation>
+        <translation>Умные плейлисты</translation>
     </message>
     <message>
         <location filename="../mythmusic/smartplaylist.cpp" line="1794"/>
         <source>1 Select</source>
-        <translation type="unfinished">1 Выбрать</translation>
+        <translation>1 Выбрать</translation>
     </message>
     <message>
         <location filename="../mythmusic/smartplaylist.cpp" line="1796"/>
         <source>Select</source>
-        <translation type="unfinished">Выбрать</translation>
+        <translation>Выбрать</translation>
     </message>
     <message>
         <location filename="../mythmusic/smartplaylist.cpp" line="1801"/>
         <source>2 New</source>
-        <translation type="unfinished">2 Новый</translation>
+        <translation>2 Новый</translation>
     </message>
     <message>
         <location filename="../mythmusic/smartplaylist.cpp" line="1803"/>
         <source>New</source>
-        <translation type="unfinished">Новый</translation>
+        <translation>Новый</translation>
     </message>
     <message>
         <location filename="../mythmusic/smartplaylist.cpp" line="1809"/>
         <source>3 Edit</source>
-        <translation type="unfinished">3 Изменить</translation>
+        <translation>3 Изменить</translation>
     </message>
     <message>
         <location filename="../mythmusic/smartplaylist.cpp" line="1811"/>
         <source>Edit</source>
-        <translation type="unfinished">Изменить</translation>
+        <translation>Изменить</translation>
     </message>
     <message>
         <location filename="../mythmusic/smartplaylist.cpp" line="1816"/>
         <source>4 Delete</source>
-        <translation type="unfinished">4 Удалить</translation>
+        <translation>4 Удалить</translation>
     </message>
     <message>
         <location filename="../mythmusic/smartplaylist.cpp" line="1818"/>
         <source>Delete</source>
-        <translation type="unfinished">Удалить</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location filename="../mythmusic/smartplaylist.cpp" line="1962"/>
         <source>Are you sure you want to delete this SmartPlaylist?</source>
-        <translation type="unfinished">Вы уверены что хотите удалить этот умный плейлист?</translation>
+        <translation>Вы уверены что хотите удалить этот умный плейлист?</translation>
     </message>
 </context>
 <context>
@@ -2255,17 +2336,17 @@ Do you want to remove the existing track?</source>
     <message>
         <location filename="themestrings.h" line="3"/>
         <source>Track Information</source>
-        <translation type="unfinished">Информация о дорожке</translation>
+        <translation type="unfinished">Инфо о дорожке</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="4"/>
         <source>Compilation:</source>
-        <translation>Сборник:</translation>
+        <translation type="unfinished">Сборник:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="5"/>
         <source>Comp. Artist:</source>
-        <translation>Comp. Artist:</translation>
+        <translation type="unfinished">Исп. сборника:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="6"/>
@@ -2285,7 +2366,7 @@ Do you want to remove the existing track?</source>
     <message>
         <location filename="themestrings.h" line="9"/>
         <source>Track No.:</source>
-        <translation>№ дорожки:</translation>
+        <translation type="unfinished">№ дор.:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="10"/>
@@ -2305,12 +2386,12 @@ Do you want to remove the existing track?</source>
     <message>
         <location filename="themestrings.h" line="13"/>
         <source>Play Count:</source>
-        <translation>Число воспроизведений:</translation>
+        <translation type="unfinished">Число воспр.:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="14"/>
         <source>Last Play:</source>
-        <translation>Последний раз воспроизводилась:</translation>
+        <translation type="unfinished">Посл. воспр.:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="15"/>
@@ -2640,12 +2721,12 @@ Do you want to remove the existing track?</source>
     <message>
         <location filename="themestrings.h" line="80"/>
         <source>Import CD</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Импорт CD</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="81"/>
         <source>Import Files</source>
-        <translation type="unfinished">Импортировать файлы</translation>
+        <translation type="unfinished">Импорт файлов</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="82"/>
@@ -2665,7 +2746,7 @@ Do you want to remove the existing track?</source>
     <message>
         <location filename="themestrings.h" line="85"/>
         <source>Configure playback and CD ripping</source>
-        <translation>Configure playback and CD ripping</translation>
+        <translation type="unfinished">Настроить воспроизведение и импорт CD</translation>
     </message>
 </context>
 <context>
@@ -2673,49 +2754,49 @@ Do you want to remove the existing track?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="668"/>
         <source>Visualizations</source>
-        <translation type="unfinished">Визуализации</translation>
+        <translation>Визуализации</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="680"/>
         <source>Selected Visualizations</source>
-        <translation type="unfinished">Выбранные визуализации</translation>
+        <translation>Выбранные визуализации</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="685"/>
         <source>Available Visualizations</source>
-        <translation type="unfinished">Доступные визуализации</translation>
+        <translation>Доступные визуализации</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="693"/>
         <location filename="../mythmusic/globalsettings.cpp" line="708"/>
         <source>Name</source>
-        <translation type="unfinished">Название</translation>
+        <translation>Название</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="694"/>
         <location filename="../mythmusic/globalsettings.cpp" line="709"/>
         <source>Provider</source>
-        <translation type="unfinished">Поставщик</translation>
+        <translation>Поставщик</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="725"/>
         <source>Move Up</source>
-        <translation type="unfinished">Вверх</translation>
+        <translation>Вверх</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="732"/>
         <source>Move Down</source>
-        <translation type="unfinished">Вниз</translation>
+        <translation>Вниз</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="751"/>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="759"/>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
 </context>
 </TS>
