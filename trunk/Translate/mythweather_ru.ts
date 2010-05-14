@@ -93,7 +93,7 @@
     </message>
     <message>
         <source>Add desired screen to the Active Screens list by pressing SELECT.</source>
-        <translation type="unfinished">Добавление желаемого  экрана к списку активных через нажатие SELECT.</translation>
+        <translation type="unfinished">Добавление желаемого экрана к списку активных через нажатие SELECT.</translation>
     </message>
     <message>
         <source>Sources</source>
@@ -672,23 +672,23 @@
     </message>
     <message>
         <source>NNE</source>
-        <translation>ССЗ</translation>
+        <translation>ССВ</translation>
     </message>
     <message>
         <source>NE</source>
-        <translation>СЗ</translation>
+        <translation>СВ</translation>
     </message>
     <message>
         <source>E</source>
-        <translation>З</translation>
+        <translation>В</translation>
     </message>
     <message>
         <source>SE</source>
-        <translation>ЮЗ</translation>
+        <translation>ЮВ</translation>
     </message>
     <message>
         <source>SSE</source>
-        <translation>ЮЮЗ</translation>
+        <translation>ЮЮВ</translation>
     </message>
     <message>
         <source>S</source>
@@ -696,39 +696,39 @@
     </message>
     <message>
         <source>SSW</source>
-        <translation>ЮЮВ</translation>
+        <translation>ЮЮЗ</translation>
     </message>
     <message>
         <source>SW</source>
-        <translation>ЮВ</translation>
+        <translation>ЮЗ</translation>
     </message>
     <message>
         <source>W</source>
-        <translation>В</translation>
+        <translation>З</translation>
     </message>
     <message>
         <source>NW</source>
-        <translation>СВ</translation>
+        <translation>СЗ</translation>
     </message>
     <message>
         <source>NNW</source>
-        <translation>ССВ</translation>
+        <translation>ССЗ</translation>
     </message>
     <message>
         <source>ENE</source>
-        <translation>ЗСЗ</translation>
+        <translation>ВСВ</translation>
     </message>
     <message>
         <source>ESE</source>
-        <translation>ЗЮЗ</translation>
-    </message>
-    <message>
-        <source>WSW</source>
         <translation>ВЮВ</translation>
     </message>
     <message>
+        <source>WSW</source>
+        <translation>ЗЮЗ</translation>
+    </message>
+    <message>
         <source>WNW</source>
-        <translation>ВСВ</translation>
+        <translation>ЗСЗ</translation>
     </message>
 </context>
 <context>
@@ -767,7 +767,7 @@
     </message>
     <message>
         <source>Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Глобальные настройки</translation>
     </message>
     <message>
         <source>Seconds to display each page:</source>
@@ -779,7 +779,7 @@
     </message>
     <message>
         <source>Source Setup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Настройка источника</translation>
     </message>
     <message>
         <source>Data Retrieval Interval (minutes):</source>
@@ -803,11 +803,11 @@
     </message>
     <message>
         <source>Screen Setup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Настройка экрана</translation>
     </message>
     <message>
         <source>Location Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Поиск местоположения</translation>
     </message>
     <message>
         <source>Enter your current location, nearest large town or city. In some countries postal codes are also supported.</source>
@@ -815,7 +815,7 @@
     </message>
     <message>
         <source>Enter Location:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Введите местоположение:</translation>
     </message>
 </context>
 <context>
