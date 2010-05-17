@@ -236,7 +236,17 @@ def search_data(uid, rating_country):
         filmdata['plot'] = normilize_string(single_value(data, '<tr><td colspan=3 style="padding: 10px.*?reachbanner_">(.*?)</span>'))
         runtime = string.split(single_value(data, '<td class="time" id="runtime">(.*?)</td>'))
         filmdata['runtime'] = runtime[0]
-        filmdata['cast'] = get_multi_value('<!-- актеры фильма -->(.*?)<!-- /актеры фильма -->',  'href="/level/4/people.*?class="all">(.*?)</a>')
+        
+        #Проверяем нет ли списка актеров дублирующих роли
+        matchstring = unicode('Роли дублировали:', "utf8")
+        regexp= re.compile(matchstring,re.DOTALL)
+        result = regexp.search(data)
+        if result == None:
+            #Если не ту, то выбираем одно условие поиска
+            filmdata['cast'] = get_multi_value('<!-- актеры фильма -->(.*?)<!-- /актеры фильма -->',  'href="/level/4/people.*?class="all">(.*?)</a>')
+        #Если да, то другое, с отбрасыванием дублирующих
+        else:
+            filmdata['cast'] = get_multi_value('<!-- актеры фильма -->(.*?)Роли дублировали:',  'href="/level/4/people.*?class="all">(.*?)</a>')
         movierating = string.split(single_value(data, 'td class="type">рейтинг MPAA</td>.*?<img src.*?alt=(.*?) border=0>'))
         #Проверка нужна так как российские фильмы обычно не имеют рейтинга MPAA
         if len(movierating) > 0:
