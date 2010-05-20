@@ -1,7 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# This script is partially based on script dwua_xml.pl by Victor Bron 
+# This script is partially based on script dwua_xml.pl by Victor Bron
+# Script gets the wheater  form the weather.co.ua
+# For six day forecast, we have forecast only for five days since such data provides site weather.co.ua
 import string
 import time
 import datetime
@@ -51,16 +53,8 @@ def print_exception(str):
 		comment_out(line)
 
 def get_page(address,  title=''):
-    headers = {
-        "User-Agent": "Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9.0.14) Gecko/2009090216 Ubuntu/9.04 	(jaunty) Firefox/3.0.14",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "ru,en-us;q=0.7,en;q=0.3",
-        "Accept-Charset": "windows-1251,utf-8;q=0.7,*;q=0.7",
-        "Keep-Alive": "300",
-        "Connection": "keep-alive"
-        }
     data={}
-    req = urllib2.Request(address, data,  headers)
+    req = urllib2.Request(address, data)
     response = urllib2.urlopen(req)
     if response.code == 200:
         pagedata = response.read()
@@ -150,13 +144,21 @@ def get_data(location_id):
                 result = max_value
         return result
 
-    def get_data(days):
+    base_url = 'http://xml.weather.co.ua/1.2/forecast/'
+    xml_page = get_page(base_url + urllib.quote(location_id.encode('utf8')) + '?dayf=5&userid=YourSite_com&lang=ru')
+    tree = etree.XML(xml_page)
+    names = get_text_list('/forecast/city/name_en')
+    sys.stdout.write( u'3dlocation::%s\n' % names[0])
+    sys.stdout.write( u'6dlocation::%s\n' % names[0])
+    updatetimes = tree.xpath('/forecast[@version]')
+    sys.stdout.write( u'updatetime::%s\n' % updatetimes[0].values()[1])
+    days = get_value_list('/forecast/forecast/day[@date]')
+    days = uniquer(days)
+    for i in range(len(days)):
         t_mins = []
         t_maxs = []
         picts = []
         forecast_for_date = tree.xpath('/forecast/forecast/day[@date=' + '"'+days[i] + '"'+ ']/*') 
-        datesplitted = days[i].split('-')
-        when = datetime.datetime(int(datesplitted[0]),  int(datesplitted[1]),  int(datesplitted[2]))
         for nodes in forecast_for_date:
             if len(nodes) < 2:
                 if nodes.tag == 'pict':
@@ -168,32 +170,21 @@ def get_data(location_id):
                             t_mins.append(int(node.text))
                         elif node.tag == 'max':
                             t_maxs.append(int(node.text))
-        pict_count = len(picts)
+        pict_count = len(picts) #Количество иконок для погоды в течение дня
+        datesplitted = days[i].split('-')
+        when = datetime.datetime(int(datesplitted[0]),  int(datesplitted[1]),  int(datesplitted[2]))
         #Выводим данные
+        #Output data
         sys.stdout.write( u'date-%s::%s\n' % (str(i),  when.strftime('%w')))
+        #Если прогноз получен на полный день, т.е. имеем четыре картинки - на ночь, утро, день и вечер, 
+        #то берем картинку на день, вычитая единицу.
         if pict_count > 3:
             sys.stdout.write( u'icon-%s::%s\n' % (str(i),  get_icon(picts[pict_count-2])))
+        #Если прогноз получен не на полный день, то берем картинку на время дня, соотсветсвующее последнему полученному.
         else:
             sys.stdout.write( u'icon-%s::%s\n' % (str(i),  get_icon(picts[pict_count-1])))
         sys.stdout.write( u'low-%s::%s\n' % (str(i),  min(t_mins)))
         sys.stdout.write( u'high-%s::%s\n' % (str(i),  max(t_maxs)))
-    
-    base_url = 'http://xml.weather.co.ua/1.2/forecast/'
-    xml_page = get_page(base_url + urllib.quote(location_id.encode('utf8')) + '?dayf=5&userid=YourSite_com&lang=ru')
-    tree = etree.XML(xml_page)
-    #tree = etree.parse(StringIO(xml_page))
-    names = get_text_list('/forecast/city/name_en')
-    sys.stdout.write( u'3dlocation::%s\n' % names[0])
-    sys.stdout.write( u'6dlocation::%s\n' % names[0])
-    updatetimes = tree.xpath('/forecast[@version]')
-    sys.stdout.write( u'updatetime::%s\n' % updatetimes[0].values()[1])
-    days = get_value_list('/forecast/forecast/day[@date]')
-    days = uniquer(days)
-    for i in range(len(days)):
-        if len(days) > 5:
-            get_data(days)
-        else:
-            get_data(days)
             
 def main():
     parser = OptionParser(usage="""\

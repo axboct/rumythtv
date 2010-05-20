@@ -57,16 +57,8 @@ def print_exception(str):
 		comment_out(line)
 
 def get_page(address,  title=''):
-    headers = {
-        "User-Agent": "Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9.0.14) Gecko/2009090216 Ubuntu/9.04 	(jaunty) Firefox/3.0.14",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "ru,en-us;q=0.7,en;q=0.3",
-        "Accept-Charset": "windows-1251,utf-8;q=0.7,*;q=0.7",
-        "Keep-Alive": "300",
-        "Connection": "keep-alive"
-        }
     data={}
-    req = urllib2.Request(address, data,  headers)
+    req = urllib2.Request(address, data)
     response = urllib2.urlopen(req)
     if response.code == 200:
         pagedata = response.read()
@@ -98,8 +90,6 @@ def search_locations(location_str):
     cities = []
     ids = []
     countries = []
-
-    #city_nodes = tree.xpath('//name') 
     #Для устранения проблемы отображенения символов кириллицы в MythWeather,
     #однако название страны по прежнему на русском, а следовательно - закорюками.
     city_nodes = tree.xpath('//name_en') 
