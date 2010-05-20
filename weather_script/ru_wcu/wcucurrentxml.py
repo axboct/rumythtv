@@ -15,15 +15,14 @@ from optparse import OptionParser
 from lxml import etree
 from StringIO import StringIO
 
-name = 'wcucurrentxml.py';
+name = 'WCU-Current-XML';
 version = 0.01;
 author = 'Alex Vasilyev';
-email = 'sandybigboy@mgail.ru';
+email = 'sandybigboy@gmail.ru';
 
 update_timeout = 120*60
 retrieve_timeout = 30
 
-#dir = './'
 data_fields = ('cclocation', 'station_id', 'copyright',
         'observation_time', 'weather', 'temp', 'relative_humidity',
         'wind_dir', 'pressure', 'visibility', 'weather_icon',
@@ -33,7 +32,8 @@ icons = {'_0_moon.gif' : 'sunny.png',  '_0_sun.gif' :  'sunny.png',  '_1_moon_cl
             '_1_sun_cl.gif' : 'pcloudy.png',  '_2_cloudy.gif' : 'mcloudy.png', '_3_pasmurno.gif' :  'cloudy.png', 
             '_4_short_rain.gif' : 'lshowers.png', '_5_rain.gif' : 'showers.png',  
             '_6_lightning.gif' : 'thunshowers.png', '_7_hail.gif' :  'fog.png', 
-            'ico=~/^_8_rain_snow.gif' :  'rainsnow.png', 'ico=~ /_9_snow.gif' : 'snowshow.png', '_255_NA.gif' : 'unknown.png'
+            'ico=~/^_8_rain_snow.gif' :  'rainsnow.png', 'ico=~ /_9_snow.gif' : 'snowshow.png',  '_10_heavy_snow.gif' :  'snowshow.png', 
+            '_255_NA.gif' : 'unknown.png'
              }
     
 weather = {255 : "N/A", 10 : "Clear", 20 : "Cloudly", 30 : "Clear/Cloudly", 40 : "Pasmurno", 50 : "Short Rain", 
@@ -92,22 +92,29 @@ def search_locations(location_str):
     base_url = 'http://xml.weather.co.ua/1.2/city/?search='
     xml_page = get_page(base_url + urllib.quote(location_str.encode('utf8')))
     tree = etree.XML(xml_page)
-    
+    xml_page = get_page('http://xml.weather.co.ua/1.2/country/')
+    countries_tree = etree.XML(xml_page)
+    #countries_tree = etree.parse('country.xml')
     cities = []
     ids = []
     countries = []
-    
-    city_nodes = tree.xpath('//name') 
+
+    #city_nodes = tree.xpath('//name') 
+    #Для устранения проблемы отображенения символов кириллицы в MythWeather,
+    #однако название страны по прежнему на русском, а следовательно - закорюками.
+    city_nodes = tree.xpath('//name_en') 
     for node in city_nodes: 
         cities.append(node .text)
     id_nodes = tree.xpath('/city/city') 
     for node in id_nodes : 
         ids.append(node.values()[0])
-    country_nodes = tree.xpath('//country') 
+    country_nodes = tree.xpath('//country_id') 
     for node in country_nodes : 
         countries.append(node.text)
     for i in range(len(city_nodes)):
-        sys.stdout.write( u'%s::%s, %s\n' % (ids[i], cities[i],  countries[i]))
+        #Для устранения проблемы закорюк выковыриваем и английское название страны
+        country_ids = countries_tree.xpath('/country/country[@id=' + countries[i] + ']/name_en')
+        sys.stdout.write( u'%s::%s, %s\n' % (ids[i], cities[i],  country_ids[0].text))
 
 def get_data(location_id):
     
@@ -118,41 +125,19 @@ def get_data(location_id):
             ret_list.append(node .text)
         return ret_list
     
-    def get_value_list(query):
-        ret_list = []
-        nodes = tree.xpath(query) 
-        for node in nodes: 
-            ret_list.append(node .values()[0])
-        return ret_list
-
     def get_icon(ico):
         if icons[ico] != '':
             return icons[ico]
         else:
             return 'unknown.png'
-    
+
+#Из значения облачности получаем тип погоды, тип погоды меняется каждый десяток
     def get_weather(WID):
         result = 255
-        if WID<=10:
-            result = 10
-        elif WID<=20:
-            result = 20
-        elif WID<=30:
-            result = 30
-        elif WID<=40:
-            result = 40
-        elif WID<=50:
-            result = 50
-        elif WID<=60:
-            result = 60
-        elif WID<=70:
-            result = 10
-        elif WID<=80:
-            result = 80
-        elif WID<=90:
-            result = 90
-        elif WID<=100:
-            result = 100
+        for i in range(0, 90, 10):
+            max_value = i + 10
+            if WID in range(i,  max_value):
+                result = max_value
         return result
             
     def get_wind(WID):
