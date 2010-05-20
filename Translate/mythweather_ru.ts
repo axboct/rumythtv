@@ -39,11 +39,11 @@
     </message>
     <message>
         <source>Pause current page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Остановить экран</translation>
     </message>
     <message>
         <source>Search List</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Поиск</translation>
     </message>
 </context>
 <context>
@@ -93,7 +93,7 @@
     </message>
     <message>
         <source>Add desired screen to the Active Screens list by pressing SELECT.</source>
-        <translation type="unfinished">Добавление желаемого экрана к списку активных через нажатие SELECT.</translation>
+        <translation>Для добавления экрана к списку активных нажмите SELECT.</translation>
     </message>
     <message>
         <source>Sources</source>
@@ -101,7 +101,7 @@
     </message>
     <message>
         <source>Units: </source>
-        <translation type="unfinished">Еденицы: </translation>
+        <translation>Еденицы: </translation>
     </message>
     <message>
         <source>English Units</source>
@@ -109,11 +109,11 @@
     </message>
     <message>
         <source>SI Units</source>
-        <translation type="unfinished">Метрическая система</translation>
+        <translation>Метрическая система</translation>
     </message>
     <message>
         <source>Location: </source>
-        <translation type="unfinished">Расположение: </translation>
+        <translation>Расположение: </translation>
     </message>
     <message>
         <source>Not Defined</source>
@@ -129,11 +129,11 @@
     </message>
     <message>
         <source>change location; </source>
-        <translation type="unfinished">изменить местоположение; </translation>
+        <translation type="unfinished">измения местоположение; </translation>
     </message>
     <message>
         <source>change units; </source>
-        <translation type="unfinished">изменить систему измерений; </translation>
+        <translation type="unfinished">измения системы измерений; </translation>
     </message>
     <message>
         <source>move screen up or down; or remove screen.</source>
@@ -157,11 +157,11 @@
     </message>
     <message>
         <source>Change Location</source>
-        <translation type="unfinished">Изменить расположение</translation>
+        <translation>Изменить расположение</translation>
     </message>
     <message>
         <source>Change Units</source>
-        <translation type="unfinished">Изменить систему измерений</translation>
+        <translation>Изменить систему измерений</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -293,7 +293,7 @@
     </message>
     <message>
         <source>PM Showers</source>
-        <translation type="unfinished">вечером ливень</translation>
+        <translation type="unfinished">Вечером ливень</translation>
     </message>
     <message>
         <source>PM Showers/Wind</source>
@@ -747,7 +747,7 @@
     </message>
     <message>
         <source>Wind(Gust)</source>
-        <translation type="unfinished">Ветер</translation>
+        <translation>Скорость ветра</translation>
     </message>
     <message>
         <source>Wind Direction</source>
@@ -759,15 +759,15 @@
     </message>
     <message>
         <source>High</source>
-        <translation type="unfinished">Макс.</translation>
+        <translation>Макс.</translation>
     </message>
     <message>
         <source>Low</source>
-        <translation type="unfinished">Мин.</translation>
+        <translation>Мин.</translation>
     </message>
     <message>
         <source>Global Settings</source>
-        <translation type="unfinished">Глобальные настройки</translation>
+        <translation>Общие настройки</translation>
     </message>
     <message>
         <source>Seconds to display each page:</source>
@@ -779,7 +779,7 @@
     </message>
     <message>
         <source>Source Setup</source>
-        <translation type="unfinished">Настройка источника</translation>
+        <translation>Настройка источников</translation>
     </message>
     <message>
         <source>Data Retrieval Interval (minutes):</source>
@@ -791,7 +791,7 @@
     </message>
     <message>
         <source>Weather Alerts</source>
-        <translation type="unfinished"></translation>
+        <translation>Предупреждения</translation>
     </message>
     <message>
         <source>Temp</source>
@@ -799,15 +799,15 @@
     </message>
     <message>
         <source>Precip</source>
-        <translation type="unfinished">Осадки</translation>
+        <translation>Осадки</translation>
     </message>
     <message>
         <source>Screen Setup</source>
-        <translation type="unfinished">Настройка экрана</translation>
+        <translation>Настройки экранов</translation>
     </message>
     <message>
         <source>Location Search</source>
-        <translation type="unfinished">Поиск местоположения</translation>
+        <translation>Поиск местоположения</translation>
     </message>
     <message>
         <source>Enter your current location, nearest large town or city. In some countries postal codes are also supported.</source>
@@ -815,7 +815,7 @@
     </message>
     <message>
         <source>Enter Location:</source>
-        <translation type="unfinished">Введите местоположение:</translation>
+        <translation>Введите местоположение:</translation>
     </message>
 </context>
 <context>
