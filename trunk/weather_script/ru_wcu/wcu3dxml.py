@@ -13,11 +13,10 @@ import traceback
 import codecs
 from optparse import OptionParser
 from lxml import etree
-from StringIO import StringIO
 try: set
 except NameError: from sets import Set as set
 
-name = 'wcu3dxml.py';
+name = 'WCU-3D-XML';
 version = 0.01;
 author = 'Alex Vasilyev';
 email = 'sandybigboy@gmail.ru';
@@ -25,7 +24,6 @@ email = 'sandybigboy@gmail.ru';
 update_timeout = 120*60
 retrieve_timeout = 30
 
-#dir = './'
 data_fields = ('3dlocation', '6dlocation',  'updatetime', 
         'high-0', 'high-1', 'high-2', 'high-3', 'high-4', 'high-5',
         'low-0', 'low-1', 'low-2', 'low-3', 'low-4', 'low-5',
@@ -71,12 +69,8 @@ def get_page(address,  title=''):
         return None
         raise Exception( "get_page() error: ",response.code)   
 
-# f defines an equivalence relation among items of sequence seq, and
-# f(x) must be hashable for each item x of seq
-
 def uniquer(seq, f=None):
-    """ Keeps earliest occurring item of each f-defined equivalence class """
-    if f is None:    # f's default is the identity function f(x) -> x
+    if f is None:
         def f(x): return x
     already_seen = set( )
     result = [  ]
@@ -104,6 +98,8 @@ def search_locations(location_str):
     base_url = 'http://xml.weather.co.ua/1.2/city/?search='
     xml_page = get_page(base_url + urllib.quote(location_str.encode('utf8')))
     tree = etree.XML(xml_page)
+    xml_page = get_page('http://xml.weather.co.ua/1.2/country/')
+    countries_tree = etree.XML(xml_page)
     
     cities = []
     ids = []
@@ -115,11 +111,13 @@ def search_locations(location_str):
     id_nodes = tree.xpath('/city/city') 
     for node in id_nodes : 
         ids.append(node.values()[0])
-    country_nodes = tree.xpath('//country') 
+    country_nodes = tree.xpath('//country_id') 
     for node in country_nodes : 
         countries.append(node.text)
     for i in range(len(city_nodes)):
-        sys.stdout.write( u'%s::%s, %s\n' % (ids[i], cities[i],  countries[i]))
+        #Для устранения проблемы закорюк выковыриваем и английское название страны
+        country_ids = countries_tree.xpath('/country/country[@id=' + countries[i] + ']/name_en')
+        sys.stdout.write( u'%s::%s, %s\n' % (ids[i], cities[i],  country_ids[0].text))
 
 def get_data(location_id):
     
@@ -143,7 +141,7 @@ def get_data(location_id):
         else:
             return 'unknown.png'
 
-#Из значения облачности получаем тип погоды, тип погоды меняется каждый десяток
+    #Из значения облачности получаем тип погоды, тип погоды меняется каждый десяток
     def get_weather(WID):
         result = 255
         for i in range(0, 90, 10):
@@ -152,14 +150,12 @@ def get_data(location_id):
                 result = max_value
         return result
 
-    def get_data():
+    def get_data(days):
         t_mins = []
         t_maxs = []
         picts = []
-        date = '/forecast/forecast/day[@date=' + '"'+days[i] + '"'+ ']/*'
-        forecast_for_date = tree.xpath(date) 
-        date_str = days[i]
-        datesplitted = date_str.split('-')
+        forecast_for_date = tree.xpath('/forecast/forecast/day[@date=' + '"'+days[i] + '"'+ ']/*') 
+        datesplitted = days[i].split('-')
         when = datetime.datetime(int(datesplitted[0]),  int(datesplitted[1]),  int(datesplitted[2]))
         for nodes in forecast_for_date:
             if len(nodes) < 2:
@@ -195,9 +191,9 @@ def get_data(location_id):
     days = uniquer(days)
     for i in range(len(days)):
         if len(days) > 5:
-            get_data()
+            get_data(days)
         else:
-            get_data()
+            get_data(days)
             
 def main():
     parser = OptionParser(usage="""\
@@ -228,7 +224,7 @@ Usage: %prog [-l CITY | -u SI -d DIRECTORY LOCATIONID]
         get_timeouts()
         sys.exit(0)
     if options.data_get:
-        #get_data(unicode(options.data_get, "utf8"))
+        #get_data(unicode(options.data_get[3], "utf8"))
         get_data(options.data_get[3])
     elif options.locations_search:
         search_locations(unicode(options.locations_search, "utf8"))
