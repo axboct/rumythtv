@@ -49,10 +49,33 @@ def print_exception(str):
 #возможно есть более правильное решение, но вроде и это работает.
 def  normilize_string(processingstring):
     try:
-        symbol_to_remove=('&nbsp;', '&#151;', '<br><br>', '&laquo;', '&raquo;', '&#133;')
-        symbol_to_remove2=(' ', '-', ' ',  '"',  '"',  '...', )
-        for i in range (0,  len(symbol_to_remove)):
-            processingstring = string.replace(processingstring, symbol_to_remove[i], symbol_to_remove2[i])
+        symbols_to_remove = {'&#160;':' ', '&nbsp;':' ', '&#161;':'¡', '&iexcl;':'¡', '&#162;':'¢', '&cent;':'¢', '&#163;':'£',  
+        '&pound;':'£', '&#164;':'¤', '&curren;':'¤', '&#165;':'¥', '&yen;':'¥', '&#166;':'¦', '&brvbar;':'¦', '&brkbar;':',',
+        '&#167;':'§', '&sect;':'§', '&#168;':'¨', '&uml;':'¨',  '&#169;':'©', '&copy;':'©', '&#170;':'ª', '&ordf;':'ª',  '&#171;':'«', 
+        '&laquo;':'«', '&#172;':'¬', '&not;':'¬', '&#173;':' ', '&shy;':'­ ', '&#174;':'®', '&reg;':'®',
+        '&#175;':'¯', '&macr;':'¯',  '&#176;':'°', '&deg;':'°', '&#177;':'±', '&plusmn;':'±', '&#178;':'²', '&sup2;':'²', 
+        '&#179;':'³', '&sup3;':'³', '&#180;':'´', '&acute;':'´', '&#181;':'µ', '&micro;':'µ', '&#182;':'¶', '&para;':'¶', 
+        '&#183;':'·', '&middot;':'·', '&#184;':'¸', '&cedil;':'¸', '&#185;':'¹', '&sup1;':'¹', '&#186;':'º', '&ordm;':'º', 
+        '&#187;':'»', '&raquo;':'»', '&#188;':'¼', '&frac14;':'¼', '&#189;':'½', '&frac12;':'½', '&#190;':'¾', '&frac34;':'¾',
+        '&#191;':'¿', '&iquest;':'¿', '&#192;':'À', '&Agrave;':'À', '&#193;':'Á', '&Aacute;':'Á', '&#194;':'Â', '&Acirc;':'Â', 
+        '&#195;':'Ã', '&Atilde;':'Ã', '&#196;':'Ä', '&Auml;':'Ä', '&#197;':'Å', '&Aring;':'Å', '&#198;':'Æ', '&AElig;':'Æ', 
+        '&#199;':'Ç', '&Ccedil;':'Ç', '&#200;':'È', '&Egrave;':'È', '&#201;':'É', '&Eacute;':'É', '&#202;':'Ê', '&Ecirc;':'Ê', 
+        '&#203;':'Ë', '&Euml;':'Ë', '&#204;':'Ì', '&Igrave;':'Ì', '&#205;':'Í', '&Iacute;':'Í', '&#206;':'Î', '&Icirc;':'Î', 
+        '&#207;':'Ï', '&Iuml;':'Ï', '&#208;':'Ð', '&ETH;':'Ð',  '&#209;':'Ñ', '&Ntilde;':'Ñ', '&#210;':'Ò', '&Ograve;':'Ò', 
+        '&#211;':'Ó', '&Oacute;':'Ó', '&#212;':'Ô', '&Ocirc;':'Ô', '&#213;':'Õ', '&Otilde;':'Õ', '&#214;':'Ö', '&Ouml;':'Ö',
+        '&#215;':'×', '&times;':'×', '&#216;':'Ø', '&Oslash;':'Ø', '&#217;':'Ù', '&Ugrave;':'Ù', '&#218;':'Ú', '&Uacute;':'Ú', 
+        '&#219;':'Û', '&Ucirc;':'Û', '&#220;':'Ü', '&Uuml;':'Ü', '&#221;':'Ý', '&Yacute;':'Ý', '&#222;':'Þ', '&THORN;':'Þ', 
+        '&#223;':'ß', '&szlig;':'ß', '&#224;':'à', '&agrave;':'à', '&#225;':'á', '&aacute;':'á', '&#226;':'â', '&acirc;':'â', 
+        '&#227;':'ã', '&atilde;':'ã', '&#228;':'ä', '&auml;':'ä', '&#229;':'å', '&aring;':'å', '&#230;':'æ', '&aelig;':'æ', 
+        '&#231;':'ç', '&ccedil;':'ç', '&#232;':'è', '&egrave;':'è', '&#233;':'é', '&eacute;':'é', '&#234;':'ê', '&ecirc;':'ê', 
+        '&#235;':'ë', '&euml;':'ë', '&#236;':'ì', '&igrave;':'ì', '&#237;':'í', '&iacute;':'í', '&#238;':'î', '&icirc;':'î', 
+        '&#239;':'ï', '&iuml;':'ï', '&#240;':'ð', '&eth;':'ð', '&#241;':'ñ', '&ntilde;':'ñ', '&#242;':'ò', '&ograve;':'ò', 
+        '&#243;':'ó', '&oacute;':'ó', '&#244;':'ô', '&ocirc;':'ô', '&#245;':'õ', '&otilde;':'õ', '&#246;':'ö', '&ouml;':'ö', 
+        '&#247;':'÷', '&divide;':'÷', '&#248;':'ø', '&oslash;':'ø', '&#249;':'ù', '&ugrave;':'ù', '&#250;':'ú', '&uacute;':'ú', 
+        '&#251;':'û', '&ucirc;':'û', '&#252;':'ü', '&uuml;':'ü', '&#253;':'ý', '&yacute;':'ý', '&#254;':'þ', '&thorn;':'þ', 
+        '&#255;':'ÿ', '&yuml;':'ÿ', '&#133;': '...', '&#151;':'-', '<br><br>':' '}
+        for i in range (0,  len(symbols_to_remove)):
+            processingstring = string.replace(processingstring,  unicode(symbols_to_remove.items()[i][0],  'utf-8'), unicode(symbols_to_remove.items()[i][1],  'utf-8'))
         return processingstring
     except:
         return ''
@@ -78,7 +101,6 @@ def get_page(address,  title=''):
         pagedata = response.read().decode('cp1251')
         return pagedata
     else:
-        return None
         raise Exception( "get_page() error: ",response.code)   
 
 def single_value(content,  matchstring):
@@ -133,7 +155,7 @@ def search_fanart(uid):
         else:
                 return '' 
     except:
-        print ''
+        print_exception(traceback.format_exc())
 
 #Ищем обложки
 def search_poster(uid):
@@ -157,7 +179,7 @@ def search_poster(uid):
         else:
             return ''
     except:
-        print ''
+        print_exception(traceback.format_exc())
         
 #Получаем названия фильмов похожие на наш фильм
 def search_title(title):
@@ -207,7 +229,7 @@ def search_data(uid, rating_country):
             else:
                 return ''
         except:
-            return ''
+            print_exception(traceback.format_exc())
     
     try:
         filmdata = {'title' : '',
@@ -243,10 +265,10 @@ def search_data(uid, rating_country):
         result = regexp.search(data)
         if result == None:
             #Если не ту, то выбираем одно условие поиска
-            filmdata['cast'] = get_multi_value('<!-- актеры фильма -->(.*?)<!-- /актеры фильма -->',  'href="/level/4/people.*?class="all">(.*?)</a>')
+            filmdata['cast'] = normilize_string(get_multi_value('<!-- актеры фильма -->(.*?)<!-- /актеры фильма -->',  'href="/level/4/people.*?class="all">(.*?)</a>'))
         #Если да, то другое, с отбрасыванием дублирующих
         else:
-            filmdata['cast'] = get_multi_value('<!-- актеры фильма -->(.*?)Роли дублировали:',  'href="/level/4/people.*?class="all">(.*?)</a>')
+            filmdata['cast'] = normilize_string(get_multi_value('<!-- актеры фильма -->(.*?)Роли дублировали:',  'href="/level/4/people.*?class="all">(.*?)</a>'))
         movierating = string.split(single_value(data, 'td class="type">рейтинг MPAA</td>.*?<img src.*?alt=(.*?) border=0>'))
         #Проверка нужна так как российские фильмы обычно не имеют рейтинга MPAA
         if len(movierating) > 0:
