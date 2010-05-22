@@ -173,6 +173,7 @@ def get_data(location_id):
     tree = etree.XML(xml_page)
     #tree = etree.parse(StringIO(xml_page))
    
+    names = get_text_list('/forecast/city/name_en')
     picts = get_text_list('/forecast/current/pict')
     times = get_text_list('/forecast/current/time')
     clouds = get_text_list('/forecast/current/cloud')
@@ -186,7 +187,7 @@ def get_data(location_id):
     for i in range(len(clouds)):
         sys.stdout.write( u'copyright::(c) DiscoveringWeather\n')
         sys.stdout.write( u'station_id::%s\n' % location_id)
-        sys.stdout.write( u'cclocation::N/A\n')
+        sys.stdout.write( u'cclocation:: %s\n' % names[0])
         sys.stdout.write( u'weather::%s\n' % weather[get_weather(int(clouds[0]))])
         sys.stdout.write( u'weather_icon::%s\n' % get_icon(picts[0]))
         sys.stdout.write( u'temp::%s\n' % temps[0])
