@@ -250,10 +250,10 @@ def search_data(uid, rating_country):
 				}
         data = get_page("/level/1/film/"+uid)
         filmdata['title'] =normilize_string(single_value(data, 'class="moviename-big">(.*?)</h1>') )
-        filmdata['directors'] = normilize_string(get_multi_value('td class="type">режиссер</td>(.*?)</tr>', '<a href=".*?>(.*?)</a>'))
-        filmdata['countries'] = get_multi_value('<td class="type">страна</td>(.*?)</tr>', '<a href=".*?>(.*?)</a>')
-        filmdata['year'] = single_value(data, 'td class="type">год</td>.*?<a href=.*?>(.*?)</a>')
-        filmdata['genre'] = get_multi_value('td class="type">жанр</td>(.*?)</tr>', '<a href=".*?>(.*?)</a>')
+        filmdata['directors'] = normilize_string(get_multi_value('>режиссер</td>(.*?)</tr>', '<a href=".*?>(.*?)</a>'))
+        filmdata['countries'] = get_multi_value('>страна</td>(.*?)</tr>', '<a href=".*?>(.*?)</a>')
+        filmdata['year'] = single_value(data, '>год</td>.*?<a href=.*?>(.*?)</a>')
+        filmdata['genre'] = get_multi_value('>жанр</td>(.*?)</tr>', '<a href=".*?>(.*?)</a>')
         filmdata['user_rating'] = single_value(data, '<a href="/level/83/film/.*?>(.*?)<span')
         filmdata['plot'] = normilize_string(single_value(data, '<tr><td colspan=3 style="padding: 10px.*?reachbanner_">(.*?)</span>'))
         runtime = string.split(single_value(data, '<td class="time" id="runtime">(.*?)</td>'))
@@ -269,7 +269,7 @@ def search_data(uid, rating_country):
         #Если да, то другое, с отбрасыванием дублирующих
         else:
             filmdata['cast'] = normilize_string(get_multi_value('<!-- актеры фильма -->(.*?)Роли дублировали:',  'href="/level/4/people.*?class="all">(.*?)</a>'))
-        movierating = string.split(single_value(data, 'td class="type">рейтинг MPAA</td>.*?<img src.*?alt=(.*?) border=0>'))
+        movierating = string.split(single_value(data, ">рейтинг MPAA</td>.*?<img src.*?alt='(.*?)' border=0>"))
         #Проверка нужна так как российские фильмы обычно не имеют рейтинга MPAA
         if len(movierating) > 0:
             filmdata['movie_rating'] = movierating[1]
