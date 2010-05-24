@@ -73,7 +73,8 @@ def  normilize_string(processingstring):
         '&#243;':'ó', '&oacute;':'ó', '&#244;':'ô', '&ocirc;':'ô', '&#245;':'õ', '&otilde;':'õ', '&#246;':'ö', '&ouml;':'ö', 
         '&#247;':'÷', '&divide;':'÷', '&#248;':'ø', '&oslash;':'ø', '&#249;':'ù', '&ugrave;':'ù', '&#250;':'ú', '&uacute;':'ú', 
         '&#251;':'û', '&ucirc;':'û', '&#252;':'ü', '&uuml;':'ü', '&#253;':'ý', '&yacute;':'ý', '&#254;':'þ', '&thorn;':'þ', 
-        '&#255;':'ÿ', '&yuml;':'ÿ', '&#133;': '...', '&#151;':'-', '<br><br>':' '}
+        #'&#255;':'ÿ', '&yuml;':'ÿ', '&#133;': '...', '&#151;':'-', '<br><br>':' ', '<br />\n<br />':' '}
+        '&#255;':'ÿ', '&yuml;':'ÿ', '&#133;': '...', '&#151;':'-', '<br><br>':' ', '<br />':'', '\n':' '}
         for i in range (0,  len(symbols_to_remove)):
             processingstring = string.replace(processingstring,  unicode(symbols_to_remove.items()[i][0],  'utf-8'), unicode(symbols_to_remove.items()[i][1],  'utf-8'))
         return processingstring
@@ -205,7 +206,8 @@ def search_title(title):
         #Если не ту, то парсим страницу фильма на которую нас перенаправил кинопоиск
         idstr = single_value(data, 'id_film = (.*?); <') 
         titlestr = single_value(data, 'class="moviename-big">(.*?)</h1>') 
-        print normilize_string(idstr + ':' + titlestr)+'\n'
+        #print normilize_string(idstr + ':' + titlestr)+'\n'
+        print normilize_string(idstr + ':' + titlestr)
     else:
         #Если ту, то берем фильмы которые нам нашли
         matchstring = '>Скорее всего вы ищете:<(.*?)Если вам не удалось найти'
