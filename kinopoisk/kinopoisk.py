@@ -73,7 +73,7 @@ def  normilize_string(processingstring):
         '&#243;':'ó', '&oacute;':'ó', '&#244;':'ô', '&ocirc;':'ô', '&#245;':'õ', '&otilde;':'õ', '&#246;':'ö', '&ouml;':'ö', 
         '&#247;':'÷', '&divide;':'÷', '&#248;':'ø', '&oslash;':'ø', '&#249;':'ù', '&ugrave;':'ù', '&#250;':'ú', '&uacute;':'ú', 
         '&#251;':'û', '&ucirc;':'û', '&#252;':'ü', '&uuml;':'ü', '&#253;':'ý', '&yacute;':'ý', '&#254;':'þ', '&thorn;':'þ', 
-        '&#255;':'ÿ', '&yuml;':'ÿ', '&#133;': '...', '&#151;':'-', '<br><br>':' ', '<br />':'',  '\r':'',  '\n':''}
+        '&#255;':'ÿ', '&yuml;':'ÿ', '&#133;': '...', '&#151;':'-', '<br><br>':' ', '<br />':'',  '\r':'',  '\n':'', '  ':' '}
         #for i in range (0,  len(symbols_to_remove)):
         for i in range (len(symbols_to_remove)):
             processingstring = string.replace(processingstring,  unicode(symbols_to_remove.items()[i][0],  'utf-8'), unicode(symbols_to_remove.items()[i][1],  'utf-8'))
