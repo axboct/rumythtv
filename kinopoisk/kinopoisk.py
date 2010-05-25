@@ -198,7 +198,6 @@ def search_title(title):
         
     data = get_page("/index.php?first=no&kp_query=",  title)
     #Проверяем ту ли страницу (т.е. страницу с результатами поиска) мы получили
-    #matchstring = 'Похожие результаты'
     matchstring = 'Скорее всего вы ищете'
     matchstring = unicode(matchstring, "utf8")
     regexp= re.compile(matchstring,re.DOTALL)
@@ -207,8 +206,7 @@ def search_title(title):
         #Если не ту, то парсим страницу фильма на которую нас перенаправил кинопоиск
         idstr = single_value(data, 'id_film = (.*?); <') 
         titlestr = single_value(data, 'class="moviename-big">(.*?)</h1>') 
-        #print normilize_string(idstr + ':' + titlestr)
-        sys.stdout.write( u'%s:%s\n' % (iditems[i], normilize_string(titleitems[i]) + ' ('+ yearitems[i] + ')'))
+        sys.stdout.write( u'%s:%s\n' % (idstr, normilize_string(titlestr)))
     else:
         #Если ту, то берем фильмы которые нам нашли
         matchstring = '>Скорее всего вы ищете:<(.*?)Если вам не удалось найти'
