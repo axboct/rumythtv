@@ -198,7 +198,8 @@ def search_title(title):
         
     data = get_page("/index.php?first=no&kp_query=",  title)
     #Проверяем ту ли страницу (т.е. страницу с результатами поиска) мы получили
-    matchstring = 'Похожие результаты'
+    #matchstring = 'Похожие результаты'
+    matchstring = 'Скорее всего вы ищете'
     matchstring = unicode(matchstring, "utf8")
     regexp= re.compile(matchstring,re.DOTALL)
     result = regexp.search(data)
@@ -206,8 +207,8 @@ def search_title(title):
         #Если не ту, то парсим страницу фильма на которую нас перенаправил кинопоиск
         idstr = single_value(data, 'id_film = (.*?); <') 
         titlestr = single_value(data, 'class="moviename-big">(.*?)</h1>') 
-        #print normilize_string(idstr + ':' + titlestr)+'\n'
-        print normilize_string(idstr + ':' + titlestr)
+        #print normilize_string(idstr + ':' + titlestr)
+        sys.stdout.write( u'%s:%s\n' % (iditems[i], normilize_string(titleitems[i]) + ' ('+ yearitems[i] + ')'))
     else:
         #Если ту, то берем фильмы которые нам нашли
         matchstring = '>Скорее всего вы ищете:<(.*?)Если вам не удалось найти'
@@ -251,7 +252,7 @@ def search_data(uid, rating_country):
                 #				'writers' : '',
 				}
         data = get_page("/level/1/film/"+uid)
-        filmdata['title'] =normilize_string(single_value(data, 'class="moviename-big">(.*?)</h1>') )
+        filmdata['title'] =normilize_string(single_value(data, 'class="moviename-big">(.*?)</h1>') ).rstrip()
         filmdata['directors'] = normilize_string(get_multi_value('>режиссер</td>(.*?)</tr>', '<a href=".*?>(.*?)</a>'))
         filmdata['countries'] = get_multi_value('>страна</td>(.*?)</tr>', '<a href=".*?>(.*?)</a>')
         filmdata['year'] = single_value(data, '>год</td>.*?<a href=.*?>(.*?)</a>')
