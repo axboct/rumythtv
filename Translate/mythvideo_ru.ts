@@ -7,31 +7,31 @@
         <location filename="../mythvideo/globalsettings.cpp" line="390"/>
         <source>G</source>
         <comment>PL 1 default search string.</comment>
-        <translation type="unfinished">G</translation>
+        <translation>G</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="392"/>
         <source>PG</source>
         <comment>PL 2 default search string.</comment>
-        <translation type="unfinished">PG</translation>
+        <translation>PG</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="394"/>
         <source>PG-13</source>
         <comment>PL3 default search string.</comment>
-        <translation type="unfinished">PG-13</translation>
+        <translation>PG-13</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="396"/>
         <source>R:NC-17</source>
         <comment>PL4 default search string.</comment>
-        <translation type="unfinished">R:NC-17</translation>
+        <translation>R:NC-17</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="168"/>
         <location filename="../mythvideo/videodlg.cpp" line="213"/>
         <source>Tried to write %1, but it appears to be an HTML redirect (filesize %2).</source>
-        <translation type="unfinished">Попытка записи %1, но по всей видимости происходит перенаправление HTML (размер файла %2).</translation>
+        <translation>Попытка записи %1, но по всей видимости происходит перенаправление HTML (размер файла %2).</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="191"/>
@@ -46,7 +46,7 @@
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="233"/>
         <source>Error: file error &apos;%1&apos; for file %2</source>
-        <translation type="unfinished">Ошибка: файловая ошибка &apos;%1&apos; для файла %2</translation>
+        <translation>Ошибка: файловая ошибка &apos;%1&apos; для файла %2</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="328"/>
@@ -59,7 +59,7 @@
     <message>
         <location filename="../mythvideo/dvdripbox.cpp" line="240"/>
         <source>Your connection to the Myth Transcoding Daemon has gone away. This is not a good thing.</source>
-        <translation type="unfinished">Ваше соединение к Myth Transcoding Daemon пропало. Это не очень хорошо.</translation>
+        <translation>Ваше соединение к Myth Transcoding Daemon пропало. Это не очень хорошо.</translation>
     </message>
     <message>
         <location filename="../mythvideo/dvdripbox.cpp" line="450"/>
@@ -106,7 +106,7 @@
     <message>
         <location filename="../mythvideo/dvdripbox.cpp" line="279"/>
         <source>Attempting to connect to your mtd said host not found. Unable to recover.</source>
-        <translation type="unfinished">При попытке подключения mtd определили что хост не найден. Невозможно исправить.</translation>
+        <translation>При попытке подключения mtd определили что хост не найден. Невозможно исправить.</translation>
     </message>
     <message>
         <location filename="../mythvideo/dvdripbox.cpp" line="285"/>
@@ -198,17 +198,17 @@
     <message>
         <location filename="../mythvideo/metadatasettings.cpp" line="237"/>
         <source>If set, this will enable a button called &quot;Watch With Trailers&quot; which will play a user-specified number of trailers before the movie.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Если установлено, будет доступна кнопка &quot;Смотреть с трейлерами&quot;, которая позволит воспроизвести перед фильмом заданное пользователем число трейлеров.</translation>
     </message>
     <message>
         <location filename="../mythvideo/metadatasettings.cpp" line="242"/>
         <source>Number of trailers to play before a film.</source>
-        <translation type="unfinished">Число трейлеров проигрываемых перед фильмом.</translation>
+        <translation>Число трейлеров проигрываемых перед фильмом.</translation>
     </message>
     <message>
         <location filename="../mythvideo/metadatasettings.cpp" line="244"/>
         <source>If set, all files below the Myth Video directory will be displayed unless their extension is explicitly set to be ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Если установлено, все файлы каталога MythVideo будут отображены, если явно не задано, что расширение файла должно быть игнорировано.</translation>
     </message>
     <message>
         <location filename="../mythvideo/metadatasettings.cpp" line="248"/>
@@ -218,12 +218,12 @@
     <message>
         <location filename="../mythvideo/metadatasettings.cpp" line="253"/>
         <source>Exit without saving settings</source>
-        <translation type="unfinished">Выйти без сохранения настроек</translation>
+        <translation>Выйти без сохранения настроек</translation>
     </message>
     <message>
         <location filename="../mythvideo/metadatasettings.cpp" line="255"/>
         <source>Save settings and Exit</source>
-        <translation type="unfinished">Сохранить настройки и выйти</translation>
+        <translation>Сохранить настройки и выйти</translation>
     </message>
 </context>
 <context>
@@ -271,22 +271,22 @@
     <message>
         <location filename="../mythvideo/main.cpp" line="335"/>
         <source>Increase Parental Level</source>
-        <translation type="unfinished">Увеличить уровень родительского контроля</translation>
+        <translation>Увеличить уровень родительского контроля</translation>
     </message>
     <message>
         <location filename="../mythvideo/main.cpp" line="337"/>
         <source>Decrease Parental Level</source>
-        <translation type="unfinished">Уменьншить уровень родительского контроля</translation>
+        <translation>Уменьншить уровень родительского контроля</translation>
     </message>
     <message>
         <location filename="../mythvideo/main.cpp" line="340"/>
         <source>Show Incremental Search Dialog</source>
-        <translation type="unfinished">Показать диалог инкрементального поиска</translation>
+        <translation>Показать диалог инкрементального поиска</translation>
     </message>
     <message>
         <location filename="../mythvideo/main.cpp" line="342"/>
         <source>Download metadata for current item</source>
-        <translation type="unfinished">Загрузить метаданные для текущего элемента</translation>
+        <translation>Загрузить метаданные для текущего элемента</translation>
     </message>
     <message>
         <location filename="../mythvideo/main.cpp" line="344"/>
@@ -296,17 +296,17 @@
     <message>
         <location filename="../mythvideo/main.cpp" line="347"/>
         <source>Go to the first video</source>
-        <translation type="unfinished">Перейти к первому фильму</translation>
+        <translation>Перейти к первому фильму</translation>
     </message>
     <message>
         <location filename="../mythvideo/main.cpp" line="349"/>
         <source>Go to the last video</source>
-        <translation type="unfinished">Перейти к последнему фильму</translation>
+        <translation>Перейти к последнему фильму</translation>
     </message>
     <message>
         <location filename="../mythvideo/main.cpp" line="353"/>
         <source>Play a DVD</source>
-        <translation type="unfinished">Воспроизвести DVD</translation>
+        <translation>Воспроизвести DVD</translation>
     </message>
     <message>
         <location filename="../mythvideo/main.cpp" line="355"/>
@@ -316,7 +316,7 @@
     <message>
         <location filename="../mythvideo/main.cpp" line="359"/>
         <source>Play a VCD</source>
-        <translation type="unfinished">Воспроизвести VCD</translation>
+        <translation>Воспроизвести VCD</translation>
     </message>
     <message>
         <location filename="../mythvideo/main.cpp" line="361"/>
@@ -334,42 +334,42 @@
     <message>
         <location filename="../mythvideo/playersettings.cpp" line="141"/>
         <source>This is the command used for any file whose extension is not specifically defined. You may also enter the name of one of the playback plugins such as &apos;Internal&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Эта команда используется для любого файла, расширение которого не задано. Вы можете также ввести имя одного из плагинов воспроизведения, таких как &quot;Internal&quot;.</translation>
     </message>
     <message>
         <location filename="../mythvideo/playersettings.cpp" line="146"/>
         <source>This can be any command to launch a DVD  player. Internal is the default.  For other players, %d will be substituted for the DVD device (e.g. /dev/dvd).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Это может быть любая команда для запуска плеера DVD. По умолчанию это Internal.  Для других плееров, %d будет заменено на устройство DVD (например /dev/dvd).</translation>
     </message>
     <message>
         <location filename="../mythvideo/playersettings.cpp" line="150"/>
         <source>This device must exist, and the user playing the DVD needs to have read permission on the device.  &apos;default&apos; will let the MediaMonitor choose a device.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Это устройство должно существовать, и пользователь воспроизводящий DVD должен иметь прова на чтение этого устройства.  &quot;по умолчанию&quot; означает, что MediaMonitor автоматически выберет устройство.</translation>
     </message>
     <message>
         <location filename="../mythvideo/playersettings.cpp" line="155"/>
         <source>This can be any command to launch a VCD player. The Internal player will not play VCDs. %d will be substituted for the VCD device (e.g. /dev/cdrom).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Это может быть любой командой для запуска плеера VCD. Внутренний (Internal) плеер не воспроизводит VCD. %d будет заменено на устройствоVCD  (например /dev/cdrom).</translation>
     </message>
     <message>
         <location filename="../mythvideo/playersettings.cpp" line="159"/>
         <source>This device must exist, and the user playing the VCD needs to have read permission on the device.  &apos;default&apos; will let the MediaMonitor choose a device.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Это устройство должно существовать, и пользователь воспроизводящий VCD должен иметь прова на чтение этого устройства.  &quot;по умолчанию&quot; означает, что MediaMonitor автоматически выберет устройство.</translation>
     </message>
     <message>
         <location filename="../mythvideo/playersettings.cpp" line="164"/>
         <source>If for some reason the default player doesn&apos;t play a video, you can play it in an alternate player by selecting &apos;Play in Alternate Player.&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Если по каким-либо причинам плеер по умолчанию не воспроизводит видео, вы можете воспроизвести его альтернативным плеером, выбрав &quot;Воспроизвести в альтернативном плеере.&quot;</translation>
     </message>
     <message>
         <location filename="../mythvideo/playersettings.cpp" line="168"/>
         <source>Exit without saving settings</source>
-        <translation type="unfinished">Выйти без сохранения настроек</translation>
+        <translation>Выйти без сохранения настроек</translation>
     </message>
     <message>
         <location filename="../mythvideo/playersettings.cpp" line="170"/>
         <source>Save settings and Exit</source>
-        <translation type="unfinished">Сохранить настройки и выйти</translation>
+        <translation>Сохранить настройки и выйти</translation>
     </message>
 </context>
 <context>
@@ -377,22 +377,22 @@
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="18"/>
         <source>Starting Parental Level</source>
-        <translation type="unfinished">Начальный уровень доступа</translation>
+        <translation>Начальный уровень доступа</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="19"/>
         <source>4 - Highest</source>
-        <translation type="unfinished">4 - Высший</translation>
+        <translation>4 - Высший</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="21"/>
         <source>1 - Lowest</source>
-        <translation type="unfinished">1 - Низший</translation>
+        <translation>1 - Низший</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="25"/>
         <source>This is the &apos;level&apos; that MythVideo starts at. Any videos with a level at or below this will be shown in the list or while browsing by default. The Parental PIN should be set to limit changing of the default level.</source>
-        <translation type="unfinished">Это &apos;Уровень&apos; с каким MythVideo будет запущено. Любые фильмы с этим уровнем и ниже будут показаны по умолчанию. Родительский ПИН должен быть установлен для ограничения смены уровня по умолчанию.</translation>
+        <translation>Это &apos;Уровень&apos; с каким MythVideo будет запущено. Любые фильмы с этим уровнем и ниже будут показаны по умолчанию. Родительский ПИН должен быть установлен для ограничения смены уровня по умолчанию.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="33"/>
@@ -402,7 +402,7 @@
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="72"/>
         <source>If set, you will not be able to return to this screen and reset the Parental PIN without first entering the current PIN. You have been warned.</source>
-        <translation type="unfinished">Если установлено, Вы не сможете вернуться на этот экран и сбросить Родительский ПИН без ввода текущего. Вы были предупреждены.</translation>
+        <translation>Если установлено, Вы не сможете вернуться на этот экран и сбросить Родительский ПИН без ввода текущего. Вы были предупреждены.</translation>
     </message>
     <message>
         <source>Show Unknown File Types</source>
@@ -423,7 +423,7 @@
     <message>
         <location filename="../mythvideo/videoutils.cpp" line="20"/>
         <source>No Cover</source>
-        <translation type="unfinished">Нет обложки</translation>
+        <translation>Нет обложки</translation>
     </message>
     <message>
         <location filename="../mtd/dvdprobe.cpp" line="420"/>
@@ -437,14 +437,14 @@
         <location filename="../mythvideo/globals.cpp" line="12"/>
         <location filename="../mythvideo/videofilter.cpp" line="790"/>
         <source>Unknown</source>
-        <translation type="unfinished">Неизвестно</translation>
+        <translation>Неизвестно</translation>
     </message>
     <message>
         <location filename="../mythvideo/globals.cpp" line="23"/>
         <location filename="../mythvideo/videofilter.cpp" line="797"/>
         <location filename="../mythvideo/videoutils.cpp" line="19"/>
         <source>None</source>
-        <translation type="unfinished">Нет</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>Newly scanned files are browsable by default</source>
@@ -473,7 +473,7 @@
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="93"/>
         <source>Directory that holds movie posters</source>
-        <translation type="unfinished">Каталог для сохранения обложек фильмов</translation>
+        <translation>Каталог для сохранения обложек фильмов</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="95"/>
@@ -482,7 +482,7 @@
         <location filename="../mythvideo/globalsettings.cpp" line="128"/>
         <location filename="../mythvideo/globalsettings.cpp" line="139"/>
         <source>This directory must exist, and the user running MythVideo needs to have read/write permission to the directory.</source>
-        <translation type="unfinished">Этот каталог должен существовать и пользователь запустивший MythVideo должен иметь права на чтение/запись в этом каталоге.</translation>
+        <translation>Этот каталог должен существовать, и пользователь запустивший MythVideo должен иметь права на чтение/запись в этом каталоге.</translation>
     </message>
     <message>
         <source>Video Manager</source>
@@ -507,7 +507,7 @@
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="70"/>
         <source>Aggressive Parental Control</source>
-        <translation type="unfinished">Агрессивный родительский контроль</translation>
+        <translation>Агрессивный родительский контроль</translation>
     </message>
     <message>
         <source>This is the command used for any file that the extension is not specifically defined. You may also enter the name of one of the playback plugins such as &apos;Internal&apos;.</source>
@@ -534,7 +534,7 @@
         <location filename="../mythvideo/videofilter.cpp" line="788"/>
         <location filename="../mythvideo/videofilter.cpp" line="795"/>
         <source>All</source>
-        <translation type="unfinished">Все</translation>
+        <translation>Все</translation>
     </message>
     <message>
         <location filename="../mythvideo/videofilter.cpp" line="773"/>
@@ -542,7 +542,7 @@
         <location filename="../mythvideo/videoutils.cpp" line="157"/>
         <location filename="../mythvideo/videoutils.cpp" line="162"/>
         <source>Yes</source>
-        <translation type="unfinished">Год</translation>
+        <translation>Год</translation>
     </message>
     <message>
         <location filename="../mythvideo/videofilter.cpp" line="775"/>
@@ -550,42 +550,42 @@
         <location filename="../mythvideo/videoutils.cpp" line="157"/>
         <location filename="../mythvideo/videoutils.cpp" line="162"/>
         <source>No</source>
-        <translation type="unfinished">Нет</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <location filename="../mythvideo/videofilter.cpp" line="802"/>
         <source>Title</source>
-        <translation type="unfinished">Заголовок</translation>
+        <translation>Заголовок</translation>
     </message>
     <message>
         <location filename="../mythvideo/videofilter.cpp" line="806"/>
         <source>Year</source>
-        <translation type="unfinished">Год</translation>
+        <translation>Год</translation>
     </message>
     <message>
         <location filename="../mythvideo/videofilter.cpp" line="808"/>
         <source>User Rating</source>
-        <translation type="unfinished">Рейтинг</translation>
+        <translation>Рейтинг</translation>
     </message>
     <message>
         <location filename="../mythvideo/videofilter.cpp" line="810"/>
         <source>Runtime</source>
-        <translation type="unfinished">Длина</translation>
+        <translation>Длина</translation>
     </message>
     <message>
         <location filename="../mythvideo/videofilter.cpp" line="812"/>
         <source>Filename</source>
-        <translation type="unfinished">Имя файла</translation>
+        <translation>Имя файла</translation>
     </message>
     <message>
         <location filename="../mythvideo/videofilter.cpp" line="814"/>
         <source>Video ID</source>
-        <translation type="unfinished">Идентификатор</translation>
+        <translation>Идентификатор</translation>
     </message>
     <message>
         <location filename="../mythvideo/main.cpp" line="140"/>
         <source>OK, I&apos;ll go run Setup</source>
-        <translation type="unfinished">Хорошо, перейдем к настройке</translation>
+        <translation>Хорошо, перейдем к настройке</translation>
     </message>
     <message>
         <source>Location of VCD device</source>
@@ -614,52 +614,52 @@
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="191"/>
         <source>Directory to hold temporary files</source>
-        <translation type="unfinished">Каталог временных файлов</translation>
+        <translation>Каталог временных файлов</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="197"/>
         <source>This directory must exist, and the user running MythDVD needs to have write permission to the directory.</source>
-        <translation type="unfinished">Это каталог должен существовать и пользователь запустивший MythDVD должен иметь права записи в этом каталоге.</translation>
+        <translation>Это каталог должен существовать и пользователь запустивший MythDVD должен иметь права записи в этом каталоге.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="206"/>
         <source>Title Playing Command</source>
-        <translation type="unfinished">Команда проигрывания заголовка</translation>
+        <translation>Команда проигрывания заголовка</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="209"/>
         <source>This is a command used to preview a given title on a DVD. If present %t will be set to the title, %d for device, %a for audio track, %c for audio channels.</source>
-        <translation type="unfinished">Эта команд аиспользуется для предпросмотра заголовка на DVD. &apos;%t&apos; будет заменено на заголовок, &apos;%d&apos; на устройство, &apos;%a&apos; на звуковую дорожку и &apos;%c&apos; на канал звука.</translation>
+        <translation>Эта команда используется для предпросмотра заголовка на DVD. &apos;%t&apos; будет заменено на заголовок, &apos;%d&apos; на устройство, &apos;%a&apos; на звуковую дорожку и &apos;%c&apos; на канал звука.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="219"/>
         <source>Subtitle arguments:</source>
-        <translation type="unfinished">Аргументы субтитров:</translation>
+        <translation>Аргументы субтитров:</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="221"/>
         <source>If you choose any subtitles for ripping, this command is added to the end of the Title Play Command to allow previewing of subtitles. If  present %s will be set to the subtitle track. </source>
-        <translation type="unfinished">Если Вы выбрали любые субтитры для импорта, эта команда будет добавлена в конец Команды проигрывания заголовка дл явозможности предпросмотра субтитров. &apos;%s&apos; будет заменено треком субтитров.</translation>
+        <translation>Если Вы выбрали любые субтитры для импорта, эта команда будет добавлена в конец Команды проигрывания заголовка дл я возможности предпросмотра субтитров. &apos;%s&apos; будет заменено треком субтитров.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="231"/>
         <source>Base transcode command</source>
-        <translation type="unfinished">Основа команды &apos;transcode&apos;</translation>
+        <translation>Основа команды &apos;transcode&apos;</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="233"/>
         <source>This is the base (without arguments) command to run transcode on your system.</source>
-        <translation type="unfinished">Это основа (без аргументов) команды &apos;transcode&apos; запускаемой на Вашей системе (обычно /usr/bin/transcode).</translation>
+        <translation>Это основа (без аргументов) команды &apos;transcode&apos; запускаемой на Вашей системе (обычно /usr/bin/transcode).</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="241"/>
         <source>MTD port number</source>
-        <translation type="unfinished">Номер порта MTD</translation>
+        <translation>Номер порта MTD</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="243"/>
         <source>The port number that should be used for communicating with the MTD (Myth Transcoding Daemon)</source>
-        <translation type="unfinished">номер порта используемы для взаимодействия с MTD.</translation>
+        <translation>Номер порта используемый для взаимодействия с MTD (Myth Transcoding Daemon)</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="252"/>
@@ -669,144 +669,144 @@
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="254"/>
         <source>If set, the MTD (Myth Transcoding Daemon) will log to the window it is started from. Otherwise, it will write to a file called  mtd.log in the top level ripping directory.</source>
-        <translation type="unfinished">Если установлено, MTD будет печатать сообщения в окно терминала из которого запущен. Иначе сообщения будут записаны в файл &apos;mtd.log&apos; создаваемый в каталоге импорта.</translation>
+        <translation>Если установлено, MTD будет печатать сообщения в окно терминала из которого запущен. Иначе сообщения будут записаны в файл &apos;mtd.log&apos; создаваемый в каталоге импорта.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="264"/>
         <source>Transcode AC3 Audio</source>
-        <translation type="unfinished">Перекодировать AC3 звук</translation>
+        <translation>Перекодировать AC3 звук</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="266"/>
         <source>If set, the MTD (Myth Transcoding Daemon) will, by default, preserve AC3 (Dolby Digital) audio in transcoded files. </source>
-        <translation type="unfinished">Если установлено, MTD будет сохранять AC3 (Dolby Digital) звук в перекодированных файлах.</translation>
+        <translation>Если установлено, MTD будет сохранять AC3 (Dolby Digital) звук в перекодированных файлах.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="275"/>
         <source>Use xvid rather than divx</source>
-        <translation type="unfinished">Использовать xvid вместо divx</translation>
+        <translation>Использовать xvid вместо divx</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="277"/>
         <source>If set, mythdvd will use the (open, free) xvid codec rather than divx whenever possible.</source>
-        <translation type="unfinished">Если установлено, mythdvd будет использовать xvid кодек вместо divx когда возможно.</translation>
+        <translation>Если установлено, mythdvd будет использовать xvid кодек вместо divx когда возможно.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="297"/>
         <source>Nice level for MTD</source>
-        <translation type="unfinished">Приоритет MTD</translation>
+        <translation>Приоритет MTD</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="299"/>
         <source>This determines the priority of the Myth Transcoding Daemon. Higher numbers mean lower priority (more CPU to other tasks).</source>
-        <translation type="unfinished">Это определяет приоритет MTD. Большие значения означают меньший приоритет.</translation>
+        <translation>Это определяет приоритет MTD. Большие значения означают меньший приоритет.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="319"/>
         <source>Ripped video segments</source>
-        <translation type="unfinished">Импортировать фильмы в сегменты</translation>
+        <translation>Импортировать фильмы в сегменты</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="321"/>
         <source>If set to something other than 0, ripped video titles will be broken up into files of this size (in MB). Applies to both perfect quality recordings and intermediate files used for transcoding.</source>
-        <translation type="unfinished">Если установлено отличное от 0, импортированные видео заголовки будут разбиты на файлы этого размера (в МБ). Применомо как для записей отличного качества, так и для промежуточных файлов для перекодирования.</translation>
+        <translation>Если установлено отличное от 0, импортированные видео заголовки будут разбиты на файлы этого размера (в МБ). Применимо как для записей отличного качества, так и для промежуточных файлов для перекодирования.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="448"/>
         <source>Parental Control Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки родительского контроля</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="474"/>
         <source>DVD Ripper Settings</source>
-        <translation type="unfinished">Настройки импорта DVD</translation>
+        <translation>Настройки импорта DVD</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="483"/>
         <source>MTD Settings</source>
-        <translation type="unfinished">Настройки MTD (Myth Transcoding Daemon)</translation>
+        <translation>Настройки MTD (Myth Transcoding Daemon)</translation>
     </message>
     <message>
         <location filename="../mtd/jobthread.cpp" line="374"/>
         <source>Waiting For Access to DVD</source>
-        <translation type="unfinished">В ожидании доступа к DVD</translation>
+        <translation>В ожидании доступа к DVD</translation>
     </message>
     <message>
         <location filename="../mtd/jobthread.cpp" line="591"/>
         <location filename="../mtd/jobthread.cpp" line="758"/>
         <source>Ripping to file ~</source>
-        <translation type="unfinished">Импортируется файл ~</translation>
+        <translation>Импортируется файл ~</translation>
     </message>
     <message>
         <location filename="../mtd/jobthread.cpp" line="800"/>
         <source>Perfect DVD Rip of %1</source>
-        <translation type="unfinished">Отличный импорт DVD %1</translation>
+        <translation>Отличный импорт DVD %1</translation>
     </message>
     <message>
         <location filename="../mtd/jobthread.cpp" line="872"/>
         <location filename="../mtd/jobthread.cpp" line="877"/>
         <source>Transcode of %1</source>
-        <translation type="unfinished">Переаодируется %1</translation>
+        <translation>Перекодируется %1</translation>
     </message>
     <message>
         <location filename="../mtd/jobthread.cpp" line="895"/>
         <source>Waiting for Permission to Start Transcoding</source>
-        <translation type="unfinished">В ожидании разрешения на Запуск передодировки</translation>
+        <translation>В ожидании разрешения на Запуск передодировки</translation>
     </message>
     <message>
         <location filename="../mtd/jobthread.cpp" line="1280"/>
         <source>Transcode is thinking...</source>
-        <translation type="unfinished"></translation>
+        <translation>Перекодировка думает...</translation>
     </message>
     <message>
         <location filename="../mtd/jobthread.cpp" line="1451"/>
         <source>Transcoding Pass 1 of 2 ~</source>
-        <translation type="unfinished">Проход перекодирования 1 из 2 ~</translation>
+        <translation>Проход перекодирования 1 из 2 ~</translation>
     </message>
     <message>
         <location filename="../mtd/jobthread.cpp" line="1459"/>
         <source>Transcoding Pass 2 of 2 ~</source>
-        <translation type="unfinished">Проход перекодирования 2 из 2 ~</translation>
+        <translation>Проход перекодирования 2 из 2 ~</translation>
     </message>
     <message>
         <location filename="../mtd/jobthread.cpp" line="1468"/>
         <source>Transcoding ~</source>
-        <translation type="unfinished">Перекодирование ~</translation>
+        <translation>Перекодирование ~</translation>
     </message>
     <message>
         <location filename="../mtd/jobthread.cpp" line="1497"/>
         <source>Transcode complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перекодирование завершено.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="308"/>
         <source>Simultaneous Transcode Jobs</source>
-        <translation type="unfinished">Одновременных заданий перекодировки</translation>
+        <translation>Одновременных заданий перекодировки</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="310"/>
         <source>This determines the number of simultaneous transcode jobs. If set at 1 (the default), there will only be one active job at a time.</source>
-        <translation type="unfinished">Это определяет число одновременных заданий перекодирования. Если установлено в &apos;1&apos; (по умолчанию), то будет возможно только одно задание в один момент времени.</translation>
+        <translation>Это определяет число одновременных заданий перекодирования. Если установлено в &apos;1&apos; (по умолчанию), то будет возможно только одно задание в данный момент времени.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="154"/>
         <source>On DVD insertion</source>
-        <translation type="unfinished">При вставке DVD</translation>
+        <translation>При вставке DVD</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="156"/>
         <source>Do nothing</source>
-        <translation type="unfinished">Ничего не делать</translation>
+        <translation>Ничего не делать</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="157"/>
         <source>Play DVD</source>
-        <translation type="unfinished">Проигрывать DVD</translation>
+        <translation>Проигрывать DVD</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="158"/>
         <source>Rip DVD</source>
-        <translation type="unfinished">Импорт DVD</translation>
+        <translation>Импорт DVD</translation>
     </message>
     <message>
         <source>Media Monitoring should be turned on to allow this feature (Setup -&gt; General -&gt; CD/DVD Monitor</source>
@@ -815,212 +815,212 @@
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="155"/>
         <source>Display mythdvd menu</source>
-        <translation type="unfinished">Показывать меню MythDVD</translation>
+        <translation>Показывать меню MythDVD</translation>
     </message>
     <message>
         <location filename="../mtd/jobthread.cpp" line="652"/>
         <source>ISO copy of %1</source>
-        <translation type="unfinished">ISO копия %1</translation>
+        <translation>ISO копия %1</translation>
     </message>
     <message>
         <location filename="../mtd/jobthread.cpp" line="663"/>
         <source>Waiting for access to DVD</source>
-        <translation type="unfinished">В ожидании доступа к DVD</translation>
+        <translation>В ожидании доступа к DVD</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="464"/>
         <source>General Settings (%1/%2)</source>
-        <translation type="unfinished">Общие настройки (%1/%2)</translation>
+        <translation>Общие настройки (%1/%2)</translation>
     </message>
     <message>
         <location filename="../mythvideo/globals.cpp" line="22"/>
         <source>NR</source>
-        <translation type="unfinished">Нет</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <location filename="../mythvideo/videolist.cpp" line="913"/>
         <source>No files found</source>
-        <translation type="unfinished">Файлов не найдено</translation>
+        <translation>Файлов не найдено</translation>
     </message>
     <message>
         <location filename="../mythvideo/videolist.cpp" line="1242"/>
         <source>Unknown Prefix</source>
-        <translation type="unfinished">Неизвестный префикс</translation>
+        <translation>Неизвестный префикс</translation>
     </message>
     <message>
         <location filename="../mythvideo/videolist.cpp" line="1340"/>
         <source>videos</source>
-        <translation type="unfinished">фильмы</translation>
+        <translation>фильмы</translation>
     </message>
     <message>
         <location filename="../mythvideo/videoutils.cpp" line="173"/>
         <source>No rating available.</source>
-        <translation type="unfinished">Рейтинг недоступен.</translation>
+        <translation>Рейтинг недоступен.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="39"/>
         <source>Parental Level 4 PIN</source>
-        <translation type="unfinished">PIN для для четвертого уровня родительского контроля</translation>
+        <translation>PIN для для четвертого уровня родительского контроля</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="41"/>
         <source>This PIN is used to enter Parental Control Level 4 as well as the Video Manager.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Этот PIN используется для ввода родительского контроля четвертого уровня, а также менеджером фильмов.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="50"/>
         <source>Parental Level 3 PIN</source>
-        <translation type="unfinished">PIN для для третьего уровня родительского контроля</translation>
+        <translation type="unfinished">PIN для третьего уровня родительского контроля</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="52"/>
         <source>This PIN is used to enter Parental Control Level 3.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Этот PIN используется для входа на третий уровень родительского контроля.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="60"/>
         <source>Parental Level 2 PIN</source>
-        <translation type="unfinished">PIN для для второго уровня родительского контроля</translation>
+        <translation type="unfinished">PIN для второго уровня родительского контроля</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="62"/>
         <source>This PIN is used to enter Parental Control Level 2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Этот PIN используется для входа на второй уровень родительского контроля.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="82"/>
         <source>Directories that hold videos</source>
-        <translation type="unfinished">Каталог для хранения фильмов</translation>
+        <translation>Каталог для хранения фильмов</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="84"/>
         <source>Multiple directories can be separated by &apos;:&apos;. Each directory must exist and be readable by the user running MythVideo.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Несколько каталогов могут быть указаны через &apos;:&apos;. Каждый каталог должен существовать и быть доступен для чтения пользователю запустившему MythVideo.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="159"/>
         <source>Media Monitoring should be turned on to allow this feature (Setup -&gt; General -&gt; CD/DVD Monitor).</source>
-        <translation type="unfinished"></translation>
+        <translation>Чтобы эта функция работала, должен быть включен мониторинг носителей (Настройки -&gt; Общие -&gt; Отслеживать CD/DVD).</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="169"/>
         <source>Delete DVD Bookmarks that are older than the number of days specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить закладки DVD, которые старше, чем заданное количество дней.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="177"/>
         <source>DVD Drive Speed</source>
-        <translation type="unfinished">Скорость привода DVD</translation>
+        <translation>Скорость привода DVD</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="286"/>
         <source>Let transcode determine frame rate</source>
-        <translation type="unfinished">Позволить перекодировке определять частоту кадров</translation>
+        <translation>Позволить перекодировке определять частоту кадров</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="288"/>
         <source>If set, transcode will determine the frame rate automatically. If not set, 23.976 is assumed.</source>
-        <translation type="unfinished">Если установлено, перекодировка определит частоту кадров автоматически. Если не установлено, принимается значение 23.976.</translation>
+        <translation>Если установлено, перекодировка определит частоту кадров автоматически. Если не установлено, принимается значение 23.976.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="378"/>
         <source>Enable automatic Parental Level from rating</source>
-        <translation type="unfinished">Включить автоматическу установку уровня родительского контроля исходя из рейтинга</translation>
+        <translation>Включить автоматическую установку уровня родительского контроля исходя из рейтинга</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="381"/>
         <source>If enabled, searches will automatically set the Parental Level to the one matching the rating below.</source>
-        <translation type="unfinished">Если установлено, поиск будет автоматически устанавливать уровень родительского контролая соответсвующий рейтингу ниже.</translation>
+        <translation type="unfinished">Если установлено, поиск будет автоматически устанавливать уровень родительского контроля в соответствии с рейтингами представлеными ниже.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="405"/>
         <source>Level %1</source>
-        <translation type="unfinished">Уровень %1</translation>
+        <translation>Уровень %1</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="406"/>
         <source>Ratings containing these strings (separated by :) will be assigned to Parental Level %1.</source>
-        <translation type="unfinished">Рейтинги содержащий эту строку (разделенную двоеточием) будут назначены для родительского контроля уровня %1.</translation>
+        <translation>Рейтинги содержащие эти строки (разделенные двоеточием) будут назначены для родительского контроля уровня %1.</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="270"/>
         <source>Command</source>
-        <translation type="unfinished">Команда</translation>
+        <translation>Команда</translation>
     </message>
     <message>
         <location filename="../mtd/jobthread.cpp" line="1473"/>
         <source>Transcode is thinking</source>
-        <translation type="unfinished">Перекодировка думает</translation>
+        <translation>Перекодировка думает</translation>
     </message>
     <message>
         <location filename="../mythvideo/dbcheck.cpp" line="39"/>
         <source>Error: failed to add new file type &apos;%1&apos;</source>
-        <translation type="unfinished">Ошибка: сбой добавления нового типа файлов &apos;%1&apos;</translation>
+        <translation>Ошибка: сбой добавления нового типа файлов &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../mythvideo/dbcheck.cpp" line="77"/>
         <source>Error: failed to hash file &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка: сбой хеширования файла &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="104"/>
         <source>Directory that holds movie screenshots</source>
-        <translation type="unfinished">Каталог содержащий скриншоты фильмов</translation>
+        <translation>Каталог содержащий скриншоты фильмов</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="115"/>
         <source>Directory that holds movie/TV Banners</source>
-        <translation type="unfinished">Каталог содержащий банеры фильмов/ТВ передач</translation>
+        <translation>Каталог содержащий банеры фильмов/ТВ передач</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="126"/>
         <source>Directory that holds movie fanart</source>
-        <translation type="unfinished">Каталог содержащий обои фильмов</translation>
+        <translation>Каталог содержащий обои фильмов</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="137"/>
         <source>Directory that holds movie trailers</source>
-        <translation type="unfinished">Каталог содержащий трейлеры фильмов</translation>
+        <translation>Каталог содержащий трейлеры фильмов</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="167"/>
         <source>Remove DVD Bookmarks Older than (days)</source>
-        <translation type="unfinished">Удалить закладки DVD старше чем (дней)</translation>
+        <translation>Удалить закладки DVD старше чем (дней)</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="179"/>
         <source>Set DVD Drive Speed during DVD Playback. Speed is in multiples of 177KB/s. Slower speeds may reduce drive noise but in some cases it causes playback to stutter.</source>
-        <translation type="unfinished">Установить скорость воспроизведения привода DVD. Скорость кратна 177 КБ/с. Медленные скорости могу уменьшить шум привода, но в некоторых случаях воспроизведение будет &quot;заикаться&quot;.</translation>
+        <translation>Установить скорость воспроизведения привода DVD. Скорость кратна 177 КБ/с. Медленные скорости могу уменьшить шум привода, но в некоторых случаях воспроизведение будет &quot;заикаться&quot;.</translation>
     </message>
     <message>
         <location filename="../mythvideo/main.cpp" line="33"/>
         <source>Loading videos ...</source>
-        <translation type="unfinished">Загрузка видео...</translation>
+        <translation>Загрузка фильмов...</translation>
     </message>
     <message>
         <location filename="../mythvideo/main.cpp" line="95"/>
         <source>No directory %1 - DVD importing will fail</source>
-        <translation type="unfinished">Нет каталога %1 - импорт DVD приведет к ошибке</translation>
+        <translation>Нет каталога %1 - импорт DVD приведет к ошибке</translation>
     </message>
     <message>
         <location filename="../mythvideo/main.cpp" line="133"/>
         <source>You have no VCD Player command defined.</source>
-        <translation type="unfinished">Вы не определил команду для VCD проигрывателя.</translation>
+        <translation>Вы не определили команду для VCD проигрывателя.</translation>
     </message>
     <message>
         <location filename="../mythvideo/main.cpp" line="412"/>
         <source>Aggressive Parental Controls Warning: invalid password. An attempt to enter a MythVideo settings screen was prevented.</source>
-        <translation type="unfinished">Предупреждение агрессивного родительского контроля: неверный пароль. Была предовращена попытка войти на экран настроек MythVideo.</translation>
+        <translation>Предупреждение агрессивного родительского контроля: неверный пароль. Была предотвращена попытка войти на экран настроек MythVideo.</translation>
     </message>
     <message>
         <location filename="../mythvideo/metadata.cpp" line="947"/>
         <source>Season</source>
-        <translation type="unfinished">Сезон</translation>
+        <translation>Сезон</translation>
     </message>
     <message>
         <location filename="../mythvideo/metadata.cpp" line="948"/>
         <source>Episode</source>
-        <translation type="unfinished">Серия</translation>
+        <translation>Серия</translation>
     </message>
     <message>
         <location filename="../mythvideo/metadata.cpp" line="1022"/>
@@ -1037,12 +1037,12 @@ Check VideoManager Settings</source>
         <translation type="unfinished">%1 вызвало ошибку
 
 %2
-Проверьте настройки видеоменеджера</translation>
+Проверьте настройки менеджера фильмов</translation>
     </message>
     <message>
         <location filename="../mythvideo/videofilter.cpp" line="804"/>
         <source>Season/Episode</source>
-        <translation type="unfinished">Сезон/Серия</translation>
+        <translation>Сезон/Серия</translation>
     </message>
     <message>
         <location filename="../mythvideo/videolist.cpp" line="903"/>
@@ -1063,17 +1063,17 @@ Check VideoManager Settings</source>
     <message>
         <location filename="../mythvideo/videolist.cpp" line="1192"/>
         <source>Season %1</source>
-        <translation type="unfinished">Сезон %1</translation>
+        <translation>Сезон %1</translation>
     </message>
     <message>
         <location filename="../mythvideo/videolist.cpp" line="1246"/>
         <source>Storage Groups</source>
-        <translation type="unfinished">Группы хранения</translation>
+        <translation>Группы хранения</translation>
     </message>
     <message>
         <location filename="../mythvideo/parentalcontrols.cpp" line="306"/>
         <source>Parental PIN:</source>
-        <translation type="unfinished"></translation>
+        <translation>Родительский PIN:</translation>
     </message>
 </context>
 <context>
@@ -1610,7 +1610,7 @@ Check VideoManager Settings</source>
     <message>
         <location filename="themestrings.h" line="24"/>
         <source>Press to view excerpt:</source>
-        <translation type="unfinished">Нажмите чтобы увидеть отрывок:</translation>
+        <translation>Нажмите чтобы просмотреть отрывок:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="25"/>
@@ -1650,64 +1650,66 @@ Check VideoManager Settings</source>
     <message>
         <location filename="themestrings.h" line="41"/>
         <source>Parental Level 0</source>
-        <translation type="unfinished">Уроврень родительского контроля 0</translation>
+        <translation>Уровень родительского контроля 0</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="42"/>
         <source>Parental Level 1</source>
-        <translation type="unfinished">Уроврень родительского контроля 1</translation>
+        <translation>Уровень родительского контроля 1</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="43"/>
         <source>Parental Level 2</source>
-        <translation type="unfinished">Уроврень родительского контроля 2</translation>
+        <translation>Уровень родительского контроля 2</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="44"/>
         <source>Parental Level 3</source>
-        <translation type="unfinished">Уроврень родительского контроля 3</translation>
+        <translation>Уровень родительского контроля 3</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="45"/>
         <source>Parental Level 4</source>
-        <translation type="unfinished">Уроврень родительского контроля 4</translation>
+        <translation>Уровень родительского контроля 4</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="46"/>
         <source>Add New File Types</source>
-        <translation type="unfinished">Добавить новый тип файлов</translation>
+        <translation>Добавить новый тип файлов</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="47"/>
         <source>On this screen, you can add new extensions to be recognized by the Video Plugin.  If a scan does not add your files, create a new extension below by clicking the &quot;New&quot; button.
 
 If you select &quot;Use Default Player,&quot; the player command set for the extension will be ignored.  &quot;Ignore This File Type&quot; prevents the items from appearing in a scan.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">На этом экране вы можете добавить новые расширения, которые будут распознаваться плагином MythVideo.  Если поиск не находит ваших файлов, создайте новое расширение ниже, нажав на кнопке &quot;Новый&quot;.
+
+Если вы выберите &quot;Использовать плеер по умолчанию&quot;, команда запуска плеера для расширения будет проигнорирована.  &quot;Игнорировать этот тип файлов&quot; позволяет игнорировать файлы при поиске.</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="50"/>
         <source>Use Default Player</source>
-        <translation type="unfinished">Использовать плеер по умолчанию</translation>
+        <translation>Использовать плеер по умолчанию</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="51"/>
         <source>Ignore This File Type</source>
-        <translation type="unfinished">Игнорировать этот тип файлов</translation>
+        <translation>Игнорировать этот тип файлов</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="52"/>
         <source>New</source>
-        <translation type="unfinished">Новый</translation>
+        <translation>Новый</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="53"/>
         <source>Delete</source>
-        <translation type="unfinished">Удалить</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="54"/>
         <source>Edit Metadata</source>
-        <translation type="unfinished">Редактировать метаданные</translation>
+        <translation>Редактировать метаданные</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="55"/>
@@ -1717,12 +1719,12 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="themestrings.h" line="57"/>
         <source>Rating:</source>
-        <translation type="unfinished">Рейтинг:</translation>
+        <translation>Рейтинг:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="59"/>
         <source>TMDB Number:</source>
-        <translation type="unfinished">№ TMDB:</translation>
+        <translation>№ TMDB:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="66"/>
@@ -1917,7 +1919,7 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="themestrings.h" line="114"/>
         <source>No videos in library, or no files found.  If you have configured a video directory, press &quot;M&quot; (or the MENU key) and select &quot;Scan for Changes.&quot;</source>
-        <translation type="unfinished">Нет видео в библиотеке, или файлы не найдены.  Если вы настролили каталог с фильмами, нажмите &quot;M&quot; (или клавишу MENU) ивыберите &quot;Найти изменения.&quot;</translation>
+        <translation>Нет фильмов в библиотеке, или файлы не найдены.  Если вы настроили каталог с фильмами, нажмите &quot;M&quot; (или клавишу MENU) и выберите &quot;Найти изменения.&quot;</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="123"/>
@@ -2040,37 +2042,37 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/titledialog.cpp" line="56"/>
         <source>%1 - Title %2</source>
-        <translation type="unfinished">%1 - Заголовок %2</translation>
+        <translation>%1 - Заголовок %2</translation>
     </message>
     <message>
         <location filename="../mythvideo/titledialog.cpp" line="160"/>
         <source>Perfect</source>
-        <translation type="unfinished">Отличный</translation>
+        <translation>Отличный</translation>
     </message>
     <message>
         <location filename="../mythvideo/titledialog.cpp" line="179"/>
         <source>None</source>
-        <translation type="unfinished">Нет</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <location filename="../mythvideo/titledialog.cpp" line="193"/>
         <source>Title %1 of %2</source>
-        <translation type="unfinished">Заголовок %1 из %2</translation>
+        <translation>Заголовок %1 из %2</translation>
     </message>
     <message>
         <location filename="../mythvideo/titledialog.cpp" line="159"/>
         <source>ISO Image</source>
-        <translation type="unfinished">ISO образ</translation>
+        <translation>ISO образ</translation>
     </message>
     <message>
         <location filename="../mythvideo/titledialog.cpp" line="28"/>
         <source>Unknown</source>
-        <translation type="unfinished">Неизвестный</translation>
+        <translation>Неизвестный</translation>
     </message>
     <message>
         <location filename="../mythvideo/titledialog.cpp" line="102"/>
         <source>Begin Ripping</source>
-        <translation type="unfinished">Начать импорт</translation>
+        <translation>Начать импорт</translation>
     </message>
 </context>
 <context>
@@ -2144,13 +2146,13 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
         <location filename="../mythvideo/videodlg.cpp" line="2853"/>
         <location filename="../mythvideo/videodlg.cpp" line="3141"/>
         <source>Mark as Unwatched</source>
-        <translation type="unfinished">Пометить как непросмотренный</translation>
+        <translation>Пометить как непросмотренный</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="2855"/>
         <location filename="../mythvideo/videodlg.cpp" line="3143"/>
         <source>Mark as Watched</source>
-        <translation type="unfinished">Пометить как просмотренный</translation>
+        <translation>Пометить как просмотренный</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="2856"/>
@@ -2259,57 +2261,57 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3061"/>
         <source>Category</source>
-        <translation type="unfinished">Категория</translation>
+        <translation>Категория</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3065"/>
         <source>Date Added</source>
-        <translation type="unfinished">Дата добавления</translation>
+        <translation>Дата добавления</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3069"/>
         <source>Director</source>
-        <translation type="unfinished">Режиссер</translation>
+        <translation>Режиссер</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3073"/>
         <source>Folder</source>
-        <translation type="unfinished">Папка</translation>
+        <translation>Папка</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3077"/>
         <source>Genre</source>
-        <translation type="unfinished">Жанр</translation>
+        <translation>Жанр</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3081"/>
         <source>TV/Movies</source>
-        <translation type="unfinished">ТВ/Фильмы</translation>
+        <translation>ТВ/Фильмы</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3085"/>
         <source>User Rating</source>
-        <translation type="unfinished">Рейтинг</translation>
+        <translation>Рейтинг</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3089"/>
         <source>Year</source>
-        <translation type="unfinished">Год</translation>
+        <translation>Год</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3109"/>
         <source>View Details</source>
-        <translation type="unfinished">Просмотреть детали</translation>
+        <translation>Просмотреть подробности</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3111"/>
         <source>View Full Plot</source>
-        <translation type="unfinished">Просмотреть полное описание</translation>
+        <translation>Просмотреть полное описание</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3117"/>
         <source>View Cast</source>
-        <translation type="unfinished">Просмотреть актеров</translation>
+        <translation>Просмотреть актеров</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3146"/>
@@ -2329,64 +2331,64 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3166"/>
         <source>Edit Metadata</source>
-        <translation type="unfinished">Редактировать метаданные</translation>
+        <translation>Редактировать метаданные</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3167"/>
         <source>Download Metadata</source>
-        <translation type="unfinished">Загрузить метаданные</translation>
+        <translation>Загрузить метаданные</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3168"/>
         <source>Search TV by Title/Subtitle</source>
-        <translation type="unfinished">Поиск ТВ по Заголовку/Подзаголовку</translation>
+        <translation>Поиск ТВ по Заголовку/Подзаголовку</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3170"/>
         <source>Manually Enter Video #</source>
-        <translation type="unfinished">Ввести номер фильма вручную</translation>
+        <translation>Ввести номер фильма вручную</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3172"/>
         <source>Manually Enter Video Title</source>
-        <translation type="unfinished">Ввести заголовок фильма вручную</translation>
+        <translation>Ввести заголовок фильма вручную</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3174"/>
         <source>Reset Metadata</source>
-        <translation type="unfinished">Сбросить метаданные</translation>
+        <translation>Сбросить метаданные</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3394"/>
         <source>An error occurred when switching views.</source>
-        <translation type="unfinished">Произошла ошибка при переключение режимов просмотра.</translation>
+        <translation>Произошла ошибка при переключение режимов просмотра.</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3854"/>
         <source>Enter Video Unique ID:</source>
-        <translation type="unfinished">Введите уникальный идентефикатор фильма:</translation>
+        <translation>Введите уникальный идентификатор фильма:</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3875"/>
         <source>Enter Video Title:</source>
-        <translation type="unfinished">Введите заголовок фильма:</translation>
+        <translation>Введите заголовок фильма:</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3921"/>
         <source>Are you sure you want to delete:
 %1</source>
-        <translation type="unfinished">Вы уверены что хотите удалить:
+        <translation>Вы уверены что хотите удалить:
 %1</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3959"/>
         <source>Failed to delete file</source>
-        <translation type="unfinished">Ошибка при удалении файла</translation>
+        <translation>Ошибка при удалении файла</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="4331"/>
         <source>%1 download finished: %2 %3</source>
-        <translation type="unfinished">%1 загрузка окончена: %2 %3</translation>
+        <translation>%1 загрузка окончена: %2 %3</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="4336"/>
@@ -2409,37 +2411,37 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="2945"/>
         <source>Settings</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="2985"/>
         <source>Video Settings</source>
-        <translation type="unfinished">Настройки фильмов</translation>
+        <translation>Настройки фильмов</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="2994"/>
         <source>Player Settings</source>
-        <translation type="unfinished">Настройки проигрывателя</translation>
+        <translation>Настройки проигрывателя</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="2995"/>
         <source>Metadata Settings</source>
-        <translation type="unfinished">Настройки метаданных</translation>
+        <translation>Настройки метаданных</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="2996"/>
         <source>File Type Settings</source>
-        <translation type="unfinished">Настройки типов файлов</translation>
+        <translation>Настройки типов файлов</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3119"/>
         <source>View Homepage</source>
-        <translation type="unfinished">Просмотреть домашнюю страницу</translation>
+        <translation>Просмотреть домашнюю страницу</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3467"/>
         <source>No browser command set! MythVideo needs MythBrowser installed to display the homepage.</source>
-        <translation type="unfinished">Не задана команда для браузера! Нужно установить MythBrowser, чтобы отобразить домашнюю страницу.</translation>
+        <translation>Не задана команда для браузера! Нужно установить MythBrowser, чтобы отобразить домашнюю страницу.</translation>
     </message>
 </context>
 <context>
@@ -2451,21 +2453,21 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/videofilter.cpp" line="635"/>
         <source>Result of this filter : No Videos</source>
-        <translation type="unfinished">Результат этого фильтра: Нет фильмов</translation>
+        <translation>Результат этого фильтра: Нет фильмов</translation>
     </message>
     <message>
         <location filename="../mythvideo/videofilter.cpp" line="750"/>
         <location filename="../mythvideo/videofilter.cpp" line="751"/>
         <source>minutes</source>
-        <translation type="unfinished">минут</translation>
+        <translation>минут</translation>
     </message>
     <message numerus="yes">
         <location filename="../mythvideo/videofilter.cpp" line="629"/>
         <source>Result of this filter : %n video(s)</source>
         <translation type="unfinished">
             <numerusform>Результат этого фильтра : %n фильм(ов)</numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+            <numerusform>Результат этого фильтра : %n фильм(ов)</numerusform>
+            <numerusform>Результат этого фильтра : %n фильм(ов)</numerusform>
         </translation>
     </message>
 </context>
@@ -2474,12 +2476,12 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/videoscan.cpp" line="423"/>
         <source>If they no longer exist please remove them</source>
-        <translation type="unfinished">Если больше не существуют, пожалуйста удалите их</translation>
+        <translation type="unfinished">Если они больше не существуют, пожалуйста удалите их</translation>
     </message>
     <message>
         <location filename="../mythvideo/videoscan.cpp" line="418"/>
         <source>Failed to Scan SG Video Hosts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ошибка при сканировании групп хранения (SG)</translation>
     </message>
 </context>
 <context>
@@ -2487,17 +2489,17 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/videoscan.cpp" line="108"/>
         <source>Searching for video files</source>
-        <translation type="unfinished">Поиск видео файлов</translation>
+        <translation>Поиск видео файлов</translation>
     </message>
     <message>
         <location filename="../mythvideo/videoscan.cpp" line="217"/>
         <source>Verifying video files</source>
-        <translation type="unfinished">Проверка видео файлов</translation>
+        <translation>Проверка видео файлов</translation>
     </message>
     <message>
         <location filename="../mythvideo/videoscan.cpp" line="267"/>
         <source>Updating video database</source>
-        <translation type="unfinished">Обновление базы данных фильмов</translation>
+        <translation>Обновление базы данных фильмов</translation>
     </message>
 </context>
 </TS>
