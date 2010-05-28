@@ -271,12 +271,12 @@
     <message>
         <location filename="../mythvideo/main.cpp" line="335"/>
         <source>Increase Parental Level</source>
-        <translation>Увеличить уровень родительского контроля</translation>
+        <translation type="unfinished">Увеличить родительский уровень</translation>
     </message>
     <message>
         <location filename="../mythvideo/main.cpp" line="337"/>
         <source>Decrease Parental Level</source>
-        <translation>Уменьншить уровень родительского контроля</translation>
+        <translation type="unfinished">Уменьншить родительский уровень</translation>
     </message>
     <message>
         <location filename="../mythvideo/main.cpp" line="340"/>
@@ -326,7 +326,7 @@
     <message>
         <location filename="../mythvideo/main.cpp" line="365"/>
         <source>Import a DVD into your MythVideo database</source>
-        <translation type="unfinished">Импортировать DVD в базу данных MythVideo</translation>
+        <translation>Импортировать DVD в базу данных MythVideo</translation>
     </message>
 </context>
 <context>
@@ -377,7 +377,7 @@
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="18"/>
         <source>Starting Parental Level</source>
-        <translation>Начальный уровень доступа</translation>
+        <translation type="unfinished">Начальный родительский уровень</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="19"/>
@@ -565,7 +565,7 @@
     <message>
         <location filename="../mythvideo/videofilter.cpp" line="808"/>
         <source>User Rating</source>
-        <translation>Рейтинг</translation>
+        <translation type="unfinished">Рейтинг зрителей</translation>
     </message>
     <message>
         <location filename="../mythvideo/videofilter.cpp" line="810"/>
@@ -860,7 +860,7 @@
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="39"/>
         <source>Parental Level 4 PIN</source>
-        <translation>PIN для для четвертого уровня родительского контроля</translation>
+        <translation type="unfinished">PIN для четвертого уровня родительского контроля</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="41"/>
@@ -925,7 +925,7 @@
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="378"/>
         <source>Enable automatic Parental Level from rating</source>
-        <translation>Включить автоматическую установку уровня родительского контроля исходя из рейтинга</translation>
+        <translation type="unfinished">Включить автоматическую установку уровня родительского контроля исходя из рейтинга</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="381"/>
@@ -1081,7 +1081,7 @@ Check VideoManager Settings</source>
     <message>
         <location filename="themestrings.h" line="58"/>
         <source>Director:</source>
-        <translation>Режисер:</translation>
+        <translation type="unfinished">Режиссер:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="72"/>
@@ -1126,7 +1126,7 @@ Check VideoManager Settings</source>
     <message>
         <location filename="themestrings.h" line="150"/>
         <source>Directed by</source>
-        <translation>Режисер:</translation>
+        <translation type="unfinished">Режиссер</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="156"/>
@@ -1166,7 +1166,7 @@ Check VideoManager Settings</source>
     <message>
         <location filename="themestrings.h" line="160"/>
         <source>Parental Control:</source>
-        <translation>Родительский уровень:</translation>
+        <translation type="unfinished">Родительский контроль:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="161"/>
@@ -1231,7 +1231,7 @@ Check VideoManager Settings</source>
     <message>
         <location filename="themestrings.h" line="136"/>
         <source>User Rating :</source>
-        <translation>Рейтинг :</translation>
+        <translation type="unfinished">Рейтинг зрителей:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="137"/>
@@ -1260,7 +1260,7 @@ Check VideoManager Settings</source>
     <message>
         <location filename="themestrings.h" line="153"/>
         <source>User Rating</source>
-        <translation>Рейтинг</translation>
+        <translation type="unfinished">Рейтинг зрителей</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="27"/>
@@ -1330,7 +1330,7 @@ Check VideoManager Settings</source>
     <message>
         <location filename="themestrings.h" line="73"/>
         <source>User Rating:</source>
-        <translation>Пользовательский рейтинг:</translation>
+        <translation type="unfinished">Рейтинг зрителей:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="129"/>
@@ -1370,7 +1370,7 @@ Check VideoManager Settings</source>
     <message>
         <location filename="themestrings.h" line="155"/>
         <source>Parental Level</source>
-        <translation>Уровень родительского контроля</translation>
+        <translation type="unfinished">Родительский уровень</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="56"/>
@@ -1645,32 +1645,32 @@ Check VideoManager Settings</source>
     <message>
         <location filename="themestrings.h" line="40"/>
         <source>Starring: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">В главных ролях: %1</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="41"/>
         <source>Parental Level 0</source>
-        <translation>Уровень родительского контроля 0</translation>
+        <translation>Родительский уровень 0</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="42"/>
         <source>Parental Level 1</source>
-        <translation>Уровень родительского контроля 1</translation>
+        <translation>Родительский уровень 1</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="43"/>
         <source>Parental Level 2</source>
-        <translation>Уровень родительского контроля 2</translation>
+        <translation>Родительский уровень 2</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="44"/>
         <source>Parental Level 3</source>
-        <translation>Уровень родительского контроля 3</translation>
+        <translation>Родительский уровень 3</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="45"/>
         <source>Parental Level 4</source>
-        <translation>Уровень родительского контроля 4</translation>
+        <translation>Родительский уровень 4</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="46"/>
@@ -1994,12 +1994,12 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="themestrings.h" line="171"/>
         <source>Movie Grabber:</source>
-        <translation>Граббер для фильмов:</translation>
+        <translation type="unfinished">Граббер фильмов:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="172"/>
         <source>TV Grabber:</source>
-        <translation>Граббер для ТВ:</translation>
+        <translation type="unfinished">Граббер ТВ:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="173"/>
@@ -2246,7 +2246,7 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="2975"/>
         <source>Switch to Manage View</source>
-        <translation type="unfinished">Включить режим менеджера</translation>
+        <translation type="unfinished">Переключиться на режим менеджера</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3047"/>
@@ -2291,7 +2291,7 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3085"/>
         <source>User Rating</source>
-        <translation>Рейтинг</translation>
+        <translation type="unfinished">Рейтинг зрителей</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3089"/>
@@ -2301,17 +2301,17 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3109"/>
         <source>View Details</source>
-        <translation>Просмотреть подробности</translation>
+        <translation type="unfinished">Подробности о фильме</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3111"/>
         <source>View Full Plot</source>
-        <translation>Просмотреть полное описание</translation>
+        <translation type="unfinished">Полное описание</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3117"/>
         <source>View Cast</source>
-        <translation>Просмотреть актеров</translation>
+        <translation type="unfinished">Актеры</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3146"/>
@@ -2436,7 +2436,7 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3119"/>
         <source>View Homepage</source>
-        <translation>Просмотреть домашнюю страницу</translation>
+        <translation type="unfinished">Домашняя страница</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3467"/>
@@ -2464,10 +2464,10 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message numerus="yes">
         <location filename="../mythvideo/videofilter.cpp" line="629"/>
         <source>Result of this filter : %n video(s)</source>
-        <translation type="unfinished">
-            <numerusform>Результат этого фильтра : %n фильм(ов)</numerusform>
-            <numerusform>Результат этого фильтра : %n фильм(ов)</numerusform>
-            <numerusform>Результат этого фильтра : %n фильм(ов)</numerusform>
+        <translation>
+            <numerusform>Результат этого фильтра : %n фильм</numerusform>
+            <numerusform>Результат этого фильтра : %n фильма</numerusform>
+            <numerusform>Результат этого фильтра : %n фильмов</numerusform>
         </translation>
     </message>
 </context>
@@ -2481,7 +2481,7 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/videoscan.cpp" line="418"/>
         <source>Failed to Scan SG Video Hosts</source>
-        <translation type="unfinished">Ошибка при сканировании групп хранения (SG)</translation>
+        <translation>Ошибка при сканировании групп хранения (SG)</translation>
     </message>
 </context>
 <context>
