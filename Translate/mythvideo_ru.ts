@@ -188,12 +188,12 @@
     <message>
         <location filename="../mythvideo/metadatasettings.cpp" line="231"/>
         <source>This is the script used to search for and download Movie Metadata.</source>
-        <translation>Это скрипт, используемый для поиска и загрузки метаданных фильмов.</translation>
+        <translation type="unfinished">Этот скрипт используется для поиска и загрузки метаданных фильмов.</translation>
     </message>
     <message>
         <location filename="../mythvideo/metadatasettings.cpp" line="234"/>
         <source>This is the script used to search for and download Television Metadata.</source>
-        <translation>Это скрипт, используемый для поиска и загрузки метаданных телефильмов.</translation>
+        <translation type="unfinished">Этот скрипт используется для поиска и загрузки метаданных телепередач.</translation>
     </message>
     <message>
         <location filename="../mythvideo/metadatasettings.cpp" line="237"/>
@@ -213,7 +213,7 @@
     <message>
         <location filename="../mythvideo/metadatasettings.cpp" line="248"/>
         <source>If set along with Browse Files, this will cause the Video List to load any known video metadata from the database. Turning this off can greatly speed up how long it takes to load the Video List tree.</source>
-        <translation type="unfinished">Если установить одновременно в режимом просмотра файлов, то список видео будет полчать все известные метаданные видео из базы данных. Отключение этой функции может значительно ускорить загрузку дерева видео.</translation>
+        <translation type="unfinished">Если установить одновременно с режимом просмотра файлов, то список видео будет получать все известные метаданные фильмов из базы данных. Отключение этой функции может значительно ускорить загрузку дерева видео.</translation>
     </message>
     <message>
         <location filename="../mythvideo/metadatasettings.cpp" line="253"/>
@@ -276,7 +276,7 @@
     <message>
         <location filename="../mythvideo/main.cpp" line="337"/>
         <source>Decrease Parental Level</source>
-        <translation type="unfinished">Уменьншить родительский уровень</translation>
+        <translation type="unfinished">Уменьшить родительский уровень</translation>
     </message>
     <message>
         <location filename="../mythvideo/main.cpp" line="340"/>
@@ -311,7 +311,7 @@
     <message>
         <location filename="../mythvideo/main.cpp" line="355"/>
         <source>MythDVD DVD Media Handler</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Обработчик DVD дисков</translation>
     </message>
     <message>
         <location filename="../mythvideo/main.cpp" line="359"/>
@@ -321,7 +321,7 @@
     <message>
         <location filename="../mythvideo/main.cpp" line="361"/>
         <source>MythDVD VCD Media Handler</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Обработчик VCD дисков</translation>
     </message>
     <message>
         <location filename="../mythvideo/main.cpp" line="365"/>
@@ -1081,7 +1081,7 @@ Check VideoManager Settings</source>
     <message>
         <location filename="themestrings.h" line="58"/>
         <source>Director:</source>
-        <translation type="unfinished">Режиссер:</translation>
+        <translation>Режиссер:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="72"/>
@@ -1126,7 +1126,7 @@ Check VideoManager Settings</source>
     <message>
         <location filename="themestrings.h" line="150"/>
         <source>Directed by</source>
-        <translation type="unfinished">Режиссер</translation>
+        <translation>Режиссер</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="156"/>
@@ -1166,7 +1166,7 @@ Check VideoManager Settings</source>
     <message>
         <location filename="themestrings.h" line="160"/>
         <source>Parental Control:</source>
-        <translation type="unfinished">Родительский контроль:</translation>
+        <translation>Родительский контроль:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="161"/>
@@ -1231,7 +1231,7 @@ Check VideoManager Settings</source>
     <message>
         <location filename="themestrings.h" line="136"/>
         <source>User Rating :</source>
-        <translation type="unfinished">Рейтинг зрителей:</translation>
+        <translation>Рейтинг зрителей:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="137"/>
@@ -1260,7 +1260,7 @@ Check VideoManager Settings</source>
     <message>
         <location filename="themestrings.h" line="153"/>
         <source>User Rating</source>
-        <translation type="unfinished">Рейтинг зрителей</translation>
+        <translation>Рейтинг зрителей</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="27"/>
@@ -1330,7 +1330,7 @@ Check VideoManager Settings</source>
     <message>
         <location filename="themestrings.h" line="73"/>
         <source>User Rating:</source>
-        <translation type="unfinished">Рейтинг зрителей:</translation>
+        <translation>Рейтинг зрителей:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="129"/>
@@ -1370,7 +1370,7 @@ Check VideoManager Settings</source>
     <message>
         <location filename="themestrings.h" line="155"/>
         <source>Parental Level</source>
-        <translation type="unfinished">Родительский уровень</translation>
+        <translation>Родительский уровень</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="56"/>
@@ -1395,7 +1395,7 @@ Check VideoManager Settings</source>
     <message>
         <location filename="themestrings.h" line="163"/>
         <source>Item has been watched:</source>
-        <translation>Элемент был просмотрен:</translation>
+        <translation type="unfinished">Просмотрен:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="62"/>
@@ -1440,7 +1440,7 @@ Check VideoManager Settings</source>
     <message>
         <location filename="themestrings.h" line="141"/>
         <source>Watched :</source>
-        <translation>Просмотрено:</translation>
+        <translation>Просмотрен:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="93"/>
@@ -1994,12 +1994,12 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="themestrings.h" line="171"/>
         <source>Movie Grabber:</source>
-        <translation type="unfinished">Граббер фильмов:</translation>
+        <translation>Граббер фильмов:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="172"/>
         <source>TV Grabber:</source>
-        <translation type="unfinished">Граббер ТВ:</translation>
+        <translation>Граббер ТВ:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="173"/>
@@ -2291,7 +2291,7 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3085"/>
         <source>User Rating</source>
-        <translation type="unfinished">Рейтинг зрителей</translation>
+        <translation>Рейтинг зрителей</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3089"/>
@@ -2301,17 +2301,17 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3109"/>
         <source>View Details</source>
-        <translation type="unfinished">Подробности о фильме</translation>
+        <translation>Подробности о фильме</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3111"/>
         <source>View Full Plot</source>
-        <translation type="unfinished">Полное описание</translation>
+        <translation>Полное описание</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3117"/>
         <source>View Cast</source>
-        <translation type="unfinished">Актеры</translation>
+        <translation>Актеры</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3146"/>
@@ -2326,7 +2326,7 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3157"/>
         <source>Manage Metadata</source>
-        <translation type="unfinished">Управление метаданными</translation>
+        <translation>Управление метаданными</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3166"/>
@@ -2401,12 +2401,12 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
         <location filename="../mythvideo/videodlg.cpp" line="4581"/>
         <location filename="../mythvideo/videodlg.cpp" line="4657"/>
         <source>No matches were found.</source>
-        <translation type="unfinished">Совпадений не найдено.</translation>
+        <translation>Совпадений не найдено.</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="1588"/>
         <source>Video dialog loading, or no videos available...</source>
-        <translation type="unfinished">Загружается диалог или отсутствуют фильмв...</translation>
+        <translation type="unfinished">Загружается диалог плагина или фильмы отсутствуют...</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="2945"/>
@@ -2436,7 +2436,7 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3119"/>
         <source>View Homepage</source>
-        <translation type="unfinished">Домашняя страница</translation>
+        <translation>Домашняя страница</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3467"/>
@@ -2476,7 +2476,7 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/videoscan.cpp" line="423"/>
         <source>If they no longer exist please remove them</source>
-        <translation type="unfinished">Если они больше не существуют, пожалуйста удалите их</translation>
+        <translation>Если они больше не существуют, пожалуйста удалите их</translation>
     </message>
     <message>
         <location filename="../mythvideo/videoscan.cpp" line="418"/>
