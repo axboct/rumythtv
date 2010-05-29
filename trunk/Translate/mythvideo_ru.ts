@@ -2163,7 +2163,7 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="2857"/>
         <source>Metadata Options</source>
-        <translation>Параметры метаданных</translation>
+        <translation type="unfinished">Метаданные</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="2859"/>
@@ -2346,12 +2346,12 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3170"/>
         <source>Manually Enter Video #</source>
-        <translation>Ввести номер фильма вручную</translation>
+        <translation type="unfinished">Ввести номер вручную</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3172"/>
         <source>Manually Enter Video Title</source>
-        <translation>Ввести заголовок фильма вручную</translation>
+        <translation type="unfinished">Ввести заголовок вручную</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="3174"/>
