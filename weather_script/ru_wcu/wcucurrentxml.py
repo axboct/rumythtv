@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # This script is partially based on script dwua_xml.pl by Victor Bron 
+import math
 import string
 import time
 import datetime
@@ -13,7 +14,7 @@ import traceback
 import codecs
 from optparse import OptionParser
 from lxml import etree
-from StringIO import StringIO
+#from StringIO import StringIO
 
 name = 'WCU-Current-XML';
 version = 0.01;
@@ -92,7 +93,8 @@ def search_locations(location_str):
     countries = []
     #Для устранения проблемы отображенения символов кириллицы в MythWeather,
     #однако название страны по прежнему на русском, а следовательно - закорюками.
-    city_nodes = tree.xpath('//name_en') 
+    #city_nodes = tree.xpath('//name_en') 
+    city_nodes = tree.xpath('//name') 
     for node in city_nodes: 
         cities.append(node .text)
     id_nodes = tree.xpath('/city/city') 
@@ -104,7 +106,8 @@ def search_locations(location_str):
     for i in range(len(city_nodes)):
         #Для устранения проблемы закорюк выковыриваем и английское название страны
         country_ids = countries_tree.xpath('/country/country[@id=' + countries[i] + ']/name_en')
-        sys.stdout.write( u'%s::%s, %s\n' % (ids[i], cities[i],  country_ids[0].text))
+        #sys.stdout.write(u'%s::%s, %s\n' % (ids[i], cities[i],  country_ids[0].text))
+        sys.stdout.write(u'%s::%s, %s\n' % (ids[i], cities[i],  country_ids[0].text))
 
 def get_data(location_id):
     
@@ -193,8 +196,11 @@ def get_data(location_id):
         sys.stdout.write( u'temp::%s\n' % temps[0])
         sys.stdout.write( u'appt::%s\n' % temp_fs[0])
         sys.stdout.write( u'wind_dir::%s\n' % wind_dir[get_wind(int(wind_rumbs[0]))])
-        sys.stdout.write( u'wind_spdgst::%s\n' % winds[0])
-        sys.stdout.write( u'pressure::%s\n' % pressures[0])
+        #wind_str = str(int(winds[0])*3.6)
+        wind = float(winds[0])*3.6
+        sys.stdout.write( u'wind_spdgst::%.1f\n' % wind)
+        pressure = float(pressures[0])*001.33322368
+        sys.stdout.write( u'pressure::%.1f\n' % pressure)
         sys.stdout.write( u'relative_humidity::%s\n' % humidities[0])
         sys.stdout.write( u'observation_time::%s\n' % times[0])
 
