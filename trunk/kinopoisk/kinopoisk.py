@@ -149,7 +149,8 @@ def search_fanart(uid):
             Coverart = coveritems[0]
             data = get_page(Coverart+uid)
             if  data != None:
-                coveritem = single_value(data, '/picture/.*?src=\'(.*?)\' width=')
+                #coveritem = single_value(data, '/picture/.*?src=\'(.*?)\' width=')
+                coveritem = single_value(data, '-5000px" src="(.*?)" width')
                 return coveritem
             else:
                 return ''
@@ -167,7 +168,8 @@ def search_poster(uid):
         if coveritems != None:
             data = get_page(coveritems[0]+uid)
             if  data != None:
-                coveritem = single_value(data, '<a href="/picture/.*?src=\'(.*?)\' width=')
+                #coveritem = single_value(data, '<a href="/picture/.*?src=\'(.*?)\' width=')
+                coveritem = single_value(data, '-5000px" src="(.*?)" width')
                 #Выполняем дополнительный поиск, т.к. странички кинопоиск выдает всякие разные, 
                 #возможно  еще какие-то варианты не учтены
                 if coveritem == '':
