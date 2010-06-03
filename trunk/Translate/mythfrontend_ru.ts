@@ -191,7 +191,7 @@
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2582"/>
         <source>Fetch channels from listings source</source>
-        <translation type="unfinished">Получить каналы из программы передач</translation>
+        <translation>Получить каналы из программы передач</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2584"/>
@@ -211,23 +211,23 @@
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2666"/>
         <source>Enter new group name</source>
-        <translation type="unfinished">Введите имя новой группы</translation>
+        <translation>Введите имя новой группы</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2676"/>
         <location filename="../libs/libmythtv/videosource.cpp" line="2697"/>
         <source>Error</source>
-        <translation type="unfinished">Ошибка</translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2677"/>
         <source>Sorry, this Input Group name can not be blank.</source>
-        <translation type="unfinished">Извините, имя группы входов не может быть пустым.</translation>
+        <translation>Извините, имя группы входов не может быть пустым.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2698"/>
         <source>Sorry, this Input Group name is already in use.</source>
-        <translation type="unfinished">Извините, такое имя группы входов уже используется.</translation>
+        <translation>Извините, такое имя группы входов уже используется.</translation>
     </message>
 </context>
 <context>
@@ -253,7 +253,7 @@
     <message>
         <location filename="../programs/mythtv-setup/channeleditor.cpp" line="571"/>
         <source>Add some channels first!</source>
-        <translation type="unfinished">Добавьте сначала какой-нибудь канал!</translation>
+        <translation>Добавьте сначала какой-нибудь канал!</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/channeleditor.cpp" line="125"/>
@@ -266,19 +266,19 @@
     <message>
         <location filename="../programs/mythtv-setup/channeleditor.cpp" line="167"/>
         <source>Delete all channels on currently selected source(s).</source>
-        <translation type="unfinished">Удалить все каналы на текущем источнике(ах).</translation>
+        <translation>Удалить все каналы на текущем источнике(ах).</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/channeleditor.cpp" line="171"/>
         <location filename="../programs/mythtv-setup/channeleditor.cpp" line="327"/>
         <location filename="../programs/mythtv-setup/channeleditor.cpp" line="375"/>
         <source>Channel Number</source>
-        <translation type="unfinished">Номер канала</translation>
+        <translation>Номер канала</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/channeleditor.cpp" line="178"/>
         <source>All</source>
-        <translation type="unfinished">Все</translation>
+        <translation>Все</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/channeleditor.cpp" line="190"/>
@@ -303,7 +303,7 @@
     <message>
         <location filename="../programs/mythtv-setup/channeleditor.cpp" line="300"/>
         <source>(Add New Channel)</source>
-        <translation type="unfinished">(Добавить новый канал)</translation>
+        <translation>(Добавить новый канал)</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/channeleditor.cpp" line="517"/>
@@ -323,12 +323,12 @@
     <message>
         <location filename="../programs/mythtv-setup/channeleditor.cpp" line="453"/>
         <source>Delete channel &apos;%1&apos;?</source>
-        <translation type="unfinished">Удалить канал &apos;%1&apos;?</translation>
+        <translation>Удалить канал &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/channeleditor.cpp" line="477"/>
         <source>Delete ALL channels?</source>
-        <translation type="unfinished">Удалить ВСЕ каналы?</translation>
+        <translation>Удалить ВСЕ каналы?</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/channeleditor.cpp" line="478"/>
@@ -338,7 +338,7 @@
     <message>
         <location filename="../programs/mythtv-setup/channeleditor.cpp" line="479"/>
         <source>Delete all channels on %1?</source>
-        <translation type="unfinished">Удалить все каналы на %1?</translation>
+        <translation>Удалить все каналы на %1?</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/channeleditor.cpp" line="592"/>
@@ -348,7 +348,7 @@
     <message>
         <location filename="../programs/mythtv-setup/channeleditor.cpp" line="605"/>
         <source>Download icon for %1</source>
-        <translation type="unfinished">Загрузить значко для %1</translation>
+        <translation>Загрузить значок для %1</translation>
     </message>
 </context>
 <context>
@@ -436,12 +436,12 @@
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscanner_gui_scan_pane.cpp" line="61"/>
         <source>Rotor Movement</source>
-        <translation type="unfinished">Движение ротора</translation>
+        <translation type="unfinished">Мотоподвес</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscanner_gui_scan_pane.cpp" line="71"/>
         <source>Signal Strength</source>
-        <translation type="unfinished">Сила сигнала</translation>
+        <translation>Уровень сигнала</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscanner_gui_scan_pane.cpp" line="77"/>
@@ -952,18 +952,18 @@
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="22"/>
         <source>The Cartesian latitude for your location.</source>
-        <translation type="unfinished">Декартова широта Вашего местоположения.</translation>
+        <translation>Декартова широта Вашего местоположения.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="23"/>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="34"/>
         <source>Use negative numbers for southern and western coordinates.</source>
-        <translation type="unfinished">Используйте отрицательные числа для южных и восточных координат.</translation>
+        <translation>Используйте отрицательные числа для южных и восточных координат.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="33"/>
         <source>The Cartesian longitude for your location.</source>
-        <translation type="unfinished">Декартова долгота для Вашего местоположения.</translation>
+        <translation>Декартова долгота для Вашего местоположения.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="47"/>
@@ -974,24 +974,24 @@
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="48"/>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="978"/>
         <source>Switch</source>
-        <translation type="unfinished">Переключатель</translation>
+        <translation>Переключатель</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="50"/>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="979"/>
         <source>Rotor</source>
-        <translation type="unfinished">Позиционер</translation>
+        <translation>Позиционер</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="52"/>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="980"/>
         <source>LNB</source>
-        <translation type="unfinished">Конвертор</translation>
+        <translation>Конвертор</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="82"/>
         <source>Description</source>
-        <translation type="unfinished">Описание</translation>
+        <translation>Описание</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="83"/>
@@ -1011,32 +1011,32 @@
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="145"/>
         <source>Switch Type</source>
-        <translation type="unfinished">Тип переключателя</translation>
+        <translation>Тип переключателя</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="146"/>
         <source>Select the type of switch from the list.</source>
-        <translation type="unfinished">Выберите тип Вашего переключателя из списка.</translation>
+        <translation>Выберите тип Вашего переключателя из списка.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="148"/>
         <source>Tone</source>
-        <translation type="unfinished">Тон</translation>
+        <translation>Тон</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="150"/>
         <source>Voltage</source>
-        <translation type="unfinished">Напряжение</translation>
+        <translation>Напряжение</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="152"/>
         <source>Mini DiSEqC</source>
-        <translation type="unfinished">Мини DiSEqC</translation>
+        <translation>Мини DiSEqC</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="154"/>
         <source>DiSEqC</source>
-        <translation type="unfinished">DiSEqC</translation>
+        <translation>DiSEqC</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="157"/>
@@ -1046,62 +1046,62 @@
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="162"/>
         <source>Legacy SW42</source>
-        <translation type="unfinished">Традиционный SW42</translation>
+        <translation>Традиционный SW42</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="164"/>
         <source>Legacy SW64</source>
-        <translation type="unfinished">Традиционный SW64</translation>
+        <translation>Традиционный SW64</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="193"/>
         <source>Address of switch</source>
-        <translation type="unfinished">Адрес свитча</translation>
+        <translation type="unfinished">Адрес перключателя</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="194"/>
         <source>The DiSEqC address of the switch.</source>
-        <translation type="unfinished">DiSEqC адрес свитча.</translation>
+        <translation type="unfinished">DiSEqC адрес переключателя.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="219"/>
         <source>Number of ports</source>
-        <translation type="unfinished">Количество портов</translation>
+        <translation>Количество портов</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="220"/>
         <source>The number of ports this switch has.</source>
-        <translation type="unfinished">Количество портов.</translation>
+        <translation>Количество портов на переключателе.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="245"/>
         <source>Switch Configuration</source>
-        <translation type="unfinished">Конфигурация свитча</translation>
+        <translation>Конфигурация преключателя</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="298"/>
         <source>Rotor Type</source>
-        <translation type="unfinished">Тип позиционера</translation>
+        <translation>Тип позиционера</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="299"/>
         <source>Select the type of rotor from the list.</source>
-        <translation type="unfinished">Выберите тип Вашего позиционера из списка.</translation>
+        <translation>Выберите тип Вашего позиционера из списка.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="300"/>
         <source>DiSEqC 1.2</source>
-        <translation type="unfinished">DiSEqC 1.2</translation>
+        <translation>DiSEqC 1.2</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="302"/>
         <source>DiSEqC 1.3 (GotoX/USALS)</source>
-        <translation type="unfinished">DiSEqC 1.3 (GotoX/USALS)</translation>
+        <translation>DiSEqC 1.3 (GotoX/USALS)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="330"/>
         <source>Rotor Low Speed (deg/sec)</source>
-        <translation type="unfinished">Наименьшая скорость позиционера (град/сек)</translation>
+        <translation>Наименьшая скорость позиционера (град/сек)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="331"/>
@@ -1111,7 +1111,7 @@
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="361"/>
         <source>Rotor High Speed (deg/sec)</source>
-        <translation type="unfinished">Наибольшая скорость позиционера (град/сек)</translation>
+        <translation>Наибольшая скорость позиционера (град/сек)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="362"/>
@@ -1134,12 +1134,12 @@
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="460"/>
         <source>Position Index %1</source>
-        <translation type="unfinished">Индекс положения %1</translation>
+        <translation>Индекс положения %1</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="461"/>
         <source>Orbital Position</source>
-        <translation type="unfinished">Орбитальное положение</translation>
+        <translation type="unfinished">Орбитальная позиция</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="483"/>
@@ -1154,12 +1154,12 @@
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="500"/>
         <source>Rotor Position Map</source>
-        <translation type="unfinished">Карта положений позиционера</translation>
+        <translation>Карта положений позиционера</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="517"/>
         <source>Rotor Configuration</source>
-        <translation type="unfinished">Конфигурация позиционера</translation>
+        <translation>Конфигурация позиционера</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="531"/>
@@ -1179,22 +1179,22 @@
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="587"/>
         <source>Universal (Europe)</source>
-        <translation type="unfinished">Универсальное (Европа)</translation>
+        <translation>Универсальный (Европа)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="590"/>
         <source>Circular (N. America)</source>
-        <translation type="unfinished">Круговая (Сев. Америка)</translation>
+        <translation>Круговой (Сев. Америка)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="592"/>
         <source>Linear (N. America)</source>
-        <translation type="unfinished">Линейная (Сев. Америка)</translation>
+        <translation>Линейный (Сев. Америка)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="594"/>
         <source>C Band</source>
-        <translation type="unfinished">C диапазон</translation>
+        <translation>C диапазон</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="596"/>
@@ -1209,37 +1209,37 @@
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="624"/>
         <source>Select the LNB preset from the list, or choose &apos;Custom&apos; and set the advanced settings below.</source>
-        <translation type="unfinished">Выберите настройку конвертора из списка или выберите &apos;Вручную&apos; и установите дополнительные опции ниже.</translation>
+        <translation>Выберите настройку конвертора из списка или выберите &apos;Вручную&apos; и установите дополнительные опции ниже.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="632"/>
         <source>Custom</source>
-        <translation type="unfinished">Вручную</translation>
+        <translation>Вручную</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="659"/>
         <source>LNB Type</source>
-        <translation type="unfinished">Тип конвертора</translation>
+        <translation>Тип конвертора</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="660"/>
         <source>Select the type of LNB from the list.</source>
-        <translation type="unfinished">Выберите тип конвертора из списка.</translation>
+        <translation>Выберите тип конвертора из списка.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="661"/>
         <source>Legacy (Fixed)</source>
-        <translation type="unfinished">Традиционный (Фиксированный)</translation>
+        <translation>Традиционный (Фиксированный)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="663"/>
         <source>Standard (Voltage)</source>
-        <translation type="unfinished">Стандартный (Напряжение)</translation>
+        <translation>Стандартный (Напряжение)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="666"/>
         <source>Universal (Voltage &amp; Tone)</source>
-        <translation type="unfinished">Универсальный (Напряжение &amp; Тон)</translation>
+        <translation>Универсальный (Напряжение &amp; Тон)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="669"/>
@@ -1249,12 +1249,12 @@
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="696"/>
         <source>LNB LOF Switch (MHz)</source>
-        <translation type="unfinished">Частота переключения конвертора (МГц)</translation>
+        <translation>Частота переключения конвертора (МГц)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="697"/>
         <source>This defines at what frequency the LNB will do a switch from high to low setting, and vice versa.</source>
-        <translation type="unfinished">Это определяет на какой частоте конвертор осуществляет переключение с высокого на низкий диапазон и наоборот.</translation>
+        <translation type="unfinished">Определяет на какой частоте конвертор переключается с высокого на низкий диапазон и наоборот.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="726"/>
@@ -1289,12 +1289,12 @@
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="818"/>
         <source>LNB Configuration</source>
-        <translation type="unfinished">Конфигурация конвертера</translation>
+        <translation>Конфигурация конвертера</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="975"/>
         <source>Select Type of Device</source>
-        <translation type="unfinished">Выберите тип устройства</translation>
+        <translation>Выберите тип устройства</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="1121"/>
@@ -1304,17 +1304,17 @@
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="1140"/>
         <source>Choose a port to use for this switch.</source>
-        <translation type="unfinished">Выберите порт используемый с этим свитчем.</translation>
+        <translation>Выберите порт используемый с этим свитчем.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="1146"/>
         <source>Port %1</source>
-        <translation type="unfinished">Порт %1</translation>
+        <translation>Порт %1</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="1181"/>
         <source>Choose a satellite position.</source>
-        <translation type="unfinished">Выберите положение спутника.</translation>
+        <translation>Выберите положение спутника.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="1225"/>
@@ -1344,12 +1344,12 @@
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="160"/>
         <source>Legacy SW21</source>
-        <translation type="unfinished">Традиционный SW21</translation>
+        <translation>Традиционный SW21</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="1234"/>
         <source>Western</source>
-        <translation type="unfinished">Вестерн</translation>
+        <translation type="unfinished">Западной</translation>
     </message>
 </context>
 <context>
@@ -1536,7 +1536,7 @@
         <location filename="../programs/mythfrontend/guidegrid.cpp" line="615"/>
         <location filename="../programs/mythfrontend/guidegrid.cpp" line="1384"/>
         <source>Delete Rule</source>
-        <translation type="unfinished">Удалить правило</translation>
+        <translation>Удалить правило</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/guidegrid.cpp" line="617"/>
@@ -1548,7 +1548,7 @@
         <location filename="../programs/mythfrontend/guidegrid.cpp" line="620"/>
         <location filename="../programs/mythfrontend/guidegrid.cpp" line="1394"/>
         <source>Add To Channel Group</source>
-        <translation type="unfinished">Добавить к группе каналов</translation>
+        <translation>Добавить к группе каналов</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/guidegrid.cpp" line="622"/>
@@ -1665,27 +1665,27 @@
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="4929"/>
         <source>Recording is in Mono</source>
-        <translation type="unfinished">Запис в Моно</translation>
+        <translation>Запись в Моно</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="4930"/>
         <source>Recording is in Stereo</source>
-        <translation type="unfinished">Запись в Стерео</translation>
+        <translation>Запись в Стерео</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="4931"/>
         <source>Recording is in Surround Sound</source>
-        <translation type="unfinished">Запись с окружающим звуком</translation>
+        <translation>Запись с окружающим звуком</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="4932"/>
         <source>Recording is in Dolby Surround Sound</source>
-        <translation type="unfinished">Запись со звуком Dolby Surround</translation>
+        <translation>Запись со звуком Dolby Surround</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="4934"/>
         <source>Recording is Closed Captioned</source>
-        <translation type="unfinished">Запись с Субтитрами</translation>
+        <translation>Запись с Субтитрами</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="4935"/>
@@ -1695,7 +1695,7 @@
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="4936"/>
         <source>Recording is Subtitled</source>
-        <translation type="unfinished">Запись с субтитрами</translation>
+        <translation>Запись с субтитрами</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="4940"/>
@@ -1705,7 +1705,7 @@
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="4944"/>
         <source>Recording has been watched</source>
-        <translation type="unfinished">Запись была просмотрена</translation>
+        <translation>Запись была просмотрена</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="4938"/>
@@ -1929,7 +1929,7 @@
     <message>
         <location filename="../programs/mythlcdserver/lcdprocclient.cpp" line="1999"/>
         <source>RECORDING|</source>
-        <translation type="unfinished">ЗАПИСЬ|</translation>
+        <translation>ЗАПИСЬ|</translation>
     </message>
 </context>
 <context>
@@ -1937,7 +1937,7 @@
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="1910"/>
         <source>Probed info</source>
-        <translation>Информация испытания</translation>
+        <translation type="unfinished">Информация испытания</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="1924"/>
@@ -1982,27 +1982,27 @@
     <message>
         <location filename="../libs/libmyth/mythmediamonitor.cpp" line="222"/>
         <source>No devices to eject</source>
-        <translation type="unfinished">Нет устройств для извелечения</translation>
+        <translation>Нет устройств для извелечения</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/mythmediamonitor.cpp" line="256"/>
         <source>Failed to unmount %1</source>
-        <translation type="unfinished">Не удается размонтировать %1</translation>
+        <translation>Не удается размонтировать %1</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/mythmediamonitor.cpp" line="270"/>
         <source>You may safely remove %1</source>
-        <translation type="unfinished">Вы можете безопасно извлечь %1</translation>
+        <translation>Вы можете безопасно извлечь %1</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/mythmediamonitor.cpp" line="274"/>
         <source>Failed to eject %1</source>
-        <translation type="unfinished">Не удалось извлечь %1</translation>
+        <translation>Не удалось извлечь %1</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/mythmediamonitor.cpp" line="819"/>
         <source>Select a CD drive</source>
-        <translation type="unfinished">Выберите устройство CD</translation>
+        <translation>Выберите устройство CD</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/mythmediamonitor.cpp" line="828"/>
@@ -3490,14 +3490,14 @@
         <source>Could not locate &apos;%1&apos; in theme &apos;%2&apos;.
 
 Returning to the previous menu.</source>
-        <translation type="unfinished">Невозможно найти &apos;%1&apos; в теме &apos;%2&apos;.
+        <translation>Невозможно найти &apos;%1&apos; в теме &apos;%2&apos;.
 
 Возврат в предыдущее меню.</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/mythdialogs.cpp" line="1070"/>
         <source>Missing UI Element</source>
-        <translation type="unfinished">Отсутствует элемент интерфейса</translation>
+        <translation>Отсутствует элемент интерфейса</translation>
     </message>
 </context>
 <context>
@@ -3522,7 +3522,7 @@ Returning to the previous menu.</source>
     <message>
         <location filename="../libs/libmythui/myththemedmenu.cpp" line="318"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">О программе</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/myththemedmenu.cpp" line="319"/>
@@ -3534,7 +3534,7 @@ Returning to the previous menu.</source>
         <source>Revision: %1
  Branch: %2
  %3</source>
-        <translation type="unfinished">Ревизия: %1
+        <translation>Ревизия: %1
  Ветвь: %2
  %3</translation>
     </message>
@@ -3554,7 +3554,7 @@ Returning to the previous menu.</source>
     <message>
         <location filename="../libs/libmythui/mythprogressdialog.cpp" line="15"/>
         <source>Please Wait ...</source>
-        <translation type="unfinished">Пожалуйста подождите ...</translation>
+        <translation>Пожалуйста подождите ...</translation>
     </message>
 </context>
 <context>
@@ -3628,12 +3628,12 @@ Returning to the previous menu.</source>
     <message>
         <location filename="../libs/libmythtv/channelscan/panedvbutilsimport.h" line="49"/>
         <source>File location</source>
-        <translation type="unfinished">Расположение файла</translation>
+        <translation>Расположение файла</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/panedvbutilsimport.h" line="50"/>
         <source>Location of the channels.conf file.</source>
-        <translation type="unfinished">Расположение файла channels.conf.</translation>
+        <translation>Расположение файла channels.conf.</translation>
     </message>
 </context>
 <context>
@@ -3675,7 +3675,7 @@ Returning to the previous menu.</source>
     <message>
         <location filename="../programs/mythfrontend/proglist.cpp" line="1815"/>
         <source>Record</source>
-        <translation type="unfinished">Записать</translation>
+        <translation>Записать</translation>
     </message>
 </context>
 <context>
@@ -4370,7 +4370,7 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="912"/>
         <source>Decoder</source>
-        <translation type="unfinished">Декодер</translation>
+        <translation>Декодер</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="913"/>
@@ -4521,12 +4521,12 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="310"/>
         <source>Surround Sound</source>
-        <translation type="unfinished">Окружающий звук</translation>
+        <translation>Окружающий звук</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="312"/>
         <source>Dolby Sound</source>
-        <translation type="unfinished">Звук Dolby</translation>
+        <translation>Звук Dolby</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="314"/>
@@ -4541,33 +4541,33 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="319"/>
         <source>HDTV</source>
-        <translation type="unfinished">ТВЧ</translation>
+        <translation type="unfinished">HDTV</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="321"/>
         <source>Widescreen</source>
-        <translation type="unfinished">Широкоэкранный</translation>
+        <translation>Широкоэкранный</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="323"/>
         <source>AVC/H.264</source>
-        <translation type="unfinished">AVC/H.264</translation>
+        <translation>AVC/H.264</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="325"/>
         <source>720p Resolution</source>
-        <translation type="unfinished">Разрешение 720p</translation>
+        <translation>Разрешение 720p</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="327"/>
         <source>1080i/p Resolution</source>
-        <translation type="unfinished">Разрешение 1080i/p</translation>
+        <translation>Разрешение 1080i/p</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="330"/>
         <source>CC</source>
         <comment>Closed Captioned</comment>
-        <translation type="unfinished">СУБ</translation>
+        <translation>СУБ</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="332"/>
@@ -4582,17 +4582,17 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="336"/>
         <source>Deaf Signing</source>
-        <translation type="unfinished">Сурдоперевод</translation>
+        <translation>Сурдоперевод</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="339"/>
         <source>Unidentified Episode</source>
-        <translation type="unfinished">Неидентифицированная серия</translation>
+        <translation>Неидентифицированная серия</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="341"/>
         <source>Repeat</source>
-        <translation type="unfinished">Повтор</translation>
+        <translation>Повтор</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="349"/>
@@ -4613,7 +4613,7 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="382"/>
         <source>Episode Number</source>
-        <translation type="unfinished">Номер серии</translation>
+        <translation>Номер серии</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="390"/>
@@ -4628,37 +4628,37 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="497"/>
         <source>Actors</source>
-        <translation type="unfinished">Актеры</translation>
+        <translation>Актеры</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="498"/>
         <source>Director</source>
-        <translation type="unfinished">Режиссер</translation>
+        <translation>Режиссер</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="499"/>
         <source>Producer</source>
-        <translation type="unfinished">Продюсер</translation>
+        <translation>Продюсер</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="500"/>
         <source>Executive Producer</source>
-        <translation type="unfinished">Исполнительный продюсер</translation>
+        <translation>Исполнительный продюсер</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="501"/>
         <source>Writer</source>
-        <translation type="unfinished">Автор сценария</translation>
+        <translation>Автор сценария</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="502"/>
         <source>Guest Star</source>
-        <translation type="unfinished">Приглашенные звезды</translation>
+        <translation>Приглашенные звезды</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="503"/>
         <source>Host</source>
-        <translation type="unfinished">Ведущий</translation>
+        <translation>Ведущий</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="504"/>
@@ -4668,22 +4668,22 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="505"/>
         <source>Presenter</source>
-        <translation type="unfinished">Ведущий</translation>
+        <translation>Ведущий</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="506"/>
         <source>Commentator</source>
-        <translation type="unfinished">Комментатор</translation>
+        <translation>Комментатор</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="507"/>
         <source>Guest</source>
-        <translation type="unfinished">Гость</translation>
+        <translation>Гость</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="570"/>
         <source>Status</source>
-        <translation type="unfinished">Статус</translation>
+        <translation>Статус</translation>
     </message>
     <message numerus="yes">
         <location filename="../programs/mythfrontend/progdetails.cpp" line="599"/>
@@ -4702,7 +4702,7 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="616"/>
         <source>Marked as &apos;watched&apos;</source>
-        <translation type="unfinished">Пометить как &quot;просмотренное&quot;</translation>
+        <translation>Пометить как &quot;просмотренное&quot;</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="619"/>
@@ -4752,13 +4752,13 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="650"/>
         <source>Find ID</source>
-        <translation type="unfinished">Найти ИД</translation>
+        <translation>Найти ИД</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="666"/>
         <source>GB</source>
         <comment>GigaBytes</comment>
-        <translation type="unfinished">ГБ</translation>
+        <translation>ГБ</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="686"/>
@@ -4798,25 +4798,25 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="730"/>
         <source>Options</source>
-        <translation type="unfinished">Параметры</translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="739"/>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="765"/>
         <source>Zoom In</source>
-        <translation type="unfinished">Увеличить</translation>
+        <translation>Увеличить</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="740"/>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="763"/>
         <source>Zoom Out</source>
-        <translation type="unfinished">Уменьшить</translation>
+        <translation>Уменьшить</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="741"/>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="767"/>
         <source>Switch Page</source>
-        <translation type="unfinished">Переключить страницу</translation>
+        <translation>Переключить страницу</translation>
     </message>
 </context>
 <context>
@@ -5547,51 +5547,51 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../libs/libmythtv/channelgroupsettings.cpp" line="110"/>
         <source>Channel Group - Page </source>
-        <translation type="unfinished">Группа каналов - Страница-</translation>
+        <translation>Группа каналов - Страница-</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelgroupsettings.cpp" line="111"/>
         <source>of</source>
-        <translation type="unfinished">из</translation>
+        <translation>из</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/importicons.cpp" line="632"/>
         <source>Searching for icons for channel %1</source>
-        <translation type="unfinished">Поиск значков для канала %1</translation>
+        <translation>Поиск значков для канала %1</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/mythmediamonitor.cpp" line="240"/>
         <source>Unable to open or close the empty drive %1.
 
 You may have to use the eject button under its tray.</source>
-        <translation type="unfinished">Немогу открыть или закрыть пустой привод %1.
+        <translation>Немогу открыть или закрыть пустой привод %1.
 Вы можете использовать кнопку извлечения под лотком.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/main.cpp" line="93"/>
         <source>DVD/Video contains a bookmark</source>
-        <translation type="unfinished">DVD/Фильм содержит закладки</translation>
+        <translation>DVD/Фильм содержит закладки</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/main.cpp" line="1385"/>
         <source>MythTV Frontend</source>
-        <translation type="unfinished">Фронтэнд MythTV</translation>
+        <translation>Фронтэнд MythTV</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/myththemedmenu.cpp" line="242"/>
         <location filename="../programs/mythtv-setup/main.cpp" line="581"/>
         <source>MythTV Setup</source>
-        <translation type="unfinished">Настройка MythTV</translation>
+        <translation>Настройка MythTV</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/myththemedmenu.cpp" line="596"/>
         <source>Myth could not locate the menu file %1</source>
-        <translation type="unfinished">Myth не может найти файл меню %1</translation>
+        <translation>Myth не может найти файл меню %1</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/myththemedmenu.cpp" line="613"/>
         <source>The menu file %1 is incomplete.</source>
-        <translation type="unfinished">Файл меню %1 неполный.</translation>
+        <translation>Файл меню %1 неполный.</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="53"/>
@@ -5608,27 +5608,27 @@ You may have to use the eject button under its tray.</source>
         <location filename="../libs/libmyth/dbsettings.cpp" line="83"/>
         <location filename="../libs/libmyth/dbsettings.cpp" line="167"/>
         <source>Database Configuration</source>
-        <translation type="unfinished">Конфигурация базы данный</translation>
+        <translation>Конфигурация базы данный</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="89"/>
         <source>All database settings take effect when you restart this program.</source>
-        <translation type="unfinished">Все установки базы данных дадут эффект только после перезапуска программы.</translation>
+        <translation>Все установки базы данных дадут эффект только после перезапуска программы.</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="92"/>
         <source>Myth could not connect to the database. Please verify your database settings below.</source>
-        <translation type="unfinished">MythTV не может присоединиться к базе данных. Пожалуйста проверьте ваши настройки ниже.</translation>
+        <translation>MythTV не может присоединиться к базе данных. Пожалуйста проверьте ваши настройки ниже.</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="98"/>
         <source>Database Server Settings</source>
-        <translation type="unfinished">Настройки сервера баз данных</translation>
+        <translation>Настройки сервера баз данных</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="101"/>
         <source>The host name or IP address of the machine hosting the database. This information is required.</source>
-        <translation type="unfinished">Имя или IP адрес компьютера, где запущена СУБД. Эта информация обязательна.</translation>
+        <translation>Имя или IP адрес компьютера, где запущена СУБД. Эта информация обязательна.</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="110"/>
@@ -5638,65 +5638,65 @@ You may have to use the eject button under its tray.</source>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="111"/>
         <source>Test basic host connectivity using the ping command. Turn off if your host or network don&apos;t support ping (ICMP ECHO) packets</source>
-        <translation type="unfinished">Проверка сетевого подключения с помощью команды ping. Выключите если ваш хост или сеть не поддерживают пинг пакетов (ICMP ECHO)</translation>
+        <translation>Проверка сетевого подключения с помощью команды ping. Выключите если ваш хост или сеть не поддерживают пинг пакетов (ICMP ECHO)</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="125"/>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="26"/>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="60"/>
         <source>Port</source>
-        <translation type="unfinished">Порт</translation>
+        <translation>Порт</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="126"/>
         <source>The port number the database is running on.  Leave blank if using the default port (3306).</source>
-        <translation type="unfinished">Номер порта на котором запущена база данных.  Оставьте пустым если используете порт по умолчанию (3306).</translation>
+        <translation>Номер порта на котором запущена база данных.  Оставьте пустым если используете порт по умолчанию (3306).</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="132"/>
         <source>Database name</source>
-        <translation type="unfinished">Имя базы данных</translation>
+        <translation>Имя базы данных</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="133"/>
         <source>The name of the database. This information is required.</source>
-        <translation type="unfinished">Имя базы данных. Эта информация обязательна.</translation>
+        <translation>Имя базы данных. Эта информация обязательна.</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="138"/>
         <source>User</source>
-        <translation type="unfinished">Пользователь</translation>
+        <translation>Пользователь</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="139"/>
         <source>The user name to use while connecting to the database. This information is required.</source>
-        <translation type="unfinished">Имя пользователя для соединении с БД. Эта информация обязательна.</translation>
+        <translation>Имя пользователя для соединении с БД. Эта информация обязательна.</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="145"/>
         <location filename="../libs/libmythtv/videosource.cpp" line="326"/>
         <source>Password</source>
-        <translation type="unfinished">Пароль</translation>
+        <translation>Пароль</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="146"/>
         <source>The password to use while connecting to the database. This information is required.</source>
-        <translation type="unfinished">Пароль пользователя для соединения с БД. Эта информация обязательна.</translation>
+        <translation>Пароль пользователя для соединения с БД. Эта информация обязательна.</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="172"/>
         <source>If this frontend&apos;s host name changes often, check this box and provide a network-unique name to identify it. If unchecked, the frontend machine&apos;s local host name will be used to save preferences in the database.</source>
-        <translation type="unfinished">Если имя машины с пользовательским интерфейсом часто меняется, то включите это переключатель и предоставьте уникальное в сети имя для идентификации. Если переключатель не установлен, то будет использоваться имя машины для сохранения настроек пользовательского интерфейса.</translation>
+        <translation type="unfinished">Если имя машины с пользовательским интерфейсом часто меняется, то включите этот переключатель и предоставьте уникальное имя для идентификации. Если переключатель не установлен, то будет использоваться имя машины для сохранения настроек пользовательского интерфейса.</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="182"/>
         <source>Custom identifier</source>
-        <translation type="unfinished">Пользовательский идентификатор</translation>
+        <translation>Пользовательский идентификатор</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="183"/>
         <source>An identifier to use while saving the settings for this frontend.</source>
-        <translation type="unfinished">Этот идентификатор будет использоваться в процессе сохранения настроек интерфейса.</translation>
+        <translation>Этот идентификатор будет использоваться в процессе сохранения настроек интерфейса.</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="196"/>
@@ -5706,7 +5706,7 @@ You may have to use the eject button under its tray.</source>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="197"/>
         <source>If checked, the frontend will use database wakeup parameters to reconnect to the database server.</source>
-        <translation type="unfinished">Если флажок установлен, фронтэнд будет использовать параметры пробуждения базы данных для переподключения к серверу базы данных.</translation>
+        <translation>Если флажок установлен, фронтэнд будет использовать параметры пробуждения базы данных для переподключения к серверу базы данных.</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="202"/>
@@ -15041,16 +15041,12 @@ Most dvb-s transponders transmit at 27.5 million symbols per second.</source>
         <source>Found %n off-air channel(s).</source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="241"/>
         <source>Found %n unused transport(s).</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -15059,16 +15055,12 @@ Most dvb-s transponders transmit at 27.5 million symbols per second.</source>
         <source>Found %n old %1 channel(s).</source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="306"/>
         <source>Found %n new non-conflicting %1 channel(s).</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -15077,16 +15069,12 @@ Most dvb-s transponders transmit at 27.5 million symbols per second.</source>
         <source>Found %n new conflicting %1 channel(s).</source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="350"/>
         <source>Found %n conflicting old %1 channel(s).</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -15095,8 +15083,6 @@ Most dvb-s transponders transmit at 27.5 million symbols per second.</source>
         <source>Found %n transport(s):
 </source>
         <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -15398,16 +15384,12 @@ Most dvb-s transponders transmit at 27.5 million symbols per second.</source>
         <source> %n hour(s) and</source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../programs/mythbackend/httpstatus.cpp" line="903"/>
         <source> %n minute(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -15587,7 +15569,7 @@ Most dvb-s transponders transmit at 27.5 million symbols per second.</source>
     <message>
         <location filename="../libs/libmythtv/channelscan/scanmonitor.cpp" line="113"/>
         <source>Scanning</source>
-        <translation type="unfinished">Сканирование</translation>
+        <translation>Сканирование</translation>
     </message>
 </context>
 <context>
@@ -16680,12 +16662,12 @@ Directory From Storage Group?</source>
     <message>
         <location filename="../libs/libmyth/storagegroup.cpp" line="957"/>
         <source>Yes, delete group</source>
-        <translation type="unfinished">Да, удалить группу</translation>
+        <translation>Да, удалить группу</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/storagegroup.cpp" line="958"/>
         <source>No, Don&apos;t delete group</source>
-        <translation type="unfinished">Нет, не удалять группу</translation>
+        <translation>Нет, не удалять группу</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/storagegroup.cpp" line="1069"/>
@@ -16693,7 +16675,7 @@ Directory From Storage Group?</source>
         <location filename="../libs/libmyth/storagegroup.cpp" line="1085"/>
         <location filename="../libs/libmyth/storagegroup.cpp" line="1095"/>
         <source>(Create %1 group)</source>
-        <translation type="unfinished">(Создать группу %1)</translation>
+        <translation>(Создать группу %1)</translation>
     </message>
 </context>
 <context>
@@ -16912,16 +16894,12 @@ Directory From Storage Group?</source>
         <source>Sorry, PBP only supports %n video stream(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/libmythtv/tv_play.cpp" line="5307"/>
         <source>Sorry, PIP only supports %n video stream(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -18120,7 +18098,7 @@ Select a Current Recording</source>
     <message>
         <location filename="../themes/themestrings.h" line="377"/>
         <source>5. Channel Editor</source>
-        <translation type="unfinished">5. Редактор каналов</translation>
+        <translation>5. Редактор каналов</translation>
     </message>
     <message>
         <location filename="../themes/themestrings.h" line="378"/>
@@ -18190,7 +18168,7 @@ Select a Current Recording</source>
     <message>
         <location filename="../themes/themestrings.h" line="395"/>
         <source>Settings for TV recording and playback</source>
-        <translation type="unfinished">Настройки записи и воспроизведения ТВ</translation>
+        <translation>Настройки записи и воспроизведения ТВ</translation>
     </message>
     <message>
         <location filename="../themes/themestrings.h" line="396"/>
@@ -18200,32 +18178,32 @@ Select a Current Recording</source>
     <message>
         <location filename="../themes/themestrings.h" line="397"/>
         <source>Configure playback and CD ripping</source>
-        <translation type="unfinished">Настроить воспроизведение и импорт CD</translation>
+        <translation>Настройка воспроизведения и импорта CD</translation>
     </message>
     <message>
         <location filename="../themes/themestrings.h" line="398"/>
         <source>Videos Settings</source>
-        <translation type="unfinished">Настройки видео</translation>
+        <translation>Настройки видео</translation>
     </message>
     <message>
         <location filename="../themes/themestrings.h" line="399"/>
         <source>Configure playback and DVD ripping</source>
-        <translation type="unfinished">Настройка воспроизведения и импорта DVD</translation>
+        <translation>Настройка воспроизведения и импорта DVD</translation>
     </message>
     <message>
         <location filename="../themes/themestrings.h" line="400"/>
         <source>Radio Settings</source>
-        <translation>Настройки радио</translation>
+        <translation>Настройка радио</translation>
     </message>
     <message>
         <location filename="../themes/themestrings.h" line="401"/>
         <source>Images Settings</source>
-        <translation type="unfinished">Настройки изображений</translation>
+        <translation>Настройка изображений</translation>
     </message>
     <message>
         <location filename="../themes/themestrings.h" line="402"/>
         <source>Configure display of image gallery</source>
-        <translation type="unfinished">Настроить отображение галереи изображений</translation>
+        <translation type="unfinished">Настроики отображение галереи изображений</translation>
     </message>
     <message>
         <location filename="../themes/themestrings.h" line="403"/>
@@ -18526,17 +18504,17 @@ Select a Current Recording</source>
     <message>
         <location filename="../themes/themestrings.h" line="456"/>
         <source>VCR-like recording scheduler</source>
-        <translation type="unfinished">Планировщик записей как на видеомагнитофоне</translation>
+        <translation>Планировщик записей как на видеомагнитофоне</translation>
     </message>
     <message>
         <location filename="../themes/themestrings.h" line="457"/>
         <source>Titles</source>
-        <translation type="unfinished">Заголовки</translation>
+        <translation>Заголовки</translation>
     </message>
     <message>
         <location filename="../themes/themestrings.h" line="458"/>
         <source>Find a program based on title</source>
-        <translation type="unfinished">Найти программу по заголовку</translation>
+        <translation>Найти программу по заголовку</translation>
     </message>
     <message>
         <location filename="../themes/themestrings.h" line="459"/>
@@ -18591,7 +18569,7 @@ Select a Current Recording</source>
     <message>
         <location filename="../themes/themestrings.h" line="469"/>
         <source>Playback</source>
-        <translation type="unfinished">Воспроизведение</translation>
+        <translation>Воспроизведение</translation>
     </message>
     <message>
         <location filename="../themes/themestrings.h" line="470"/>
@@ -21670,7 +21648,7 @@ Finally, you can test, immediately activate, store, or cancel your rule.</source
         <location filename="../libs/libmyth/uilistbtntype.cpp" line="1477"/>
         <location filename="../libs/libmyth/uilistbtntype.cpp" line="1490"/>
         <source>Search</source>
-        <translation type="unfinished">Поиск</translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/uilistbtntype.cpp" line="1481"/>
@@ -21704,7 +21682,7 @@ Finally, you can test, immediately activate, store, or cancel your rule.</source
     <message>
         <location filename="../libs/libmyth/uitypes.cpp" line="2995"/>
         <source>Contains text</source>
-        <translation type="unfinished">Содержит текст</translation>
+        <translation>Содержит текст</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/uitypes.cpp" line="3004"/>
@@ -21920,7 +21898,7 @@ Finally, you can test, immediately activate, store, or cancel your rule.</source
         <location filename="../programs/mythwelcome/welcomedialog.cpp" line="337"/>
         <location filename="../programs/mythwelcome/welcomedialog.cpp" line="338"/>
         <source>Cannot connect to server!</source>
-        <translation type="unfinished">Не могу соединиться с сервером!</translation>
+        <translation>Не могу соединиться с сервером!</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomedialog.cpp" line="360"/>
@@ -21941,17 +21919,17 @@ Finally, you can test, immediately activate, store, or cancel your rule.</source
     <message>
         <location filename="../programs/mythwelcome/welcomedialog.cpp" line="415"/>
         <source>Please Wait ...</source>
-        <translation type="unfinished">Пожалуйста подождите ...</translation>
+        <translation>Пожалуйста подождите ...</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomedialog.cpp" line="525"/>
         <source>MythTV is about to start recording.</source>
-        <translation type="unfinished">MythTV собирается начать записывать.</translation>
+        <translation>MythTV собирается начать записывать.</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomedialog.cpp" line="530"/>
         <source>MythTV is busy recording.</source>
-        <translation type="unfinished">MythTV занят записью.</translation>
+        <translation>MythTV занят записью.</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomedialog.cpp" line="540"/>
@@ -22057,12 +22035,12 @@ Finally, you can test, immediately activate, store, or cancel your rule.</source
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="439"/>
         <source>Configure</source>
-        <translation type="unfinished">Настроить</translation>
+        <translation>Настроить</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="440"/>
         <source>Run xmltv configure command.</source>
-        <translation type="unfinished">Запустить команду настройки xmltv.</translation>
+        <translation>Запустить команду настройки xmltv.</translation>
     </message>
 </context>
 </TS>
