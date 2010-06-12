@@ -34,7 +34,7 @@ $ua->timeout(5);
 $ua->env_proxy;
 
 my $name = 'WCUA-XML';
-my $version = 0.2;
+my $version = 0.3;
 my $author = 'Viktor Malyna';
 my $email = 'vicktorm@bk.ru';
 my $updateTimeout = 120*60;
@@ -56,24 +56,24 @@ my $dir = "./";
 our ($opt_v, $opt_t, $opt_T, $opt_l, $opt_u, $opt_d);
 
 sub getCloudStr {
-    my $ncloud = $_[0];
+    my $ncloud = shift;
     $ncloud /= 10;
-    if ($ncloud == 0) { return "Sunny" }
-    elsif ($ncloud == 1) { return "Partly Sunny " }
-    elsif ($ncloud == 2) { return "Cloudy" }
-    elsif ($ncloud == 3) { return "Mostly Cloudy" }
-    elsif ($ncloud == 4) { return "Short Rain" }
-    elsif ($ncloud == 5) { return "Rain" }
-    elsif ($ncloud == 6) { return "Lighting" }
-    elsif ($ncloud == 7) { return "Hail" }
-    elsif ($ncloud == 8) { return "Rain Snow" }
-    elsif ($ncloud == 9) { return "Snow" }
-    elsif ($ncloud == 10) { return "Heavy Snow" }
-    elsif ($ncloud == 25) { return "N/A" }
+    if ($ncloud == 0) { return "Sunny"; }
+    elsif ($ncloud == 1) { return "Partly Cloudy"; }
+    elsif ($ncloud == 2) { return "Cloudy"; }
+    elsif ($ncloud == 3) { return "Mostly Cloudy"; }
+    elsif ($ncloud == 4) { return "Short Rain"; }
+    elsif ($ncloud == 5) { return "Rain"; }
+    elsif ($ncloud == 6) { return "Lighting"; }
+    elsif ($ncloud == 7) { return "Hail"; }
+    elsif ($ncloud == 8) { return "Rain Snow"; }
+    elsif ($ncloud == 9) { return "Snow"; }
+    elsif ($ncloud == 10) { return "Heavy Snow"; }
+    elsif ($ncloud == 25) { return "N/A"; }
 }
 
 sub getWeatherIcon {
-    my $img = $_[0];
+    my $img = shift;
     if ($img =~ /^_0_moon.gif$/i) { return "sunny.png"; }
     elsif ($img =~ /^_0_sun.gif$/i) { return "sunny.png"; }
     elsif ($img =~ /^_1_moon_cl.gif$/i) { return "pcloudy.png"; }
@@ -91,25 +91,25 @@ sub getWeatherIcon {
 }
 
 sub getWindDir {
-    my $wdir = $_[0];
-    if ($wdir == 255 || $wdir == 0) {return("N/A")}
-    elsif ($wdir <= 20) {return("N")}
-    elsif ($wdir <= 35) {return("N-N-E")}
-    elsif ($wdir <= 55) {return("N-E")}  
-    elsif ($wdir <= 70) {return("E-N-E")}  
-    elsif ($wdir <= 110) {return("E")}
-    elsif ($wdir <= 125) {return("E-S-E")}
-    elsif ($wdir <= 145) {return("S-E")}
-    elsif ($wdir <= 160) {return("S-S-E")}
-    elsif ($wdir <= 200) {return("S")}  
-    elsif ($wdir <= 215) {return("S-S-W")}
-    elsif ($wdir <= 235) {return("S-W")}
-    elsif ($wdir <= 250) {return("W-S-W")}
-    elsif ($wdir <= 290) {return("W")}  
-    elsif ($wdir <= 305) {return("W-N-W")}  
-    elsif ($wdir <= 325) {return("N-W")}
-    elsif ($wdir <= 340) {return("N-N-W")}
-    elsif ($wdir <= 360) {return("N")}
+    my $wdir = shift;
+    if ($wdir == 255 || $wdir == 0) { return "N/A"; }
+    elsif ($wdir <= 20) { return "N"; }
+    elsif ($wdir <= 35) {return "NNE"; }
+    elsif ($wdir <= 55) {return "NE"; }
+    elsif ($wdir <= 70) {return "ENE"; }
+    elsif ($wdir <= 110) {return "E"; }
+    elsif ($wdir <= 125) {return "ESE"; }
+    elsif ($wdir <= 145) {return "SE"; }
+    elsif ($wdir <= 160) {return "SSE";}
+    elsif ($wdir <= 200) {return "S"; }  
+    elsif ($wdir <= 215) {return "SSW"; }
+    elsif ($wdir <= 235) {return "SW"; }
+    elsif ($wdir <= 250) {return "WSW"; }
+    elsif ($wdir <= 290) {return "W"; }
+    elsif ($wdir <= 305) {return "WNW"; }
+    elsif ($wdir <= 325) {return "NW"; }
+    elsif ($wdir <= 340) {return "NNW"; }
+    elsif ($wdir <= 360) {return "N"; }
 }
 
 #
@@ -182,26 +182,27 @@ if (!$xml) {
 # The required elements which aren't provided by this feed
 printf "copyright::From weather.co.ua\n";
 printf "station_id::" . $cityid . "\n";
-printf "cclocation::" . $xml->{city}->{name_en} . ", " . $xml->{city}->{country}->{name_en} . "\n";
+printf "cclocation::" . $xml->{city}->{name} . ", " . $xml->{city}->{country}->{name} . "\n";
 printf "observation_time::" . $xml->{current}->{time} . "\n";
 printf "weather::" . getCloudStr($xml->{current}->{cloud}) . "\n";
 printf "weather_icon::" . getWeatherIcon($xml->{current}->{pict}) . "\n";
 printf "temp::" . $xml->{current}->{t} . "\n";
 printf "appt::" . $xml->{current}->{t_flik} . "\n";
 printf "wind_dir::" . getWindDir($xml->{current}->{w_rumb}) . "\n";
-printf ("%s::%4.1f%s", "wind_spdgst", $xml->{current}->{w} * 3.6, "\n"); 
+printf ("%s::%d%s", "wind_spdgst", $xml->{current}->{w}, "\n");
 printf "relative_humidity::" . $xml->{current}->{h} . "\n"; 
-printf ("%s::%4.f%s", "pressure", $xml->{current}->{p} * 1.33, "\n");
+printf ("%s::%d%s", "pressure", $xml->{current}->{p}, "\n");
 printf "visibility::N/A\n";
 
 # Data is the 3d and 6d forecast
-printf "3dlocation::" . $xml->{city}->{name_en} . ", " . $xml->{city}->{country}->{name_en} . "\n";
-printf "6dlocation::" . $xml->{city}->{name_en} . ", " . $xml->{city}->{country}->{name_en} . "\n";
+printf "3dlocation::" . $xml->{city}->{name} . ", " . $xml->{city}->{country}->{name} . "\n";
+printf "6dlocation::" . $xml->{city}->{name} . ", " . $xml->{city}->{country}->{name} . "\n";
 
 my $i = 0;
 my $k = 0;
 my %hour_15;
 my %hour_3;
+my $date = 0;
 
 foreach my $nday (@{$xml->{forecast}->{day}}) {
     if (defined($nday->{hour}) && ($nday->{hour} eq '15')) {
@@ -215,7 +216,11 @@ foreach my $nday (@{$xml->{forecast}->{day}}) {
 }
 
 while (my ($key, $value) = each (%hour_15)) {
-    printf "date-" . $key . "::" . UnixDate($value->[0], "%d.%m\t%A") . "\n";
+    $date = UnixDate($value->[0], "%w");
+    if ($date == 7) {
+	$date = 0;
+    }
+    printf "date-" . $key . "::" . $date . "\n";
     printf "icon-" . $key . "::" . $value->[1] . "\n";
     printf "high-" . $key . "::" . $value->[2] . "\n";
     my $lowtemp = $value->[3]; 
@@ -228,13 +233,21 @@ while (my ($key, $value) = each (%hour_15)) {
 }
 
 if (keys %hour_15 < keys %hour_3) {
-    printf "date-4::" . UnixDate($hour_3{4}->[0], "%d.%m\t%A") . "\n";
+    $date = UnixDate($hour_3{4}->[0], "%w");
+    if ($date == 7) {
+	$date = 0;
+    }
+    printf "date-4::" . $date . "\n";
     printf "icon-4::" . $hour_3{4}->[1] . "\n";
     printf "high-4::" . $hour_3{4}->[2] . "\n";
     printf "low-4::" . $hour_3{4}->[3] . "\n";
 }
 elsif (keys %hour_15 > keys %hour_3) {
-    printf "date-5::" . UnixDate($hour_15{4}->[0], "%d.%m\t%A") . "\n";
+    $date = UnixDate($hour_15{4}->[0], "%w");
+    if ($date == 7) {
+	$date = 0;
+    }
+    printf "date-5::" . $date . "\n";
     printf "icon-5::" . $hour_15{4}->[1] . "\n";
     printf "high-5::" . $hour_15{4}->[2] . "\n";
     printf "low-5::" . $hour_15{4}->[3] . "\n";
