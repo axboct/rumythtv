@@ -55,11 +55,11 @@ sub getLocation {
 
 sub getDescription {
     my $dsc = shift;
-    return 'Europe' if ($dsc eq 'Eu');
-    return 'Russia' if ($dsc eq 'Ru');
-    return 'Belarus' if ($dsc eq 'Bl');
-    return 'Central Russia' if ($dsc eq 'MO');
-    return 'South Simbir' if ($dsc eq 'SSb'); 
+    return 'Европа' if ($dsc eq 'Eu');
+    return 'Россия' if ($dsc eq 'Ru');
+    return 'Беларусь' if ($dsc eq 'Bl');
+    return 'Центр России' if ($dsc eq 'MO');
+    return 'Юг Сибири' if ($dsc eq 'SSb'); 
 }
 
 getopts('Tvtlu:d:');
@@ -119,7 +119,7 @@ my $size = '';
 my ($x, $y) = imgsize("${path}0");
 $size = "${x}x$y" if ($x && $y);
 
-print "amdesc::$desc - weather animated map\n";
+print "amdesc::$desc - карта погоды\n";
 printf "animatedimage::${path}%%1-6%s\n", ($size && "-$size" || '');
-print "updatetime::Last Updated on " . UnixDate("now", "%b %d, %H:%M") . "\n";
-print "copyright::From www.meteonovosti.ru\n";
+print "updatetime::Последнее обновление - " . UnixDate("now", "%d.%m.%Y, %H:%M") . "\n";
+print "copyright::Получено с сайта  www.meteonovosti.ru\n";
