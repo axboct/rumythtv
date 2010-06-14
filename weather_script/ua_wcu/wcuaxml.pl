@@ -58,18 +58,18 @@ our ($opt_v, $opt_t, $opt_T, $opt_l, $opt_u, $opt_d);
 sub getCloudStr {
     my $ncloud = shift;
     $ncloud /= 10;
-    if ($ncloud == 0) { return "Sunny"; }
-    elsif ($ncloud == 1) { return "Partly Cloudy"; }
-    elsif ($ncloud == 2) { return "Cloudy"; }
-    elsif ($ncloud == 3) { return "Mostly Cloudy"; }
-    elsif ($ncloud == 4) { return "Short Rain"; }
-    elsif ($ncloud == 5) { return "Rain"; }
-    elsif ($ncloud == 6) { return "Lighting"; }
-    elsif ($ncloud == 7) { return "Hail"; }
-    elsif ($ncloud == 8) { return "Rain Snow"; }
-    elsif ($ncloud == 9) { return "Snow"; }
-    elsif ($ncloud == 10) { return "Heavy Snow"; }
-    elsif ($ncloud == 25) { return "N/A"; }
+    if ($ncloud == 0) { return "Ясно"; }
+    elsif ($ncloud == 1) { return "С прояснениями"; }
+    elsif ($ncloud == 2) { return "Пасмурно"; }
+    elsif ($ncloud == 3) { return "Перем. облачность"; }
+    elsif ($ncloud == 4) { return "Небольшой дождь"; }
+    elsif ($ncloud == 5) { return "Дождь"; }
+    elsif ($ncloud == 6) { return "Грозы"; }
+    elsif ($ncloud == 7) { return "Град"; }
+    elsif ($ncloud == 8) { return "Дождь со снегом"; }
+    elsif ($ncloud == 9) { return "Снег"; }
+    elsif ($ncloud == 10) { return "Сильный снег"; }
+    elsif ($ncloud == 25) { return "НД"; }
 }
 
 sub getWeatherIcon {
@@ -92,24 +92,24 @@ sub getWeatherIcon {
 
 sub getWindDir {
     my $wdir = shift;
-    if ($wdir == 255 || $wdir == 0) { return "N/A"; }
-    elsif ($wdir <= 20) { return "N"; }
-    elsif ($wdir <= 35) {return "NNE"; }
-    elsif ($wdir <= 55) {return "NE"; }
-    elsif ($wdir <= 70) {return "ENE"; }
-    elsif ($wdir <= 110) {return "E"; }
-    elsif ($wdir <= 125) {return "ESE"; }
-    elsif ($wdir <= 145) {return "SE"; }
-    elsif ($wdir <= 160) {return "SSE";}
-    elsif ($wdir <= 200) {return "S"; }  
-    elsif ($wdir <= 215) {return "SSW"; }
-    elsif ($wdir <= 235) {return "SW"; }
-    elsif ($wdir <= 250) {return "WSW"; }
-    elsif ($wdir <= 290) {return "W"; }
-    elsif ($wdir <= 305) {return "WNW"; }
-    elsif ($wdir <= 325) {return "NW"; }
-    elsif ($wdir <= 340) {return "NNW"; }
-    elsif ($wdir <= 360) {return "N"; }
+    if ($wdir == 255 || $wdir == 0) { return "НД"; }
+    elsif ($wdir <= 20) { return "С"; }
+    elsif ($wdir <= 35) {return "С-С-З"; }
+    elsif ($wdir <= 55) {return "С-З"; }
+    elsif ($wdir <= 70) {return "З-С-З"; }
+    elsif ($wdir <= 110) {return "З"; }
+    elsif ($wdir <= 125) {return "З-Ю-З"; }
+    elsif ($wdir <= 145) {return "Ю-З"; }
+    elsif ($wdir <= 160) {return "Ю-Ю-З";}
+    elsif ($wdir <= 200) {return "Ю"; }  
+    elsif ($wdir <= 215) {return "Ю-Ю-В"; }
+    elsif ($wdir <= 235) {return "Ю-В"; }
+    elsif ($wdir <= 250) {return "В-Ю-В"; }
+    elsif ($wdir <= 290) {return "В"; }
+    elsif ($wdir <= 305) {return "В-С-В"; }
+    elsif ($wdir <= 325) {return "С-В"; }
+    elsif ($wdir <= 340) {return "С-С-В"; }
+    elsif ($wdir <= 360) {return "С"; }
 }
 
 #
@@ -143,7 +143,14 @@ if (defined $opt_l) {
     }
 
     foreach my $item (@{$xml->{city}}) {
-	printf "%s::%s", $item->{id},  $item->{name_en}->[0] . "\n";
+	my $region = $item->{region}->[0];
+	if (ref($region) eq "HASH") {
+	    $region = "";
+	}
+	else {
+	    $region = ", " . $region;
+	}
+	printf "%s::%s", $item->{id},  $item->{name}->[0] . $region . " - " . $item->{country}->[0] . "\n";
     }
     exit 0;
 }
@@ -180,10 +187,10 @@ if (!$xml) {
 }
 
 # The required elements which aren't provided by this feed
-printf "copyright::From weather.co.ua\n";
+printf "copyright::Получено с weather.co.ua\n";
 printf "station_id::" . $cityid . "\n";
 printf "cclocation::" . $xml->{city}->{name} . ", " . $xml->{city}->{country}->{name} . "\n";
-printf "observation_time::" . $xml->{current}->{time} . "\n";
+printf "observation_time::Обновлено - " . UnixDate(ParseDate($xml->{current}->{time}), "%d.%m.%Y, %H:%M") . "\n";
 printf "weather::" . getCloudStr($xml->{current}->{cloud}) . "\n";
 printf "weather_icon::" . getWeatherIcon($xml->{current}->{pict}) . "\n";
 printf "temp::" . $xml->{current}->{t} . "\n";
@@ -192,7 +199,7 @@ printf "wind_dir::" . getWindDir($xml->{current}->{w_rumb}) . "\n";
 printf ("%s::%d%s", "wind_spdgst", $xml->{current}->{w}, "\n");
 printf "relative_humidity::" . $xml->{current}->{h} . "\n"; 
 printf ("%s::%d%s", "pressure", $xml->{current}->{p}, "\n");
-printf "visibility::N/A\n";
+printf "visibility::НД\n";
 
 # Data is the 3d and 6d forecast
 printf "3dlocation::" . $xml->{city}->{name} . ", " . $xml->{city}->{country}->{name} . "\n";
@@ -252,8 +259,8 @@ elsif (keys %hour_15 > keys %hour_3) {
     printf "high-5::" . $hour_15{4}->[2] . "\n";
     printf "low-5::" . $hour_15{4}->[3] . "\n";
 }
-printf "updatetime::" . $xml->{current}->{last_updated} . "\n";
-printf "date-5::N/A\n";
+printf "updatetime::Обновлено - " . UnixDate(ParseDate($xml->{current}->{last_updated}), "%d.%m.%Y, %H:%M") . "\n";
+printf "date-5::НД\n";
 printf "icon-5::unknown.png\n";
-printf "low-5::N/A\n";
-printf "high-5::N/A\n";
+printf "low-5::НД\n";
+printf "high-5::НД\n";
