@@ -1,0 +1,1086 @@
+""
+" at "
+"# Tracks"
+"$1 B"
+"$1 day"
+    $1 день
+"$1 daySL"
+    $1 дня
+"$1 days"
+    $1 дней
+"$1 episode"
+    $1 эпизод
+"$1 episodeSL"
+    $1 эпизода
+"$1 episodes"
+    $1 эпизодов
+"$1 GB"
+"$1 hr"
+    $1 час
+"$1 hrSL"
+    $1 часа
+"$1 hrs"
+    $1 часов
+"$1 is not responding."
+"$1 KB"
+"$1 MB"
+"$1 min"
+    $1 минута
+"$1 minSL"
+    $1 минуты
+"$1 mins"
+    $1 минут
+"$1 month"
+    $1 месяц
+"$1 monthSL"
+    $1 месяца
+"$1 months"
+    $1 мусяцев
+"$1 programs, using $2 ($3) out of $4 ($5 free)."
+"$1 programs, using $2 ($3) out of $4."
+"$1 recording"
+    $1 запись
+"$1 recordings"
+    $1 записи
+"$1 recordings"
+    $1 записей
+"$1 requests pending."
+"$1 Search"
+"$1 TB"
+"$1 to $2"
+"$1 wasted"
+"$1 year"
+    $1 год
+"$1 yearSL"
+    $1 года
+"$1 years"
+    $1 лет
+"%s Song (%s)"
+"%s Songs"
+"%s Songs (%s)"
+"Aborted"
+"Aborting"
+"Action"
+"Activate"
+    Активировать
+"Active Screens"
+    Активный экран
+"Add"
+    Добавить
+"Add Album to Current Playlist"
+    Добавить альбом в текущией плейлист
+"Add Mix"
+"Add Song to Current Playlist"
+    Добавить песню в текущий плейлист
+"add string"
+"Add this Playlist as a Subplaylist"
+"Add To Active Screens"
+    Добавить к активным экранам
+"Additional Tables"
+"Admin Key"
+"advanced"
+    расширенный
+"Advanced"
+    Расширенный
+"Advanced Options"
+    Расширенные опции
+"Advanced Search"
+    Расширенный поиск
+"airdate"
+    дата выхода
+"Airdate"
+    Дата выхода
+"Airtime"
+    Время выхода
+"Album Listing"
+    Список альбомов
+"Album Tracks"
+    Дорожки альбома
+"Albums"
+    Альбомы
+"Albums with songs by %s"
+"All"
+    Все
+"All Albums"
+    Все альбомы
+"All Categories"
+    Все категории
+"All Fields"
+    Все поля
+"All Genres"
+    Все жанры
+"All groups"
+    Все группы
+"All HDTV"
+    Все HDTV
+"All Hosts"
+"All recordings"
+    Все записи
+"All Songs"
+    Все песни
+"ALLOCINETYPE"
+    Allo Cin&eacute;
+"An error occured while adding your playlist."
+    Ошибка при добавлении в плейлист.
+"and"
+    и
+"Any"
+    Любой
+"Any Category"
+    Любые категории
+"Any Channel"
+    Любые каналы
+"Any Program Type"
+    Любые типы программ
+"Append"
+    Добавить
+"Append to Current Playlist"
+    Обьединить с текущим плейлистом
+"Are you sure you want to delete the following show?"
+"Are you sure you want to DELETE THIS SAVED PLAYLIST?"
+"Artist Listing"
+    Список артистов
+"Artists"
+    Артисты
+"Artists Beginning with %s"
+    Артисты начинаются %s
+"ASX Stream"
+"Audio Bitrate"
+"Audio for Hearing Impaired"
+"Audio for Visually Impaired"
+"Auto Expire"
+    Автоустаревание
+"auto-expire"
+"Auto-expire recordings"
+"Auto-flag commercials"
+"Auto-transcode"
+"AVC/H.264"
+"Back"
+"Back Tab"
+"Back to the program listing"
+"Back to the recorded programs"
+"Back to the recording schedules"
+"Backend Logs"
+"Backend Status"
+    Статус сервера
+"Backspace"
+"Begin a New Search"
+"brightness"
+    яркость
+"Browse"
+"Browse = no"
+"Browse = yes"
+"Browse all"
+"Browse All Albums"
+"Browse Music"
+"Browse the Music Database"
+"By Artist Beginning With"
+"By Genre"
+    По жанру
+"callsign"
+    название
+"Cancel"
+    Отмена
+"Cancel this schedule"
+"Cancel this schedule."
+"Cancelled"
+    Отменено
+"Caps Lock"
+"Cast"
+"category"
+    категория
+"Category"
+    Категория
+"Category Legend"
+    Легенда категорий
+"Category Type"
+"CC"
+"Chan. Callsign"
+    Название канала
+"Chan. Name"
+    Имя кан.
+"Chan. Number"
+    # кан.
+"Channel"
+    Канал
+"channel"
+    канал
+"Channel &quot;Jump to&quot;"
+"Channel Detail"
+    Детали канала
+"Channel Info"
+    Информация о канале
+"Channels"
+    Каналы
+"channum"
+    #
+"Check for duplicates in"
+    Проверить повторы в
+"Childrens Movies"
+    Детские фильмы
+"Choose Genre.."
+    Выберите жанр..
+"Choose Type"
+    Выберите тип
+"Click to disable Auto Expire"
+    запретить устаревание
+"Click to enable Auto Expire"
+    разрешить устаревание
+"Click to View Playlist"
+    Смотреть плейлист
+"Closed Captioning"
+    Субтитры
+"colour"
+    цвет
+"Commands"
+"Commercials Flagged"
+    Реклама размечена
+"commfree"
+    без рекламы
+"Configure"
+    Конфигурация
+"Conflict"
+    Конфликт
+"Conflicts"
+    Конфликты
+"Context"
+"contrast"
+    контрастность
+"Count"
+"Create a New Playlist"
+    Создать новый плейлист
+"Create a Random Mix"
+"Create Schedule"
+    Создать задание
+"Current Conditions"
+    Текущее состояние
+"Current Recording"
+    Текущая запись
+"Current recordings"
+    Текущие записи
+"Currently Browsing:  $1"
+    Сейчас: $1
+"Currently Recording:  Edit"
+    Записывается: Редактировать
+"Custom"
+    Пользовательская
+"Custom Schedule"
+    Пользовательские задания
+"Custom Search"
+    Пользовательский поиск
+"Data"
+    Данные
+"Database"
+    База данных
+"Database Health"
+    Здоровье базы
+"Date"
+    Дата
+"Date Formats"
+    Формат даты
+"Deactivated"
+"Deaf Signed"
+    Deaf Signed
+"Default"
+    По умолчанию
+"Default MythVideo View"
+"Delete"
+    Удалить
+"delete"
+    удалить
+"Delete $1"
+    Удалить $1
+"Delete + Rerecord"
+    Удалить + Перезаписать
+"Delete and allow rerecord: $1"
+"Delete and rerecord $1"
+"Delete Forever"
+"DELETE this Saved Playlist"
+"description"
+"Description"
+    Описание
+"Destination"
+"Details for: $1"
+"Direct Download"
+"Directed by"
+"Display"
+    Отображать
+"Dolby Surround"
+"Don't Record"
+    Не записывать
+"Don't record this program"
+"Don't record this program."
+    Не записывать эту программу.
+"Done, Unknown Status"
+"Down"
+    Вниз
+"Download URL override"
+"Dup Method"
+"Duplicate"
+    Повтор
+"Duplicate Check method"
+    Метод проверки повторов
+"Duplicates"
+    Повторы
+"Earlier"
+"Earlier Showing"
+"Edit"
+    Редактировать
+"Edit existing group"
+"Edit keybindings on"
+"Edit MythWeb and some MythTV settings."
+"Edit Screen"
+"Edit settings for: $1"
+"Editing "
+    Редактируется
+"Enable Video Playback"
+"End"
+    Конец
+"End Late"
+    Закончить позже
+"Enter"
+    Ввод
+"Enter a new name for your playlist"
+"Enter your search terms"
+"enter your search terms"
+"Episode"
+"Episode Number"
+"error: playgroup $1 exists"
+"Errored"
+"Erroring"
+"Escape"
+    Выход
+"Everything"
+"Exact Match"
+"Exclude Generic Episodes"
+"Exclude Repeat and Generic Episodes"
+"Exclude Repeat Episodes"
+"Exec. Producer"
+"Extended Check"
+    Расширенная проверка
+"File Size"
+    Размер файла
+"file size"
+    размер файла
+"Filter"
+    Фильтр
+"Filters"
+    Фильтры
+"Find Date & Time Options"
+    Найти дату  &amp; Time Options
+"Find Day"
+    Найти день
+"Find other showings of this program"
+    Найти другие показы программы
+"Find showings of this program"
+"Find Time"
+    Найти время
+"Find Time must be of the format:  HH:MM:SS"
+"finetune"
+"Finished"
+    Завершено
+"First recording"
+"Flag Commercials"
+    Разметка рекламы
+"Force HTTP for streams"
+"Force HTTP/HTTPS port for streams"
+"Forced"
+"Forecast"
+"Forget Old"
+"format help"
+"Found %s results for '%s'"
+"freqid"
+"Friday"
+    Пятница
+"Frontends"
+"generic_date"
+    %a %b %e, %Y
+"generic_time"
+    %I:%M %p
+"Genre"
+    Жанр
+"Genres"
+    Жанры
+"Go"
+"Google"
+"Group timeslots every"
+"Guest Starring"
+"Guide rating"
+"Guide Settings"
+"Handy Predefined Searches"
+"handy: overview"
+    Эта страница содержит предварительно подготовленные сложные поиски заголовков программы.
+"has bookmark"
+"has Bookmark"
+"has commflag"
+"Has Cutlist"
+"has cutlist"
+"HD"
+"HDTV"
+"Height"
+"Hide"
+    Скрыть
+"High"
+    Максимум
+"Home"
+"Host"
+"Hosted by"
+"Hour"
+"Hour Format"
+"hue"
+"Humidity"
+    Влажность
+"IMDB"
+"IMDBTYPE"
+    Imdb
+"Inactive"
+"Inactive Screens"
+"info: activate recording"
+    Force this specific showing to record.
+"info: default recording"
+    Reset any override requests so that this showing will schedule normally.
+"info: dont record"
+    Do not record this specific showing.
+"info: flvplayer"
+    <p>
+    Flash video playback is currently only a proof-of-concept and should be
+    considered <b>EXTREMELY</b> experimental, which is why it has been disabled by
+    default.
+    </p>
+    <p>
+    It currently expects that ffmpeg is installed and compiled with mp3
+    support, and that the recordings files are accessible to your webserver
+    userid.  It probably won't work with Nupplevideo files, and in the end,
+    it may just not work at all (or maybe even worse).
+    </p>
+    <p>
+    Enable this feature at your own risk, and don't expect too much
+    official help until it has left the experimental phase.
+    </p>
+"info: hidden advanced schedule"
+    The advanced scheduling options are currently hidden.
+"info: record this"
+    Force this specific showing to record.
+"info:forget old"
+    Forget about previous recordings of this show, so it can be rerecorded.
+"info:never record"
+    Falsify a previous recording of this show so that it won't record.
+"Insert"
+"is editing"
+"Jump"
+    Перейти
+"Jump Points"
+"Jump to"
+    Перейти к
+"Jump To"
+    Перейти К
+"JumpPoints Editor"
+"Key Bindings"
+"Key bindings"
+"Key Controls"
+"Keybindings Editor"
+"Keyword"
+"Keyword Search"
+"Keywords"
+"Language"
+    Язык
+"Last Recorded"
+    Последнее записанное
+"Last recording"
+"Last Updated"
+"Later"
+    Позже
+"left"
+    налево
+"Left"
+    Налево
+"leftl"
+"length"
+    длительность
+"Length"
+    Длительность
+"Length (min)"
+    Длительность (мин)
+"Listing &quot;Jump to&quot;"
+"Listing Time Key"
+"Listings"
+    Программа передач
+"Load"
+    Загрузка
+"Load a Saved Playlist"
+"Load Playlist"
+"Load Saved Playlists"
+"Load this Saved Playlist"
+"LOADING"
+    ЗАГРУЖАЮ!
+"Local Server Statistics"
+    Статистика локального сервера
+"Local weather forecast"
+"Logs"
+"Low"
+    Минимум
+"Low Space"
+    Мало места
+"Manual"
+    Ручная
+"Manually Schedule"
+"matches"
+    содержит
+"Max star rating for movies"
+"minutes"
+    минут
+"Missing Cover"
+    Нет обложки
+"Monday"
+    Понедельник
+"Mono"
+    Моно
+"More"
+    Больше
+"more"
+    больше
+"Move Item Down in Playlist"
+"Move Item Up in Playlist"
+"movie"
+    Movie
+"Movies"
+    Фильмы
+"Movies, 3&frac12; Stars or more"
+    Фильмы, 3&frac12; Звезд или больше
+"Movies, Stinkers (2 Stars or less)"
+    Фильмы,(2 Звезды или меньше)
+"Music"
+"Music Specials"
+"My Session"
+"MythMusic on the web."
+"MythTV"
+"MythTV Status"
+"MythVideo Artwork Dir"
+"MythVideo Dir"
+"MythVideo on the web."
+"mythvideo.db_folder_view"
+"mythvideo.ImageCacheSize"
+"mythvideo.sort_ignores_case"
+"MythWeb"
+"MythWeb Defaults"
+"MythWeb Global Defaults"
+"MythWeb Session"
+"MythWeb Settings"
+"MythWeb Skin"
+"MythWeb Template"
+"MythWeb Theme"
+"MythWeb Weather."
+"Name"
+"name"
+"Narrow Your Search"
+"Never Record"
+"New"
+    Новый
+"New Episodes Only"
+"New Group"
+"New Search"
+"New Titles, Premieres"
+"No"
+"NO DATA"
+"No Frontends allow remote control."
+"No matches found"
+    Совпадений НЕТ
+"No matching programs found."
+"No Public Playlists"
+"No recording schedules have been defined."
+"No. of recordings to keep"
+"Non-Music Specials"
+"Non-Series HDTV"
+"None"
+"Notes"
+"Number of episodes"
+"Number of shows"
+"Number of Songs"
+"Number of timeslots"
+"Only display favourite channels"
+"Only match commercial-free channels"
+"Only match HD programs"
+"Only New Episodes"
+"Optimize Tables"
+"or"
+    или
+"Original Airdate"
+"Originally aired between"
+"Override"
+"Page Down"
+"Page Up"
+"Part $1 of $2"
+"Past Month"
+"Past Week"
+"Past Year"
+"Paused"
+"Pending"
+"People"
+"People Search"
+"Percent of time spent recording"
+"Play"
+"Play this Album Now"
+"Play This Playlist Now"
+"Play this Playlist Now"
+"Play this Song Now"
+"Play Time"
+"Playback Group"
+"Playback Groups"
+"Played %s times"
+"Played once"
+"Playlist"
+"Playlist Info"
+"Playlist is empty"
+"Playlist Items"
+"Playlist Name"
+"Playlist renamed successfully"
+"Playlist saved successfully"
+"Playlist: %s"
+"Playlists"
+"Please be warned that by altering this table without knowing what you are doing, you could seriously disrupt mythtv functionality."
+"Please enter an imdb number or a title to do another search"
+"Please wait for the pending ajax request"
+"Possible conflicts"
+"Possible conflicts with this show"
+"Power"
+"Power Search"
+"Prefer Channum"
+"prefer_channum"
+    Prefer channel number over callsign
+"Preferred Input"
+"Presented by"
+"Pressure"
+    Давление
+"preview"
+"Previous Recording"
+"Previous recordings"
+"Produced by"
+"Profile"
+"profile"
+"Program Detail"
+"Program ID"
+"Program Listing"
+    Программа передач
+"Program Type"
+"Protocol"
+"Queue a job"
+"Queued"
+"Queued jobs"
+"Radar"
+"Random"
+"Random Items"
+"Random Mix Maker"
+"Random Type"
+"Rating"
+"Recently Added Albums"
+    Недавно добавленные альбомы
+"Recently completed jobs"
+"Recently Played Songs"
+    Недавно проигранные песни
+"recgroup"
+"Record new and expire old"
+"Record This"
+    Записать
+"Recorded"
+    Записано
+"Recorded Programs"
+    Записанные программы
+"Recording Details"
+    Детали записи
+"Recording Group"
+    Группы записи
+"Recording Options"
+    Опции записи
+"Recording Priority"
+"Recording Profile"
+    Профиль записи
+"Recording Schedules"
+    Задания записи
+"Recording Statistics"
+    Статистика записей
+"recpriority"
+"recstatus: cancelled"
+    This was scheduled to be recorded but was manually canceled.
+"recstatus: conflict"
+    Another program with a higher recording priority will be recorded.
+"recstatus: currentrecording"
+    This episode was previously recorded and is still available in the list of recordings.
+"recstatus: deleted"
+    This showing was recorded but was deleted before recording was completed.
+"recstatus: earliershowing"
+    This episode will be recorded at an earlier time instead.
+"recstatus: force_record"
+    This show was manually set to record this specific instance.
+"recstatus: inactive"
+    This recording schedule is inactive.
+"recstatus: latershowing"
+    This episode will be recorded at a later time instead.
+"recstatus: lowdiskspace"
+    There wasn't enough disk space available to record this program.
+"recstatus: manualoverride"
+    This showing was manually set to not record
+"recstatus: neverrecord"
+    Этот показ помечен "Никогда не записывать."
+"recstatus: notlisted"
+    This show does not match the current program listings.
+"recstatus: previousrecording"
+    This episode was previously recorded according to the duplicate policy chosen for this title.
+"recstatus: recorded"
+    Показ записан.
+"recstatus: recording"
+    Показ записывается.
+"recstatus: repeat"
+    This showing is a repeat and will not be recorded.
+"recstatus: stopped"
+    This showing was recorded but was stopped before recording was completed.
+"recstatus: toomanyrecordings"
+    Too many recordings of this program have already been recorded.
+"recstatus: tunerbusy"
+    The tuner card was already being used when this program was scheduled to be recorded.
+"recstatus: unknown"
+    Состояние показа неизвестно.
+"recstatus: willrecord"
+    This showing will be recorded.
+"rectype-long: always"
+    Record at any time on any channel.
+"rectype-long: channel"
+    Record at any time on channel $1.
+"rectype-long: daily"
+    Записывать в это время каждый день.
+"rectype-long: dontrec"
+    Do not record this specific showing.
+"rectype-long: finddaily"
+    Find and record one showing of this title each day.
+"rectype-long: findone"
+    Найти и записать один показ этого заголовка.
+"rectype-long: findweekly"
+    Найти и записать один показ этого заголовка каждую неделю.
+"rectype-long: once"
+    Звписать один раз.
+"rectype-long: override"
+    Записать только этот показ.
+"rectype-long: weekly"
+    Записывать в это время еженедельно.
+"rectype: always"
+    Всегда
+"rectype: channel"
+    Канал
+"rectype: daily"
+    Ежедневно
+"rectype: dontrec"
+    Не записывать
+"rectype: finddaily"
+    Find One Daily
+"rectype: findone"
+    Find Once
+"rectype: findweekly"
+    Find One Weekly
+"rectype: once"
+    Один раз
+"rectype: override"
+    Override (record)
+"rectype: weekly"
+    Еженедельно
+"regex: articles"
+    An?|The
+"Remote"
+"Remove Item from Playlist"
+"Repair Tables"
+    Починка таблиц
+"Repeat"
+    Rerun
+"Rerun"
+"Reset"
+    Сброс
+"Retry"
+"Return to Statistics Page"
+"right"
+"Right"
+"Rows to show between timeslot info"
+"Running"
+"Saturday"
+"Save"
+    Сохранить
+"Save or Rename the Current Playlist"
+"Save Schedule"
+"Save/Rename"
+"Save/Rename Playlist"
+"Saved Playlist Successfully Deleted"
+"Saved Playlists"
+"Scan Collection"
+"Schedule"
+"Schedule Manually"
+"Schedule normally."
+"Schedule Options"
+"Schedule Override"
+"Schedule via $1."
+"Scheduled"
+"Scheduled Popup"
+"Scheduled Recordings"
+"Science Fiction Movies"
+    Научно-фантастические фильмы
+"Search"
+    Поиск
+"Search $1"
+"Search for:  $1"
+"Search Music"
+    Поиск музыки
+"Search Phrase"
+"Search Results"
+    Результаты поиска
+"Search the Music Database"
+    Поиск в музыкальной базе
+"Search Type"
+"Searches"
+    Поиски
+"Server Statistics"
+    Статистика сервера
+"Set Host"
+"Settings"
+    Настройки
+"settings"
+    настройки
+"Settings Table"
+    Таблица настроек
+"settings/stream: protocol"
+    Many media players are incapable of playing files that are streamed from<br/>
+    https servers.  If you run MythWeb over https, you may want to ALSO create<br/>
+    a non-ssl installation and check this box, which will force all streaming<br/>
+    downloads to go out over http instead.
+"settings: notice"
+    Warning:<br><br>
+    Many settings pages have very little error checking. You can easily screw
+    things up if you're not careful, and short of restoring the database from
+    a backup, there is <b>no</b> way to undo your changes.
+"settings: overview"
+"Shift"
+"Show"
+"Show descriptions on new line"
+"Show group"
+    Группы просмотра
+"Show pixmaps"
+"Show recordings"
+    Записи
+"show_channel_icons"
+    Show the channel icons
+"show_popup_info"
+    Show mouseover information about programs
+"show_video_covers"
+    Show video covers on the video interface
+"Showing all programs from the $1 group."
+"Showing all programs."
+"Showings between"
+"Shows"
+    Показы
+"Skip Ahead"
+"Skip Back"
+"Songs"
+"Songs for Genre"
+"Songs Played"
+"Songs Rated"
+"Sorry, but you cannot add this playlist as it would create a circular dependancy."
+"sortby_channum"
+    Sort channel list by channel number (checked) or by callsign (unchecked)
+"sourceid"
+"Space"
+"Special Searches"
+"Star character"
+"Start Date"
+    Дата начала
+"Start Early"
+    Начать раньше
+"Start Time"
+    Время начала
+"Starting"
+"Statistics"
+    Статистика
+"Stats"
+    Статистика
+"Status"
+    Состояние
+"Status Bar"
+"Stereo"
+    Стерео
+"Still Recording: Edit"
+"Stopping"
+"Storage Group"
+    Группа хранения
+"Streaming"
+"Sub and Desc (Empty matches)"
+"Submit Search"
+"subtitle"
+    подзаголовок
+"Subtitle"
+    Подзаголовок
+"Subtitle and Description"
+    Подзаголовок и описание
+"Subtitle then Description"
+    Подзаголовок затем описание
+"Subtitled"
+"Subtitles Available"
+"Sunday"
+    Воскресенье
+"Surround Sound"
+"Tab"
+"The requested recording schedule has been deleted."
+"There are no items in this Playlist!"
+"There was a problem saving your playlist"
+"This playlist is already loaded!"
+"This will overwrite your current, unsaved playlist. Are you sure you want to continue?"
+"Thursday"
+    Вторник
+"Time"
+    Время
+"Time Span"
+"Time Stretch"
+"Time Stretch Default"
+"Timeslot size"
+"title"
+    заголовок
+"Title"
+    Заголовок
+"Title Match"
+"Title search"
+"Title Search"
+"Today"
+    Сегодня
+"Tomorrow"
+    Завтра
+"Too Many"
+"Top $1"
+"Top Played Songs"
+"Top Rated Songs"
+"Total Length"
+"Total Recorded"
+"Total Running Time"
+"Total Time"
+    Общее время
+"Total Time:  %s"
+"Track #%s from the album '%s'"
+"Transcode"
+"transcoder"
+"Transcoder"
+"Tuesday"
+    Вторник
+"Tuner Busy"
+    Тюнер занят
+"TV"
+"TV functions, including recorded programs."
+"TV.com"
+"TVTome"
+"type"
+    тип
+"Type"
+    Тип
+"Undelete"
+"Undelete: $1"
+"Unknown"
+    Неизвнстно
+"Unknown Program."
+"Unknown Recording Schedule."
+"Up"
+    Вверх
+"Upcoming Recordings"
+    Будущие записи
+"Update"
+"Update Recording Settings"
+"Use callsign"
+"Use date/time"
+"useonairguide"
+"UV Extreme"
+"UV High"
+"UV Index"
+"UV Minimal"
+"UV Moderate"
+"Value"
+    Значение
+"Video"
+    Видео
+"Video Bitrate"
+"Video Playback"
+"Video: Error: IMDB"
+    Fatal Error, I am sorry, but there was a failure getting the imdb data. Please check your imdb number if you entered it by hand.
+"Video: Error: IMDB: Not Found"
+    Fatal Error, IMDB was not set in the settings table, please set it via the settings tab.
+"Video: Error: Missing ID"
+    Fatal Error, For some reason the id was not sent to the imdb script. Bailing out.
+"Video: IMDB: No Matches"
+    There are not any matches for this title, please use the custom search to enter in a imdb number or a different title to search again.
+"Video: IMDB: Window Title"
+    IMDB Matches
+"Video: Warning: Artwork"
+    Warning, Updating the video artwork failed. Please check the permissions on your Video Artwork Directory for this host
+"Video: Warning: Artwork: Download"
+    Загрузка постера с imdb неудачна.
+"Video: Warning: fopen"
+    Warning, Your php.ini file has allow_url_fopen set to Off. To download the artwork, it is required to be On. Artwork will not be updated.
+"VideoAggressivePC"
+"VideoArtworkDir"
+"VideoBrowserNoDB"
+"VideoDefaultParentalLevel"
+"VideoDefaultPlayer"
+"videofilters"
+    видеофильтры
+"VideoGalleryAspectRatio"
+"VideoGalleryColsPerPage"
+"VideoGalleryNoDB"
+"VideoGalleryRowsPerPage"
+"VideoGallerySubtitle"
+"VideoListUnknownFiletypes"
+"VideoNewBrowsable"
+"Videos"
+    Видео
+"VideoStartupDir"
+"VideoTreeLoadMetaData"
+"VideoTreeNoDB"
+"View Albums by %s"
+"View Details of %s"
+"View Saved Playlist"
+"View Server Statistics"
+"Visibility"
+"visible"
+"Visit $1"
+"Watched"
+    Просмотрено
+"Weather"
+    Погода
+"web_video_imdb_path"
+    Path to imdb.pl on this webserver
+"web_video_imdb_type"
+"web_video_thumbnail_height"
+"web_video_thumbnail_width"
+"Wednesday"
+    Среда
+"welcome: backend_log"
+    Show the server logs.
+"welcome: music"
+    Смотреть аудио коллекцию.
+"welcome: remote"
+"welcome: settings"
+    Конфигурация MythWeb и установки MythTV.
+"welcome: stats"
+    MythTV статистика записей.
+"welcome: status"
+    Смотреть статус сервера.
+"welcome: tv"
+    See what's on tv, schedule recordings and manage shows that you've already
+    recorded.  Please see the following choices:
+"welcome: video"
+    Смотреть видео коллекцию.
+"welcome: weather"
+    Получить прогноз погоды.
+"What else is on at this time?"
+"Widescreen"
+"Width"
+"Will Record"
+"Wind"
+    Ветер
+"Wind Chill"
+"Written by"
+"xmltvid"
+"Year"
+    Год
+"Yes"
+    Да
+"Yesterday"
+    Вчера
