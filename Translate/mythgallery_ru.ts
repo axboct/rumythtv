@@ -44,7 +44,7 @@
     <message>
         <location filename="../mythgallery/iconview.cpp" line="187"/>
         <source>No images found in this directory.</source>
-        <translation type="unfinished">Изображения в этом каталоге не найдены.</translation>
+        <translation>Изображения в этом каталоге не найдены.</translation>
     </message>
     <message>
         <location filename="../mythgallery/iconview.cpp" line="377"/>
@@ -200,17 +200,17 @@
         <location filename="../mythgallery/iconview.cpp" line="927"/>
         <location filename="../mythgallery/iconview.cpp" line="1270"/>
         <source>Rename</source>
-        <translation type="unfinished">Переименовать</translation>
+        <translation>Переименовать</translation>
     </message>
     <message>
         <location filename="../mythgallery/iconview.cpp" line="1296"/>
         <source>Failed to rename directory</source>
-        <translation type="unfinished">Не удалось переименовать каталог</translation>
+        <translation>Не удалось переименовать каталог</translation>
     </message>
     <message>
         <location filename="../mythgallery/iconview.cpp" line="1298"/>
         <source>Failed to rename file</source>
-        <translation type="unfinished">Не удалось переименовать файл</translation>
+        <translation>Не удалось переименовать файл</translation>
     </message>
 </context>
 <context>
@@ -223,97 +223,97 @@
     <message>
         <location filename="../mythgallery/main.cpp" line="66"/>
         <source>Start/Stop Slideshow</source>
-        <translation type="unfinished">Начать/Остановить показ слайдов</translation>
+        <translation>Начать/Остановить показ слайдов</translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="68"/>
         <source>Go to the first image in thumbnail view</source>
-        <translation type="unfinished">Перейти к первому изображению в режиме эскизов</translation>
+        <translation>Перейти к первому изображению в режиме эскизов</translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="70"/>
         <source>Go to the last image in thumbnail view</source>
-        <translation type="unfinished">Перейти к последнему изображению в режиме эскизов</translation>
+        <translation>Перейти к последнему изображению в режиме эскизов</translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="72"/>
         <source>Start Slideshow in thumbnail view</source>
-        <translation type="unfinished">Начать показ слайдов в режиме эскизов</translation>
+        <translation>Начать показ слайдов в режиме эскизов</translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="74"/>
         <source>Start Random Slideshow in thumbnail view</source>
-        <translation type="unfinished">Начать случайный показ слайдов в режиме эскизов</translation>
+        <translation>Начать случайный показ слайдов в режиме эскизов</translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="77"/>
         <source>Rotate image right 90 degrees</source>
-        <translation type="unfinished">Повернуть изображение на 90 градусов по часовой стрелке</translation>
+        <translation>Повернуть изображение на 90 градусов по часовой стрелке</translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="79"/>
         <source>Rotate image left 90 degrees</source>
-        <translation type="unfinished">Повернуть изображение на 90 градусов против часовой стрелки</translation>
+        <translation>Повернуть изображение на 90 градусов против часовой стрелки</translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="81"/>
         <source>Zoom image out</source>
-        <translation type="unfinished">Уменьшить изображение</translation>
+        <translation>Уменьшить изображение</translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="83"/>
         <source>Zoom image in</source>
-        <translation type="unfinished">Увеличить изображение</translation>
+        <translation>Увеличить изображение</translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="85"/>
         <source>Scroll image up</source>
-        <translation type="unfinished">Прокрутить изображение вверх</translation>
+        <translation>Прокрутить изображение вверх</translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="87"/>
         <source>Scroll image left</source>
-        <translation type="unfinished">Прокрутить изображение влево</translation>
+        <translation>Прокрутить изображение влево</translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="89"/>
         <source>Scroll image right</source>
-        <translation type="unfinished">Прокрутить изображение вправо</translation>
+        <translation>Прокрутить изображение вправо</translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="91"/>
         <source>Scroll image down</source>
-        <translation type="unfinished">Прокрутить изображение вниз</translation>
+        <translation>Прокрутить изображение вниз</translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="93"/>
         <source>Recenter image</source>
-        <translation type="unfinished">Центрировать изображение</translation>
+        <translation>Центрировать изображение</translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="95"/>
         <source>Full-size (un-zoom) image</source>
-        <translation type="unfinished">Изображение в полный размер (оригинальный размер)</translation>
+        <translation>Изображение в полный размер (оригинальный размер)</translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="97"/>
         <source>Go to the upper-left corner of the image</source>
-        <translation type="unfinished">Перейти в левый верхний угол изображения</translation>
+        <translation>Перейти в левый верхний угол изображения</translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="99"/>
         <source>Go to the lower-right corner of the image</source>
-        <translation type="unfinished">Перейти в правый нижний угол изображения</translation>
+        <translation>Перейти в правый нижний угол изображения</translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="101"/>
         <source>Mark image</source>
-        <translation type="unfinished">Пометить изображение</translation>
+        <translation>Пометить изображение</translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="103"/>
         <source>Toggle scale to fullscreen/scale to fit</source>
-        <translation type="unfinished">Переключить масштаб на полноэкранный/вписать в экран </translation>
+        <translation>Переключить масштаб на полноэкранный/вписать в экран </translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="105"/>
@@ -475,7 +475,7 @@ Check the directory exists, is readable and the setting is correct on MythGaller
     <message>
         <location filename="../mythgallery/thumbview.cpp" line="127"/>
         <source>Folder: </source>
-        <translation type="unfinished">Папка:</translation>
+        <translation>Папка:</translation>
     </message>
     <message>
         <location filename="../mythgallery/thumbview.cpp" line="128"/>
@@ -495,23 +495,23 @@ Check the directory exists, is readable and the setting is correct on MythGaller
     <message>
         <location filename="../mythgallery/thumbview.cpp" line="132"/>
         <source>Width</source>
-        <translation type="unfinished">Ширина</translation>
+        <translation>Ширина</translation>
     </message>
     <message>
         <location filename="../mythgallery/thumbview.cpp" line="133"/>
         <location filename="../mythgallery/thumbview.cpp" line="135"/>
         <source>pixels</source>
-        <translation type="unfinished">пикселы</translation>
+        <translation type="unfinished">пиксели</translation>
     </message>
     <message>
         <location filename="../mythgallery/thumbview.cpp" line="134"/>
         <source>Height</source>
-        <translation type="unfinished">Высота</translation>
+        <translation>Высота</translation>
     </message>
     <message>
         <location filename="../mythgallery/thumbview.cpp" line="136"/>
         <source>Pixel Count</source>
-        <translation type="unfinished">Число пикселов</translation>
+        <translation type="unfinished">Число пикселей</translation>
     </message>
     <message>
         <location filename="../mythgallery/thumbview.cpp" line="137"/>
@@ -534,7 +534,7 @@ Check the directory exists, is readable and the setting is correct on MythGaller
     <message>
         <location filename="../mythgallery/singleview.cpp" line="220"/>
         <source>Press SELECT to play again</source>
-        <translation type="unfinished">Нажмите ВЫБОР для повторного воспроизведения</translation>
+        <translation>Нажмите ВЫБОР для повторного воспроизведения</translation>
     </message>
 </context>
 <context>
@@ -542,7 +542,7 @@ Check the directory exists, is readable and the setting is correct on MythGaller
     <message>
         <location filename="themestrings.h" line="2"/>
         <source>No images are present in the pictures folder.</source>
-        <translation type="unfinished">Нет изображений в каталоге для хранения изображений.</translation>
+        <translation>Нет изображений в каталоге для хранения изображений.</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="3"/>
