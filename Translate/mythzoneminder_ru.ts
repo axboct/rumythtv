@@ -6,7 +6,7 @@
     <message>
         <location filename="../mythzoneminder/zmconsole.cpp" line="67"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Ок</translation>
     </message>
 </context>
 <context>
@@ -90,12 +90,12 @@
     <message>
         <location filename="themestrings.h" line="2"/>
         <source>Edit Monitor Function</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Изменить функции монитора</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="3"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Включено</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="4"/>
@@ -105,7 +105,7 @@
     <message>
         <location filename="themestrings.h" line="5"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Статус</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="6"/>
@@ -115,7 +115,7 @@
     <message>
         <location filename="themestrings.h" line="7"/>
         <source>Disk: 100%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Диск: 100%</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="8"/>
@@ -125,12 +125,12 @@
     <message>
         <location filename="themestrings.h" line="9"/>
         <source>Function</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Функция</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="10"/>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Источник</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="11"/>
@@ -150,27 +150,27 @@
     <message>
         <location filename="themestrings.h" line="14"/>
         <source>Zone Minder Events</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">События Zone Minder</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="15"/>
         <source>Select Camera</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Выбрать камеру</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="16"/>
         <source>Select Date</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Выбрать дату</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="17"/>
         <source>0/0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0/0</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="18"/>
         <source>Event Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Название события</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="19"/>
@@ -185,7 +185,7 @@
     <message>
         <location filename="themestrings.h" line="21"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Название</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="22"/>
@@ -195,12 +195,12 @@
     <message>
         <location filename="themestrings.h" line="23"/>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Продолжительность</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="24"/>
         <source>Zone Minder Event Player</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Воспроизведение событий</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="25"/>
@@ -210,7 +210,7 @@
     <message>
         <location filename="themestrings.h" line="26"/>
         <source>Event Name (1/123)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Название события (1/123)</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="27"/>
@@ -220,7 +220,7 @@
     <message>
         <location filename="themestrings.h" line="28"/>
         <source>Camera Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Название камеры</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="29"/>
@@ -230,7 +230,7 @@
     <message>
         <location filename="themestrings.h" line="30"/>
         <source>1/123</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1/123</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="31"/>
@@ -245,12 +245,12 @@
     <message>
         <location filename="themestrings.h" line="33"/>
         <source>There are no events to show</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Нет событий для показа</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="34"/>
         <source>Zone Minder Live Player</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Воспроизведение в реальном времени</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="35"/>
@@ -304,12 +304,12 @@
 <context>
     <name>ZMConsole</name>
     <message>
-        <location filename="../mythzoneminder/zmconsole.cpp" line="209"/>
+        <location filename="../mythzoneminder/zmconsole.cpp" line="207"/>
         <source>Running</source>
         <translation>Работает</translation>
     </message>
     <message>
-        <location filename="../mythzoneminder/zmconsole.cpp" line="214"/>
+        <location filename="../mythzoneminder/zmconsole.cpp" line="212"/>
         <source>Stopped</source>
         <translation>Остановлено</translation>
     </message>
@@ -317,74 +317,84 @@
 <context>
     <name>ZMEvents</name>
     <message>
-        <location filename="../mythzoneminder/zmevents.cpp" line="89"/>
+        <location filename="../mythzoneminder/zmevents.cpp" line="88"/>
         <source>Play</source>
         <translation>Воспроизвести</translation>
     </message>
     <message>
-        <location filename="../mythzoneminder/zmevents.cpp" line="96"/>
+        <location filename="../mythzoneminder/zmevents.cpp" line="95"/>
         <source>Delete</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="../mythzoneminder/zmevents.cpp" line="172"/>
-        <location filename="../mythzoneminder/zmevents.cpp" line="345"/>
-        <location filename="../mythzoneminder/zmevents.cpp" line="360"/>
+        <location filename="../mythzoneminder/zmevents.cpp" line="171"/>
+        <location filename="../mythzoneminder/zmevents.cpp" line="344"/>
+        <location filename="../mythzoneminder/zmevents.cpp" line="359"/>
         <source>All Cameras</source>
         <translation>Все камеры</translation>
     </message>
     <message>
-        <location filename="../mythzoneminder/zmevents.cpp" line="175"/>
-        <location filename="../mythzoneminder/zmevents.cpp" line="369"/>
+        <location filename="../mythzoneminder/zmevents.cpp" line="174"/>
+        <location filename="../mythzoneminder/zmevents.cpp" line="368"/>
         <source>All Dates</source>
         <translation>Все даты</translation>
     </message>
     <message>
-        <location filename="../mythzoneminder/zmevents.cpp" line="445"/>
+        <location filename="../mythzoneminder/zmevents.cpp" line="444"/>
         <source>Refresh</source>
         <translation>Обновить</translation>
     </message>
     <message>
-        <location filename="../mythzoneminder/zmevents.cpp" line="446"/>
+        <location filename="../mythzoneminder/zmevents.cpp" line="445"/>
         <source>Change View</source>
         <translation>Изменить вид</translation>
     </message>
     <message>
-        <location filename="../mythzoneminder/zmevents.cpp" line="447"/>
+        <location filename="../mythzoneminder/zmevents.cpp" line="446"/>
         <source>Delete All</source>
         <translation>Удалить все</translation>
     </message>
     <message>
-        <location filename="../mythzoneminder/zmevents.cpp" line="459"/>
+        <location filename="../mythzoneminder/zmevents.cpp" line="458"/>
         <source>Delete All Events?</source>
         <translation>Удалить все события?</translation>
     </message>
     <message>
-        <location filename="../mythzoneminder/zmevents.cpp" line="460"/>
+        <location filename="../mythzoneminder/zmevents.cpp" line="459"/>
         <source>Deleting %1 events in this view.</source>
-        <translation>Удалено %1 событий в этом?????.</translation>
+        <translation>Удалено %1 событий в этом просмотре.</translation>
+    </message>
+</context>
+<context>
+    <name>ZMLivePlayer</name>
+    <message>
+        <location filename="../mythzoneminder/zmliveplayer.cpp" line="127"/>
+        <source>Can&apos;t show live view.
+You don&apos;t have any monitors defined!</source>
+        <translation type="unfinished">Не могу показать просмотр в реальном времени.
+У вас не определено ни одного монитора!</translation>
     </message>
 </context>
 <context>
     <name>ZMPlayer</name>
     <message>
-        <location filename="../mythzoneminder/zmplayer.cpp" line="105"/>
+        <location filename="../mythzoneminder/zmplayer.cpp" line="106"/>
         <location filename="../mythzoneminder/zmplayer.cpp" line="288"/>
         <source>Pause</source>
         <translation>Пауза</translation>
     </message>
     <message>
-        <location filename="../mythzoneminder/zmplayer.cpp" line="111"/>
+        <location filename="../mythzoneminder/zmplayer.cpp" line="112"/>
         <source>Delete</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="../mythzoneminder/zmplayer.cpp" line="117"/>
+        <location filename="../mythzoneminder/zmplayer.cpp" line="118"/>
         <source>Previous</source>
         <translation>Предидущее</translation>
     </message>
     <message>
-        <location filename="../mythzoneminder/zmplayer.cpp" line="123"/>
+        <location filename="../mythzoneminder/zmplayer.cpp" line="124"/>
         <source>Next</source>
         <translation>Следующее</translation>
     </message>
