@@ -172,7 +172,7 @@
     <message>
         <location filename="../mythmusic/editmetadata.cpp" line="376"/>
         <source>Track Info.</source>
-        <translation>Информация о дорожке.</translation>
+        <translation>Инфо о дор.</translation>
     </message>
     <message>
         <location filename="../mythmusic/editmetadata.cpp" line="383"/>
@@ -1113,7 +1113,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="95"/>
         <source>Order in which to sort the Music Tree. Possible values are a space-separated list of genre, splitartist, splitartist1, artist, album, and title OR the keyword &quot;directory&quot; to indicate that the onscreen tree mirrors the filesystem.</source>
-        <translation>Порядок сортировки дерева музыки. Значениями являются разделенный проблелами список ключевых слов genre, splitartist, splitartist1, artist, album, and title или одно слово &quot;directory&quot;, которое означает что дерево музыки будет содержать каталоги файловой системы.</translation>
+        <translation>Порядок сортировки дерева музыки. Значением является разделенный пробелами список ключевых слов genre, splitartist, splitartist1, artist, album и title или одно слово directory, которое означает что дерево музыки будет содержать каталоги файловой системы.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="106"/>
@@ -1763,7 +1763,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/metadata.cpp" line="1633"/>
         <source>front</source>
-        <translation type="unfinished">передняя сторона</translation>
+        <translation>передняя сторона</translation>
     </message>
     <message>
         <location filename="../mythmusic/metadata.cpp" line="1635"/>
@@ -2441,7 +2441,7 @@ Do you want to remove the existing track?</source>
     <message>
         <location filename="themestrings.h" line="19"/>
         <source>%DATE%, %TIME%</source>
-        <translation type="unfinished"></translation>
+        <translation>%DATE%, %TIME%</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="20"/>
@@ -2616,7 +2616,7 @@ Do you want to remove the existing track?</source>
     <message>
         <location filename="themestrings.h" line="55"/>
         <source>Scan</source>
-        <translation type="unfinished">Поиск</translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="56"/>
@@ -2785,22 +2785,22 @@ Do you want to remove the existing track?</source>
     <message>
         <location filename="themestrings.h" line="80"/>
         <source>Last Played:</source>
-        <translation type="unfinished">Последнее проигрывание:</translation>
+        <translation>Последнее проигрывание:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="81"/>
         <source>Last Value</source>
-        <translation type="unfinished">Последнее значение</translation>
+        <translation>Последнее значение</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="82"/>
         <source>Played:</source>
-        <translation type="unfinished">Воспроизведено:</translation>
+        <translation>Воспроизведено:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="83"/>
         <source>%playcount% times</source>
-        <translation type="unfinished">%playcount% раз</translation>
+        <translation>%playcount% раз</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="91"/>
