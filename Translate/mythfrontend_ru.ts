@@ -396,7 +396,7 @@
     <message>
         <location filename="../libs/libmythtv/channelgroupsettings.cpp" line="176"/>
         <source>Delete &apos;%1&apos; Channel group?</source>
-        <translation type="unfinished">Удалить &apos;%1&apos; группу каналов?</translation>
+        <translation>Удалить группу каналов &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelgroupsettings.cpp" line="181"/>
@@ -608,7 +608,7 @@
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="721"/>
         <source>statement terminators.</source>
-        <translation type="unfinished">терминаторы операторов.</translation>
+        <translation>терминаторы операторов.</translation>
     </message>
     <message>
         <source>Only on channels marked as favorites</source>
@@ -642,7 +642,7 @@
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="368"/>
         <source>Limit by category</source>
-        <translation type="unfinished">Ограничить по категории</translation>
+        <translation>Ограничить по категории</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="378"/>
@@ -657,7 +657,7 @@
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="399"/>
         <source>Category type</source>
-        <translation type="unfinished">Тип категории</translation>
+        <translation>Тип категории</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="400"/>
@@ -667,7 +667,7 @@
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="406"/>
         <source>Limit movies by the year of release</source>
-        <translation type="unfinished">Ограничить фильмы по году выпуска</translation>
+        <translation>Ограничить фильмы по году выпуска</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="413"/>
@@ -677,32 +677,32 @@
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="419"/>
         <source>Person named in the credits (Data Direct)</source>
-        <translation type="unfinished">Персоны перечисленные в титрах (Data Direct)</translation>
+        <translation>Персоны перечисленные в титрах (Data Direct)</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="440"/>
         <source>Re-record SDTV in HDTV (disable duplicate matching)</source>
-        <translation type="unfinished">Перезаписывать SDTV в HDTV (отключает поиск дубликатов)</translation>
+        <translation>Перезаписывать SDTV в HDTV (отключает поиск дубликатов)</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="450"/>
         <source>Multiple sports teams (complete example)</source>
-        <translation type="unfinished">Многократные спортивные передачи (завершенный пример)</translation>
+        <translation>Многократные спортивные передачи (завершенный пример)</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="458"/>
         <source>Sci-fi B-movies (complete example)</source>
-        <translation type="unfinished">Фантастика категории B (завершенный пример)</translation>
+        <translation>Фантастика категории B (завершенный пример)</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="467"/>
         <source>SportsCenter Overnight (complete example - use FindDaily)</source>
-        <translation type="unfinished">SportsCenter ночью (полный пример - используйте НайтиЕжедневно)</translation>
+        <translation>SportsCenter ночью (полный пример - используйте НайтиЕжедневно)</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="475"/>
         <source>Movie of the Week (complete example - use FindWeekly)</source>
-        <translation type="unfinished">Фильмы недели (полный пример - используйте НайтиЕженедельно)</translation>
+        <translation>Фильм недели (полный пример - используйте НайтиЕженедельно)</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="484"/>
@@ -720,12 +720,12 @@
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="735"/>
         <source>An error was found when checking</source>
-        <translation type="unfinished">Ошибка найдена при проверке</translation>
+        <translation>Ошибка найдена при проверке</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="737"/>
         <source>The database error was</source>
-        <translation type="unfinished">Ошибка базы данных</translation>
+        <translation>Ошибка базы данных</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="206"/>
@@ -741,7 +741,7 @@
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="317"/>
         <source>Only channels from the Favorites group</source>
-        <translation type="unfinished">Только каналы из группы Избранное</translation>
+        <translation>Только каналы из группы Избранное</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="344"/>
@@ -756,32 +756,32 @@
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="661"/>
         <source>Current Example</source>
-        <translation type="unfinished">Текущий пример</translation>
+        <translation>Текущий пример</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="681"/>
         <source>Replace as a search</source>
-        <translation type="unfinished">Заменить как поиск</translation>
+        <translation>Заменить как поиск</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="683"/>
         <source>Store as a search</source>
-        <translation type="unfinished">Сохранить как поиск</translation>
+        <translation>Сохранить как поиск</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="687"/>
         <source>Replace as an example</source>
-        <translation type="unfinished">Заменить как пример</translation>
+        <translation>Заменить как пример</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="689"/>
         <source>Store as an example</source>
-        <translation type="unfinished">Сохранить как пример</translation>
+        <translation>Сохранить как пример</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="716"/>
         <source>Power Search rules no longer require a leading &quot;AND&quot;.</source>
-        <translation type="unfinished">Правила расширенного поиска больше не требуют в начале слова &quot;AND&quot;.</translation>
+        <translation>Правила расширенного поиска больше не требуют в начале слова &quot;AND&quot;.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="850"/>
@@ -813,22 +813,22 @@
     <message>
         <location filename="../programs/mythfrontend/custompriority.cpp" line="110"/>
         <source>&lt;New priority rule&gt;</source>
-        <translation type="unfinished">&lt;Новое правило приоритета&gt;</translation>
+        <translation>&lt;Новое правило приоритета&gt;</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/custompriority.cpp" line="157"/>
         <source>Modify priority for an input (Input priority)</source>
-        <translation type="unfinished">Изменить приоритет для входа (Приоритет входа)</translation>
+        <translation>Изменить приоритет для входа (Приоритет входа)</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/custompriority.cpp" line="159"/>
         <source>Modify priority for all inputs on a card</source>
-        <translation type="unfinished">Изменить приоритет для всех входов на карте</translation>
+        <translation>Изменить приоритет для всех входов на карте</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/custompriority.cpp" line="161"/>
         <source>Modify priority for every card on a host</source>
-        <translation type="unfinished">Изменить приоритет для всех карт на хосте</translation>
+        <translation>Изменить приоритет для всех карт на хосте</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/custompriority.cpp" line="163"/>
@@ -971,7 +971,7 @@
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="3578"/>
         <source>DiSEqC</source>
-        <translation type="unfinished">DiSEqC</translation>
+        <translation>DiSEqC</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="3582"/>
@@ -981,17 +981,17 @@
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="3579"/>
         <source>Input and satellite settings.</source>
-        <translation type="unfinished">Настройки входов и спутников.</translation>
+        <translation>Настройки входов и спутников.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="3362"/>
         <source>Could not open card %1</source>
-        <translation type="unfinished">Невозможно открыть карту %1</translation>
+        <translation>Невозможно открыть карту %1</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="3363"/>
         <source>Could not get card info for card %1</source>
-        <translation type="unfinished">Невозможно получить информацию для карты %1</translation>
+        <translation>Невозможно получить информацию для карты %1</translation>
     </message>
 </context>
 <context>
@@ -1007,7 +1007,7 @@
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2001"/>
         <source>A local MPEG file used to simulate a recording. Must be entered as file:/path/movie.mpg</source>
-        <translation type="unfinished">Локальный MPEG файл используется для моделирования записи. Должен быть введен как файл:/путь/фильм.mpg</translation>
+        <translation>Локальный MPEG файл используется для моделирования записи. Должен быть введен как файл:/путь/фильм.mpg</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2006"/>
@@ -1561,7 +1561,7 @@
     <message>
         <location filename="../programs/mythfrontend/guidegrid.cpp" line="2047"/>
         <source>Delete &apos;%1&apos; %2 rule?</source>
-        <translation type="unfinished">Удалить правило &apos;%1&apos; %2?</translation>
+        <translation>Удалить правило &apos;%1&apos; %2?</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/guidegrid.cpp" line="588"/>
@@ -1572,14 +1572,14 @@
         <location filename="../programs/mythfrontend/guidegrid.cpp" line="178"/>
         <source>You don&apos;t have any channels defined in the database.
 			The program guide will have nothing to show you.</source>
-        <translation type="unfinished">У Вас нет ни одного канала в базе данных.
+        <translation>У Вас нет ни одного канала в базе данных.
 			Программа передач ничего не покажет.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/guidegrid.cpp" line="183"/>
         <source>Channel group &apos;%1&apos; doesn&apos;t have any channels defined.
 			The program guide will have nothing to show you.</source>
-        <translation type="unfinished">Группа каналов &apos;%1&apos; не содержит ни одного канала.
+        <translation>Группа каналов &apos;%1&apos; не содержит ни одного канала.
 			Программа передач ничего не покажет.</translation>
     </message>
     <message>
@@ -1634,7 +1634,7 @@
         <location filename="../programs/mythfrontend/guidegrid.cpp" line="612"/>
         <location filename="../programs/mythfrontend/guidegrid.cpp" line="1383"/>
         <source>Reverse Channel Order</source>
-        <translation type="unfinished">Обратить порядок каналов</translation>
+        <translation>Обратить порядок каналов</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/guidegrid.cpp" line="615"/>
@@ -1761,57 +1761,57 @@
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="4990"/>
         <source>Recording is in Mono</source>
-        <translation type="unfinished">Запис в Моно</translation>
+        <translation>Запис в Моно</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="4991"/>
         <source>Recording is in Stereo</source>
-        <translation type="unfinished">Запись в Стерео</translation>
+        <translation>Запись в Стерео</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="4992"/>
         <source>Recording is in Surround Sound</source>
-        <translation type="unfinished">Запись с окружающим звуком</translation>
+        <translation>Запись с окружающим звуком</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="4993"/>
         <source>Recording is in Dolby Surround Sound</source>
-        <translation type="unfinished">Запись со звуком Dolby Surround</translation>
+        <translation>Запись со звуком Dolby Surround</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="4995"/>
         <source>Recording is Closed Captioned</source>
-        <translation type="unfinished">Запись с Субтитрами</translation>
+        <translation>Запись с Субтитрами</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="4996"/>
         <source>Recording has Subtitles Available</source>
-        <translation type="unfinished">Запись имеет субтитры</translation>
+        <translation>Запись имеет субтитры</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="4997"/>
         <source>Recording is Subtitled</source>
-        <translation type="unfinished">Запись с субтитрами</translation>
+        <translation>Запись с субтитрами</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="5001"/>
         <source>Recording is in High Definition</source>
-        <translation type="unfinished">Запись Высокой Четкости</translation>
+        <translation>Запись Высокой Четкости</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="5005"/>
         <source>Recording has been watched</source>
-        <translation type="unfinished">Запись была просмотрена</translation>
+        <translation>Запись была просмотрена</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="4999"/>
         <source>Recording is in 1080i/p High Definition</source>
-        <translation type="unfinished">Запись 1080i/p High Definition</translation>
+        <translation>Запись 1080i/p High Definition</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="5000"/>
         <source>Recording is in 720p High Definition</source>
-        <translation type="unfinished">Запись 720p High Definition</translation>
+        <translation>Запись 720p High Definition</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/playbackbox.cpp" line="5002"/>
@@ -1824,22 +1824,22 @@
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="1662"/>
         <source>A local file used to simulate a recording. Leave empty to use MythEvents to trigger an external program to import recording files.</source>
-        <translation type="unfinished">Локальный файл используемый для моделирования записи. Оставьте пустым чтобы использовать MythEvents для включения внешней программы импорта записанных файлов.</translation>
+        <translation>Локальный файл используемый для моделирования записи. Оставьте пустым чтобы использовать MythEvents для включения внешней программы импорта записанных файлов.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="1667"/>
         <source>File info</source>
-        <translation type="unfinished">Инфо о файле</translation>
+        <translation>Инфо о файле</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="1670"/>
         <source>File size</source>
-        <translation type="unfinished">Размер файла</translation>
+        <translation>Размер файла</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="1693"/>
         <source>%1 MB</source>
-        <translation type="unfinished">%1 МБ</translation>
+        <translation>%1 Мб</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="1696"/>
@@ -1849,7 +1849,7 @@
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="1700"/>
         <source>File %1 does not exist</source>
-        <translation type="unfinished">Файл %1 не существует</translation>
+        <translation>Файл %1 не существует</translation>
     </message>
 </context>
 <context>
@@ -2420,67 +2420,67 @@
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="970"/>
         <source>Up Arrow</source>
-        <translation type="unfinished">Стрелка вверх</translation>
+        <translation>Стрелка вверх</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="972"/>
         <source>Down Arrow</source>
-        <translation type="unfinished">Стрелка вниз</translation>
+        <translation>Стрелка вниз</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="974"/>
         <source>Left Arrow</source>
-        <translation type="unfinished">Стрелка влево</translation>
+        <translation>Стрелка влево</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="976"/>
         <source>Right Arrow</source>
-        <translation type="unfinished">Стрелка вправо</translation>
+        <translation>Стрелка вправо</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="978"/>
         <source>Move to next widget</source>
-        <translation type="unfinished">Перейти к следующему виджету</translation>
+        <translation>Перейти к следующему виджету</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="980"/>
         <source>Move to preview widget</source>
-        <translation type="unfinished">Перейти к предыдущему виджету</translation>
+        <translation>Перейти к предыдущему виджету</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="982"/>
         <source>Select</source>
-        <translation type="unfinished">Выбор</translation>
+        <translation>Выбор</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="984"/>
         <source>Backspace</source>
-        <translation type="unfinished">Забой</translation>
+        <translation>Забой</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="986"/>
         <source>Escape</source>
-        <translation type="unfinished">Выйти</translation>
+        <translation>Выйти</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="988"/>
         <source>Pop-up menu</source>
-        <translation type="unfinished">Контекстное меню</translation>
+        <translation>Контекстное меню</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="990"/>
         <source>More information</source>
-        <translation type="unfinished">Больше информации</translation>
+        <translation>Больше информации</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="992"/>
         <source>Delete</source>
-        <translation type="unfinished">Удалить</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="994"/>
         <source>Edit</source>
-        <translation type="unfinished">Изменить</translation>
+        <translation>Изменить</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="1001"/>
@@ -2510,12 +2510,12 @@
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="1013"/>
         <source>Help</source>
-        <translation type="unfinished">Справка</translation>
+        <translation>Справка</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="1015"/>
         <source>Eject Removable Media</source>
-        <translation type="unfinished"> </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="1018"/>
@@ -2765,17 +2765,17 @@
     <message>
         <location filename="../programs/mythfrontend/main.cpp" line="894"/>
         <source>TV Recording Playback</source>
-        <translation type="unfinished">Воспроизведение записей</translation>
+        <translation>Воспроизведение записей</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/main.cpp" line="896"/>
         <source>TV Recording Deletion</source>
-        <translation type="unfinished">Удаление записей</translation>
+        <translation>Удаление записей</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/main.cpp" line="898"/>
         <source>Live TV</source>
-        <translation type="unfinished">Live TV</translation>
+        <translation type="unfinished">Просмотр ТВ</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/main.cpp" line="900"/>
@@ -2785,7 +2785,7 @@
     <message>
         <location filename="../programs/mythfrontend/main.cpp" line="902"/>
         <source>Status Screen</source>
-        <translation type="unfinished">Экран состояния</translation>
+        <translation>Экран состояния</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/main.cpp" line="904"/>
@@ -2795,7 +2795,7 @@
     <message>
         <location filename="../programs/mythfrontend/main.cpp" line="907"/>
         <source>ScreenShot</source>
-        <translation type="unfinished">Скриншот</translation>
+        <translation>Скриншот</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/main.cpp" line="937"/>
@@ -2807,27 +2807,27 @@
         <location filename="../programs/mythfrontend/mythcontrols.cpp" line="747"/>
         <location filename="../programs/mythfrontend/mythcontrols.cpp" line="755"/>
         <source>Contexts</source>
-        <translation type="unfinished">Контексты</translation>
+        <translation>Контексты</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/mythcontrols.cpp" line="741"/>
         <source>Actions</source>
-        <translation type="unfinished">Действия</translation>
+        <translation>Действия</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="997"/>
         <source>Page Up</source>
-        <translation type="unfinished">Страна вверх</translation>
+        <translation>Страница вверх</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="999"/>
         <source>Page Down</source>
-        <translation type="unfinished">Страница вниз</translation>
+        <translation>Страница вниз</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="492"/>
         <source>Play Program</source>
-        <translation type="unfinished">Воспроизвести программу</translation>
+        <translation>Воспроизвести программу</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="494"/>
@@ -3425,17 +3425,17 @@
     <message>
         <location filename="../programs/mythwelcome/main.cpp" line="38"/>
         <source>Open an Xterm window</source>
-        <translation type="unfinished">Открыть окно Xterm</translation>
+        <translation>Открыть окно Xterm</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/main.cpp" line="40"/>
         <source>Show Mythshutdown settings</source>
-        <translation type="unfinished">Показать настройка Mythshutdown</translation>
+        <translation>Показать настройка Mythshutdown</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/main.cpp" line="42"/>
         <source>Start Mythtv-Setup</source>
-        <translation type="unfinished">Запустить Mythtv-Setup</translation>
+        <translation>Запустить Mythtv-Setup</translation>
     </message>
 </context>
 <context>
@@ -3520,132 +3520,132 @@
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="403"/>
         <source>Playback started</source>
-        <translation type="unfinished">Начато воспроизведение</translation>
+        <translation>Начато воспроизведение</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="404"/>
         <source>Playback stopped</source>
-        <translation type="unfinished">Воспроизведение остановлено</translation>
+        <translation>Воспроизведение остановлено</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="405"/>
         <source>Playback paused</source>
-        <translation type="unfinished">Воспроизведение поставлено на паузу</translation>
+        <translation>Воспроизведение поставлено на паузу</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="406"/>
         <source>Playback unpaused</source>
-        <translation type="unfinished">Воспроизведение снято с паузы</translation>
+        <translation>Воспроизведение снято с паузы</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="407"/>
         <source>Playback program changed</source>
-        <translation type="unfinished">Воспроизводимая программа сменена</translation>
+        <translation>Воспроизводимая программа сменена</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="408"/>
         <source>Master backend started</source>
-        <translation type="unfinished">Запущен главный бэкэнд</translation>
+        <translation>Запущен главный бэкэнд</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="409"/>
         <source>Master backend shutdown</source>
-        <translation type="unfinished">Главный бэкэнд выключен</translation>
+        <translation>Главный бэкэнд выключен</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="410"/>
         <source>Client connected to master backend</source>
-        <translation type="unfinished">Клиент подключен к главному бэкэнду</translation>
+        <translation>Клиент подключен к главному бэкэнду</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="411"/>
         <source>Client disconnected from master backend</source>
-        <translation type="unfinished">Клиент отключен от главного бэкэнда</translation>
+        <translation>Клиент отключен от главного бэкэнда</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="412"/>
         <source>Slave backend connected to master</source>
-        <translation type="unfinished">Ведомый бэкэнд подключен к главному</translation>
+        <translation>Ведомый бэкэнд подключен к главному</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="413"/>
         <source>Slave backend disconnected from master</source>
-        <translation type="unfinished">Ведомый бэкэнд отключен от главного</translation>
+        <translation>Ведомый бэкэнд отключен от главного</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="414"/>
         <source>Network Control client connected</source>
-        <translation type="unfinished">Клиент управления по сети подключен</translation>
+        <translation>Клиент управления по сети подключен</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="415"/>
         <source>Network Control client disconnected</source>
-        <translation type="unfinished">Клиент управления по сети отключен</translation>
+        <translation>Клиент управления по сети отключен</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="416"/>
         <source>mythfilldatabase ran</source>
-        <translation type="unfinished">mythfilldatabase запущена</translation>
+        <translation>mythfilldatabase запущена</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="417"/>
         <source>Scheduler ran</source>
-        <translation type="unfinished">Запущен планировщик</translation>
+        <translation>Запущен планировщик</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="418"/>
         <source>Settings cache cleared</source>
-        <translation type="unfinished">Очищен кеш настроек</translation>
+        <translation>Очищен кеш настроек</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="419"/>
         <source>Keystroke event #1</source>
-        <translation type="unfinished">Событие клавиатуры №1</translation>
+        <translation>Событие клавиатуры №1</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="420"/>
         <source>Keystroke event #2</source>
-        <translation type="unfinished">Событие клавиатуры №2</translation>
+        <translation>Событие клавиатуры №2</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="421"/>
         <source>Keystroke event #3</source>
-        <translation type="unfinished">Событие клавиатуры №3</translation>
+        <translation>Событие клавиатуры №3</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="422"/>
         <source>Keystroke event #4</source>
-        <translation type="unfinished">Событие клавиатуры №4</translation>
+        <translation>Событие клавиатуры №4</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="423"/>
         <source>Keystroke event #5</source>
-        <translation type="unfinished">Событие клавиатуры №5</translation>
+        <translation>Событие клавиатуры №5</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="424"/>
         <source>Keystroke event #6</source>
-        <translation type="unfinished">Событие клавиатуры №6</translation>
+        <translation>Событие клавиатуры №6</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="425"/>
         <source>Keystroke event #7</source>
-        <translation type="unfinished">Событие клавиатуры №7</translation>
+        <translation>Событие клавиатуры №7</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="426"/>
         <source>Keystroke event #8</source>
-        <translation type="unfinished">Событие клавиатуры №8</translation>
+        <translation>Событие клавиатуры №8</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="427"/>
         <source>Keystroke event #9</source>
-        <translation type="unfinished">Событие клавиатуры №9</translation>
+        <translation>Событие клавиатуры №9</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="428"/>
         <source>Keystroke event #10</source>
-        <translation type="unfinished">Событие клавиатуры №10</translation>
+        <translation>Событие клавиатуры №10</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythsystemevent.cpp" line="429"/>
@@ -4571,27 +4571,27 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1197"/>
         <source>Maximum number of CPU cores used for video decoding and filtering.</source>
-        <translation type="unfinished">Максимальное число ядер CPU используемое для декодирования и фильтрации видео.</translation>
+        <translation>Максимальное число ядер CPU используемое для декодирования и фильтрации видео.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1199"/>
         <source> Multithreaded decoding disabled-only one CPU will be used, please recompile with --enable-ffmpeg-pthreads to enable.</source>
-        <translation type="unfinished">Многопоточное декодирования выключено - будет использоваться только один процессор, пожалуйста, перекомпилируйте с опцией --enable-ffmpeg-pthreads.</translation>
+        <translation>Многопоточное декодирования выключено - будет использоваться только один процессор, пожалуйста, перекомпилируйте с опцией --enable-ffmpeg-pthreads.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1207"/>
         <source>When unchecked the deblocking loopfilter will be disabled </source>
-        <translation type="unfinished">Когда флажок снят фильт удаления блочности будет выключен </translation>
+        <translation>Когда флажок снят фильт удаления блочности будет выключен </translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1212"/>
         <source>When unchecked the OSD will not fade away but instead will disappear abruptly.</source>
-        <translation type="unfinished">Когда флажок снят, экранное меню не плавно затухает, а резко исчезает.</translation>
+        <translation>Когда флажок снят, экранное меню не плавно затухает, а резко исчезает.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1214"/>
         <source>Uncheck this if the video studders while the OSD is fading away.</source>
-        <translation type="unfinished">Снимите этот флажок, если видео тормозит, пока экранное меню исчезает.</translation>
+        <translation>Снимите этот флажок, если видео тормозит, пока экранное меню исчезает.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1170"/>
@@ -4959,60 +4959,60 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="686"/>
         <source>Recording Host</source>
-        <translation type="unfinished">Компьютер, где записывают</translation>
+        <translation>Компьютер, где записывают</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="687"/>
         <source>Recorded File Name</source>
-        <translation type="unfinished">Имя записанного файла</translation>
+        <translation>Имя записанного файла</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="688"/>
         <source>Recorded File Size</source>
-        <translation type="unfinished">Размер записанного файла</translation>
+        <translation>Размер записанного файла</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="689"/>
         <source>Recording Profile</source>
-        <translation type="unfinished">Профиль записи</translation>
+        <translation>Профиль записи</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="690"/>
         <source>Recording Group</source>
-        <translation type="unfinished">Группа записи</translation>
+        <translation>Группа записи</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="691"/>
         <source>Storage Group</source>
-        <translation type="unfinished">Группа хранения</translation>
+        <translation>Группа хранения</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="692"/>
         <source>Playback Group</source>
-        <translation type="unfinished">Группа воспроизведения</translation>
+        <translation>Группа воспроизведения</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="730"/>
         <source>Options</source>
-        <translation type="unfinished">Параметры</translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="739"/>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="765"/>
         <source>Zoom In</source>
-        <translation type="unfinished">Увеличить</translation>
+        <translation>Увеличить</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="740"/>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="763"/>
         <source>Zoom Out</source>
-        <translation type="unfinished">Уменьшить</translation>
+        <translation>Уменьшить</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="741"/>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="767"/>
         <source>Switch Page</source>
-        <translation type="unfinished">Переключить страницу</translation>
+        <translation>Переключить страницу</translation>
     </message>
 </context>
 <context>
@@ -5053,31 +5053,31 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/progfind.cpp" line="224"/>
         <source>Options</source>
-        <translation type="unfinished">Параметры</translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progfind.cpp" line="234"/>
         <location filename="../programs/mythfrontend/progfind.cpp" line="281"/>
         <source>Clear Search</source>
-        <translation type="unfinished">Очистить поиск</translation>
+        <translation>Очистить поиск</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progfind.cpp" line="235"/>
         <location filename="../programs/mythfrontend/progfind.cpp" line="289"/>
         <source>Edit Search</source>
-        <translation type="unfinished">Изменить поиск</translation>
+        <translation>Изменить поиск</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progfind.cpp" line="238"/>
         <location filename="../programs/mythfrontend/progfind.cpp" line="301"/>
         <source>Toggle Record</source>
-        <translation type="unfinished">Переключить запись</translation>
+        <translation>Переключить запись</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progfind.cpp" line="240"/>
         <location filename="../programs/mythfrontend/progfind.cpp" line="309"/>
         <source>Upcoming</source>
-        <translation type="unfinished">Предстоящие</translation>
+        <translation>Предстоящие</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progfind.cpp" line="241"/>
@@ -5109,7 +5109,7 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/progfind.cpp" line="369"/>
         <source>Select a program...</source>
-        <translation type="unfinished">Выберите программу...</translation>
+        <translation>Выберите программу...</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progfind.cpp" line="371"/>
@@ -5389,17 +5389,17 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/proglist.cpp" line="958"/>
         <source>Movies</source>
-        <translation type="unfinished">Фильмы</translation>
+        <translation>Фильмы</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/proglist.cpp" line="964"/>
         <source>Specials</source>
-        <translation type="unfinished">Специальные</translation>
+        <translation>Специальные</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/proglist.cpp" line="974"/>
         <source>Unrated</source>
-        <translation type="unfinished">Без рейтинга</translation>
+        <translation>Без рейтинга</translation>
     </message>
     <message>
         <source>At least ***/</source>
@@ -5437,7 +5437,7 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/proglist.cpp" line="1040"/>
         <source>Time</source>
-        <translation type="unfinished">Время</translation>
+        <translation>Время</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/proglist.cpp" line="1043"/>
@@ -5447,7 +5447,7 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/proglist.cpp" line="1046"/>
         <source>Title</source>
-        <translation type="unfinished">Заголовок</translation>
+        <translation>Заголовок</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/proglist.cpp" line="1049"/>
@@ -5532,13 +5532,13 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/programrecpriority.cpp" line="653"/>
         <source>Sort Options</source>
-        <translation type="unfinished">Параметры сортировки</translation>
+        <translation>Параметры сортировки</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/programrecpriority.cpp" line="662"/>
         <location filename="../programs/mythfrontend/programrecpriority.cpp" line="726"/>
         <source>Reverse Sort Order</source>
-        <translation type="unfinished">Обратить порядок сортировки</translation>
+        <translation>Обратить порядок сортировки</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/programrecpriority.cpp" line="663"/>
@@ -5562,19 +5562,19 @@ Are you sure you want to delete:</source>
         <location filename="../programs/mythfrontend/programrecpriority.cpp" line="666"/>
         <location filename="../programs/mythfrontend/programrecpriority.cpp" line="764"/>
         <source>Sort By Count</source>
-        <translation type="unfinished">Сортировать по количеству</translation>
+        <translation>Сортировать по количеству</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/programrecpriority.cpp" line="667"/>
         <location filename="../programs/mythfrontend/programrecpriority.cpp" line="777"/>
         <source>Sort By Record Count</source>
-        <translation type="unfinished">Сортировать по количеству записей</translation>
+        <translation>Сортировать по количеству записей</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/programrecpriority.cpp" line="668"/>
         <location filename="../programs/mythfrontend/programrecpriority.cpp" line="788"/>
         <source>Sort By Last Recorded</source>
-        <translation type="unfinished">Сортировать по последней записанной</translation>
+        <translation>Сортировать по последней записанной</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/programrecpriority.cpp" line="669"/>
@@ -5585,7 +5585,7 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/programrecpriority.cpp" line="969"/>
         <source>Delete &apos;%1&apos; %2 rule?</source>
-        <translation type="unfinished">Удалить правило &apos;%1&apos; %2?</translation>
+        <translation>Удалить правило &apos;%1&apos; %2?</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/programrecpriority.cpp" line="1453"/>
@@ -5593,7 +5593,7 @@ Are you sure you want to delete:</source>
         <location filename="../programs/mythfrontend/programrecpriority.cpp" line="1590"/>
         <location filename="../programs/mythfrontend/programrecpriority.cpp" line="1598"/>
         <source>Default</source>
-        <translation type="unfinished">По умолчанию</translation>
+        <translation>По умолчанию</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/programrecpriority.cpp" line="1474"/>
@@ -5731,27 +5731,27 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="249"/>
         <source>Warning</source>
-        <translation type="unfinished">Предупреждение</translation>
+        <translation>Предупреждение</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="319"/>
         <source>No digital passthrough</source>
-        <translation type="unfinished">Нет цифрового </translation>
+        <translation type="unfinished">Нет цифрового транзита</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="322"/>
         <source>LPCM</source>
-        <translation type="unfinished">LPCM</translation>
+        <translation>LPCM</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="323"/>
         <source>Enable if your amplifier or TV supports multi-channel LPCM. If unchecked Dolby Digital support is required for multi-channel audio</source>
-        <translation type="unfinished">Включите если ваш усилитель или телевизор поддерживают многоканальный LPCM. Если выключено, то для многоканального звука требуется поддержка Dolby Digital</translation>
+        <translation>Включите если ваш усилитель или телевизор поддерживают многоканальный LPCM. Если выключено, то для многоканального звука требуется поддержка Dolby Digital</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="329"/>
         <source>Analog or LPCM</source>
-        <translation type="unfinished">Аналог или LPCM</translation>
+        <translation>Аналог или LPCM</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="330"/>
@@ -5766,7 +5766,7 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="402"/>
         <source>Upmix Quality</source>
-        <translation type="unfinished">Качество апмикса</translation>
+        <translation>Качество апмикса</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="405"/>
@@ -5935,12 +5935,12 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1935"/>
         <source>Subtitle Font</source>
-        <translation type="unfinished">Шрифт субтитров</translation>
+        <translation>Шрифт субтитров</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1936"/>
         <source>The font to use for text based subtitles.</source>
-        <translation type="unfinished">Шрифт используемый для текстовых субтитров.</translation>
+        <translation>Шрифт используемый для текстовых субтитров.</translation>
     </message>
     <message>
         <source>If enabled, MythTV will always stream files from a remote backend instead of directly reading a recording file if it is accessible locally.</source>
@@ -5959,7 +5959,7 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="751"/>
         <source>Video Source Setup</source>
-        <translation type="unfinished">Настройка источника видео</translation>
+        <translation>Настройка источника видео</translation>
     </message>
     <message>
         <source>Signal timeout (msec)</source>
@@ -6049,22 +6049,22 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="1634"/>
         <source>M3U URL</source>
-        <translation type="unfinished">M3U URL</translation>
+        <translation>M3U URL</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="1635"/>
         <source>URL of M3U containing IPTV channel URLs.</source>
-        <translation type="unfinished">URL плейлиста M3U содержащего URL каналов IPTV.</translation>
+        <translation>URL плейлиста M3U содержащего URL каналов IPTV.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2297"/>
         <source>IVTV MPEG-2 encoder card</source>
-        <translation type="unfinished">Карта кодера IVTV MPEG-2</translation>
+        <translation>Карта кодера IVTV MPEG-2</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2301"/>
         <source>H.264 encoder card (HD-PVR)</source>
-        <translation type="unfinished">Карта кодера H.264 (HD-PVR)</translation>
+        <translation>Карта кодера H.264 (HD-PVR)</translation>
     </message>
     <message>
         <source>Network Recorder</source>
@@ -6088,7 +6088,7 @@ Are you sure you want to delete:</source>
         <location filename="../libs/libmythtv/videosource.cpp" line="2530"/>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3103"/>
         <source>Never</source>
-        <translation type="unfinished">Никогда</translation>
+        <translation>Никогда</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2531"/>
@@ -6099,7 +6099,7 @@ Are you sure you want to delete:</source>
         <location filename="../libs/libmythtv/videosource.cpp" line="2532"/>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3105"/>
         <source>Always</source>
-        <translation type="unfinished">Всегда</translation>
+        <translation>Всегда</translation>
     </message>
     <message>
         <source>If enabled MythTV will tune using only the MPEG program number. The program numbers change more often than DVB or ATSC tuning parameters, so this is slightly less reliable. This will also inhibit EIT gathering during Live TV and recording.</source>
@@ -6109,12 +6109,12 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2708"/>
         <source>Interactions between inputs</source>
-        <translation type="unfinished">Взаимодейтсвие между входами</translation>
+        <translation>Взаимодейтсвие между входами</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2712"/>
         <source>Create a New Input Group</source>
-        <translation type="unfinished">Создать новую группу входов</translation>
+        <translation>Создать новую группу входов</translation>
     </message>
     <message>
         <source>Input groups are only needed when two or more cards share the same resource such as a firewire card and an analog card input controlling the same set top box.</source>
@@ -6123,17 +6123,17 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../libs/libmythtv/channelgroupsettings.cpp" line="88"/>
         <source>Select/Unselect channels for this channel group</source>
-        <translation type="unfinished">Выбрать/Снять каналы для этой группы каналов</translation>
+        <translation>Выбрать/Снять каналы для этой группы каналов</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelgroupsettings.cpp" line="110"/>
         <source>Channel Group - Page </source>
-        <translation type="unfinished">Группа каналов - Страница-</translation>
+        <translation>Группа каналов - Страница </translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelgroupsettings.cpp" line="111"/>
         <source>of</source>
-        <translation type="unfinished">из</translation>
+        <translation>из</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/importicons.cpp" line="633"/>
@@ -6151,7 +6151,7 @@ You may have to use the eject button under its tray.</source>
     <message>
         <location filename="../programs/mythfrontend/main.cpp" line="93"/>
         <source>DVD/Video contains a bookmark</source>
-        <translation type="unfinished">DVD/Фильм содержит закладки</translation>
+        <translation>DVD/Фильм содержит закладки</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/main.cpp" line="1376"/>
@@ -6171,7 +6171,7 @@ You may have to use the eject button under its tray.</source>
     <message>
         <location filename="../libs/libmythui/myththemedmenu.cpp" line="618"/>
         <source>The menu file %1 is incomplete.</source>
-        <translation type="unfinished">Файл меню %1 неполный.</translation>
+        <translation>Файл меню %1 неполный.</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="53"/>
@@ -6182,13 +6182,13 @@ You may have to use the eject button under its tray.</source>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="68"/>
         <source>Backend Server Wakeup settings</source>
-        <translation type="unfinished">Настройки пробуждения бэкэнда</translation>
+        <translation>Настройки пробуждения бэкэнда</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="83"/>
         <location filename="../libs/libmyth/dbsettings.cpp" line="167"/>
         <source>Database Configuration</source>
-        <translation type="unfinished">Конфигурация базы данных</translation>
+        <translation>Конфигурация базы данных</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="89"/>
@@ -6217,7 +6217,7 @@ You may have to use the eject button under its tray.</source>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="110"/>
         <source>Ping test server?</source>
-        <translation type="unfinished">Проверять подключение к серверу?</translation>
+        <translation>Проверять подключение к серверу?</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="111"/>
@@ -6280,12 +6280,12 @@ You may have to use the eject button under its tray.</source>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="183"/>
         <source>An identifier to use while saving the settings for this frontend.</source>
-        <translation type="unfinished">Этот идентификатор будет использоваться в процессе сохранения настроек интерфейса.</translation>
+        <translation>Этот идентификатор будет использоваться в процессе сохранения настроек интерфейса.</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="196"/>
         <source>Enable database server wakeup</source>
-        <translation type="unfinished">Включить пробуждение сервера баз данных</translation>
+        <translation>Включить пробуждение сервера баз данных</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/dbsettings.cpp" line="197"/>
@@ -6385,17 +6385,17 @@ You may have to use the eject button under its tray.</source>
         <location filename="../libs/libmythtv/transporteditor.cpp" line="205"/>
         <location filename="../libs/libmythtv/transporteditor.cpp" line="236"/>
         <source>Transport Editor</source>
-        <translation type="unfinished">Редактор транспорта</translation>
+        <translation>Редактор транспорта</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelsettings.cpp" line="81"/>
         <source>[Not Selected]</source>
-        <translation type="unfinished">[Не выбрано]</translation>
+        <translation>[Не выбрано]</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelsettings.cpp" line="116"/>
         <source>Callsign</source>
-        <translation type="unfinished">Позывной</translation>
+        <translation>Позывной</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelsettings.cpp" line="123"/>
@@ -6405,7 +6405,7 @@ You may have to use the eject button under its tray.</source>
     <message>
         <location filename="../libs/libmythtv/channelsettings.cpp" line="125"/>
         <source>If this channel uses a format other than TV Format in the General Backend Setup screen, set it here.</source>
-        <translation type="unfinished">Если канал использует формат ТВ отличный от формата заданного в Общих настройках установите его здесь.</translation>
+        <translation>Если канал использует формат ТВ отличный от формата заданного в Общих настройках установите его здесь.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelsettings.cpp" line="197"/>
@@ -6415,7 +6415,7 @@ You may have to use the eject button under its tray.</source>
     <message>
         <location filename="../libs/libmythtv/channelsettings.cpp" line="198"/>
         <source>Image file to use as the icon for this channel on various MythTV displays.</source>
-        <translation type="unfinished">Файл значка, используемый для этого канала.</translation>
+        <translation>Файл значка, используемый для этого канала.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelsettings.cpp" line="209"/>
@@ -6425,7 +6425,7 @@ You may have to use the eject button under its tray.</source>
     <message>
         <location filename="../libs/libmythtv/channelsettings.cpp" line="210"/>
         <source>Filters to be used when recording from this channel.  Not used with hardware encoding cards.</source>
-        <translation type="unfinished">Фильтры используемые при записи на этом канале. Не используются с картами аппаратного кодирования.</translation>
+        <translation>Фильтры используемые при записи на этом канале. Не используются с картами аппаратного кодирования.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelsettings.cpp" line="224"/>
@@ -6435,7 +6435,7 @@ You may have to use the eject button under its tray.</source>
     <message>
         <location filename="../libs/libmythtv/channelsettings.cpp" line="225"/>
         <source>Filters to be used when recordings from this channel are viewed.  Start with a plus to append to the global playback filters.</source>
-        <translation type="unfinished">Фильтры, используемые при воспроизведении записей на этом канале. Начните с символа плюс для добавления к глобальным фильтрам воспроизведения.</translation>
+        <translation>Фильтры, используемые при воспроизведении записей на этом канале. Начните с символа плюс для добавления к глобальным фильтрам воспроизведения.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelsettings.cpp" line="239"/>
@@ -6579,14 +6579,14 @@ You may have to use the eject button under its tray.</source>
     <message>
         <location filename="../libs/libmythtv/transporteditor.cpp" line="432"/>
         <source>ATSC</source>
-        <translation type="unfinished">ATSC</translation>
+        <translation>ATSC</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscanmiscsettings.h" line="165"/>
         <location filename="../libs/libmythtv/channelscan/channelscanmiscsettings.h" line="185"/>
         <location filename="../libs/libmythtv/transporteditor.cpp" line="460"/>
         <source>Symbol Rate</source>
-        <translation type="unfinished">Скорость</translation>
+        <translation>Скорость</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscanmiscsettings.h" line="205"/>
@@ -6627,7 +6627,7 @@ You may have to use the eject button under its tray.</source>
     <message>
         <location filename="../libs/libmythtv/channelscan/modulationsetting.h" line="40"/>
         <source>Terrestrial</source>
-        <translation type="unfinished">Наземный</translation>
+        <translation>Наземный</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/modulationsetting.h" line="45"/>
@@ -6635,22 +6635,22 @@ You may have to use the eject button under its tray.</source>
         <location filename="../libs/libmythtv/channelscan/modulationsetting.h" line="100"/>
         <location filename="../libs/libmythtv/transporteditor.cpp" line="501"/>
         <source>Modulation</source>
-        <translation type="unfinished">Модуляция</translation>
+        <translation>Модуляция</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/modulationsetting.h" line="47"/>
         <source>Modulation, 8-VSB, QAM-256, etc.</source>
-        <translation type="unfinished">Модуляция, 8-VSB, QAM-256 и т.п.</translation>
+        <translation>Модуляция, 8-VSB, QAM-256 и т.п.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/modulationsetting.h" line="48"/>
         <source>Most cable systems in the United States use QAM-256 or QAM-64, but some mixed systems may use 8-VSB for over-the-air channels.</source>
-        <translation type="unfinished">Большинство кабельных систем в Соединенных Штатах используют  QAM-256 или QAM-64, но некоторые смешанные системы могут использовать 8-VSB для эфирных каналов.</translation>
+        <translation>Большинство кабельных систем в Соединенных Штатах используют QAM-256 или QAM-64, но некоторые смешанные системы могут использовать 8-VSB для эфирных каналов.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/modulationsetting.h" line="75"/>
         <source>Modulation (Default: Auto)</source>
-        <translation type="unfinished">Модуляция (По умолчанию: Авто)</translation>
+        <translation>Модуляция (По умолчанию: Авто)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/modulationsetting.h" line="85"/>
@@ -6665,12 +6665,12 @@ You may have to use the eject button under its tray.</source>
     <message>
         <location filename="../libs/libmythtv/channelscan/modulationsetting.h" line="102"/>
         <source>Modulation, QPSK, 8PSK, QAM-16</source>
-        <translation type="unfinished">Модуляция, QPSK, 8PSK, QAM-16</translation>
+        <translation>Модуляция, QPSK, 8PSK, QAM-16</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/modulationsetting.h" line="103"/>
         <source>Most DVB-S transponders use QPSK, DVB-S2 8PSK QAM-16 is not available for DVB-S2 transports.</source>
-        <translation type="unfinished">Большинство транспондеров DVB-S используют QPSK, для них недоступны 8PSK QAM-16.</translation>
+        <translation>Большинство транспондеров DVB-S используют QPSK, для них недоступны 8PSK QAM-16.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscanmiscsettings.h" line="219"/>
@@ -6683,7 +6683,7 @@ You may have to use the eject button under its tray.</source>
         <location filename="../libs/libmythtv/transporteditor.cpp" line="544"/>
         <source>Inversion (Default: Auto):
 Most cards can autodetect this now, so leave it at Auto unless it won&apos;t work.</source>
-        <translation type="unfinished">Инверсия (По умолчанию: Авто):
+        <translation>Инверсия (По умолчанию: Авто):
 Большинство карт может определить это сейчас, так что оставьте это в Авто и изменяйте только если что-то не работает.</translation>
     </message>
     <message>
@@ -6833,19 +6833,19 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <location filename="../libs/libmythtv/channelscan/channelscanmiscsettings.h" line="238"/>
         <location filename="../libs/libmythtv/transporteditor.cpp" line="562"/>
         <source>6 MHz</source>
-        <translation type="unfinished">6 МГц</translation>
+        <translation>6 МГц</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscanmiscsettings.h" line="239"/>
         <location filename="../libs/libmythtv/transporteditor.cpp" line="563"/>
         <source>7 MHz</source>
-        <translation type="unfinished">7 МГц</translation>
+        <translation>7 МГц</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscanmiscsettings.h" line="240"/>
         <location filename="../libs/libmythtv/transporteditor.cpp" line="564"/>
         <source>8 MHz</source>
-        <translation type="unfinished">8 МГц</translation>
+        <translation>8 МГц</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscanmiscsettings.h" line="250"/>
@@ -6856,19 +6856,19 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <location filename="../libs/libmythtv/videoouttypes.h" line="271"/>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1908"/>
         <source>None</source>
-        <translation type="unfinished">Нет</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscanmiscsettings.h" line="269"/>
         <location filename="../libs/libmythtv/transporteditor.cpp" line="595"/>
         <source>FEC</source>
-        <translation type="unfinished">FEC</translation>
+        <translation>FEC</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscanmiscsettings.h" line="270"/>
         <location filename="../libs/libmythtv/transporteditor.cpp" line="596"/>
         <source>Forward Error Correction (Default: Auto)</source>
-        <translation type="unfinished">Коррекция ошибок (По умолчанию: Авто)</translation>
+        <translation>Коррекция ошибок (По умолчанию: Авто)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscanmiscsettings.h" line="280"/>
@@ -6958,42 +6958,42 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/transporteditor.cpp" line="685"/>
         <source>Transport Options</source>
-        <translation type="unfinished">Параметры транспорта</translation>
+        <translation>Параметры транспорта</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythplayer.cpp" line="501"/>
         <source>Unable to create null video out</source>
-        <translation type="unfinished">Не удалось создать null видеовыход</translation>
+        <translation>Не удалось создать null видеовыход</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythplayer.cpp" line="526"/>
         <source>&apos;tv playback&apos; widget missing.</source>
-        <translation type="unfinished">отсутвует виджет &quot;воспроизведение ТВ&quot;.</translation>
+        <translation>отсутвует виджет &quot;воспроизведение ТВ&quot;.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythplayer.cpp" line="561"/>
         <source>Failed to initialize video output</source>
-        <translation type="unfinished">Сбой при инициализации видеовыхода</translation>
+        <translation>Сбой при инициализации видеовыхода</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythplayer.cpp" line="638"/>
         <source>Need to switch video renderer.</source>
-        <translation type="unfinished">Необходимо переключить рендер видео.</translation>
+        <translation>Необходимо переключить рендер видео.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythplayer.cpp" line="656"/>
         <source>Failed to reinitialize video output</source>
-        <translation type="unfinished">Сбой при реинициализации видеовыхода</translation>
+        <translation>Сбой при реинициализации видеовыхода</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/audioplayer.cpp" line="71"/>
         <source>Unable to create AudioOutput.</source>
-        <translation type="unfinished">Невозможно создать АудиоВыход.</translation>
+        <translation>Невозможно создать АудиоВыход.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythplayer.cpp" line="1349"/>
         <source>TXT</source>
-        <translation type="unfinished">ТЕКСТ</translation>
+        <translation>ТЕКСТ</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythplayer.cpp" line="1653"/>
@@ -7045,13 +7045,13 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <location filename="../libs/libmythtv/mythdvdplayer.cpp" line="221"/>
         <location filename="../libs/libmythtv/mythplayer.cpp" line="3002"/>
         <source>Bookmark Saved</source>
-        <translation type="unfinished">Закладка установлена</translation>
+        <translation>Закладка установлена</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythdvdplayer.cpp" line="229"/>
         <location filename="../libs/libmythtv/mythplayer.cpp" line="3014"/>
         <source>Bookmark Cleared</source>
-        <translation type="unfinished">Закладка снята</translation>
+        <translation>Закладка снята</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/deletemap.cpp" line="55"/>
@@ -7061,17 +7061,17 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/deletemap.cpp" line="56"/>
         <source>keyframe</source>
-        <translation type="unfinished">ключевой кадр</translation>
+        <translation>ключевой кадр</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/deletemap.cpp" line="57"/>
         <source>1 frame</source>
-        <translation type="unfinished">1 кадр</translation>
+        <translation>1 кадр</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/deletemap.cpp" line="58"/>
         <source>0.5 seconds</source>
-        <translation type="unfinished">0.5 секунды</translation>
+        <translation>0.5 секунды</translation>
     </message>
     <message numerus="yes">
         <location filename="../libs/libmythtv/deletemap.cpp" line="59"/>
@@ -7080,7 +7080,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <location filename="../libs/libmythtv/mythplayer.cpp" line="4167"/>
         <location filename="../libs/libmythtv/osd.cpp" line="677"/>
         <source>%n second(s)</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n секунда</numerusform>
             <numerusform>%n секунды</numerusform>
             <numerusform>%n секунд</numerusform>
@@ -7089,12 +7089,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/deletemap.cpp" line="65"/>
         <source>error</source>
-        <translation type="unfinished">ошибка</translation>
+        <translation>ошибка</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/deletemap.cpp" line="96"/>
         <source>cut</source>
-        <translation type="unfinished">вырезать</translation>
+        <translation>вырезать</translation>
     </message>
     <message>
         <source>Delete this cut point</source>
@@ -7119,7 +7119,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/mythdvdplayer.cpp" line="410"/>
         <source>DVD Menu Not Available</source>
-        <translation type="unfinished">Меню DVD не доступно</translation>
+        <translation>Меню DVD не доступно</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/mythdialogs.cpp" line="878"/>
@@ -7130,7 +7130,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="1536"/>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="1154"/>
         <source>Cancel</source>
-        <translation type="unfinished">Отменить</translation>
+        <translation>Отменить</translation>
     </message>
     <message>
         <source>Insert a new cut point?</source>
@@ -7147,50 +7147,50 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/mythplayer.cpp" line="4171"/>
         <source>%1 of %2</source>
-        <translation type="unfinished">%1 из %2</translation>
+        <translation>%1 из %2</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythplayer.cpp" line="4175"/>
         <source>%1 of %2 (%3 behind)</source>
-        <translation type="unfinished">%1 из %2 (%3 после)</translation>
+        <translation>%1 из %2 (%3 после)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythplayer.cpp" line="4180"/>
         <source>%1 of %2 (%3 remaining)</source>
-        <translation type="unfinished">%1 из %2 (%3 осталось)</translation>
+        <translation>%1 из %2 (%3 осталось)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/commbreakmap.cpp" line="230"/>
         <location filename="../libs/libmythtv/commbreakmap.cpp" line="355"/>
         <source>Skip %1</source>
-        <translation type="unfinished">Пропустить %1</translation>
+        <translation>Пропустить %1</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/commbreakmap.cpp" line="232"/>
         <source>Commercial: %1</source>
-        <translation type="unfinished">Реклама: %1</translation>
+        <translation>Реклама: %1</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythplayer.cpp" line="2575"/>
         <source>Not Flagged</source>
-        <translation type="unfinished">Не помечено</translation>
+        <translation>Не помечено</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/commbreakmap.cpp" line="262"/>
         <source>Skipping Back.</source>
-        <translation type="unfinished">Перемотать назад.</translation>
+        <translation>Перемотать назад.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/commbreakmap.cpp" line="280"/>
         <location filename="../libs/libmythtv/commbreakmap.cpp" line="306"/>
         <source>Start of program.</source>
-        <translation type="unfinished">Начало программы.</translation>
+        <translation>Начало программы.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/commbreakmap.cpp" line="290"/>
         <location filename="../libs/libmythtv/commbreakmap.cpp" line="334"/>
         <source>At End, can not Skip.</source>
-        <translation type="unfinished">В конце, не могу пропустить.</translation>
+        <translation>В конце, не могу пропустить.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/playgroup.cpp" line="38"/>
@@ -7248,7 +7248,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/profilegroup.cpp" line="48"/>
         <source>ProfileGroup</source>
-        <translation type="unfinished">Группа профилей</translation>
+        <translation>Группа профилей</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/profilegroup.cpp" line="104"/>
@@ -7300,12 +7300,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <location filename="../libs/libmyth/programinfo.cpp" line="1370"/>
         <source>GB</source>
         <comment>GigaBytes</comment>
-        <translation type="unfinished">ГБ</translation>
+        <translation>Гб</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/programinfo.cpp" line="1417"/>
         <source>Re-Record</source>
-        <translation type="unfinished">Перезапись</translation>
+        <translation>Перезапись</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/programinfo.cpp" line="1444"/>
@@ -7350,7 +7350,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmyth/programinfo.cpp" line="2432"/>
         <source>PIP</source>
-        <translation type="unfinished">PIP</translation>
+        <translation>PIP</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/recordingtypes.cpp" line="62"/>
@@ -7434,28 +7434,28 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmyth/recordingtypes.cpp" line="42"/>
         <source>Find One</source>
-        <translation type="unfinished">Найти однократно</translation>
+        <translation>Найти однократно</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/recordingtypes.cpp" line="44"/>
         <source>Find Daily</source>
-        <translation type="unfinished">Найти ежедневно</translation>
+        <translation>Найти ежедневно</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/recordingtypes.cpp" line="46"/>
         <source>Find Weekly</source>
-        <translation type="unfinished">Найти еженедельно</translation>
+        <translation>Найти еженедельно</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/recordingtypes.cpp" line="49"/>
         <source>Override Recording</source>
-        <translation type="unfinished">Перезаписать запись</translation>
+        <translation>Перезаписать запись</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/programtypes.cpp" line="151"/>
         <location filename="../libs/libmyth/recordingtypes.cpp" line="51"/>
         <source>Not Recording</source>
-        <translation type="unfinished">Не записывать</translation>
+        <translation>Не записывать</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/programtypes.cpp" line="74"/>
@@ -7615,12 +7615,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmyth/programtypes.cpp" line="176"/>
         <source>Missed</source>
-        <translation type="unfinished">Пропущено</translation>
+        <translation>Пропущено</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/programtypes.cpp" line="178"/>
         <source>Conflicting</source>
-        <translation type="unfinished">Конфликтует</translation>
+        <translation>Конфликтует</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/programtypes.cpp" line="180"/>
@@ -7718,17 +7718,17 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmyth/programtypes.cpp" line="249"/>
         <source>The status of this showing is unknown.</source>
-        <translation type="unfinished">Состояние показа неизвестно.</translation>
+        <translation>Состояние показа неизвестно.</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/programtypes.cpp" line="258"/>
         <source>This showing will not be recorded because </source>
-        <translation type="unfinished">Этот показ не будет записан, так как </translation>
+        <translation>Этот показ не будет записан, так как </translation>
     </message>
     <message>
         <location filename="../libs/libmyth/programtypes.cpp" line="260"/>
         <source>This showing was not recorded because </source>
-        <translation type="unfinished">Этот показ не был записан, так как </translation>
+        <translation>Этот показ не был записан, так как </translation>
     </message>
     <message>
         <location filename="../libs/libmyth/programtypes.cpp" line="265"/>
@@ -7768,7 +7768,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmyth/programtypes.cpp" line="294"/>
         <source>this episode is a repeat.</source>
-        <translation type="unfinished">этот эпизод повторяется.</translation>
+        <translation>этот эпизод повторяется.</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/programtypes.cpp" line="297"/>
@@ -7858,7 +7858,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="198"/>
         <source>Sets the audio type</source>
-        <translation type="unfinished">Установите тип звука</translation>
+        <translation>Установите тип звука</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="245"/>
@@ -7892,7 +7892,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="374"/>
         <source>Main Language</source>
-        <translation type="unfinished">Основной язык</translation>
+        <translation>Основной язык</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="375"/>
@@ -7902,7 +7902,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="376"/>
         <source>Dual</source>
-        <translation type="unfinished">Двойной</translation>
+        <translation>Двойной</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="379"/>
@@ -7939,7 +7939,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="511"/>
         <source>Chroma filter</source>
-        <translation type="unfinished">Фильтр цветности</translation>
+        <translation>Фильтр цветности</translation>
     </message>
     <message>
         <source>Bitrate in kilobits/second.  2200Kbps is approximately 1 Gigabyte per hour.</source>
@@ -7953,39 +7953,39 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="553"/>
         <source>Minimum quality</source>
-        <translation type="unfinished">Минимальное качество</translation>
+        <translation>Минимальное качество</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="555"/>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="569"/>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="584"/>
         <source>Modifying the default may have severe consequences.</source>
-        <translation type="unfinished">Модификация значения по умолчанию может повлечь тяжелые последствия.</translation>
+        <translation>Модификация значения по умолчанию может повлечь тяжелые последствия.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="567"/>
         <source>Maximum quality</source>
-        <translation type="unfinished">Максимальное качество</translation>
+        <translation>Максимальное качество</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="582"/>
         <source>Max quality difference between frames</source>
-        <translation type="unfinished">Максимальная разница качества между фреймами</translation>
+        <translation>Максимальная разница качества между фреймами</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="596"/>
         <source>Enable interlaced DCT encoding</source>
-        <translation type="unfinished">Разрешить чересстрочное DCT кодирование</translation>
+        <translation>Разрешить чересстрочное DCT кодирование</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="612"/>
         <source>Enable interlaced motion estimation</source>
-        <translation type="unfinished">Разрешить оценку чересстрочного видео</translation>
+        <translation>Разрешить оценку чересстрочного видео</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="628"/>
         <source>Enable high-quality encoding</source>
-        <translation type="unfinished">Разрешить высококачественное кодирование</translation>
+        <translation>Разрешить высококачественное кодирование</translation>
     </message>
     <message>
         <source>If set, the MPEG4 encoder will use &apos;high-quality&apos; encoding options.  This requires much more processing, but can result in better video.</source>
@@ -7994,12 +7994,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="643"/>
         <source>Enable 4MV encoding</source>
-        <translation type="unfinished">Разрешить кодирование 4MV</translation>
+        <translation>Разрешить кодирование 4MV</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="645"/>
         <source>If set, the MPEG4 encoder will use &apos;4MV&apos; motion-vector encoding.  This requires much more processing, but can result in better video. It is highly recommended that the HQ option is enabled if 4MV is enabled.</source>
-        <translation type="unfinished">Если установлено, кодер MPEG4 будет использовать 4MV вектор движения. Это требует больше обработки, но выдает лучшее видео. Настоятельно рекомендуется также включить опцию высококачесвенного кодирования, если 4MV включено.</translation>
+        <translation>Если установлено, кодер MPEG4 будет использовать 4MV вектор движения. Это требует больше обработки, но выдает лучшее видео. Настоятельно рекомендуется также включить опцию высококачесвенного кодирования, если 4MV включено.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="661"/>
@@ -8035,52 +8035,52 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="524"/>
         <source>Bitrate (kb/s)</source>
-        <translation type="unfinished">Bitrate </translation>
+        <translation>Битрейт (кб/с)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="526"/>
         <source>Bitrate in kilobits/second. As a guide, 2200 kb/s is approximately 1 GB/hr.</source>
-        <translation type="unfinished">Битрейт в килобитах в секунду. Битрейт 2200 кбит/с приблизительно равен 1 Гигабайт в час.</translation>
+        <translation>Битрейт в килобитах в секунду. Битрейт 2200 кбит/с приблизительно равен 1 Гигабайт в час.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="683"/>
         <source>Avg. Bitrate (kb/s)</source>
-        <translation type="unfinished">Сред. битрейт (кбит/с)</translation>
+        <translation>Сред. битрейт (кбит/с)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="686"/>
         <source>Average bitrate in kilobits/second. As a guide, 2200 kb/s is approximately 1 GB/hour.</source>
-        <translation type="unfinished">Средний битрейт в килобитах в секунду. Битрейт 2200 кбит/с приблизительно равен 1 Гигабайт в час.</translation>
+        <translation>Средний битрейт в килобитах в секунду. Битрейт 2200 кбит/с приблизительно равен 1 Гигабайт в час.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="704"/>
         <source>Max. Bitrate (kb/s)</source>
-        <translation type="unfinished">Макс. битрейт (кбит/с)</translation>
+        <translation>Макс. битрейт (кбит/с)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="707"/>
         <source>Maximum bitrate in kilobits/second. As a guide, 2200 kb/s is approximately 1 GB/hour.</source>
-        <translation type="unfinished">Максимальный битрейт в килобитах в секунду. Битрейт 2200 кбит/с приблизительно равен 1 Гигабайт в час.</translation>
+        <translation>Максимальный битрейт в килобитах в секунду. Битрейт 2200 кбит/с приблизительно равен 1 Гигабайт в час.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="719"/>
         <source>Stream Type</source>
-        <translation type="unfinished">Тип потока</translation>
+        <translation>Тип потока</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="731"/>
         <source>Sets the type of stream generated by your PVR.</source>
-        <translation type="unfinished">Установите тип потока создаваемый вашим видеорекордером.</translation>
+        <translation>Установите тип потока создаваемый вашим видеорекордером.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="743"/>
         <source>Aspect Ratio</source>
-        <translation type="unfinished">Соотношение сторон</translation>
+        <translation>Соотношение сторон</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="745"/>
         <source>Square</source>
-        <translation type="unfinished">Квадрат</translation>
+        <translation>Квадрат</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="750"/>
@@ -8090,7 +8090,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="762"/>
         <source>Quality</source>
-        <translation type="unfinished">Качество</translation>
+        <translation>Качество</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="775"/>
@@ -8111,57 +8111,57 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="816"/>
         <source>RTjpeg Parameters</source>
-        <translation type="unfinished">Параметры RTjpeg</translation>
+        <translation>Параметры RTjpeg</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="824"/>
         <source>MPEG-4 Parameters</source>
-        <translation type="unfinished">Параметры MPEG-4</translation>
+        <translation>Параметры MPEG-4</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="848"/>
         <source>MPEG-2 Parameters</source>
-        <translation type="unfinished">Параметры MPEG-2</translation>
+        <translation>Параметры MPEG-2</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="862"/>
         <source>Hardware MJPEG Parameters</source>
-        <translation type="unfinished">Параметры аппаратного MJPEG</translation>
+        <translation>Параметры аппаратного MJPEG</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="870"/>
         <source>MPEG-2 Hardware Encoder</source>
-        <translation type="unfinished">Аппаратный MPEG-2 кодировщик</translation>
+        <translation>Аппаратный MPEG-2 кодировщик</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="879"/>
         <source>MPEG-4 AVC Hardware Encoder</source>
-        <translation type="unfinished">Аппаратный MPEG-4 AVC кодировщик</translation>
+        <translation>Аппаратный MPEG-4 AVC кодировщик</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="882"/>
         <source>Low Resolution</source>
-        <translation type="unfinished">Низкое разрешение</translation>
+        <translation>Низкое разрешение</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="890"/>
         <source>Medium Resolution</source>
-        <translation type="unfinished">Среднее разрешение</translation>
+        <translation>Среднее разрешение</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="898"/>
         <source>High Resolution</source>
-        <translation type="unfinished">Высокое разрешение</translation>
+        <translation>Высокое разрешение</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="949"/>
         <source>Enable auto-transcode after recording</source>
-        <translation type="unfinished">Разрешить автоматическую перекодировку после записи</translation>
+        <translation>Разрешить автоматическую перекодировку после записи</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="951"/>
         <source>Automatically transcode when a recording is made using this profile and the recording&apos;s schedule is configured to allow transcoding.</source>
-        <translation type="unfinished">Автоматически перекодировать, если запись использует этот профиль и параметры записи заданы так, что разрешают перекодировку.</translation>
+        <translation>Автоматически перекодировать, если запись использует этот профиль и параметры записи заданы так, что разрешают перекодировку.</translation>
     </message>
     <message>
         <source>Resize Video while transcoding</source>
@@ -8170,39 +8170,39 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="1041"/>
         <source>Width</source>
-        <translation type="unfinished">Ширина</translation>
+        <translation>Ширина</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="1048"/>
         <source>Width to use for encoding. Note: PVR-x50 cards may produce ghosting if this is not set to 720 or 768 for NTSC and PAL, respectively.</source>
-        <translation type="unfinished">Разрешение по горизонтали используемое для кодирования. Внимание: карты PVR-x50 могут создать ореолы, если ширина не равна 720 или 768 для NTSC и PAL соответсвенно.</translation>
+        <translation>Разрешение по горизонтали используемое для кодирования. Внимание: карты PVR-x50 могут создать ореолы, если ширина не равна 720 или 768 для NTSC и PAL соответсвенно.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="1068"/>
         <source>Height</source>
-        <translation type="unfinished">Высота</translation>
+        <translation>Высота</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="1075"/>
         <source>Height to use for encoding. Note: PVR-x50 cards may produce ghosting if this is not set to 480 or 576 for NTSC and PAL, respectively.</source>
-        <translation type="unfinished">Разрешение по вертикали используемое для кодирования. Внимание: карты PVR-x50 могут создать ореолы, если высота не равна 480 или 576 для NTSC и PAL соответсвенно.</translation>
+        <translation>Разрешение по вертикали используемое для кодирования. Внимание: карты PVR-x50 могут создать ореолы, если высота не равна 480 или 576 для NTSC и PAL соответсвенно.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="1091"/>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="1093"/>
         <source>Image size</source>
-        <translation type="unfinished">Размер изображения</translation>
+        <translation>Размер изображения</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="1535"/>
         <source>Autodetect</source>
-        <translation type="unfinished">Автоопределение</translation>
+        <translation>Автоопределение</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="1550"/>
         <location filename="../programs/mythtranscode/transcode.cpp" line="267"/>
         <source>Autodetect from %1</source>
-        <translation type="unfinished">Автоопределение из %1</translation>
+        <translation>Автоопределение из %1</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="1618"/>
@@ -8218,7 +8218,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="90"/>
         <source>MP3 quality</source>
-        <translation type="unfinished">Качество mp3</translation>
+        <translation>Качество mp3</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="92"/>
@@ -8258,57 +8258,57 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="1018"/>
         <source>Custom filters</source>
-        <translation type="unfinished">Пользовательские фильтры</translation>
+        <translation>Пользовательские фильтры</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="1612"/>
         <source>Transcode using &quot;%1&quot;</source>
-        <translation type="unfinished">Перекодировать используя &quot;%1&quot;</translation>
+        <translation>Перекодировать используя &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.h" line="68"/>
         <source>Profile name</source>
-        <translation type="unfinished">Имя профиля</translation>
+        <translation>Имя профиля</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscan_sm.cpp" line="245"/>
         <source>Updated Channel %1</source>
-        <translation type="unfinished">Обновлен канал %1</translation>
+        <translation>Обновлен канал %1</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscan_sm.cpp" line="270"/>
         <source>Added Channel %1</source>
-        <translation type="unfinished">Добавлен канал %1</translation>
+        <translation>Добавлен канал %1</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscan_sm.cpp" line="271"/>
         <source>Failed to add channel %1</source>
-        <translation type="unfinished">Не удалось добавить канал %1</translation>
+        <translation>Не удалось добавить канал %1</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscan_sm.cpp" line="567"/>
         <source>%1 -- Testing decryption of program %2</source>
-        <translation type="unfinished">%1 -- Проверка расшифровки программы %2</translation>
+        <translation>%1 -- Проверка расшифровки программы %2</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscan_sm.cpp" line="839"/>
         <source>Program %1</source>
-        <translation type="unfinished">Программа %1</translation>
+        <translation>Программа %1</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscan_sm.cpp" line="840"/>
         <source>Unknown decryption status</source>
-        <translation type="unfinished">Неизвестный статус расшифровки</translation>
+        <translation>Неизвестный статус расшифровки</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscan_sm.cpp" line="842"/>
         <source>Encrypted</source>
-        <translation type="unfinished">Закодированно</translation>
+        <translation>Закодированно</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscan_sm.cpp" line="844"/>
         <source>Decrypted</source>
-        <translation type="unfinished">Раскодированно</translation>
+        <translation>Раскодированно</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscan_sm.cpp" line="879"/>
@@ -8323,12 +8323,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscan_sm.cpp" line="902"/>
         <source>no channels</source>
-        <translation type="unfinished">нет каналов</translation>
+        <translation>нет каналов</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscan_sm.cpp" line="913"/>
         <source>%1, no signal</source>
-        <translation type="unfinished">%1, нет сигнала</translation>
+        <translation>%1, нет сигнала</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscan_sm.cpp" line="918"/>
@@ -8364,12 +8364,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <location filename="../libs/libmythtv/channelscan/channelscan_sm.cpp" line="1897"/>
         <location filename="../libs/libmythtv/channelscan/multiplexsetting.cpp" line="71"/>
         <source>ATSC Channel %1</source>
-        <translation type="unfinished">Канал ATSC %1</translation>
+        <translation>Канал ATSC %1</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscan_sm.cpp" line="1973"/>
         <source>as</source>
-        <translation type="unfinished">как</translation>
+        <translation>как</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscan_sm.cpp" line="1978"/>
@@ -8396,7 +8396,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/channelscan/frequencytablesetting.cpp" line="64"/>
         <source>Chile</source>
-        <translation type="unfinished">Чили</translation>
+        <translation>Чили</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/frequencytablesetting.cpp" line="65"/>
@@ -8449,7 +8449,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <location filename="../libs/libmythtv/channelscan/frequencytablesetting.cpp" line="38"/>
         <location filename="../libs/libmythtv/videosource.cpp" line="1329"/>
         <source>Broadcast</source>
-        <translation type="unfinished">Широковещательный</translation>
+        <translation>Широковещательный</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/frequencytablesetting.cpp" line="39"/>
@@ -8458,29 +8458,29 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <location filename="../libs/libmythtv/channelscan/modulationsetting.h" line="42"/>
         <location filename="../libs/libmythtv/channelscan/modulationsetting.h" line="43"/>
         <source>Cable</source>
-        <translation type="unfinished">Кабель</translation>
+        <translation>Кабель</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/frequencytablesetting.cpp" line="41"/>
         <location filename="../libs/libmythtv/channelscan/frequencytablesetting.cpp" line="46"/>
         <source>Cable HRC</source>
-        <translation type="unfinished">Кабель HRC</translation>
+        <translation>Кабель HRC</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/frequencytablesetting.cpp" line="43"/>
         <location filename="../libs/libmythtv/channelscan/frequencytablesetting.cpp" line="47"/>
         <source>Cable IRC</source>
-        <translation type="unfinished">Кабель IRC</translation>
+        <translation>Кабель IRC</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/frequencytablesetting.cpp" line="49"/>
         <source>Frequency Table</source>
-        <translation type="unfinished">Таблица частот</translation>
+        <translation>Таблица частот</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/frequencytablesetting.cpp" line="50"/>
         <source>Frequency table to use.</source>
-        <translation type="unfinished">Таблица частот для использования.</translation>
+        <translation>Таблица частот для использования.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/frequencytablesetting.cpp" line="62"/>
@@ -8520,13 +8520,13 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/recordingrule.cpp" line="224"/>
         <source>Unknown Search</source>
-        <translation type="unfinished">Неизвестный поиск</translation>
+        <translation>Неизвестный поиск</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingrule.cpp" line="480"/>
         <source>(%1 or later) %3</source>
         <comment>e.g. (Sunday or later) program subtitle</comment>
-        <translation type="unfinished">(%1 или позже) %3</translation>
+        <translation>(%1 или позже) %3</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/signalmonitor.cpp" line="173"/>
@@ -8542,7 +8542,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/signalmonitor.cpp" line="497"/>
         <source>Error: channel change failed</source>
-        <translation type="unfinished">Ошибка: сбой при смене канала</translation>
+        <translation>Ошибка: сбой при смене канала</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="945"/>
@@ -8567,7 +8567,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="11462"/>
         <source>Channel Change Error</source>
-        <translation type="unfinished">Ошибка смены канала</translation>
+        <translation>Ошибка смены канала</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="205"/>
@@ -8579,7 +8579,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="211"/>
         <source>Use default unless this source uses a different frequency table than the system wide table defined in the General settings.</source>
-        <translation type="unfinished">Используйте по умолчанию, за исключением случая, когда источник использует таблицу частот каналов отличную от заданной в Общих установках.</translation>
+        <translation>Используйте по умолчанию, за исключением случая, когда источник использует таблицу частот каналов отличную от заданной в Общих установках.</translation>
     </message>
     <message>
         <source>Perform EIT Scan</source>
@@ -8622,12 +8622,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="661"/>
         <source>North America (SchedulesDirect.org) (Internal)</source>
-        <translation type="unfinished">Северная Америка (SchedulesDirect.org) (Внутренний)</translation>
+        <translation>Северная Америка (SchedulesDirect.org) (Внутренний)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="665"/>
         <source>Transmitted guide only (EIT)</source>
-        <translation type="unfinished">Только передаваемая программа (EIT)</translation>
+        <translation>Только передаваемая программа (EIT)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="667"/>
@@ -8724,7 +8724,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="1171"/>
         <source>Frontend ID</source>
-        <translation type="unfinished">ИД интерфейса</translation>
+        <translation>ИД фронтэнда</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="1182"/>
@@ -8876,27 +8876,27 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2551"/>
         <source>External channel change command</source>
-        <translation type="unfinished">Внешняя команда смены канала</translation>
+        <translation>Внешняя команда смены канала</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2553"/>
         <source>If specified, this command will be run to change the channel for inputs which have an external tuner device such as a cable box. The first argument will be the channel number.</source>
-        <translation type="unfinished">Если указанно, то это команда будет выполняться для смены канала на устройствах имеющих внешний тюнер, таких как кабельная приставка. Первый аргумент - номер канала.</translation>
+        <translation>Если указанно, то это команда будет выполняться для смены канала на устройствах имеющих внешний тюнер, таких как кабельная приставка. Первый аргумент - номер канала.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2567"/>
         <source>Preset tuner to channel</source>
-        <translation type="unfinished">Настроить тюнер на канал</translation>
+        <translation>Настроить тюнер на канал</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2569"/>
         <source>Leave this blank unless you have an external tuner that is connected to the tuner input of your card. If so, you will need to specify the preset channel for the signal (normally 3 or 4).</source>
-        <translation type="unfinished">Оставьте это пустым, если Вы только не имеете внешнего тюнера присоединенного ко входу Вашей карты. В таком случае Вам необходимо указать канал (обычно 3 или 4).</translation>
+        <translation>Оставьте это пустым, если Вы только не имеете внешнего тюнера присоединенного ко входу Вашей карты. В таком случае Вам необходимо указать канал (обычно 3 или 4).</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2663"/>
         <source>Connect source to input</source>
-        <translation type="unfinished">Соединить источник со входом</translation>
+        <translation>Соединить источник со входом</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="3016"/>
@@ -8972,12 +8972,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/viewschedulediff.cpp" line="117"/>
         <source>The following programs will be recorded instead:</source>
-        <translation type="unfinished">Следующие программы будут записаны вместо:</translation>
+        <translation>Следующие программы будут записаны вместо:</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/viewschedulediff.cpp" line="138"/>
         <source>Program Status</source>
-        <translation type="unfinished">Статус программы</translation>
+        <translation>Статус программы</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="66"/>
@@ -9041,47 +9041,47 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="702"/>
         <source>Linear blend</source>
-        <translation type="unfinished">Linear blend</translation>
+        <translation>Linear blend</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="704"/>
         <source>Kernel</source>
-        <translation type="unfinished">Kernel</translation>
+        <translation>Kernel</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="706"/>
         <source>Kernel (2x)</source>
-        <translation type="unfinished">Kernel (2x)</translation>
+        <translation>Kernel (2x)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="708"/>
         <source>Greedy HighMotion</source>
-        <translation type="unfinished">Greedy HighMotion</translation>
+        <translation>Greedy HighMotion</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="710"/>
         <source>Greedy HighMotion (2x)</source>
-        <translation type="unfinished">Greedy HighMotion (2x)</translation>
+        <translation>Greedy HighMotion (2x)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="712"/>
         <source>Yadif</source>
-        <translation type="unfinished">Yadif</translation>
+        <translation>Yadif</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="714"/>
         <source>Yadif (2x)</source>
-        <translation type="unfinished">Yadif (2x)</translation>
+        <translation>Yadif (2x)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="716"/>
         <source>Bob (2x)</source>
-        <translation type="unfinished">Bob (2x)</translation>
+        <translation>Bob (2x)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="718"/>
         <source>One field</source>
-        <translation type="unfinished">One field</translation>
+        <translation>One field</translation>
     </message>
     <message>
         <source>Custom Filters</source>
@@ -9090,7 +9090,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="600"/>
         <source>Extra audio buffering</source>
-        <translation type="unfinished">Дополнительный аудио буфер</translation>
+        <translation>Дополнительный аудио буфер</translation>
     </message>
     <message>
         <source>PIP Video Location</source>
@@ -9099,27 +9099,27 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/videoouttypes.h" line="168"/>
         <source>Top Left</source>
-        <translation type="unfinished">Левый верхний</translation>
+        <translation>Левый верхний</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videoouttypes.h" line="169"/>
         <source>Bottom Left</source>
-        <translation type="unfinished">Левый нижний</translation>
+        <translation>Левый нижний</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videoouttypes.h" line="170"/>
         <source>Top Right</source>
-        <translation type="unfinished">Правый верхний</translation>
+        <translation>Правый верхний</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videoouttypes.h" line="171"/>
         <source>Bottom Right</source>
-        <translation type="unfinished">Правый нижний</translation>
+        <translation>Правый нижний</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="617"/>
         <source>Location of PIP Video window.</source>
-        <translation type="unfinished">Положение окна PIP.</translation>
+        <translation>Положение окна PIP.</translation>
     </message>
     <message>
         <source>Password required to view all recordings</source>
@@ -9137,7 +9137,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="626"/>
         <source>All Programs</source>
-        <translation type="unfinished">Всем программам</translation>
+        <translation>Всем программам</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="655"/>
@@ -9284,7 +9284,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="838"/>
         <source>Skip blank frames after commercials</source>
-        <translation type="unfinished">Пропускать пустые кадры после рекламы</translation>
+        <translation>Пропускать пустые кадры после рекламы</translation>
     </message>
     <message>
         <source>When using Blank Frame Detection and Auto-Flagging, include blank frames following commercial breaks as part of the commercial break.</source>
@@ -9341,7 +9341,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1049"/>
         <source>This global setting allows the recorder to start before the scheduled start time. It does not affect the scheduler. It is ignored when two shows have been scheduled without enough time in between.</source>
-        <translation type="unfinished">Эта глобальная установка разрешает рекордеру начинать запись перед запланированным временем старта. Это не влияет на планировщик. Это игнорируется когда два показа идут без достаточного промежутка между ними.</translation>
+        <translation>Эта глобальная установка разрешает рекордеру начинать запись перед запланированным временем старта. Это не влияет на планировщик. Это игнорируется когда два показа идут без достаточного промежутка между ними.</translation>
     </message>
     <message>
         <source>Time to record past end of show (in seconds)</source>
@@ -9435,7 +9435,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1873"/>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2880"/>
         <source>Menu theme</source>
-        <translation type="unfinished">Тема меню</translation>
+        <translation>Тема меню</translation>
     </message>
     <message>
         <source>OSD font</source>
@@ -9468,27 +9468,27 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1963"/>
         <source>Channel ordering</source>
-        <translation type="unfinished">Порядок каналов</translation>
+        <translation>Порядок каналов</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1994"/>
         <source>Scan displacement (X)</source>
-        <translation type="unfinished">Горизонтальное смещение</translation>
+        <translation>Горизонтальное смещение</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1996"/>
         <source>Adjust this to move the image horizontally.</source>
-        <translation type="unfinished">Подстройте это для смещения изображения горизонтально.</translation>
+        <translation type="unfinished">Подстройте это для смещения изображения по горизонтали.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2003"/>
         <source>Scan displacement (Y)</source>
-        <translation type="unfinished">Вертикальное смещение</translation>
+        <translation>Вертикальное смещение</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2005"/>
         <source>Adjust this to move the image vertically.</source>
-        <translation type="unfinished">Подстройте это для смещения изображения вертикально.</translation>
+        <translation>Подстройте это для смещения изображения по вертикали.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="640"/>
@@ -9503,7 +9503,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="642"/>
         <source>VIA XvMC</source>
-        <translation type="unfinished">VIA XvMC</translation>
+        <translation>VIA XvMC</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="644"/>
@@ -9513,17 +9513,17 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="659"/>
         <source>Decoder to use to play back MPEG2 video.</source>
-        <translation type="unfinished">Декодер, используемый для проигрывания MPEG2 видео.</translation>
+        <translation>Декодер, используемый для проигрывания MPEG2 видео.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="667"/>
         <source>Standard will use ffmpeg library.</source>
-        <translation type="unfinished">Стандартный использует библиотеку ffmpeg.</translation>
+        <translation>Стандартный использует библиотеку ffmpeg.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="670"/>
         <source>libmpeg2 is slower on almost all processors than ffmpeg and breaks caption decoding. Use at your own risk!</source>
-        <translation type="unfinished">libmpeg2 меденнее чем ffmpeg на большинстве процессоров, и с ошибкой декодирует заголовки. Используйте на свой страх и риск!</translation>
+        <translation>libmpeg2 меденнее чем ffmpeg на большинстве процессоров, и с ошибкой декодирует заголовки. Используйте на свой страх и риск!</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="675"/>
@@ -9533,63 +9533,63 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="681"/>
         <source>VIA XvMC will use the VIA VLD XvMC extension.</source>
-        <translation type="unfinished">VIA XvMC использует VIA VLD XvMC расширения.</translation>
+        <translation>VIA XvMC использует VIA VLD XvMC расширения.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="690"/>
         <source>VDPAU will attempt to use the graphics hardware to accelerate video decoding and playback.</source>
-        <translation type="unfinished">VDPAU попытается использовать видеокарту для ускорения декодирования и воспроизведения видео.</translation>
+        <translation>VDPAU попытается использовать видеокарту для ускорения декодирования и воспроизведения видео.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="720"/>
         <source>Interlaced (2x)</source>
-        <translation type="unfinished">Interlaced (2x)</translation>
+        <translation>Interlaced (2x)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="722"/>
         <source>Linear blend (HW)</source>
-        <translation type="unfinished">Linear blend (HW)</translation>
+        <translation>Linear blend (HW)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="724"/>
         <source>Kernel (HW)</source>
-        <translation type="unfinished">Kernel (HW)</translation>
+        <translation>Kernel (HW)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="726"/>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="742"/>
         <source>Bob (2x, HW)</source>
-        <translation type="unfinished">Bob (2x, HW)</translation>
+        <translation>Bob (2x, HW)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="728"/>
         <source>One field (HW)</source>
-        <translation type="unfinished">One field (HW)</translation>
+        <translation>One field (HW)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="730"/>
         <source>Kernel (2x, HW)</source>
-        <translation type="unfinished">Kernel (2x, HW)</translation>
+        <translation>Kernel (2x, HW)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="732"/>
         <source>Linear blend (2x, HW)</source>
-        <translation type="unfinished"></translation>
+        <translation>Linear blend (2x, HW)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="734"/>
         <source>Interlaced (2x, HW)</source>
-        <translation type="unfinished"></translation>
+        <translation>Interlaced (2x, HW)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="736"/>
         <source>Yadif (2x, HW)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yadif (2x, HW)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="738"/>
         <source>Yadif (HW)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yadif (HW)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="740"/>
@@ -9620,19 +9620,19 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="1021"/>
         <source>CPU++</source>
         <comment>Sample: No hardware assist</comment>
-        <translation type="unfinished">CPU++</translation>
+        <translation>CPU++</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="1031"/>
         <source>CPU+</source>
         <comment>Sample: Hardware assist HD only</comment>
-        <translation type="unfinished">CPU+</translation>
+        <translation>CPU+</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="1050"/>
         <source>CPU--</source>
         <comment>Sample: Hardware assist all</comment>
-        <translation type="unfinished">CPU--</translation>
+        <translation>CPU--</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="1101"/>
@@ -9661,7 +9661,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="1170"/>
         <source>Video rendering method</source>
-        <translation type="unfinished">Метод рендеринга видео</translation>
+        <translation>Метод рендеринга видео</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="1176"/>
@@ -9726,7 +9726,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="1276"/>
         <source>Perform no deinterlacing.</source>
-        <translation type="unfinished">Не выполнять деинтерлейсинг.</translation>
+        <translation>Не выполнять деинтерлейсинг.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="1277"/>
@@ -9787,7 +9787,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="1396"/>
         <source>OSD rendering method</source>
-        <translation type="unfinished">Метод рендеринга экранного меню (OSD)</translation>
+        <translation>Метод рендеринга экранного меню (OSD)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="1402"/>
@@ -9854,17 +9854,17 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2141"/>
         <source>Action on playback exit</source>
-        <translation type="unfinished">Действие при выходе из воспроизведения</translation>
+        <translation>Действие при выходе из воспроизведения</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2142"/>
         <source>Just exit</source>
-        <translation type="unfinished">Просто выход</translation>
+        <translation>Просто выход</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2143"/>
         <source>Save position and exit</source>
-        <translation type="unfinished">Сохранить позицию и выйти</translation>
+        <translation>Сохранить позицию и выйти</translation>
     </message>
     <message>
         <source>If set to prompt, a menu will be displayed when you exit playback mode.  The options available will allow you to save your position, delete the recording, or continue watching.</source>
@@ -9873,7 +9873,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2157"/>
         <source>Prompt at end of recording</source>
-        <translation type="unfinished">Запрос по окончании записи</translation>
+        <translation>Запрос по окончании записи</translation>
     </message>
     <message>
         <source>If set, a menu will be displayed allowing you to delete the recording when it has finished playing.</source>
@@ -9930,7 +9930,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2245"/>
         <source>Use line edit virtual keyboards</source>
-        <translation type="unfinished">Использовать виртуальную клавиатуру в окнах редактирования</translation>
+        <translation>Использовать виртуальную клавиатуру в окнах редактирования</translation>
     </message>
     <message>
         <source>Allows you to use a virtual keyboard in Myth line edit boxes.  To use, hit OK/Select while a line edit is in focus.</source>
@@ -9975,12 +9975,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2296"/>
         <source>Halt command</source>
-        <translation type="unfinished">Команда остановки</translation>
+        <translation>Команда остановки</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2327"/>
         <source>External application or script to run when a keypress is received by LIRC.</source>
-        <translation type="unfinished">Внешнее приложение или скрипт, вызываемый когда нажатие клавиши будет принято LIRC-ом.</translation>
+        <translation>Внешнее приложение или скрипт, вызываемый когда нажатие клавиши будет принято LIRC-ом.</translation>
     </message>
     <message>
         <source>Use Arrow Key Accelerators</source>
@@ -10009,7 +10009,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2383"/>
         <source>Run on the specified screen or spanning all screens.</source>
-        <translation type="unfinished">Использовать указанный экран или расширить на все экраны.</translation>
+        <translation>Использовать указанный экран или расширить на все экраны.</translation>
     </message>
     <message>
         <source>Monitor Aspect Ratio</source>
@@ -10019,18 +10019,18 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <location filename="../libs/libmythtv/videoouttypes.h" line="184"/>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2393"/>
         <source>4:3</source>
-        <translation type="unfinished">4:3</translation>
+        <translation>4:3</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videoouttypes.h" line="186"/>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2394"/>
         <source>16:9</source>
-        <translation type="unfinished">16:9</translation>
+        <translation>16:9</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2395"/>
         <source>16:10</source>
-        <translation type="unfinished">16:10</translation>
+        <translation>16:10</translation>
     </message>
     <message>
         <source>GUI width (px)</source>
@@ -10051,7 +10051,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2473"/>
         <source>GUI X offset</source>
-        <translation type="unfinished">Смещение окна оболочки по оси X</translation>
+        <translation>Смещение окна фронтэнда по оси X</translation>
     </message>
     <message>
         <source>The horizontal offset the GUI will be displayed at.  May only work if run in a window.</source>
@@ -10060,7 +10060,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2483"/>
         <source>GUI Y offset</source>
-        <translation type="unfinished">Смещение окна оболочки по оси Y</translation>
+        <translation>Смещение окна фронтэнда по оси Y</translation>
     </message>
     <message>
         <source>The vertical offset the GUI will be displayed at.</source>
@@ -10077,22 +10077,22 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2517"/>
         <source>Use GUI size for TV playback</source>
-        <translation type="unfinished">Использовать размеры окна оболочки для воспроизведения ТВ</translation>
+        <translation>Использовать размеры окна фронтэнда для воспроизведения ТВ</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2519"/>
         <source>If enabled, use the above size for TV, otherwise use full screen.</source>
-        <translation type="unfinished">Если разрешено, будет использован указанный размер при просмотре ТВ, иначе будет использован полноэкранный режим.</translation>
+        <translation>Если разрешено, будет использован указанный размер при просмотре ТВ, иначе будет использован полноэкранный режим.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2528"/>
         <source>Separate video modes for GUI and TV playback</source>
-        <translation type="unfinished">Отдельные видеорежимы для окна оболочки и воспроизведения ТВ</translation>
+        <translation>Отдельные видеорежимы для окна фронтэнда и воспроизведения ТВ</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2530"/>
         <source>Switch X Window video modes for TV. Requires &quot;xrandr&quot; support.</source>
-        <translation type="unfinished">Переключать видео режим X Window для ТВ. Требуется поддержка &quot;xrandr&quot;.</translation>
+        <translation>Переключать видео режим X Window для ТВ. Требуется поддержка &quot;xrandr&quot;.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2539"/>
@@ -10117,7 +10117,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2562"/>
         <source>GUI</source>
-        <translation type="unfinished">Окно оболочки</translation>
+        <translation type="unfinished">Окно фронтэнда</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2564"/>
@@ -10146,17 +10146,17 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2630"/>
         <source>Rate</source>
-        <translation type="unfinished">Частота</translation>
+        <translation>Частота</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2642"/>
         <source>Aspect ratio when watching a video.</source>
-        <translation type="unfinished">Соотношение сторон при просмотре видео.</translation>
+        <translation>Соотношение сторон при просмотре видео.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2649"/>
         <source>Aspect</source>
-        <translation type="unfinished">Соотношение</translation>
+        <translation>Соотношение</translation>
     </message>
     <message>
         <source>Leave at &quot;Default&quot; to use ratio reported by the monitor.  Set to 16:9 or 4:3 to force a specific aspect ratio.</source>
@@ -10165,12 +10165,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2669"/>
         <source>Video Mode Settings</source>
-        <translation type="unfinished">Настройки видео режимов</translation>
+        <translation>Настройки видео режимов</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2733"/>
         <source>Toggles between windowed and borderless operation.</source>
-        <translation type="unfinished">Переключает между оконным и безрамочным режимом.</translation>
+        <translation>Переключает между оконным и безрамочным режимом.</translation>
     </message>
     <message>
         <source>Use a random theme</source>
@@ -10183,12 +10183,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2754"/>
         <source>Date format</source>
-        <translation type="unfinished">Формат даты</translation>
+        <translation>Формат даты</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2787"/>
         <source>Your preferred date format.</source>
-        <translation type="unfinished">Предпочитаемый формат даты.</translation>
+        <translation>Предпочитаемый формат даты.</translation>
     </message>
     <message>
         <source>Short Date format</source>
@@ -10197,42 +10197,42 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2826"/>
         <source>Your preferred short date format.</source>
-        <translation type="unfinished">Предпочитаемый короткий формат даты.</translation>
+        <translation>Предпочитаемый короткий формат даты.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2834"/>
         <source>Time format</source>
-        <translation type="unfinished">Формат времени</translation>
+        <translation>Формат времени</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2856"/>
         <source>Direct3D</source>
-        <translation type="unfinished">Direct3D</translation>
+        <translation>Direct3D</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3007"/>
         <source>Colorize program guide using genre colors (not available for all grabbers).</source>
-        <translation type="unfinished">Раскрасить программу передач с использованием цвета для жанров (доступно не для всех грабберов).</translation>
+        <translation>Раскрасить программу передач с использованием цвета для жанров (доступно не для всех грабберов).</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3143"/>
         <source>Preferred input priority</source>
-        <translation type="unfinished">Предпочитаемый приоритет входов</translation>
+        <translation>Предпочитаемый приоритет входов</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3154"/>
         <source>HDTV recording priority</source>
-        <translation type="unfinished">Приоритет записи HDTV</translation>
+        <translation>Приоритет записи HDTV</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3164"/>
         <source>Widescreen recording priority</source>
-        <translation type="unfinished">Приоритет широкоэкранной записи</translation>
+        <translation>Приоритет широкоэкранной записи</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3174"/>
         <source>Automatic priority range (+/-)</source>
-        <translation type="unfinished">Диапазон автоматического приоритета (+/-)</translation>
+        <translation>Диапазон автоматического приоритета (+/-)</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3187"/>
@@ -10392,7 +10392,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3634"/>
         <source>Display time</source>
-        <translation type="unfinished">Показывать время</translation>
+        <translation>Показывать время</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3643"/>
@@ -10437,7 +10437,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3720"/>
         <source>Backlight always on</source>
-        <translation type="unfinished">Подсветка всегда включена</translation>
+        <translation>Подсветка всегда включена</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3730"/>
@@ -10447,23 +10447,23 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3739"/>
         <source>Display large clock</source>
-        <translation type="unfinished">Показывать большие часы</translation>
+        <translation>Показывать большие часы</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3748"/>
         <source>LCD key order</source>
-        <translation type="unfinished">Порядок клавиш LCD</translation>
+        <translation>Порядок клавиш LCD</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4233"/>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4241"/>
         <source>Mac OS X Video Settings</source>
-        <translation type="unfinished">Настройки видео для Mac OS X</translation>
+        <translation>Настройки видео для Mac OS X</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4259"/>
         <source>On-screen Display</source>
-        <translation type="unfinished">Экранное меню</translation>
+        <translation>Экранное меню</translation>
     </message>
     <message>
         <source>Closed Captions</source>
@@ -10472,17 +10472,17 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4296"/>
         <source>General (Auto-Expire)</source>
-        <translation type="unfinished">Основные (Автоустаревание)</translation>
+        <translation>Основные (Автоустаревание)</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4344"/>
         <source>Default Job Queue Settings for New Scheduled Recordings</source>
-        <translation type="unfinished">Настройки по умолчанию очереди заданий для новой запланированной записи</translation>
+        <translation>Настройки по умолчанию очереди заданий для новой запланированной записи</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4418"/>
         <source>Theme</source>
-        <translation type="unfinished">Тема</translation>
+        <translation>Тема</translation>
     </message>
     <message>
         <source>Qt Style</source>
@@ -10534,7 +10534,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="382"/>
         <source>Select the maximum number of audio channels supported by your receiver and speakers.</source>
-        <translation type="unfinished">Выберите максимальное число каналов аудио поддерживаемых ресивером и АС.</translation>
+        <translation>Выберите максимальное число каналов аудио поддерживаемых ресивером и АС.</translation>
     </message>
     <message>
         <source>Set the audio surround-upconversion quality. &apos;Fastest&apos; is the least demanding on the CPU at the expense of quality.</source>
@@ -10543,22 +10543,22 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="441"/>
         <source>Advanced audio configuration</source>
-        <translation type="unfinished">Расширенная настройка аудио</translation>
+        <translation>Расширенная настройка аудио</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="460"/>
         <source>Sample rate conversion</source>
-        <translation type="unfinished">Передискретизация</translation>
+        <translation>Передискретизация</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="475"/>
         <source>Force audio device output to 48kHz</source>
-        <translation type="unfinished">Принудительный оверсемплинг до 48 кГц</translation>
+        <translation>Принудительный оверсемплинг до 48 кГц</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="477"/>
         <source>Force audio sample rate to 48kHz. Some audio devices will report various rates, but they ultimately crash.</source>
-        <translation type="unfinished">Принудительный оверсемплинг до 48 кГц. Некоторые аудио устройства будут сообщать различные частоты, но они в итоге вызовут сбой.</translation>
+        <translation>Принудительный оверсемплинг до 48 кГц. Некоторые аудио устройства будут сообщать различные частоты, но они в итоге вызовут сбой.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="529"/>
@@ -10588,7 +10588,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="592"/>
         <source>Initial volume for PCM output. Using the volume keys in MythTV will adjust this parameter.</source>
-        <translation type="unfinished">Начальный уровень для PCM выхода. Используя кнопки громкости MythTV Вы сможете изменить этот уровень.</translation>
+        <translation>Начальный уровень для PCM выхода. Используя кнопки громкости MythTV Вы сможете изменить этот уровень.</translation>
     </message>
     <message>
         <source>Dolby digital</source>
@@ -10597,92 +10597,92 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="602"/>
         <source>Enable this setting if MythTV is playing &quot;crackly&quot; audio. This setting affects digital tuners (QAM/DVB/ATSC) and hardware encoders. It will have no effect on framegrabbers (MPEG-4/RTJPEG). MythTV will keep extra audio data in its internal buffers to workaround this bug.</source>
-        <translation type="unfinished">Включите эту настройку если MythTV воспроизводит звук с &quot;хрустом&quot;.  Эта настройка влияет на цифровые тюнеры (QAM/DVB/ATSC) и аппаратные кодеры и не влияет на механизмы захвата кадра (MPEG-4/RTJPEG). MythTV будет сохранять дополнительные звуковые данные во внутреннем буфере, чтобы обойти этот баг.</translation>
+        <translation>Включите эту настройку если MythTV воспроизводит звук с &quot;хрустом&quot;.  Эта настройка влияет на цифровые тюнеры (QAM/DVB/ATSC) и аппаратные кодеры и не влияет на механизмы захвата кадра (MPEG-4/RTJPEG). MythTV будет сохранять дополнительные звуковые данные во внутреннем буфере, чтобы обойти этот баг.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="614"/>
         <source>PIP video location</source>
-        <translation type="unfinished">Расположение PIP</translation>
+        <translation>Расположение PIP</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="707"/>
         <source>Smart fast forwarding</source>
-        <translation type="unfinished">Умная ускоренная перемотка вперед</translation>
+        <translation>Умная ускоренная перемотка вперед</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="728"/>
         <source>Commercial detection method</source>
-        <translation type="unfinished">Метод определения рекламы</translation>
+        <translation>Метод определения рекламы</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="753"/>
         <source>Automatically skip commercials</source>
-        <translation type="unfinished">Автоматически пропускать рекламу</translation>
+        <translation>Автоматически пропускать рекламу</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="757"/>
         <source>Automatically skip commercial breaks that have been flagged during automatic commercial detection or by the mythcommflag program, or just notify that a commercial has been detected.</source>
-        <translation type="unfinished">Автоматически пропускать рекламные паузы, которые были помечены во время автоматического определения рекламы и программой mythcommflag или только оповещать, что была определена реклама.</translation>
+        <translation>Автоматически пропускать рекламные паузы, которые были помечены во время автоматического определения рекламы и программой mythcommflag или только оповещать, что была определена реклама.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="769"/>
         <source>This is the default value used for the automatic commercial detection setting when a new scheduled recording is created.</source>
-        <translation type="unfinished">Это значение по умолчанию используется для установки автоматического определения рекламы когда создается новое расписание записи.</translation>
+        <translation>Это значение по умолчанию используется для установки автоматического определения рекламы когда создается новое расписание записи.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="780"/>
         <source>This is the default value used for the automatic-transcode setting when a new scheduled recording is created.</source>
-        <translation type="unfinished">Это значение по умолчанию используется для установки автоматической перекодировки когда создается новое расписание записи.</translation>
+        <translation>Это значение по умолчанию используется для установки автоматической перекодировки когда создается новое расписание записи.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="789"/>
         <source>Default transcoder</source>
-        <translation type="unfinished">Перекодировщик по умолчанию</translation>
+        <translation>Перекодировщик по умолчанию</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="801"/>
         <source>Deferral days for auto transcode jobs</source>
-        <translation type="unfinished">Отсрочка в днях для заданий автоматической перекодировки</translation>
+        <translation>Отсрочка в днях для заданий автоматической перекодировки</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="802"/>
         <source>If non-zero, automatic transcode jobs will be scheduled to run this many days after a recording completes instead of immediately afterwards.</source>
-        <translation type="unfinished">Если не ноль, задания автоматической перекодировки будут запланированы для запуска через это число дней после окончания записи, вместо немедленной перекодировки.</translation>
+        <translation>Если не ноль, задания автоматической перекодировки будут запланированы для запуска через это число дней после окончания записи, вместо немедленной перекодировки.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="812"/>
         <source>Run user job #%1</source>
-        <translation type="unfinished">Запустить задание №%1</translation>
+        <translation>Запустить задание №%1</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="828"/>
         <source>Strict commercial detection</source>
-        <translation type="unfinished">Строгое обнаружение рекламы</translation>
+        <translation>Строгое обнаружение рекламы</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="830"/>
         <source>Enable stricter commercial detection code. Disable if some commercials are not being detected.</source>
-        <translation type="unfinished">Разрешить строгое обнаружение рекламы. Запретите, если некоторая реклама не обнаруживается.</translation>
+        <translation>Разрешить строгое обнаружение рекламы. Запретите, если некоторая реклама не обнаруживается.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="873"/>
         <source>MythTV will discourage long manual commercial skips. Skips which are longer than this will require the user to hit the SKIP key twice. Automatic commercial skipping is not affected by this limit.</source>
-        <translation type="unfinished">MythTV будет препятствовать длинному ручному пропуску рекламы. Пропуски длиннее чем это значение будут требовать двойного нажатия кнопки ПРОПУСК. Это не распространяется на автоматические пропуски рекламы.</translation>
+        <translation>MythTV будет препятствовать длинному ручному пропуску рекламы. Пропуски длиннее чем это значение будут требовать двойного нажатия кнопки ПРОПУСК. Это не распространяется на автоматические пропуски рекламы.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="897"/>
         <source>Extra disk space (in gigabytes) beyond what MythTV requires that you want to keep free on the recording file systems.</source>
-        <translation type="unfinished">Дополнительное дисковое пространство (в Гигабайтах), которое вы хотите сохранять свободным на файловой системе предназначенной для записи, сверх того, что требует MythTV.</translation>
+        <translation>Дополнительное дисковое пространство (в Гигабайтах), которое вы хотите сохранять свободным на файловой системе предназначенной для записи, сверх того, что требует MythTV.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="907"/>
         <source>Auto-Expire instead of delete recording</source>
-        <translation type="unfinished">Автоустаревание вместо удаления записей</translation>
+        <translation>Автоустаревание вместо удаления записей</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="919"/>
         <source>When set to a number greater than zero, Auto-Expire will force expiration of Deleted recordings when they are this many days old.</source>
-        <translation type="unfinished">Если установлено значение больше нуля, автоустаревание заставит устарить удаленные записи по истечении этого числа дней.</translation>
+        <translation>Если установлено значение больше нуля, автоустаревание заставит устареть удаленные записи по истечении этого числа дней.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="962"/>
@@ -10712,12 +10712,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="976"/>
         <source>Watched before unwatched</source>
-        <translation type="unfinished">Просмотренные перед непросмотренными</translation>
+        <translation>Просмотренные перед непросмотренными</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="987"/>
         <source>Priority weight</source>
-        <translation type="unfinished">Вес приоритета</translation>
+        <translation>Вес приоритета</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="988"/>
@@ -10742,17 +10742,17 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1204"/>
         <source>Example custom filter list: &apos;ivtc,denoise3d&apos;</source>
-        <translation type="unfinished">Пример пользовательского фильтра: &apos;ivtc,denoise3d&apos;</translation>
+        <translation>Пример пользовательского фильтра: &apos;ivtc,denoise3d&apos;</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1836"/>
         <source>Sort episodes</source>
-        <translation type="unfinished">Сортировать эпизоды</translation>
+        <translation>Сортировать эпизоды</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1838"/>
         <source>Original air date</source>
-        <translation type="unfinished">По дате приема</translation>
+        <translation>По дате приема</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1862"/>
@@ -10762,12 +10762,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1909"/>
         <source>PAL teletext</source>
-        <translation type="unfinished">Телетекст PAL</translation>
+        <translation>Телетекст PAL</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1910"/>
         <source>NTSC closed caption</source>
-        <translation type="unfinished">Субтитры NTSC</translation>
+        <translation>Субтитры NTSC</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1921"/>
@@ -10792,17 +10792,17 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2050"/>
         <source>Enable interactive TV</source>
-        <translation type="unfinished">Разрешить Интерактивное ТВ</translation>
+        <translation>Разрешить Интерактивное ТВ</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2052"/>
         <source>If enabled, interactive TV applications (MHEG) will be activated. This is used for teletext and logos for radio and channels that are currently off-air.</source>
-        <translation type="unfinished">Если разрешено, интерактивные приложения для ТВ (MHEG) будут доступны. Это используется для телетекста и логотипов для радио и каналов, которые в настоящее время не передаются.</translation>
+        <translation>Если разрешено, интерактивные приложения для ТВ (MHEG) будут доступны. Это используется для телетекста и логотипов для радио и каналов, которые в настоящее время не передаются.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2062"/>
         <source>Always use browse mode in Live TV</source>
-        <translation type="unfinished">Всегда испльзовать режим просмотра при просмотре ТВ</translation>
+        <translation>Всегда использовать режим просмотра при просмотре ТВ</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2065"/>
@@ -10865,12 +10865,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2210"/>
         <source>Exit Live TV automatically if left idle for the specified number of minutes. 0 disables the timeout.</source>
-        <translation type="unfinished">Автоматический выход из режима просмотра ТВ, при бездействии в течение указанного количества минут. 0 отключает тайм-аут.</translation>
+        <translation>Автоматический выход из режима просмотра ТВ, при бездействии в течение указанного количества минут. 0 отключает тайм-аут.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2273"/>
         <source>Confirm exit</source>
-        <translation type="unfinished">Подтверждать выход</translation>
+        <translation>Подтверждать выход</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2275"/>
@@ -10880,7 +10880,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2308"/>
         <source>LIRC daemon socket</source>
-        <translation type="unfinished">Сокет демона LIRC</translation>
+        <translation>Сокет демона LIRC</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2325"/>
@@ -10890,12 +10890,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2335"/>
         <source>Screen shot path</source>
-        <translation type="unfinished">Путь к скриншотам</translation>
+        <translation>Путь к скриншотам</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2344"/>
         <source>Use arrow key accelerators</source>
-        <translation type="unfinished">Использовать быстрые стрелки</translation>
+        <translation>Использовать быстрые стрелки</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2346"/>
@@ -10905,12 +10905,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2355"/>
         <source>Setup PIN code</source>
-        <translation type="unfinished">PIN код для настроек</translation>
+        <translation>PIN код для настроек</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2356"/>
         <source>This PIN is used to control access to the setup menus. If you want to use this feature, then setting the value to all numbers will make your life much easier. Set it to blank to disable.</source>
-        <translation type="unfinished">Этот PIN код используется для доступа к меню настроек. Если вы используете эту возможность, установите это значение только в цифры для облегчения себе жизни. Оставьте его пустым для запрещения.</translation>
+        <translation>Этот PIN код используется для доступа к меню настроек. Если вы используете эту возможность, установите это значение только в цифры для облегчения себе жизни. Оставьте его пустым для запрещения.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2366"/>
@@ -10940,52 +10940,52 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2451"/>
         <source>GUI width (pixels)</source>
-        <translation type="unfinished">Ширина окна оболочки (пикс.)</translation>
+        <translation>Ширина окна оболочки (пикс.)</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2453"/>
         <source>The width of the GUI. Do not make the GUI wider than your actual screen resolution. Set to 0 to automatically scale to fullscreen.</source>
-        <translation type="unfinished">Ширина окна оболочки. Не делайте оболочку шире, чем реальная ширина экрана. Установите в 0 для автоматической установки ширины в полный экран.</translation>
+        <translation>Ширина окна оболочки. Не делайте оболочку шире, чем реальная ширина экрана. Установите в 0 для автоматической установки ширины в полный экран.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2462"/>
         <source>GUI height (pixels)</source>
-        <translation type="unfinished">Высота окна оболочки (пикс.)</translation>
+        <translation>Высота окна оболочки (пикс.)</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2464"/>
         <source>The height of the GUI. Do not make the GUI taller than your actual screen resolution. Set to 0 to automatically scale to fullscreen.</source>
-        <translation type="unfinished">Высота окна оболочки. Не делайте оболочку выше, чем реальная высота экрана. Установите в 0 для автоматической установки высоты в полный экран.</translation>
+        <translation>Высота окна оболочки. Не делайте оболочку выше, чем реальная высота экрана. Установите в 0 для автоматической установки высоты в полный экран.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2475"/>
         <source>The horizontal offset where the GUI will be displayed. May only work if run in a window.</source>
-        <translation type="unfinished">Горизонтальное смещение окна оболочки. Работает только если запущено в окне.</translation>
+        <translation>Горизонтальное смещение окна оболочки. Работает только если запущено в окне.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2485"/>
         <source>The vertical offset where the GUI will be displayed.</source>
-        <translation type="unfinished">Вертикальное смещение окна оболочки.</translation>
+        <translation>Вертикальное смещение окна оболочки.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2494"/>
         <source>Display size - width</source>
-        <translation type="unfinished">Размер экрана - ширина</translation>
+        <translation>Размер экрана - ширина</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2505"/>
         <source>Display size - height</source>
-        <translation type="unfinished">Размер экрана - высота</translation>
+        <translation>Размер экрана - высота</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2602"/>
         <source>Video output</source>
-        <translation type="unfinished">Видео выход</translation>
+        <translation>Видео выход</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2654"/>
         <source>Leave at &quot;Default&quot; to use ratio reported by the monitor. Set to 16:9 or 4:3 to force a specific aspect ratio.</source>
-        <translation type="unfinished">Оставьте &quot;По умолчанию&quot; для использования соотношения задаваемого монитором. Установите 16:9 или 4:3 чтобы задать конкретное соотношение сторон экрана.</translation>
+        <translation>Оставьте &quot;По умолчанию&quot; для использования соотношения задаваемого монитором. Установите 16:9 или 4:3 чтобы задать конкретное соотношение сторон экрана.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2718"/>
@@ -10995,7 +10995,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2744"/>
         <source>If disabled, the video playback window can be resized</source>
-        <translation type="unfinished">Если выключено, допускается изменение размеров окна видео</translation>
+        <translation>Если выключено, допускается изменение размеров окна видео</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2795"/>
@@ -11005,17 +11005,17 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2845"/>
         <source>Your preferred time format. You must choose a format with &quot;AM&quot; or &quot;PM&quot; in it, otherwise your time display will be 24-hour or &quot;military&quot; time.</source>
-        <translation type="unfinished">Ваш предпочитаемый формат времени. Должны выбрать формат с &quot;AM&quot; или &quot;PM&quot; иначе Ваш формат даты будет 24-часовым или &quot;военным&quot;.</translation>
+        <translation>Ваш предпочитаемый формат времени. Должны выбрать формат с &quot;AM&quot; или &quot;PM&quot; иначе Ваш формат даты будет 24-часовым или &quot;военным&quot;.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2854"/>
         <source>Paint engine</source>
-        <translation type="unfinished">Система отрисовки</translation>
+        <translation>Система отрисовки</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2862"/>
         <source>This selects what MythTV uses to draw. If you have decent hardware, select OpenGL.</source>
-        <translation type="unfinished">Задает что будет использоваться MythTV для отрисовки. Если у вас есть подходящее железо, выберите OpenGL.</translation>
+        <translation>Задает что будет использоваться MythTV для отрисовки. Если у вас есть подходящее железо, выберите OpenGL.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2875"/>
@@ -11026,17 +11026,17 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2959"/>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2973"/>
         <source>name</source>
-        <translation type="unfinished">имя</translation>
+        <translation>имя</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2960"/>
         <source>Your preferred channel format.</source>
-        <translation type="unfinished">Ваш предпочитаемый формат названия канала.</translation>
+        <translation>Ваш предпочитаемый формат названия канала.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4427"/>
         <source>Screen Settings</source>
-        <translation type="unfinished">Настройки экрана</translation>
+        <translation>Настройки экрана</translation>
     </message>
     <message>
         <source>Long Channel format</source>
@@ -11045,7 +11045,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2974"/>
         <source>Your preferred long channel format.</source>
-        <translation type="unfinished">Ваш предпочитаемый длинный формат названия канала.</translation>
+        <translation>Ваш предпочитаемый длинный формат названия канала.</translation>
     </message>
     <message>
         <source>HD Ringbuffer size (KB)</source>
@@ -11166,7 +11166,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3300"/>
         <source>Find One, Find Weekly and Find Daily recording types will receive this additional recording priority value.</source>
-        <translation type="unfinished">Типы записи Найти однократно, Найти ежедневно и Найти еженедельно получат это дополнительное значение приоритета.</translation>
+        <translation>Типы записи Найти однократно, Найти ежедневно и Найти еженедельно получат это дополнительное значение приоритета.</translation>
     </message>
     <message>
         <source>Override Recordings Priority</source>
@@ -11179,7 +11179,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3321"/>
         <source>Guide starts at channel</source>
-        <translation type="unfinished">Программа показывает канал</translation>
+        <translation>Программа показывает канал</translation>
     </message>
     <message>
         <source>The program guide starts on this channel if it is run from outside of LiveTV mode.</source>
@@ -11239,12 +11239,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3456"/>
         <source>Enable realtime priority threads</source>
-        <translation type="unfinished">Разрешить потоки приоритета реального времени</translation>
+        <translation>Разрешить потоки приоритета реального времени</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3457"/>
         <source>When running mythfrontend with root privileges, some threads can be given enhanced priority. Disable this if mythfrontend freezes during video playback.</source>
-        <translation type="unfinished">Когда оболочка запускается с привилегиями суперпользователя некоторые потоки могут получить дополнительный приоритет. Запретите это если оболочка замирает во время просмотра.</translation>
+        <translation>Когда оболочка запускается с привилегиями суперпользователя некоторые потоки могут получить дополнительный приоритет. Запретите это если оболочка замирает во время просмотра.</translation>
     </message>
     <message>
         <source>Xbox Linux Distribution</source>
@@ -11331,7 +11331,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3621"/>
         <source>Enable OpenGL vertical sync for timing</source>
-        <translation type="unfinished">Разрешить верт. синхр. OpenGL для видео</translation>
+        <translation>Разрешить верт. синхр. OpenGL для видео</translation>
     </message>
     <message>
         <source>If it is supported by your hardware/drivers, MythTV will use OpenGL vertical syncing for video timing, reducing frame jitter.</source>
@@ -11340,12 +11340,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="733"/>
         <source>Log MythTV events to database</source>
-        <translation type="unfinished">Сохранять события MythTV в БД</translation>
+        <translation>Сохранять события MythTV в БД</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="735"/>
         <source>If enabled, MythTV modules will send event details to the database, where they can be viewed with MythLog or periodically emailed to the administrator.</source>
-        <translation type="unfinished">Если разрешено, модули MythTV будут отсылать детали событий в БД, где они могут просматриваться через MythLog или периодически отсылаться администратору.</translation>
+        <translation>Если разрешено, модули MythTV будут отсылать детали событий в БД, где они могут просматриваться через MythLog или периодически отсылаться администратору.</translation>
     </message>
     <message>
         <source>Maximum Number of Entries per Module</source>
@@ -11370,27 +11370,27 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="768"/>
         <source>The number of days between log cleanup runs.</source>
-        <translation type="unfinished">Количество дней между запусками очистками журнала.</translation>
+        <translation>Количество дней между очистками журнала.</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="775"/>
         <source>Number of days to keep acknowledged log entries</source>
-        <translation type="unfinished">Количество дней хранения подтвержденных событий</translation>
+        <translation>Количество дней хранения подтвержденных событий</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="778"/>
         <source>The number of days before a log entry that has been acknowledged will be deleted by the log cleanup process.</source>
-        <translation type="unfinished">Количество дней после которых подтвержденные события будут удалены процессом очистки журнала.</translation>
+        <translation>Количество дней после которых подтвержденные события будут удалены процессом очистки журнала.</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="787"/>
         <source>Number of days to keep unacknowledged log entries</source>
-        <translation type="unfinished">Количество дней хранения неподтвержденных событий</translation>
+        <translation>Количество дней хранения неподтвержденных событий</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="790"/>
         <source>The number of days before a log entry that has NOT been acknowledged will be deleted by the log cleanup process.</source>
-        <translation type="unfinished">Количество дней после которых НЕподтвержденные события будут удалены процессом очистки журнала.</translation>
+        <translation>Количество дней после которых НЕподтвержденные события будут удалены процессом очистки журнала.</translation>
     </message>
     <message>
         <source>Log Print Threshold</source>
@@ -11439,12 +11439,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="810"/>
         <source>This controls what messages will be printed out as well as being logged to the database.</source>
-        <translation type="unfinished">Это контролирует какие события будут напечатаны также как и записаны в БД.</translation>
+        <translation>Это контролирует какие события будут напечатаны также как и записаны в БД.</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="818"/>
         <source>Automatically run mythfilldatabase</source>
-        <translation type="unfinished">Автоматически запускать mythfilldatabase</translation>
+        <translation>Автоматически запускать mythfilldatabase</translation>
     </message>
     <message>
         <source>This enables the automatic execution of mythfilldatabase.</source>
@@ -11457,7 +11457,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="830"/>
         <source>The number of days between mythfilldatabase runs.</source>
-        <translation type="unfinished">Количество дней между запусками mythfilldatabase.</translation>
+        <translation>Количество дней между запусками mythfilldatabase.</translation>
     </message>
     <message>
         <source>mythfilldatabase Execution Start</source>
@@ -11486,7 +11486,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="879"/>
         <source>Use &apos;mythfilldatabase&apos; or the name of a custom script that will populate the program guide info for all your video sources.</source>
-        <translation type="unfinished">Используйте mythfilldatabase или имя другого скрипта, который заполняет программу передач для всех ваших источников видео.</translation>
+        <translation>Используйте mythfilldatabase или имя другого скрипта, который заполняет программу передач для всех ваших источников видео.</translation>
     </message>
     <message>
         <source>mythfilldatabase Arguments</source>
@@ -11529,7 +11529,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3644"/>
         <source>Display current recordings information on LCD display.</source>
-        <translation type="unfinished">Показывать текущее состояние записи на LCD дисплее.</translation>
+        <translation>Показывать текущее состояние записи на LCD дисплее.</translation>
     </message>
     <message>
         <source>Display Menus</source>
@@ -11538,7 +11538,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3654"/>
         <source>Display selected menu on LCD display. </source>
-        <translation type="unfinished">Показывать выбранное меню на LCD дисплее.</translation>
+        <translation>Показывать выбранное меню на LCD дисплее.</translation>
     </message>
     <message>
         <source>Menu Pop-up Time</source>
@@ -11555,7 +11555,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3673"/>
         <source>Display playing artist and song title in MythMusic on LCD display.</source>
-        <translation type="unfinished">Показывать исполнителя и заголовок песни проигрываемой в MythMusic на LCD дисплее.</translation>
+        <translation>Показывать исполнителя и заголовок песни проигрываемой в MythMusic на LCD дисплее.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3682"/>
@@ -11565,12 +11565,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3683"/>
         <source>Artist - Title</source>
-        <translation type="unfinished">Исполнитель - Заголовок</translation>
+        <translation>Исполнитель - Заголовок</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3684"/>
         <source>Artist [Album] Title</source>
-        <translation type="unfinished">Исполнитель [Альбом] Заголовок</translation>
+        <translation>Исполнитель [Альбом] Заголовок</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3685"/>
@@ -11630,17 +11630,17 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3762"/>
         <source>Use an LCD display to view MythTV status information.</source>
-        <translation type="unfinished">Разрешить использовать LCD для отображения информации о состоянии MythTV.</translation>
+        <translation>Разрешить использовать LCD для отображения информации о состоянии MythTV.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3774"/>
         <source>LCD device display</source>
-        <translation type="unfinished">LCD устройство</translation>
+        <translation>LCD устройство</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3819"/>
         <source>Enable gamma correction for video</source>
-        <translation type="unfinished">Разрешить гамма коррекцию для видео</translation>
+        <translation>Разрешить гамма коррекцию для видео</translation>
     </message>
     <message>
         <source>If checked, QuickTime will correct the gamma of the video to match your monitor.  Turning this off can save some CPU cycles.</source>
@@ -11649,7 +11649,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3830"/>
         <source>Scale video as necessary</source>
-        <translation type="unfinished">Масштабировать видео при необходимости</translation>
+        <translation>Масштабировать видео при необходимости</translation>
     </message>
     <message>
         <source>If checked, video will be scaled to fit your window or screen. If unchecked, video will never be made larger than its actual pixel size.</source>
@@ -11658,18 +11658,18 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3841"/>
         <source>Frames to skip in fullscreen mode</source>
-        <translation type="unfinished">Количество фреймов для пропуска в полном экране</translation>
+        <translation>Количество кадров для пропуска в полноэкранном режиме</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3843"/>
         <source>Video displayed in fullscreen or non-windowed mode will skip this many frames for each frame drawn. Set to 0 to show every frame. Only valid when either &quot;Use GUI size for TV playback&quot; or &quot;Run the frontend in a window&quot; is not checked.</source>
-        <translation type="unfinished">Видео отображаемое в полноэкранном или неоконном режиме будет пропускать это количество фреймов при каждой отрисовке фрейма. Установите в 0, чтобы видеть каждый фрейм. Действительно только если &quot;Использовать размеры окна оболочки для воспроизведения ТВ&quot; или &quot;Запускать оболочку в окне&quot; не выбраны.</translation>
+        <translation type="unfinished">Видео отображаемое в полноэкранном или неоконном режиме будет пропускать это количество кадров при каждой отрисовке кадра. Установите в 0, чтобы видеть каждый кадр. Действительно только если &quot;Использовать размеры окна оболочки для воспроизведения ТВ&quot; или &quot;Запускать оболочку в окне&quot; не выбраны.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3854"/>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3891"/>
         <source>Video in main window</source>
-        <translation type="unfinished">Видео в главном окне</translation>
+        <translation>Видео в главном окне</translation>
     </message>
     <message>
         <source>If checked, video will be displayed in the main GUI window. Disable this when you only want video on the desktop or in a floating window. Only valid when &quot;Use GUI size for TV playback&quot; and &quot;Run the frontend in a window&quot; are checked.</source>
@@ -11681,12 +11681,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3977"/>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4017"/>
         <source>Frames to skip</source>
-        <translation type="unfinished">Количество фреймов для пропуска</translation>
+        <translation>Количество кадров для пропуска</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3869"/>
         <source>Video in the main window will skip this many frames for each frame drawn. Set to 0 to show every frame.</source>
-        <translation type="unfinished">Видео отображаемое в главном окне будет пропускать это количество фреймов при каждой отрисовке фрейма. Установите в 0, чтобы видеть каждый фрейм.</translation>
+        <translation type="unfinished">Видео отображаемое в главном окне будет пропускать это количество кадров при каждой отрисовке кадра. Установите в 0, чтобы видеть каждый кадр.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3878"/>
@@ -11703,7 +11703,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3910"/>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3946"/>
         <source>Video in floating window</source>
-        <translation type="unfinished">Видео в плавающем окне</translation>
+        <translation>Видео в плавающем окне</translation>
     </message>
     <message>
         <source>If checked, video will be displayed in a floating window. Only valid when &quot;Use GUI size for TV playback&quot; and &quot;Run the frontend in a window&quot; are checked.</source>
@@ -11712,7 +11712,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3924"/>
         <source>Video in the floating window will skip this many frames for each frame drawn. Set to 0 to show every frame.</source>
-        <translation type="unfinished">Видео отображаемое в плавающем окне будет пропускать это количество фреймов при каждой отрисовке фрейма. Установите в 0, чтобы видеть каждый фрейм.</translation>
+        <translation type="unfinished">Видео отображаемое в плавающем окне будет пропускать это количество кадров при каждой отрисовке кадра. Установите в 0, чтобы видеть каждый кадр.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3935"/>
@@ -11738,7 +11738,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4005"/>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4030"/>
         <source>Video on the desktop</source>
-        <translation type="unfinished">Видео на рабочем столе</translation>
+        <translation>Видео на рабочем столе</translation>
     </message>
     <message>
         <source>If checked, video will be displayed on the desktop, behind the Finder icons. Only valid when &quot;Use GUI size for TV playback&quot; and &quot;Run the frontend in a window&quot; are checked.</source>
@@ -11762,23 +11762,23 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4070"/>
         <source>General</source>
-        <translation type="unfinished">Общее</translation>
+        <translation>Общее</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4185"/>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4205"/>
         <source>View Recordings</source>
-        <translation type="unfinished">Просмотреть записи</translation>
+        <translation>Просмотреть записи</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4212"/>
         <source>Seeking</source>
-        <translation type="unfinished">Поиск</translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4221"/>
         <source>Commercial Skip</source>
-        <translation type="unfinished">Пропуск рекламы</translation>
+        <translation>Пропуск рекламы</translation>
     </message>
     <message>
         <source>On-screen display</source>
@@ -11860,7 +11860,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="461"/>
         <source>Disabled</source>
-        <translation type="unfinished">Выключено</translation>
+        <translation>Выключено</translation>
     </message>
     <message>
         <source>Set the quality of audio sample rate conversion. &quot;Good&quot; (default) provides the best compromise between CPU usage and quality. &quot;Disabled&quot; let the audio card handle sample rate conversion. This only affects non 48kHz PCM audio.</source>
@@ -11869,17 +11869,17 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="486"/>
         <source>Separate digital output device</source>
-        <translation type="unfinished">Разделить устройство цифрого выхода</translation>
+        <translation>Разделить устройство цифрого выхода</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="488"/>
         <source>Use a distinct digital output device from default.</source>
-        <translation type="unfinished">Использование разных цифровых устройств вывода по умолчанию.</translation>
+        <translation>Использование разных цифровых устройств вывода по умолчанию.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="497"/>
         <source>Digital output device</source>
-        <translation type="unfinished">Устройство цифрового вывода</translation>
+        <translation>Устройство цифрового вывода</translation>
     </message>
     <message>
         <source>Audio output device to use for digital audio. This value is currently only used with ALSA and DirectX sound output.</source>
@@ -11892,7 +11892,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="550"/>
         <source>Setting the mixer device to &quot;software&quot; lets MythTV control the volume of all audio at the expense of a slight quality loss.</source>
-        <translation type="unfinished">Установка устройства миксера в &quot;software&quot; позволяет MythTV контролировать громкость всего аудио за счет небольшой потери качества.</translation>
+        <translation>Установка устройства миксера в &quot;software&quot; позволяет MythTV контролировать громкость всего аудио за счет небольшой потери качества.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="412"/>
@@ -11902,7 +11902,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="414"/>
         <source>Enable if your amplifier or sound decoder supports AC3/Dolby Digital. You must use a digital connection. Uncheck if using an analog connection.</source>
-        <translation type="unfinished">Включите, если ваш усилитель или декодер поддерживает AC3/Dolby Digital. Необходимо цифровое подключение. Выключите, если используется аналоговое подключение.</translation>
+        <translation>Включите, если ваш усилитель или декодер поддерживает AC3/Dolby Digital. Необходимо цифровое подключение. Выключите, если используется аналоговое подключение.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="423"/>
@@ -11912,7 +11912,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="425"/>
         <source>Enable if your amplifier or sound decoder supports DTS. You must use a digital connection. Uncheck if using an analog connection</source>
-        <translation type="unfinished">Включите если ваш усилитель или декодер поддерживает DTS. Необходимо цифровое подключение. Выключите, если используется аналоговое подключение</translation>
+        <translation>Включите если ваш усилитель или декодер поддерживает DTS. Необходимо цифровое подключение. Выключите, если используется аналоговое подключение</translation>
     </message>
     <message>
         <source>PCM/Analog</source>
@@ -11991,7 +11991,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="929"/>
         <source>Expire in deleted order</source>
-        <translation type="unfinished">Устаревание в порядке удаления</translation>
+        <translation>Устаревание в порядке удаления</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="943"/>
@@ -12060,76 +12060,76 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1524"/>
         <source>Add New Entry</source>
-        <translation type="unfinished">Добавить новую запись</translation>
+        <translation>Добавить новую запись</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1672"/>
         <source>Playback Profiles</source>
-        <translation type="unfinished">Профили воспроизведения</translation>
+        <translation>Профили воспроизведения</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1708"/>
         <source>Current Video Playback Profile</source>
-        <translation type="unfinished">Текущий профиль воспроизведения</translation>
+        <translation>Текущий профиль воспроизведения</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1718"/>
         <source>Add New</source>
-        <translation type="unfinished">Добавить новый</translation>
+        <translation>Добавить новый</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1755"/>
         <source>Enter Playback Group Name</source>
-        <translation type="unfinished">Введите имя группы воспроизведения</translation>
+        <translation>Введите имя группы воспроизведения</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1766"/>
         <source>Sorry, playback group
 name can not be blank.</source>
-        <translation type="unfinished">Извините, имя группы воспроизведения
+        <translation>Извините, имя группы воспроизведения
 не может быть пустым.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1768"/>
         <source>Sorry, playback group name
 &apos;%1&apos; is already being used.</source>
-        <translation type="unfinished">Извините, имя группы воспроизведения
+        <translation>Извините, имя группы воспроизведения
 &apos;%1&apos; уже используется.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1773"/>
         <source>Error</source>
-        <translation type="unfinished">Ошибка</translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1810"/>
         <source>Sort all sub-titles/multi-titles Ascending</source>
-        <translation type="unfinished">Сортировать все подзаголовки/мульти-заголовки по возрастанию</translation>
+        <translation>Сортировать все подзаголовки/мульти-заголовки по возрастанию</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1811"/>
         <source>Sort all sub-titles/multi-titles Descending</source>
-        <translation type="unfinished">Сортировать все подзаголовки/мульти-заголовки по убыванию</translation>
+        <translation>Сортировать все подзаголовки/мульти-заголовки по убыванию</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1812"/>
         <source>Sort sub-titles Descending, multi-titles Ascending</source>
-        <translation type="unfinished">Сортировать все подзаголовки по убыванию, мульти-заголовки по возрастанию</translation>
+        <translation>Сортировать все подзаголовки по убыванию, мульти-заголовки по возрастанию</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1813"/>
         <source>Sort sub-titles Ascending, multi-titles Descending</source>
-        <translation type="unfinished">Сортировать все подзаголовки по возрастанию, мульти-заголовки по убыванию</translation>
+        <translation>Сортировать все подзаголовки по возрастанию, мульти-заголовки по убыванию</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1815"/>
         <source>Selects how to sort show episodes. Sub-titles refers to the episodes listed under a specific show title. Multi-title refers to sections (e.g. &quot;All Programs&quot;) which list multiple titles. Sections in parentheses are not affected.</source>
-        <translation type="unfinished">Определяет как будут сортироваться эпизоды. Подзаголовки относятся к эпизодам перечисленным под определенным заголовком. Мульти-заголовки относятся к разделам (например &quot;Все программы), которые содержат список из нескольких заголовков. Разделы в круглых скобках не оказывают влияния.</translation>
+        <translation>Определяет как будут сортироваться эпизоды. Подзаголовки относятся к эпизодам перечисленным под определенным заголовком. Мульти-заголовки относятся к разделам (например &quot;Все программы), которые содержат список из нескольких заголовков. Разделы в круглых скобках не оказывают влияния.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1822"/>
         <source>Episode sort orderings</source>
-        <translation type="unfinished">Порядок сортировки серий</translation>
+        <translation>Порядок сортировки серий</translation>
     </message>
     <message>
         <source>Length of time an on-screen display window will be visible.</source>
@@ -12150,7 +12150,7 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1907"/>
         <source>Decode VBI format</source>
-        <translation type="unfinished">Декодировать формат VBI</translation>
+        <translation>Декодировать формат VBI</translation>
     </message>
     <message>
         <source>PAL Teletext</source>
@@ -12179,7 +12179,7 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1949"/>
         <source>Subtitle Codec</source>
-        <translation type="unfinished">Кодировка субтитров</translation>
+        <translation>Кодировка субтитров</translation>
     </message>
     <message>
         <source>External Subtitle Settings</source>
@@ -12188,22 +12188,22 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1972"/>
         <source>Vertical scaling</source>
-        <translation type="unfinished">Масштабирование по вертикали</translation>
+        <translation>Масштабирование по вертикали</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1974"/>
         <source>Adjust this if the image does not fill your screen vertically. Range -100% to 100%</source>
-        <translation type="unfinished">Настройте этот параметр, если изображение не заполняет экран по вертикали. Диапазон от -100% до 100%</translation>
+        <translation>Настройте этот параметр, если изображение не заполняет экран по вертикали. Диапазон от -100% до 100%</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1983"/>
         <source>Horizontal scaling</source>
-        <translation type="unfinished">Масштабирование по горизонтали</translation>
+        <translation>Масштабирование по горизонтали</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1985"/>
         <source>Adjust this if the image does not fill your screen horizontally. Range -100% to 100%</source>
-        <translation type="unfinished">Настройте этот параметр, если изображение не заполняет экран по горизонтали. Диапазон от -100% до 100%</translation>
+        <translation>Настройте этот параметр, если изображение не заполняет экран по горизонтали. Диапазон от -100% до 100%</translation>
     </message>
     <message>
         <source>Always stream recordings from the backend</source>
@@ -12212,72 +12212,72 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2012"/>
         <source>Black background for closed captioning</source>
-        <translation type="unfinished">Черный фон для субтитров</translation>
+        <translation>Черный фон для субтитров</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2014"/>
         <source>If enabled, captions will be displayed as white text over a black background for better contrast.</source>
-        <translation type="unfinished">Если включено, субтитры для лучшего контраста будут отображаться как белый текст поверх черного фона.</translation>
+        <translation>Если включено, субтитры для лучшего контраста будут отображаться как белый текст поверх черного фона.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2037"/>
         <source>Prefer EIA-708 over EIA-608 captions</source>
-        <translation type="unfinished">Предочитать субтитры EIA-708 вместо EIA-608</translation>
+        <translation>Предочитать субтитры EIA-708 вместо EIA-608</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2074"/>
         <source>Browse all channels</source>
-        <translation type="unfinished">Просмотр всех каналов</translation>
+        <translation>Просмотр всех каналов</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2077"/>
         <source>If enabled, browse mode will shows channels on all available recording devices, instead of showing channels on just the current recorder.</source>
-        <translation type="unfinished">Если включено, режим навигации покажет каналы на всех доступных записывающих устройствах, вместо показа каналов только на текущем записывающем устройстве.</translation>
+        <translation>Если включено, режим навигации покажет каналы на всех доступных записывающих устройствах, вместо показа каналов только на текущем записывающем устройстве.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2087"/>
         <source>Clear bookmark on playback</source>
-        <translation type="unfinished">Очистить закладки при воспроизведении</translation>
+        <translation>Очистить закладки при воспроизведении</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2089"/>
         <source>If enabled, automatically clear the bookmark on a recording when the recording is played back. If disabled, you can mark the beginning with rewind then save position.</source>
-        <translation type="unfinished">Если включено, автоматически очищает закладку в записи, при ее воспроизведении Если выключено, вы можете пометить начало перемоткой назад и последующим сохранением позиции.</translation>
+        <translation>Если включено, автоматически очищает закладку в записи, при ее воспроизведении Если выключено, вы можете пометить начало перемоткой назад и последующим сохранением позиции.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2099"/>
         <source>Alternate clear and save bookmark</source>
-        <translation type="unfinished">Альтернативные очистка и сохранение закладок</translation>
+        <translation>Альтернативные очистка и сохранение закладок</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2113"/>
         <source>Enable picture controls</source>
-        <translation type="unfinished">Включить управление картинкой</translation>
+        <translation>Включить управление картинкой</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2116"/>
         <source>If enabled, MythTV attempts to initialize picture controls (brightness, contrast, etc.) that are applied during playback.</source>
-        <translation type="unfinished">Если включено, MythTV попытается инициализировать управление картинкой (яркость, контраст и т.п.) во время воспроизведения.</translation>
+        <translation>Если включено, MythTV попытается инициализировать управление картинкой (яркость, контраст и т.п.) во время воспроизведения.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2144"/>
         <source>Always prompt (excluding Live TV)</source>
-        <translation type="unfinished">Всегда спрашивать (исключая Live TV)</translation>
+        <translation>Всегда спрашивать (исключая просмотр ТВ)</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2145"/>
         <source>Always prompt (including Live TV)</source>
-        <translation type="unfinished">Всегда спрашивать (включая Live TV)</translation>
+        <translation>Всегда спрашивать (включая просмотр ТВ)</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2146"/>
         <source>Prompt for Live TV only</source>
-        <translation type="unfinished">Спрашивать только для Live TV</translation>
+        <translation>Спрашивать только для просмотра ТВ</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2195"/>
         <source>Automatically mark a recording as watched</source>
-        <translation type="unfinished">Автоматически помечать запись как просмотренную</translation>
+        <translation>Автоматически помечать запись как просмотренную</translation>
     </message>
     <message>
         <source>Use HW Acceleration for live recording preview</source>
@@ -12294,57 +12294,57 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2256"/>
         <source>Customize exit menu options</source>
-        <translation type="unfinished">Настроить параметры меню выхода</translation>
+        <translation>Настроить параметры меню выхода</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2258"/>
         <source>Show quit</source>
-        <translation type="unfinished">Показать &quot;выйти&quot;</translation>
+        <translation>Показать &quot;выйти&quot;</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2259"/>
         <source>Show quit and shutdown</source>
-        <translation type="unfinished">Показать &quot;выйти и выключить&quot;</translation>
+        <translation>Показать &quot;выйти и выключить&quot;</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2260"/>
         <source>Show quit, reboot and shutdown</source>
-        <translation type="unfinished">Показать &quot;выйти, перезагрузить и выключить&quot;</translation>
+        <translation>Показать &quot;выйти, перезагрузить и выключить&quot;</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2261"/>
         <source>Show shutdown</source>
-        <translation type="unfinished">Показать &quot;выключить&quot;</translation>
+        <translation>Показать &quot;выключить&quot;</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2262"/>
         <source>Show reboot</source>
-        <translation type="unfinished">Показать &quot;перезагрузить&quot;</translation>
+        <translation>Показать &quot;перезагрузить&quot;</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2263"/>
         <source>Show reboot and shutdown</source>
-        <translation type="unfinished">Показать &quot;перезагрузить и выключить&quot;</translation>
+        <translation>Показать &quot;перезагрузить и выключить&quot;</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2264"/>
         <source>By default, only remote frontends are shown the shutdown option on the exit menu. Here you can force specific shutdown and reboot options to be displayed.</source>
-        <translation type="unfinished">По умолчанию, только удаленные фронтэнды отображают пункт &quot;выйти&quot; в меню выхода. Здесь вы можете задать, чтобы отображались пункты перезагрузить и выключить.</translation>
+        <translation>По умолчанию, только удаленные фронтэнды отображают пункт &quot;выйти&quot; в меню выхода. Здесь вы можете задать, чтобы отображались пункты перезагрузить и выключить.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2284"/>
         <source>Reboot command</source>
-        <translation type="unfinished">Команда перезагрузки</translation>
+        <translation>Команда перезагрузки</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2286"/>
         <source>Optional. Script to run if you select the reboot option from the exit menu, if the option is displayed. You must configure an exit key to display the exit menu.</source>
-        <translation type="unfinished">Необязательно. Скрипт выполненяемый при выборе перезагрузки в меню выхода. Вы должны настроить кнопку выхода для отображения меню выхода.</translation>
+        <translation>Необязательно. Скрипт выполненяемый при выборе перезагрузки в меню выхода. Вы должны настроить кнопку выхода для отображения меню выхода.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2298"/>
         <source>Optional. Script to run if you select the shutdown option from the exit menu, if the option is displayed. You must configure an exit key to display the exit menu.</source>
-        <translation type="unfinished">Необязательно. Скрипт выполненяемый при выборе выключения в меню выхода. Вы должны настроить кнопку выхода для отображения меню выхода.</translation>
+        <translation>Необязательно. Скрипт выполненяемый при выборе выключения в меню выхода. Вы должны настроить кнопку выхода для отображения меню выхода.</translation>
     </message>
     <message>
         <source>LIRC Daemon Socket</source>
@@ -12353,7 +12353,7 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2315"/>
         <source>UNIX socket or IP address[:port] to connect in order to communicate with the LIRC Daemon.</source>
-        <translation type="unfinished">UNIX сокет или IP адрес[:порт] для подключения к демону LIRC.</translation>
+        <translation>UNIX сокет или IP адрес[:порт] для подключения к демону LIRC.</translation>
     </message>
     <message>
         <source>Screen Shot Path</source>
@@ -12362,12 +12362,12 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2337"/>
         <source>Path to screenshot storage location. Should be writable by the frontend</source>
-        <translation type="unfinished">Путь к месту хранения скриншотов. Должен быть доступен на запись из фронтэнда</translation>
+        <translation>Путь к месту хранения скриншотов. Должен быть доступен на запись из фронтэнда</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2381"/>
         <source>Display on screen</source>
-        <translation type="unfinished">Отобразить на экране</translation>
+        <translation>Отобразить на экране</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2396"/>
@@ -12392,12 +12392,12 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2433"/>
         <source>Zoom</source>
-        <translation type="unfinished">Масштаб</translation>
+        <translation>Масштаб</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2440"/>
         <source>When enabled, these will apply a predefined zoom to all video playback in MythTV.</source>
-        <translation type="unfinished">Когда включено, предопределенные масштабы будут применены при воспроизведении любого видео в MythTV.</translation>
+        <translation>Когда включено, предопределенные масштабы будут применены при воспроизведении любого видео в MythTV.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2496"/>
@@ -12488,22 +12488,22 @@ name can not be blank.</source>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3016"/>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3064"/>
         <source>Remember last channel group</source>
-        <translation type="unfinished">Запоминать последнюю группу каналов</translation>
+        <translation>Запоминать последнюю группу каналов</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3017"/>
         <source>If enabled, the EPG will initially display only the channels from the last channel group selected. Pressing &quot;4&quot; will toggle channel group.</source>
-        <translation type="unfinished">Если включено, программа передач первоначально будет отображать только каналы из последней выбранной группы каналов. Нажатие клавиши &quot;4&quot; будет переключать группу каналов.</translation>
+        <translation>Если включено, программа передач первоначально будет отображать только каналы из последней выбранной группы каналов. Нажатие клавиши &quot;4&quot; будет переключать группу каналов.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3027"/>
         <source>Default channel group</source>
-        <translation type="unfinished">Группа каналов по умолчанию</translation>
+        <translation>Группа каналов по умолчанию</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3040"/>
         <source>Default channel group to be shown in the the EPGPressing GUIDE key will toggle channel group.</source>
-        <translation type="unfinished">Группа каналов по умолчанию отображаемая в программе передач. Нажатие клавиши GUIDE будет переключать группу каналов.</translation>
+        <translation>Группа каналов по умолчанию отображаемая в программе передач. Нажатие клавиши GUIDE будет переключать группу каналов.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3098"/>
@@ -12518,7 +12518,7 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3104"/>
         <source>Different Channels</source>
-        <translation type="unfinished">Разные каналы</translation>
+        <translation>Разные каналы</translation>
     </message>
     <message>
         <source>Widescreen Recording Priority</source>
@@ -12584,17 +12584,17 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3345"/>
         <source>Audio Mixer</source>
-        <translation type="unfinished">Аудиомиксер</translation>
+        <translation>Аудиомиксер</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3469"/>
         <source> (and other removable devices)</source>
-        <translation type="unfinished">(и другие съемные устройства )</translation>
+        <translation>(и другие съемные устройства )</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3480"/>
         <source>Use new media</source>
-        <translation type="unfinished">Использовать новые медиа</translation>
+        <translation>Использовать новые медиа</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3481"/>
@@ -12613,7 +12613,7 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3504"/>
         <source>MythMediaMonitor</source>
-        <translation type="unfinished">MythMediaMonitor</translation>
+        <translation>MythMediaMonitor</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3538"/>
@@ -12693,7 +12693,7 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4059"/>
         <source>Settings Access</source>
-        <translation type="unfinished">Доступ к настройкам</translation>
+        <translation>Доступ к настройкам</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4078"/>
@@ -12703,33 +12703,33 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4085"/>
         <source>Program Exit</source>
-        <translation type="unfinished">Выход из программы</translation>
+        <translation>Выход из программы</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4091"/>
         <source>Shutdown/Reboot Settings</source>
-        <translation type="unfinished">Настройки выключения/перезагрузки</translation>
+        <translation>Настройки выключения/перезагрузки</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4101"/>
         <source>Remote Control</source>
-        <translation type="unfinished">Дистанционное управление</translation>
+        <translation>Дистанционное управление</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4119"/>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4152"/>
         <source>General Playback</source>
-        <translation type="unfinished">Общее Воспроизведение</translation>
+        <translation>Общее Воспроизведение</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4196"/>
         <source>Recording Groups</source>
-        <translation type="unfinished">Группы записей</translation>
+        <translation>Группы записей</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4287"/>
         <source>General (Basic)</source>
-        <translation type="unfinished">Общее (Базовое)</translation>
+        <translation>Общее (Базовое)</translation>
     </message>
     <message>
         <source>General (AutoExpire)</source>
@@ -12738,7 +12738,7 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4322"/>
         <source>General (Jobs)</source>
-        <translation type="unfinished">Общее (Задания)</translation>
+        <translation>Общее (Задания)</translation>
     </message>
     <message>
         <source>Default JobQueue settings for new scheduled recordings</source>
@@ -12747,22 +12747,22 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4352"/>
         <source>General (Advanced)</source>
-        <translation type="unfinished">Общее (Расширенное)</translation>
+        <translation>Общее (Расширенное)</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4359"/>
         <source>General (Channel Groups)</source>
-        <translation type="unfinished">Общее (Группы каналов)</translation>
+        <translation>Общее (Группы каналов)</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4369"/>
         <source>Program Guide</source>
-        <translation type="unfinished">Программа передач</translation>
+        <translation>Программа передач</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4393"/>
         <source>Accessibility Options</source>
-        <translation type="unfinished">Параметры специальных возможностей</translation>
+        <translation>Параметры специальных возможностей</translation>
     </message>
     <message>
         <source>Screen settings</source>
@@ -12771,7 +12771,7 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4470"/>
         <source>Localization</source>
-        <translation type="unfinished">Локализация</translation>
+        <translation>Локализация</translation>
     </message>
     <message>
         <source>QT</source>
@@ -12784,17 +12784,17 @@ name can not be blank.</source>
     <message>
         <location filename="../libs/libmyth/programinfo.cpp" line="769"/>
         <source>Directed By</source>
-        <translation type="unfinished">Режиссер</translation>
+        <translation>Режиссер</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="958"/>
         <source>%1 total, %2 used, %3 (or %4%) free.</source>
-        <translation type="unfinished">%1 всего, %2 используется, %3 (или %4%) свободно.</translation>
+        <translation>%1 всего, %2 используется, %3 (или %4%) свободно.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="1009"/>
         <source>Uptime</source>
-        <translation type="unfinished">Время работы</translation>
+        <translation>Время работы</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="14"/>
@@ -12806,7 +12806,7 @@ name can not be blank.</source>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="47"/>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="48"/>
         <source>Period</source>
-        <translation type="unfinished">Период</translation>
+        <translation>Период</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="14"/>
@@ -12814,7 +12814,7 @@ name can not be blank.</source>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="36"/>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="37"/>
         <source>start time</source>
-        <translation type="unfinished">время начала</translation>
+        <translation>время начала</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="16"/>
@@ -12822,7 +12822,7 @@ name can not be blank.</source>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="38"/>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="49"/>
         <source>Defines a period the master backend should be awake</source>
-        <translation type="unfinished">Определите период когда главный бэкэнд должен быть разбужен</translation>
+        <translation>Определите период когда главный бэкэнд должен быть разбужен</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="17"/>
@@ -12830,7 +12830,7 @@ name can not be blank.</source>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="39"/>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="50"/>
         <source>Set both Start &amp; End times to 00:00 to disable.</source>
-        <translation type="unfinished">Установите время начала и время конца в 00:00 чтобы выключить.</translation>
+        <translation>Установите время начала и время конца в 00:00 чтобы выключить.</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="25"/>
@@ -12838,7 +12838,7 @@ name can not be blank.</source>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="47"/>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="48"/>
         <source>end time</source>
-        <translation type="unfinished">время конца</translation>
+        <translation>время конца</translation>
     </message>
     <message>
         <source>Automatically Start Myth Frontend</source>
@@ -12851,48 +12851,48 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="58"/>
         <source>Automatically Start mythfrontend</source>
-        <translation type="unfinished">Автоматически запускать фронтэнд</translation>
+        <translation>Автоматически запускать фронтэнд</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="60"/>
         <source>Mythwelcome will automatically start mythfrontend if it is determined that it was not started to record a program.</source>
-        <translation type="unfinished">Mythwelcome будет автоматически запускать фронтэнд если он определит, что он не был запущен для записи программ.</translation>
+        <translation>Mythwelcome будет автоматически запускать фронтэнд если он определит, что он не был запущен для записи программ.</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="69"/>
         <source>Shutdown with Master Backend</source>
-        <translation type="unfinished">Завершаться вместе с главным сервером</translation>
+        <translation>Завершаться вместе с главным сервером</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="71"/>
         <source>Mythwelcome will automatically shutdown this computer when the master backend shuts down. Should only be set on frontend only machines</source>
-        <translation type="unfinished">Mythwelcome будет автоматически завершать работу этого компьютера когда главный бэкэнд выключается. Должно устанавливаться только на машинах, где запущена только оболочка</translation>
+        <translation>Mythwelcome будет автоматически завершать работу этого компьютера когда главный бэкэнд выключается. Должно устанавливаться только на машинах, где запущен только фронтэнд</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="80"/>
         <source>Date Format</source>
-        <translation type="unfinished">Формат даты</translation>
+        <translation>Формат даты</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="82"/>
         <source>This is the format to use to display the date. See http://doc.trolltech.com/3.3/qdate.html#toString for a list of valid format specifiers.</source>
-        <translation type="unfinished">Это формат используемый для отображения даты. Смотрите http://doc.trolltech.com/3.3/qdate.html#toString для списка допустимых определений формата.</translation>
+        <translation>Это формат используемый для отображения даты. Смотрите http://doc.trolltech.com/3.3/qdate.html#toString для списка допустимых определений формата.</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="97"/>
         <source>MythWelcome Settings</source>
-        <translation type="unfinished">Настройки MythWelcome</translation>
+        <translation>Настройки MythWelcome</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="99"/>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="104"/>
         <source>Daily Wakeup/ShutDown Period</source>
-        <translation type="unfinished">Период ежедневного пробуждения/останова</translation>
+        <translation>Период ежедневного пробуждения/останова</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="129"/>
         <source>Command to Set Wakeup Time</source>
-        <translation type="unfinished">Команда для времени пробуждения</translation>
+        <translation>Команда для времени пробуждения</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="131"/>
@@ -12912,47 +12912,47 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="165"/>
         <source>Command to reboot</source>
-        <translation type="unfinished">Команда перезапуска</translation>
+        <translation>Команда перезапуска</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="167"/>
         <source>Command to reboot computer.</source>
-        <translation type="unfinished">Команда  перезапуска компьютера.</translation>
+        <translation>Команда перезапуска компьютера.</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="174"/>
         <source>Command to shutdown</source>
-        <translation type="unfinished">Команда выключения</translation>
+        <translation>Команда выключения</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="176"/>
         <source>Command to shutdown computer.</source>
-        <translation type="unfinished">Команда выключения компьютера.</translation>
+        <translation>Команда выключения компьютера.</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="183"/>
         <source>Command to run to start the Frontend</source>
-        <translation type="unfinished">Команда запуска оболочки</translation>
+        <translation>Команда запуска фронтэнда</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="185"/>
         <source>Command to start mythfrontend.</source>
-        <translation type="unfinished">Команда запуска оболочки.</translation>
+        <translation>Команда запуска фронтэнда.</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="192"/>
         <source>Command to run Xterm</source>
-        <translation type="unfinished">Команда запуска Xterm</translation>
+        <translation>Команда запуска Xterm</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="194"/>
         <source>Command to start an Xterm. Can be disabled by leaving this setting blank.</source>
-        <translation type="unfinished">Команда запуска Xterm. Оставьте пустой, чтобы запретить это.</translation>
+        <translation>Команда запуска Xterm. Оставьте пустой, чтобы запретить это.</translation>
     </message>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="205"/>
         <source>MythShutdown/MythWelcome Settings</source>
-        <translation type="unfinished">Настройки MythShutdown/MythWelcome</translation>
+        <translation>Настройки MythShutdown/MythWelcome</translation>
     </message>
     <message>
         <source>Enter the IP address of this machine.  Use an externally accessible address (ie, not 127.0.0.1) if you are going to be running a frontend on a different machine than this one.</source>
@@ -12985,17 +12985,17 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="82"/>
         <source>TV format</source>
-        <translation type="unfinished">Формат ТВ</translation>
+        <translation>Формат ТВ</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="88"/>
         <source>The TV standard to use for viewing TV.</source>
-        <translation type="unfinished">ТВ стандарт используемый для просмотра.</translation>
+        <translation>ТВ стандарт используемый для просмотра.</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="95"/>
         <source>VBI format</source>
-        <translation type="unfinished">VBI формат</translation>
+        <translation>VBI формат</translation>
     </message>
     <message>
         <source>VBI stands for Vertical Blanking Interrupt.  VBI is used to carry Teletext and Closed Captioning data.</source>
@@ -13008,7 +13008,7 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="122"/>
         <source>Save original files after transcoding (globally)</source>
-        <translation type="unfinished">Сохранять оригинальные файлы после перекодирования (глобально)</translation>
+        <translation>Сохранять оригинальные файлы после перекодирования (глобально)</translation>
     </message>
     <message>
         <source>Some filesystems use a lot of resources when deleting large recording files.  This option makes Myth delete the file slowly on this backend to lessen the impact.</source>
@@ -13017,7 +13017,7 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="145"/>
         <source>Follow symbolic links when deleting files</source>
-        <translation type="unfinished">Следовать символическим ссылкам при удалении файлов</translation>
+        <translation>Следовать символическим ссылкам при удалении файлов</translation>
     </message>
     <message>
         <source>This will cause Myth to follow symlinks when recordings and related files are deleted, instead of deleting the symlink and leaving the actual file.</source>
@@ -13038,7 +13038,7 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="174"/>
         <source>Combination</source>
-        <translation type="unfinished">Комбинация</translation>
+        <translation>Комбинация</translation>
     </message>
     <message>
         <source>This setting controls how the Storage Group scheduling code will balance new recordings across directories.  &apos;Balanced Free Space&apos; is the recommended method for most users.</source>
@@ -13091,7 +13091,7 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="323"/>
         <source>If enabled, the master backend will stream and delete files if it finds them in the video directory. Useful if you are using a central storage location, like a NFS share, and your slave backend isn&apos;t running.</source>
-        <translation type="unfinished">Если разрешено, главный сервер будет отдавать потоком и удалять файлы которые он найдет в каталоге видео. Полезно, если Вы используете централизованное хранилище файлов, как NFS, и Ваш подчиненный сервер не запущен.</translation>
+        <translation type="unfinished">Если разрешено, главный сервер будет отдавать потоком и удалять файлы которые он найдет в каталоге видео. Полезно, если Вы используете централизованное хранилище файлов, как каталоги доступные по NFS, и Ваш подчиненный сервер не запущен.</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="345"/>
@@ -13183,7 +13183,7 @@ name can not be blank.</source>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="454"/>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="139"/>
         <source>Wakeup time format</source>
-        <translation type="unfinished">Формат времени пробуждения</translation>
+        <translation>Формат времени пробуждения</translation>
     </message>
     <message>
         <source>The format of the time string passed to the &apos;setWakeuptime Command&apos; as $time. See QT::QDateTime.toString() for details. Set to &apos;time_t&apos; for seconds since epoch.</source>
@@ -13261,12 +13261,12 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="542"/>
         <source>Low</source>
-        <translation type="unfinished">Низкое</translation>
+        <translation>Низкое</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="543"/>
         <source>Medium</source>
-        <translation type="unfinished">Среднее</translation>
+        <translation>Среднее</translation>
     </message>
     <message>
         <source>UPNP Server Settings</source>
@@ -13278,7 +13278,7 @@ name can not be blank.</source>
         <location filename="../libs/libmythtv/channelscan/frequencytablesetting.cpp" line="44"/>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="544"/>
         <source>High</source>
-        <translation type="unfinished">Высокое</translation>
+        <translation>Высокое</translation>
     </message>
     <message>
         <source>This setting controls approximately how much CPU jobs in the queue may consume. On &apos;High&apos;, all available CPU time may be used which could cause problems on slower systems.</source>
@@ -13327,13 +13327,13 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="614"/>
         <source>The command to run whenever this User Job number is scheduled.</source>
-        <translation type="unfinished">Команда исполняемая когда это пользовательское задание ставится в очередь.</translation>
+        <translation>Команда исполняемая когда это пользовательское задание ставится в очередь.</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="14"/>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="47"/>
         <source>IP address</source>
-        <translation type="unfinished">IP адрес</translation>
+        <translation>IP адрес</translation>
     </message>
     <message>
         <source>Run Jobs only on original recording backend</source>
@@ -13362,7 +13362,7 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="624"/>
         <source>User Job #%1</source>
-        <translation type="unfinished">Задание №%1</translation>
+        <translation>Задание №%1</translation>
     </message>
     <message>
         <source>Allow Commercial Detection jobs</source>
@@ -13383,7 +13383,7 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="674"/>
         <source>Allow %1 jobs</source>
-        <translation type="unfinished">Разрешать %1 задания</translation>
+        <translation>Разрешать %1 задания</translation>
     </message>
     <message>
         <source>Include Recordings in Video List</source>
@@ -13404,78 +13404,78 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="720"/>
         <source>Recordings</source>
-        <translation type="unfinished">Записи</translation>
+        <translation>Записи</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="723"/>
         <source>This forces us to show WMP clients  either the Recordings tree or the Video tree when  they request a list of videos </source>
-        <translation type="unfinished">Это заставляет нас показывать клиенту WMP или дерево записей или дерево фильмов, когда клиены запрашивают список видео </translation>
+        <translation>Это заставляет нас показывать клиенту WMP или дерево записей или дерево фильмов, когда клиены запрашивают список видео </translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="16"/>
         <source>Enter the IP address of this machine. Use an externally accessible address (ie, not 127.0.0.1) if you are going to be running a frontend on a different machine than this one.</source>
-        <translation type="unfinished">Введите IP адрес этой машины. Используйте внешне доступный (т.е. не 127.0.0.1) если Вы запускаете оболочку на машине отличной от этой.</translation>
+        <translation>Введите IP адрес этой машины. Используйте внешне доступный (т.е. не 127.0.0.1) если Вы запускаете фронтэнд на машине отличной от этой.</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="28"/>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="62"/>
         <source>Unless you&apos;ve got good reason, don&apos;t change this.</source>
-        <translation type="unfinished">Если у Вас нет хороших причин не меняйте его.</translation>
+        <translation>Если у Вас нет хороших причин не меняйте его.</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="36"/>
         <source>Status port</source>
-        <translation type="unfinished">Порт статуса</translation>
+        <translation>Порт статуса</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="38"/>
         <source>Port on which the server will listen for HTTP requests, including backend status and MythXML requests.</source>
-        <translation type="unfinished">Порт по которому сервер будет принимать все запросы HTTP, в том числе статус бэкэнда и запросы MythXML.</translation>
+        <translation>Порт по которому сервер будет принимать все запросы HTTP, в том числе статус бэкэнда и запросы MythXML.</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="49"/>
         <source>The IP address of the master backend server. All frontend and non-master backend machines will connect to this server. If you only have one backend, this should be the same IP address as above.</source>
-        <translation type="unfinished">IP адрес главного сервера. Все оболочки и ведомые серверы будут соединяться с ним. Если у вас только один сервер этот адрес должен быть равен IP адресу, введенному выше.</translation>
+        <translation>IP адрес главного сервера. Все фронтэнды и ведомые серверы будут соединяться с ним. Если у вас только один сервер этот адрес должен быть равен IP адресу, введенному выше.</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="70"/>
         <source>Security PIN (required)</source>
-        <translation type="unfinished">PIN безопасности (обязателен)</translation>
+        <translation>PIN безопасности (обязателен)</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="72"/>
         <source>PIN code required for a frontend to connect to the backend. Blank prevents all connections; 0000 allows any client to connect.</source>
-        <translation type="unfinished">PIN необходимый для подключения фронтэнда к бэкэнду. Пустой предотвращает все подлкючения, 0000 позволяет подключение всех клиентов.</translation>
+        <translation>PIN необходимый для подключения фронтэнда к бэкэнду. Пустой предотвращает все подлкючения, 0000 позволяет подключение всех клиентов.</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="113"/>
         <source>Select the appropriate frequency table for your system. If you have an antenna, use a &quot;-bcast&quot; frequency.</source>
-        <translation type="unfinished">Выберите подходящую таблицу частот. Если у вас есть антенна используйте &quot;-bcast&quot; частоту.</translation>
+        <translation>Выберите подходящую таблицу частот. Если у вас есть антенна используйте &quot;-bcast&quot; частоту.</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="171"/>
         <source>Storage Group disk scheduler</source>
-        <translation type="unfinished">Дисковый планировщик для групп хранения</translation>
+        <translation>Дисковый планировщик для групп хранения</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="172"/>
         <source>Balanced free space</source>
-        <translation type="unfinished">Сбалансированное свободное место</translation>
+        <translation>Сбалансированное свободное место</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="173"/>
         <source>Balanced disk I/O</source>
-        <translation type="unfinished">Сбалансированные дисковые операции ввода/вывода</translation>
+        <translation>Сбалансированные дисковые операции ввода/вывода</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="176"/>
         <source>This setting controls how the Storage Group scheduling code will balance new recordings across directories. &apos;Balanced Free Space&apos; is the recommended method for most users.</source>
-        <translation type="unfinished">Эта настройка определяет как планировщик групп хранения будет распределять записи по каталогам. &quot;Сбалансированное свободное место&quot; - рекомендуемется для большинства пользователей. </translation>
+        <translation>Эта настройка определяет как планировщик групп хранения будет распределять записи по каталогам. &quot;Сбалансированное свободное место&quot; - рекомендуемется для большинства пользователей. </translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="186"/>
         <source>Disable automatic database backup</source>
-        <translation type="unfinished">Отключить автоматическое создание резеврной копии базы данных</translation>
+        <translation>Отключить автоматическое создание резеврной копии базы данных</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="212"/>
@@ -13524,42 +13524,42 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="357"/>
         <source>Wake attempts</source>
-        <translation type="unfinished">Попытки пробуждения</translation>
+        <translation>Попытки пробуждения</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="377"/>
         <source>Sleep command</source>
-        <translation type="unfinished">Комнда засыпания</translation>
+        <translation>Команда засыпания</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="390"/>
         <source>The command used to wake up this slave from sleep. This setting is not used on the master backend.</source>
-        <translation type="unfinished">Эта команда используется для пробуждения ведомого бэкэнда. Эта настройка не используется на главном бэкэнде.</translation>
+        <translation>Эта команда используется для пробуждения ведомого бэкэнда. Эта настройка не используется на главном бэкэнде.</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="399"/>
         <source>Backend stop command</source>
-        <translation type="unfinished">Команда остановки бэкэнда</translation>
+        <translation>Команда остановки бэкэнда</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="401"/>
         <source>The command used to stop the backend when running on the master backend server (e.g. sudo /etc/init.d/mythtv-backend stop)</source>
-        <translation type="unfinished">Эта команда используется для остановки бэкэнда когда запущена на сервере главного бэкэнда (например sudo /etc/init.d/mythtv-backend stop)</translation>
+        <translation>Эта команда используется для остановки бэкэнда когда запущена на сервере главного бэкэнда (например sudo /etc/init.d/mythtv-backend stop)</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="410"/>
         <source>Backend start command</source>
-        <translation type="unfinished">Команда запуска бэкэнда</translation>
+        <translation>Команда запуска бэкэнда</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="412"/>
         <source>The command used to start the backend when running on the master backend server (e.g. sudo /etc/init.d/mythtv-backend start).</source>
-        <translation type="unfinished">Эта команда используется для запуска бэкэнда когда запущена на сервере главного бэкэнда (например sudo /etc/init.d/mythtv-backend start).</translation>
+        <translation>Эта команда используется для запуска бэкэнда когда запущена на сервере главного бэкэнда (например sudo /etc/init.d/mythtv-backend start).</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="444"/>
         <source>Startup before recording (secs)</source>
-        <translation type="unfinished">Запуск перед началом записи (сек)</translation>
+        <translation>Запуск перед началом записи (сек)</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="456"/>
@@ -13639,27 +13639,27 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="632"/>
         <source>Allow commercial-detection jobs</source>
-        <translation type="unfinished">Разрешить задания маркировки рекламы</translation>
+        <translation>Разрешить задания маркировки рекламы</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="642"/>
         <source>Allow transcoding jobs</source>
-        <translation type="unfinished">Разрешить задания перекодировки</translation>
+        <translation>Разрешить задания перекодировки</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="662"/>
         <source>Commercial-detection command</source>
-        <translation type="unfinished">Команда определения рекламы</translation>
+        <translation>Команда определения рекламы</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="664"/>
         <source>The program used to detect commercials in a recording. The default is &apos;mythcommflag&apos; if this setting is empty.</source>
-        <translation type="unfinished">Программа используемая для перекодировки записей. По умолчанию это mythcommflag, если поле пустое.</translation>
+        <translation>Программа используемая для перекодировки записей. По умолчанию это mythcommflag, если поле пустое.</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="695"/>
         <source>Include recordings in video list</source>
-        <translation type="unfinished">Включать записи в список фильмов</translation>
+        <translation>Включать записи в список фильмов</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="697"/>
@@ -13709,57 +13709,57 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="800"/>
         <source>All messages</source>
-        <translation type="unfinished">Все сообщения</translation>
+        <translation>Все сообщения</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="801"/>
         <source>Debug and higher</source>
-        <translation type="unfinished">Отладка и выше</translation>
+        <translation>Отладка и выше</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="802"/>
         <source>Info and higher</source>
-        <translation type="unfinished">Информация и выше</translation>
+        <translation>Информация и выше</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="803"/>
         <source>Notice and higher</source>
-        <translation type="unfinished">Извещения и выше</translation>
+        <translation>Извещения и выше</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="804"/>
         <source>Warning and higher</source>
-        <translation type="unfinished">Предупреждения и выше</translation>
+        <translation>Предупреждения и выше</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="805"/>
         <source>Error and higher</source>
-        <translation type="unfinished">Ошибки и выше</translation>
+        <translation>Ошибки и выше</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="806"/>
         <source>Critical and higher</source>
-        <translation type="unfinished">Критические и выше</translation>
+        <translation>Критические и выше</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="807"/>
         <source>Alert and higher</source>
-        <translation type="unfinished">Тревога и выше</translation>
+        <translation>Тревога и выше</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="808"/>
         <source>Emergency only</source>
-        <translation type="unfinished">Только аварийные</translation>
+        <translation>Только аварийные</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="809"/>
         <source>Disable printed output</source>
-        <translation type="unfinished">Запретить печать сообщений</translation>
+        <translation>Запретить печать сообщений</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="828"/>
         <source>mythfilldatabase run frequency (days)</source>
-        <translation type="unfinished">Периодичность запуска mythfilldatabase (дней)</translation>
+        <translation>Периодичность запуска mythfilldatabase (дней)</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="838"/>
@@ -13774,7 +13774,7 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="851"/>
         <source>mythfilldatabase execution end</source>
-        <translation type="unfinished">Окончание запуска mythfilldatabase</translation>
+        <translation>Окончание запуска mythfilldatabase</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="853"/>
@@ -13951,78 +13951,78 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="965"/>
         <source>Local Backend</source>
-        <translation type="unfinished">Локальный бэкэнд</translation>
+        <translation>Локальный бэкэнд</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="981"/>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="1041"/>
         <source>Master Backend</source>
-        <translation type="unfinished">Главный бэкэнд</translation>
+        <translation>Главный бэкэнд</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="992"/>
         <source>Locale Settings</source>
-        <translation type="unfinished">Локальные настройки</translation>
+        <translation>Локальные настройки</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="1000"/>
         <source>Miscellaneous Settings</source>
-        <translation type="unfinished">Различные настройки</translation>
+        <translation>Различные настройки</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="1002"/>
         <source>File Management Settings</source>
-        <translation type="unfinished">Настройки управления файлами</translation>
+        <translation>Настройки управления файлами</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="1025"/>
         <source>Shutdown/Wakeup Options</source>
-        <translation type="unfinished">Настройки Завершения/Пробуждения</translation>
+        <translation>Настройки Завершения/Пробуждения</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="1038"/>
         <source>Backend Wakeup settings</source>
-        <translation type="unfinished">Настройки пробуждения бэкэнда</translation>
+        <translation>Настройки пробуждения бэкэнда</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="1048"/>
         <source>Slave Backends</source>
-        <translation type="unfinished">Ведомый бэкэнд</translation>
+        <translation>Ведомый бэкэнд</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="1055"/>
         <source>Backend Control</source>
-        <translation type="unfinished">Управление бэкэндом</translation>
+        <translation>Управление бэкэндом</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="1061"/>
         <source>Job Queue (Backend-Specific)</source>
-        <translation type="unfinished">Очередь заданий (специфично для бэкэнда)</translation>
+        <translation>Очередь заданий (специфично для бэкэнда)</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="1087"/>
         <source>Job Queue (Global)</source>
-        <translation type="unfinished">Очередь заданий (Глобально)</translation>
+        <translation>Очередь заданий (Глобально)</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="1097"/>
         <source>Job Queue (Job Commands)</source>
-        <translation type="unfinished">Очередь заданий (Команды заданий)</translation>
+        <translation>Очередь заданий (Команды заданий)</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="1109"/>
         <source>UPnP Server Settings</source>
-        <translation type="unfinished">Настройки UPNP сервера</translation>
+        <translation>Настройки UPNP сервера</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="966"/>
         <source>Allows the transcoder to resize the video during transcoding.</source>
-        <translation type="unfinished">Разрешить перекодировщику изменять размер видео при перекодировке.</translation>
+        <translation>Разрешить перекодировщику изменять размер видео при перекодировке.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="978"/>
         <source>Lossless transcoding</source>
-        <translation type="unfinished">Перекодирование без потери качества</translation>
+        <translation>Перекодирование без потери качества</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="980"/>
@@ -14049,13 +14049,13 @@ name can not be blank.</source>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2758"/>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2799"/>
         <source>Samples are shown using today&apos;s date.</source>
-        <translation type="unfinished">Примеры используют текущую дату.</translation>
+        <translation>Примеры используют текущую дату.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2764"/>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2805"/>
         <source>Samples are shown using tomorrow&apos;s date.</source>
-        <translation type="unfinished">Примеры используют завтрашнюю дату.</translation>
+        <translation>Примеры используют завтрашнюю дату.</translation>
     </message>
     <message>
         <source>Your preferred time format.  You must choose a format with &quot;AM&quot; or &quot;PM&quot; in it, otherwise your time display will be 24-hour or &quot;military&quot; time.</source>
@@ -14064,7 +14064,7 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="864"/>
         <source>Run mythfilldatabase at time suggested by the grabber.</source>
-        <translation type="unfinished">Запускать mythfilldatabase во время предлагаемое граббером.</translation>
+        <translation>Запускать mythfilldatabase во время предлагаемое граббером.</translation>
     </message>
     <message>
         <source>, using your %1 rate of %2 Kb/sec</source>
@@ -14085,17 +14085,17 @@ name can not be blank.</source>
     <message>
         <location filename="../libs/libmythtv/channelscan/frequencytablesetting.cpp" line="72"/>
         <source>Spain</source>
-        <translation type="unfinished">Испания</translation>
+        <translation>Испания</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3436"/>
         <source>Enable Network Remote Control interface</source>
-        <translation type="unfinished">Разрешить сетевой интерфейс управления</translation>
+        <translation>Разрешить сетевой интерфейс управления</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3437"/>
         <source>This enables support for controlling mythfrontend over the network.</source>
-        <translation type="unfinished">Это разрешает поддержку управления фронтэндом по сети.</translation>
+        <translation>Это разрешает поддержку управления фронтэндом по сети.</translation>
     </message>
     <message>
         <source>Network Remote Control Port</source>
@@ -14108,13 +14108,13 @@ name can not be blank.</source>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1367"/>
         <source>Education</source>
-        <translation type="unfinished">Образование</translation>
+        <translation>Образование</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1368"/>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="293"/>
         <source>Entertainment</source>
-        <translation type="unfinished">Развлечение</translation>
+        <translation>Развлечение</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1369"/>
@@ -14128,455 +14128,455 @@ name can not be blank.</source>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="282"/>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="284"/>
         <source>Movie</source>
-        <translation type="unfinished">Фильм</translation>
+        <translation>Фильм</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1370"/>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="287"/>
         <source>News</source>
-        <translation type="unfinished">Новости</translation>
+        <translation>Новости</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1371"/>
         <source>Religious</source>
-        <translation type="unfinished">Религия</translation>
+        <translation>Религия</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1372"/>
         <location filename="../libs/libmythtv/eithelper.cpp" line="459"/>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="298"/>
         <source>Sports</source>
-        <translation type="unfinished">Спорт</translation>
+        <translation>Спорт</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1374"/>
         <source>Action</source>
-        <translation type="unfinished">Действие</translation>
+        <translation>Действие</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1375"/>
         <source>Advertisement</source>
-        <translation type="unfinished">Реклама</translation>
+        <translation>Реклама</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1376"/>
         <source>Animated</source>
-        <translation type="unfinished">Мультфильм</translation>
+        <translation>Мультфильм</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1377"/>
         <source>Anthology</source>
-        <translation type="unfinished">Антология</translation>
+        <translation>Антология</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1378"/>
         <source>Automobile</source>
-        <translation type="unfinished">Автомобиль</translation>
+        <translation>Автомобиль</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1379"/>
         <source>Awards</source>
-        <translation type="unfinished">Награждения</translation>
+        <translation>Награждения</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1380"/>
         <source>Baseball</source>
-        <translation type="unfinished">Бейсбол</translation>
+        <translation>Бейсбол</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1381"/>
         <source>Basketball</source>
-        <translation type="unfinished">Баскетбол</translation>
+        <translation>Баскетбол</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1382"/>
         <source>Bulletin</source>
-        <translation type="unfinished">Сводка</translation>
+        <translation>Сводка</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1383"/>
         <source>Business</source>
-        <translation type="unfinished">Бизнес</translation>
+        <translation>Бизнес</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1384"/>
         <source>Classical</source>
-        <translation type="unfinished">Классика</translation>
+        <translation>Классика</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1385"/>
         <source>College</source>
-        <translation type="unfinished">Колледж</translation>
+        <translation>Колледж</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1386"/>
         <source>Combat</source>
-        <translation type="unfinished">Битва</translation>
+        <translation>Битва</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1387"/>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="277"/>
         <source>Comedy</source>
-        <translation type="unfinished">Комедия</translation>
+        <translation>Комедия</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1388"/>
         <source>Commentary</source>
-        <translation type="unfinished">Комментарии</translation>
+        <translation>Комментарии</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1389"/>
         <source>Concert</source>
-        <translation type="unfinished">Концерт</translation>
+        <translation>Концерт</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1390"/>
         <source>Consumer</source>
-        <translation type="unfinished">Потребитель</translation>
+        <translation>Потребитель</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1391"/>
         <source>Contemporary</source>
-        <translation type="unfinished">Современное</translation>
+        <translation>Современное</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1392"/>
         <source>Crime</source>
-        <translation type="unfinished">Преступления</translation>
+        <translation>Преступления</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1393"/>
         <source>Dance</source>
-        <translation type="unfinished">Танцы</translation>
+        <translation>Танцы</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1394"/>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="290"/>
         <source>Documentary</source>
-        <translation type="unfinished">Документалистика</translation>
+        <translation>Документалистика</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1395"/>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="369"/>
         <source>Drama</source>
-        <translation type="unfinished">Драма</translation>
+        <translation>Драма</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1396"/>
         <source>Elementary</source>
-        <translation type="unfinished">Азбучное</translation>
+        <translation>Азбучное</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1397"/>
         <source>Erotica</source>
-        <translation type="unfinished">Эротика</translation>
+        <translation>Эротика</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1398"/>
         <source>Exercise</source>
-        <translation type="unfinished">Тренировки</translation>
+        <translation>Тренировки</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1399"/>
         <source>Fantasy</source>
-        <translation type="unfinished">Фантазия</translation>
+        <translation>Фантазия</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1400"/>
         <source>Farm</source>
-        <translation type="unfinished">Ферма</translation>
+        <translation>Ферма</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1401"/>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="339"/>
         <source>Fashion</source>
-        <translation type="unfinished">Мода</translation>
+        <translation>Мода</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1402"/>
         <source>Fiction</source>
-        <translation type="unfinished">Фантастика</translation>
+        <translation>Фантастика</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1403"/>
         <source>Food</source>
-        <translation type="unfinished">Пища</translation>
+        <translation>Пища</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1404"/>
         <source>Football</source>
-        <translation type="unfinished">Футбол</translation>
+        <translation>Футбол</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1405"/>
         <source>Foreign</source>
-        <translation type="unfinished">Иностранный</translation>
+        <translation>Иностранный</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1406"/>
         <source>Fund Raiser</source>
-        <translation type="unfinished">Фандрайзер</translation>
+        <translation>Фандрайзер</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1407"/>
         <source>Game/Quiz</source>
-        <translation type="unfinished">Игры/Шутки</translation>
+        <translation>Игры/Шутки</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1408"/>
         <source>Garden</source>
-        <translation type="unfinished">Сад</translation>
+        <translation>Сад</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1409"/>
         <source>Golf</source>
-        <translation type="unfinished">Гольф</translation>
+        <translation>Гольф</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1410"/>
         <source>Government</source>
-        <translation type="unfinished">Правительство</translation>
+        <translation>Правительство</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1411"/>
         <source>Health</source>
-        <translation type="unfinished">Здоровье</translation>
+        <translation>Здоровье</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1412"/>
         <source>High School</source>
-        <translation type="unfinished">Средняя школа</translation>
+        <translation>Средняя школа</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1413"/>
         <source>History</source>
-        <translation type="unfinished">История</translation>
+        <translation>История</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1414"/>
         <source>Hobby</source>
-        <translation type="unfinished">Хобби</translation>
+        <translation>Хобби</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1415"/>
         <source>Hockey</source>
-        <translation type="unfinished">Хоккей</translation>
+        <translation>Хоккей</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1416"/>
         <source>Home</source>
-        <translation type="unfinished">Дом</translation>
+        <translation>Дом</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1417"/>
         <source>Horror</source>
-        <translation type="unfinished">Ужас</translation>
+        <translation>Ужас</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1418"/>
         <source>Information</source>
-        <translation type="unfinished">Информация</translation>
+        <translation>Информация</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1419"/>
         <source>Instruction</source>
-        <translation type="unfinished">Инструкции</translation>
+        <translation>Инструкции</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1420"/>
         <source>International</source>
-        <translation type="unfinished">Интернациональное</translation>
+        <translation>Интернациональное</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1421"/>
         <source>Interview</source>
-        <translation type="unfinished">Интервью</translation>
+        <translation>Интервью</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1423"/>
         <source>Legal</source>
-        <translation type="unfinished">Правое</translation>
+        <translation>Правовое</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1424"/>
         <source>Live</source>
-        <translation type="unfinished">Жизнь</translation>
+        <translation>Жизнь</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1425"/>
         <source>Local</source>
-        <translation type="unfinished">Местное</translation>
+        <translation>Местное</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1426"/>
         <source>Math</source>
-        <translation type="unfinished">Математика</translation>
+        <translation>Математика</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1427"/>
         <source>Medical</source>
-        <translation type="unfinished">Медицина</translation>
+        <translation>Медицина</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1428"/>
         <source>Meeting</source>
-        <translation type="unfinished">Встречи</translation>
+        <translation>Встречи</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1429"/>
         <source>Military</source>
-        <translation type="unfinished">Военное</translation>
+        <translation>Военное</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1430"/>
         <source>Miniseries</source>
-        <translation type="unfinished">Минисерии</translation>
+        <translation>Минисерии</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1431"/>
         <source>Music</source>
-        <translation type="unfinished">Музыка</translation>
+        <translation>Музыка</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1432"/>
         <source>Mystery</source>
-        <translation type="unfinished">Тайны</translation>
+        <translation>Тайны</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1433"/>
         <source>National</source>
-        <translation type="unfinished">Национальное</translation>
+        <translation>Национальное</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1434"/>
         <source>Nature</source>
-        <translation type="unfinished">Природа</translation>
+        <translation>Природа</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1435"/>
         <source>Police</source>
-        <translation type="unfinished">Полиция</translation>
+        <translation>Полиция</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1436"/>
         <source>Politics</source>
-        <translation type="unfinished">Политика</translation>
+        <translation>Политика</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1437"/>
         <source>Premiere</source>
-        <translation type="unfinished">Премьера</translation>
+        <translation>Премьера</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1438"/>
         <source>Prerecorded</source>
-        <translation type="unfinished">Предзаписаное</translation>
+        <translation>Предзаписаное</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1439"/>
         <source>Product</source>
-        <translation type="unfinished">Продукт</translation>
+        <translation>Продукт</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1440"/>
         <source>Professional</source>
-        <translation type="unfinished">Профессиональное</translation>
+        <translation>Профессиональное</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1441"/>
         <source>Public</source>
-        <translation type="unfinished">Публичное</translation>
+        <translation>Публичное</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1442"/>
         <source>Racing</source>
-        <translation type="unfinished">Гонки</translation>
+        <translation>Гонки</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1443"/>
         <source>Reading</source>
-        <translation type="unfinished">Чтение</translation>
+        <translation>Чтение</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1444"/>
         <source>Repair</source>
-        <translation type="unfinished">Восстановление</translation>
+        <translation>Восстановление</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1446"/>
         <source>Review</source>
-        <translation type="unfinished">Обзор</translation>
+        <translation>Обзор</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1447"/>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="281"/>
         <source>Romance</source>
-        <translation type="unfinished">Романтика</translation>
+        <translation>Романтика</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1448"/>
         <source>Science</source>
-        <translation type="unfinished">Наука</translation>
+        <translation>Наука</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1449"/>
         <source>Series</source>
-        <translation type="unfinished">Сериалы</translation>
+        <translation>Сериалы</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1450"/>
         <source>Service</source>
-        <translation type="unfinished">Сервис</translation>
+        <translation>Сервис</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1451"/>
         <source>Shopping</source>
-        <translation type="unfinished">Покупки</translation>
+        <translation>Покупки</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1452"/>
         <source>Soap Opera</source>
-        <translation type="unfinished">Мыльная опера</translation>
+        <translation>Мыльная опера</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1453"/>
         <source>Special</source>
-        <translation type="unfinished">Специальное</translation>
+        <translation>Специальное</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1454"/>
         <source>Suspense</source>
-        <translation type="unfinished">Неизвестность</translation>
+        <translation>Неизвестность</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1455"/>
         <source>Talk</source>
-        <translation type="unfinished">Разговор</translation>
+        <translation>Разговор</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1456"/>
         <source>Technical</source>
-        <translation type="unfinished">Техническое</translation>
+        <translation>Техническое</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1457"/>
         <source>Tennis</source>
-        <translation type="unfinished">Теннис</translation>
+        <translation>Теннис</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1458"/>
         <source>Travel</source>
-        <translation type="unfinished">Путешествие</translation>
+        <translation>Путешествие</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1459"/>
         <source>Variety</source>
-        <translation type="unfinished">Разнообразный</translation>
+        <translation>Разнообразный</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1460"/>
         <source>Video</source>
-        <translation type="unfinished">Видео</translation>
+        <translation>Видео</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1461"/>
@@ -14586,17 +14586,17 @@ name can not be blank.</source>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1462"/>
         <source>Western</source>
-        <translation type="unfinished">Вестерн</translation>
+        <translation>Вестерн</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelsettings.cpp" line="165"/>
         <source>DataDirect</source>
-        <translation type="unfinished">DataDirect</translation>
+        <translation>DataDirect</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelsettings.cpp" line="165"/>
         <source>Time Offset</source>
-        <translation type="unfinished">Смещение времени</translation>
+        <translation>Смещение времени</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelsettings.cpp" line="166"/>
@@ -14626,7 +14626,7 @@ name can not be blank.</source>
     <message>
         <location filename="../libs/libmythtv/decoderbase.cpp" line="1123"/>
         <source>Track</source>
-        <translation type="unfinished">Дорожка</translation>
+        <translation>Дорожка</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/decoderbase.cpp" line="1126"/>
@@ -14647,13 +14647,13 @@ name can not be blank.</source>
         <location filename="../libs/libmythtv/decoderbase.cpp" line="1132"/>
         <source>CC</source>
         <comment>EIA-608 closed captions</comment>
-        <translation type="unfinished">СУБ</translation>
+        <translation>СУБ</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/decoderbase.cpp" line="1134"/>
         <source>ATSC CC</source>
         <comment>EIA-708 closed captions</comment>
-        <translation type="unfinished">ATSC Суб.</translation>
+        <translation>ATSC Суб.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/decoderbase.cpp" line="1136"/>
@@ -14671,13 +14671,13 @@ name can not be blank.</source>
         <location filename="../libs/libmythtv/decoderbase.cpp" line="1140"/>
         <source>Text</source>
         <comment>Text stream</comment>
-        <translation type="unfinished">Текст</translation>
+        <translation>Текст</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/decoderbase.cpp" line="1142"/>
         <source>TXT File</source>
         <comment>Text File</comment>
-        <translation type="unfinished">Текстовый файл</translation>
+        <translation>Текстовый файл</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythplayer.cpp" line="1301"/>
@@ -14688,7 +14688,7 @@ name can not be blank.</source>
         <location filename="../libs/libmythtv/mythplayer.cpp" line="1320"/>
         <location filename="../libs/libmythtv/mythplayer.cpp" line="1346"/>
         <source>Text subtitles</source>
-        <translation type="unfinished">Текстовые субтитры</translation>
+        <translation>Текстовые субтитры</translation>
     </message>
     <message>
         <source>Text Subtitles</source>
@@ -14698,18 +14698,18 @@ name can not be blank.</source>
         <location filename="../libs/libmythtv/mythplayer.cpp" line="1432"/>
         <source>No captions</source>
         <comment>CC/Teletext/Subtitle text not available</comment>
-        <translation type="unfinished">Нет субтитров</translation>
+        <translation>Нет субтитров</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythdvdplayer.cpp" line="220"/>
         <location filename="../libs/libmythtv/mythplayer.cpp" line="3001"/>
         <source>Position</source>
-        <translation type="unfinished">Позиция</translation>
+        <translation>Позиция</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythplayer.cpp" line="3372"/>
         <source>No Seektable</source>
-        <translation type="unfinished">Нет таблицы поиска</translation>
+        <translation>Нет таблицы поиска</translation>
     </message>
     <message>
         <source>You are close to an existing cut point. Would you like to:</source>
@@ -14722,13 +14722,13 @@ name can not be blank.</source>
     <message>
         <location filename="../libs/libmythtv/commbreakmap.cpp" line="351"/>
         <source>Too Far %1</source>
-        <translation type="unfinished">Слишком далеко %1</translation>
+        <translation>Слишком далеко %1</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/teletextscreen.cpp" line="1032"/>
         <source>Page Not Available</source>
         <comment>Requested Teletext page not available</comment>
-        <translation type="unfinished">Страница недоступна</translation>
+        <translation>Страница недоступна</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/programtypes.cpp" line="137"/>
@@ -14774,17 +14774,17 @@ name can not be blank.</source>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="1004"/>
         <source>Normal</source>
-        <translation type="unfinished">Нормальный</translation>
+        <translation>Нормальный</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="1005"/>
         <source>TV Only</source>
-        <translation type="unfinished">Только ТВ</translation>
+        <translation>Только ТВ</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="1006"/>
         <source>Audio Only</source>
-        <translation type="unfinished">Только аудио</translation>
+        <translation>Только аудио</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="1019"/>
@@ -14828,17 +14828,17 @@ name can not be blank.</source>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="1426"/>
         <source>Tuner</source>
-        <translation type="unfinished">Тюнер</translation>
+        <translation>Тюнер</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2323"/>
         <source>HDHomeRun DTV tuner box</source>
-        <translation type="unfinished">HDHomeRun DTV тюнер</translation>
+        <translation>HDHomeRun DTV тюнер</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2613"/>
         <source>Input priority</source>
-        <translation type="unfinished">Приоритет входа</translation>
+        <translation>Приоритет входа</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2615"/>
@@ -14870,17 +14870,17 @@ name can not be blank.</source>
     <message>
         <location filename="../libs/libmyth/programinfo.cpp" line="4310"/>
         <source>All Available Methods</source>
-        <translation type="unfinished">Все доступные методы</translation>
+        <translation>Все доступные методы</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/programinfo.cpp" line="4318"/>
         <source>Blank Frame Detection</source>
-        <translation type="unfinished">Определение пустых кадров</translation>
+        <translation>Определение пустых кадров</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="729"/>
         <source>This determines the method used by MythTV to detect when commercials start and end.</source>
-        <translation type="unfinished">Определите какой метод будет использовать MythTV для определения начала и окончания рекламы.</translation>
+        <translation>Определите какой метод будет использовать MythTV для определения начала и окончания рекламы.</translation>
     </message>
     <message>
         <source>Maximum commercial skip (in seconds)</source>
@@ -14941,17 +14941,17 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="1964"/>
         <source>channel number</source>
-        <translation type="unfinished">номер канала</translation>
+        <translation>номер канала</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="643"/>
         <source>Mac hardware acceleration</source>
-        <translation type="unfinished">Аппаратное ускорение Mac</translation>
+        <translation>Аппаратное ускорение Mac</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="685"/>
         <source>Mac hardware will try to use the graphics processor - this may hang or crash your Mac!</source>
-        <translation type="unfinished">Аппаратное ускорение Mac использует графический процессор - это может завесить или привести к отказу Вашего Mac!</translation>
+        <translation>Аппаратное ускорение Mac использует графический процессор - это может завесить или привести к отказу Вашего Mac!</translation>
     </message>
     <message>
         <source>Black background for analog closed captioning</source>
@@ -15091,7 +15091,7 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3526"/>
         <source>Alphabetically</source>
-        <translation type="unfinished">По алфавиту</translation>
+        <translation>По алфавиту</translation>
     </message>
     <message>
         <source>By Recording Priority</source>
@@ -15104,12 +15104,12 @@ name can not be blank.</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="3740"/>
         <source>On multiline displays try and display the time as large as possible.</source>
-        <translation type="unfinished">На многострочных дисплеях пытаться отобразить время как можно более большим.</translation>
+        <translation>На многострочных дисплеях пытаться отобразить время как можно более большим.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4380"/>
         <source>Scheduler Options</source>
-        <translation type="unfinished">Параметры планировщика</translation>
+        <translation>Параметры планировщика</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="4403"/>
@@ -15187,12 +15187,12 @@ Check if the video exists</source>
     <message>
         <location filename="../libs/libmyth/programinfo.cpp" line="4325"/>
         <source>Experimental</source>
-        <translation type="unfinished">Экспирементально</translation>
+        <translation>Экспирементально</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="133"/>
         <source>Delete files slowly</source>
-        <translation type="unfinished">Удалять файлы медленно</translation>
+        <translation>Удалять файлы медленно</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videoouttypes.h" line="284"/>
@@ -15203,7 +15203,7 @@ Check if the video exists</source>
         <location filename="../libs/libmythtv/playgroup.cpp" line="127"/>
         <source>Group</source>
         <comment>Play Group</comment>
-        <translation type="unfinished">Группа</translation>
+        <translation>Группа</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/programtypes.cpp" line="140"/>
@@ -15214,17 +15214,17 @@ Check if the video exists</source>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="1344"/>
         <source>800Mbps</source>
-        <translation type="unfinished">800Мбитс</translation>
+        <translation>800Мбит/с</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/avformatdecoder.cpp" line="3491"/>
         <source>Subtitle</source>
-        <translation type="unfinished">Подзаголовок</translation>
+        <translation>Подзаголовок</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2919"/>
         <source>Widescreen</source>
-        <translation type="unfinished">Широкоэкранная</translation>
+        <translation>Широкоэкранная</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videoouttypes.h" line="138"/>
@@ -15270,83 +15270,83 @@ Check if the video exists</source>
     <message>
         <location filename="../libs/libmythtv/videoouttypes.h" line="199"/>
         <source>Black</source>
-        <translation type="unfinished">Черный</translation>
+        <translation>Черный</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videoouttypes.h" line="202"/>
         <source>Gray</source>
-        <translation type="unfinished">Сервый</translation>
+        <translation>Сервый</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videoouttypes.h" line="248"/>
         <source>Half</source>
-        <translation type="unfinished">Половина</translation>
+        <translation>Половина</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videoouttypes.h" line="249"/>
         <source>Full</source>
-        <translation type="unfinished">Полный</translation>
+        <translation>Полный</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videoouttypes.h" line="251"/>
         <source>H.Stretch</source>
-        <translation type="unfinished">Растянуть по горизонтали</translation>
+        <translation>Растянуть по горизонтали</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videoouttypes.h" line="253"/>
         <source>V.Stretch</source>
-        <translation type="unfinished">Растянуть по вертикали</translation>
+        <translation>Растянуть по вертикали</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videoouttypes.h" line="258"/>
         <source>Auto Detect (Default Off)</source>
-        <translation type="unfinished">Автоопределение (По умолчанию выкл)</translation>
+        <translation>Автоопределение (По умолчанию выкл)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videoouttypes.h" line="261"/>
         <source>Auto Detect (Default Half)</source>
-        <translation type="unfinished">Автоопределние (По умолчанию половина)</translation>
+        <translation>Автоопределние (По умолчанию половина)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="271"/>
         <source>Detective/Thriller</source>
-        <translation type="unfinished">Детектив/Триллер</translation>
+        <translation>Детектив/Триллер</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="273"/>
         <source>Adventure/Western/War</source>
-        <translation type="unfinished">Приключения/Вестерн/Военный</translation>
+        <translation>Приключения/Вестерн/Военный</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="275"/>
         <source>Science Fiction/Fantasy/Horror</source>
-        <translation type="unfinished">Фантастика/Фэнтези/Ужасы</translation>
+        <translation>Фантастика/Фэнтези/Ужасы</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="279"/>
         <source>Soap/melodrama/folkloric</source>
-        <translation type="unfinished">Мыльная опера/Мелодрама/Фольклор</translation>
+        <translation>Мыльная опера/Мелодрама/Фольклор</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="283"/>
         <source>Serious/Classical/Religious/Historical Movie/Drama</source>
-        <translation type="unfinished">Серьезное/Классика/Религия/Исторический фильм/Драма</translation>
+        <translation>Серьезное/Классика/Религия/Исторический фильм/Драма</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="285"/>
         <source>Adult</source>
         <comment>Adult Movie</comment>
-        <translation type="unfinished">Эротика</translation>
+        <translation>Эротика</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="288"/>
         <source>News/weather report</source>
-        <translation type="unfinished">Новости/прогноз погоды</translation>
+        <translation>Новости/прогноз погоды</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="289"/>
         <source>News magazine</source>
-        <translation type="unfinished">Журнал новостей</translation>
+        <translation>Журнал новостей</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="291"/>
@@ -15356,17 +15356,17 @@ Check if the video exists</source>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="294"/>
         <source>Game Show</source>
-        <translation type="unfinished">Игровые шоу</translation>
+        <translation>Игровые шоу</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="295"/>
         <source>Variety Show</source>
-        <translation type="unfinished">Разные шоу</translation>
+        <translation>Разные шоу</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="296"/>
         <source>Talk Show</source>
-        <translation type="unfinished">Ток-шоу</translation>
+        <translation>Ток-шоу</translation>
     </message>
     <message>
         <source>Special Events (World Cup, World Series..)</source>
@@ -15375,112 +15375,112 @@ Check if the video exists</source>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="300"/>
         <source>Special Events (World Cup, World Series, etc)</source>
-        <translation type="unfinished">Особые события (Мировой кубок, Мировая серия и т.п.)</translation>
+        <translation>Особые события (Мировой кубок, Мировая серия и т.п.)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="301"/>
         <source>Sports Magazines</source>
-        <translation type="unfinished">Спортивный журнал</translation>
+        <translation>Спортивный журнал</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="302"/>
         <source>Football (Soccer)</source>
-        <translation type="unfinished">Футбол</translation>
+        <translation>Футбол</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="303"/>
         <source>Tennis/Squash</source>
-        <translation type="unfinished">Тенис/Сквош</translation>
+        <translation>Тенис/Сквош</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="305"/>
         <source>Misc. Team Sports</source>
-        <translation type="unfinished">Разн. командные виды спорта</translation>
+        <translation>Разн. командные виды спорта</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="306"/>
         <source>Athletics</source>
-        <translation type="unfinished">Атлетика</translation>
+        <translation>Атлетика</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="307"/>
         <source>Motor Sport</source>
-        <translation type="unfinished">Автогонки</translation>
+        <translation>Автогонки</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="308"/>
         <source>Water Sport</source>
-        <translation type="unfinished">Водный спорт</translation>
+        <translation>Водный спорт</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="309"/>
         <source>Winter Sports</source>
-        <translation type="unfinished">Зимние виды спорта</translation>
+        <translation>Зимние виды спорта</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="310"/>
         <source>Equestrian</source>
-        <translation type="unfinished">Конный спорт</translation>
+        <translation>Конный спорт</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="311"/>
         <source>Martial Sports</source>
-        <translation type="unfinished">Спортивные состязания</translation>
+        <translation>Спортивные состязания</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="313"/>
         <source>Kids</source>
-        <translation type="unfinished">Детский</translation>
+        <translation>Детский</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="314"/>
         <source>Pre-School Children&apos;s Programmes</source>
-        <translation type="unfinished">Программы для дошкольников</translation>
+        <translation>Программы для дошкольников</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="315"/>
         <source>Entertainment Programmes for 6 to 14</source>
-        <translation type="unfinished">Развлекательные программы для детей от 6 до 14</translation>
+        <translation>Развлекательные программы для детей от 6 до 14</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="316"/>
         <source>Entertainment Programmes for 10 to 16</source>
-        <translation type="unfinished">Развлекательные программы для детей от 10 до 16</translation>
+        <translation>Развлекательные программы для детей от 10 до 16</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="317"/>
         <source>Informational/Educational</source>
-        <translation type="unfinished">Информационная/Образовательная</translation>
+        <translation>Информационная/Образовательная</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="318"/>
         <source>Cartoons/Puppets</source>
-        <translation type="unfinished">Мультфильмы/Куклы</translation>
+        <translation>Мультфильмы/Куклы</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="320"/>
         <source>Music/Ballet/Dance</source>
-        <translation type="unfinished">Музыка/Балет/Танцы</translation>
+        <translation>Музыка/Балет/Танцы</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="321"/>
         <source>Rock/Pop</source>
-        <translation type="unfinished">Рок/Поп</translation>
+        <translation>Рок/Поп</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="322"/>
         <source>Classical Music</source>
-        <translation type="unfinished">Классическая музыка</translation>
+        <translation>Классическая музыка</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="323"/>
         <source>Folk Music</source>
-        <translation type="unfinished">Народная музыка</translation>
+        <translation>Народная музыка</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="324"/>
         <source>Jazz</source>
-        <translation type="unfinished">Джаз</translation>
+        <translation>Джаз</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="325"/>
@@ -15500,27 +15500,27 @@ Check if the video exists</source>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="329"/>
         <source>Performing Arts</source>
-        <translation type="unfinished">Исполнительские виды искусства</translation>
+        <translation>Исполнительские виды искусства</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="330"/>
         <source>Fine Arts</source>
-        <translation type="unfinished">Изобразительное искусство</translation>
+        <translation>Изобразительное искусство</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="331"/>
         <source>Religion</source>
-        <translation type="unfinished">Религия</translation>
+        <translation>Религия</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="332"/>
         <source>Popular Culture/Traditional Arts</source>
-        <translation type="unfinished">Поп-культура/Традиционные искусства</translation>
+        <translation>Поп-культура/Традиционные искусства</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="333"/>
         <source>Literature</source>
-        <translation type="unfinished">Литература</translation>
+        <translation>Литература</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="334"/>
@@ -15535,67 +15535,67 @@ Check if the video exists</source>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="336"/>
         <source>Broadcasting/Press</source>
-        <translation type="unfinished">Вещание/Пресса</translation>
+        <translation>Вещание/Пресса</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="337"/>
         <source>New Media</source>
-        <translation type="unfinished">Новые медиа</translation>
+        <translation>Новые медиа</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="338"/>
         <source>Arts/Culture Magazines</source>
-        <translation type="unfinished">Художественный журнал</translation>
+        <translation>Художественный журнал</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="341"/>
         <source>Social/Policical/Economics</source>
-        <translation type="unfinished">Общество/Политика/Экономика</translation>
+        <translation>Общество/Политика/Экономика</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="342"/>
         <source>Magazines/Reports/Documentary</source>
-        <translation type="unfinished">Журнал/Репортаж/Документальное</translation>
+        <translation>Журнал/Репортаж/Документальное</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="343"/>
         <source>Economics/Social Advisory</source>
-        <translation type="unfinished">Экономика/Общественная консультация</translation>
+        <translation>Экономика/Общественная консультация</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="344"/>
         <source>Remarkable People</source>
-        <translation type="unfinished">Замечательные люди</translation>
+        <translation>Замечательные люди</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="346"/>
         <source>Education/Science/Factual</source>
-        <translation type="unfinished">Образование/Наука/Факты</translation>
+        <translation>Образование/Наука/Факты</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="347"/>
         <source>Nature/animals/Environment</source>
-        <translation type="unfinished">Природа/Животные/Окружающая среда</translation>
+        <translation>Природа/Животные/Окружающая среда</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="348"/>
         <source>Technology/Natural Sciences</source>
-        <translation type="unfinished">Технология/Естественные науки</translation>
+        <translation>Технология/Естественные науки</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="349"/>
         <source>Medicine/Physiology/Psychology</source>
-        <translation type="unfinished">Медицина/Физиология/Психология</translation>
+        <translation>Медицина/Физиология/Психология</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="350"/>
         <source>Foreign Countries/Expeditions</source>
-        <translation type="unfinished">Зарубежные страны/Экспедиции</translation>
+        <translation>Зарубежные страны/Экспедиции</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="351"/>
         <source>Social/Spiritual Sciences</source>
-        <translation type="unfinished">Общество/Религиозные науки</translation>
+        <translation>Общество/Религиозные науки</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="352"/>
@@ -15620,27 +15620,27 @@ Check if the video exists</source>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="357"/>
         <source>Handicraft</source>
-        <translation type="unfinished">Ремесло</translation>
+        <translation>Ремесло</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="358"/>
         <source>Motoring</source>
-        <translation type="unfinished">Автомобилизм</translation>
+        <translation>Автомобилизм</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="359"/>
         <source>Fitness &amp; Health</source>
-        <translation type="unfinished">Фитнес и здоровье</translation>
+        <translation>Фитнес и здоровье</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="360"/>
         <source>Cooking</source>
-        <translation type="unfinished">Готовка</translation>
+        <translation>Готовка</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="361"/>
         <source>Advertizement/Shopping</source>
-        <translation type="unfinished">Реклама/Покупки</translation>
+        <translation>Реклама/Покупки</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="362"/>
@@ -15650,22 +15650,22 @@ Check if the video exists</source>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="364"/>
         <source>Original Language</source>
-        <translation type="unfinished">Язык оригинала</translation>
+        <translation>Язык оригинала</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="365"/>
         <source>Black &amp; White</source>
-        <translation type="unfinished">Черно-белое</translation>
+        <translation>Черно-белое</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="366"/>
         <source>&quot;Unpublished&quot; Programmes</source>
-        <translation type="unfinished">&quot;Неопубликованные&quot; программы</translation>
+        <translation>&quot;Неопубликованные&quot; программы</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="367"/>
         <source>Live Broadcast</source>
-        <translation type="unfinished">Прямая трансляция</translation>
+        <translation>Прямая трансляция</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="361"/>
@@ -15704,7 +15704,7 @@ Check if the video exists</source>
         <location filename="../libs/libmythtv/channelscan/channelscanner.cpp" line="178"/>
         <location filename="../libs/libmythtv/channelscan/channelscanner.cpp" line="210"/>
         <source>Error tuning to transport</source>
-        <translation type="unfinished">Ошибка настройки транспорта</translation>
+        <translation>Ошибка настройки транспорта</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscanner.cpp" line="223"/>
@@ -15946,7 +15946,7 @@ Check if the video exists</source>
         <location filename="../libs/libmyth/programinfo.cpp" line="3784"/>
         <source>FireWire Input</source>
         <comment>Recording Profile Group Name</comment>
-        <translation type="unfinished">Вход FireWire</translation>
+        <translation>Вход FireWire</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/programinfo.cpp" line="3786"/>
@@ -16000,13 +16000,13 @@ Check if the video exists</source>
         <location filename="../libs/libmyth/programinfo.cpp" line="3808"/>
         <source>All Programs</source>
         <comment>Recording Group All Programs</comment>
-        <translation type="unfinished">Всем программам</translation>
+        <translation>Всем программам</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/programinfo.cpp" line="3809"/>
         <source>All</source>
         <comment>Recording Group All Programs -- short form</comment>
-        <translation type="unfinished">Все</translation>
+        <translation>Все</translation>
     </message>
     <message>
         <source>LiveTV</source>
@@ -16017,7 +16017,7 @@ Check if the video exists</source>
         <location filename="../libs/libmyth/programinfo.cpp" line="3811"/>
         <source>Default</source>
         <comment>Recording Group Default</comment>
-        <translation type="unfinished">По умолчанию</translation>
+        <translation>По умолчанию</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/programinfo.cpp" line="3812"/>
@@ -16040,19 +16040,19 @@ Check if the video exists</source>
         <location filename="../libs/libmyth/programinfo.cpp" line="3817"/>
         <source>Thumbnails</source>
         <comment>Storage Group Name</comment>
-        <translation type="unfinished">Эскизы</translation>
+        <translation>Эскизы</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/programinfo.cpp" line="3818"/>
         <source>DB Backups</source>
         <comment>Storage Group Name</comment>
-        <translation type="unfinished">Резервные копии базы данных</translation>
+        <translation>Резервные копии базы данных</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/programinfo.cpp" line="3821"/>
         <source>Default</source>
         <comment>Playback Group Name</comment>
-        <translation type="unfinished">По умолчанию</translation>
+        <translation>По умолчанию</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/programinfo.cpp" line="4299"/>
@@ -16167,28 +16167,28 @@ Check if the video exists</source>
     <message>
         <location filename="../libs/libmythtv/jobqueue.h" line="40"/>
         <source>Errored</source>
-        <translation type="unfinished">Ошибка</translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/jobqueue.h" line="41"/>
         <source>Cancelled</source>
-        <translation type="unfinished">Отменено</translation>
+        <translation>Отменено</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/jobqueue.h" line="27"/>
         <location filename="../programs/mythcommflag/main.cpp" line="464"/>
         <source>Running</source>
-        <translation type="unfinished">Работает</translation>
+        <translation>Работает</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/backendsettings.cpp" line="721"/>
         <source>Videos</source>
-        <translation type="unfinished">Видео</translation>
+        <translation>Видео</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/playercontext.cpp" line="818"/>
         <source>Play</source>
-        <translation type="unfinished">Просмотреть</translation>
+        <translation>Просмотреть</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/exitprompt.cpp" line="195"/>
@@ -16350,7 +16350,7 @@ Do you wish to continue watching?</source>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="11833"/>
         <source>Can not delete program</source>
-        <translation type="unfinished">Не могу удалить программу</translation>
+        <translation>Не могу удалить программу</translation>
     </message>
     <message>
         <source>because it not a recording.</source>
@@ -16359,7 +16359,7 @@ Do you wish to continue watching?</source>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="11843"/>
         <source>because it is in use by</source>
-        <translation type="unfinished">потому что это используется</translation>
+        <translation>потому что это используется</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/transporteditor.cpp" line="89"/>
@@ -16641,40 +16641,40 @@ Most DVB-S transponders transmit at 27.5 million symbols per second.</source>
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="1303"/>
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="1330"/>
         <source>Ignore all</source>
-        <translation type="unfinished">Игнорировать все</translation>
+        <translation>Игнорировать все</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="1244"/>
         <source>Insert all</source>
-        <translation type="unfinished">Вставить все</translation>
+        <translation>Вставить все</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="1245"/>
         <source>Insert manually</source>
-        <translation type="unfinished">Вставить вручную</translation>
+        <translation>Вставить вручную</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="1301"/>
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="1326"/>
         <source>Update all</source>
-        <translation type="unfinished">Обновить все</translation>
+        <translation>Обновить все</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="1302"/>
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="1328"/>
         <source>Update manually</source>
-        <translation type="unfinished">Обновить вручную</translation>
+        <translation>Обновить вручную</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="1324"/>
         <location filename="../libs/libmythtv/tv_play.cpp" line="1653"/>
         <source>Do you want to:</source>
-        <translation type="unfinished">Вы хотите:</translation>
+        <translation>Вы хотите:</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="1347"/>
         <source>Please enter either 1, 2, or 3:</source>
-        <translation type="unfinished">Пожалуйста введите 1, 2 или 3:</translation>
+        <translation>Пожалуйста введите 1, 2 или 3:</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="1373"/>
@@ -16687,24 +16687,24 @@ Most DVB-S transponders transmit at 27.5 million symbols per second.</source>
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="1453"/>
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="1537"/>
         <source>Cancel All</source>
-        <translation type="unfinished">Отменить все</translation>
+        <translation>Отменить все</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="1417"/>
         <source>This channel &apos;%1&apos; was found to be in conflict with other channels. </source>
-        <translation type="unfinished">Этот канал &apos;%1&apos; конфликтует с другими каналами.</translation>
+        <translation>Этот канал &apos;%1&apos; конфликтует с другими каналами.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="1428"/>
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="1509"/>
         <source>Please enter a unique channel number. </source>
-        <translation type="unfinished">Пожалуйста введите уникальный номер канала.</translation>
+        <translation>Пожалуйста введите уникальный номер канала.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="1454"/>
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="1538"/>
         <source>Please enter a non-conflicting channel number (or type %1 to skip, %2 to skip all): </source>
-        <translation type="unfinished">Пожалуйста введите неконфликтующий номер канал (или наберите %1 чтобы пропустить, %2 чтобы пропустить все): </translation>
+        <translation>Пожалуйста введите неконфликтующий номер канал (или наберите %1 чтобы пропустить, %2 чтобы пропустить все): </translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelimporter.cpp" line="1498"/>
@@ -16729,7 +16729,7 @@ Most DVB-S transponders transmit at 27.5 million symbols per second.</source>
     <message>
         <location filename="../libs/libmythtv/channelscan/scanwizardconfig.h" line="91"/>
         <source>Scan Type</source>
-        <translation type="unfinished">Тип сканирования</translation>
+        <translation>Тип сканирования</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelutil.cpp" line="1238"/>
@@ -16760,17 +16760,17 @@ Most DVB-S transponders transmit at 27.5 million symbols per second.</source>
     <message>
         <location filename="../libs/libmythtv/iptv/iptvchannelfetcher.cpp" line="162"/>
         <source>Adding %1</source>
-        <translation type="unfinished">Добавление %1</translation>
+        <translation>Добавление %1</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/iptv/iptvchannelfetcher.cpp" line="175"/>
         <source>Updating %1</source>
-        <translation type="unfinished">Обновление %1</translation>
+        <translation>Обновление %1</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/iptv/iptvchannelfetcher.cpp" line="188"/>
         <source>Done</source>
-        <translation type="unfinished">Выполнено</translation>
+        <translation>Выполнено</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/iptv/iptvchannelfetcher.cpp" line="294"/>
@@ -16803,7 +16803,7 @@ Most DVB-S transponders transmit at 27.5 million symbols per second.</source>
         <location filename="../libs/libmythtv/transporteditor.cpp" line="77"/>
         <location filename="../libs/libmythtv/transporteditor.cpp" line="532"/>
         <source>Analog</source>
-        <translation type="unfinished">Аналог</translation>
+        <translation>Аналог</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mpeg/atsctables.cpp" line="111"/>
@@ -16895,7 +16895,7 @@ Most DVB-S transponders transmit at 27.5 million symbols per second.</source>
     <message numerus="yes">
         <location filename="../programs/mythbackend/httpstatus.cpp" line="907"/>
         <source> %n day(s),</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform> %n день</numerusform>
             <numerusform> %n дня</numerusform>
             <numerusform> %n дней</numerusform>
@@ -16904,7 +16904,7 @@ Most DVB-S transponders transmit at 27.5 million symbols per second.</source>
     <message numerus="yes">
         <location filename="../programs/mythbackend/httpstatus.cpp" line="908"/>
         <source> %n hour(s) and</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform> %n день и</numerusform>
             <numerusform> %n дня и</numerusform>
             <numerusform> %n дней и</numerusform>
@@ -16913,7 +16913,7 @@ Most DVB-S transponders transmit at 27.5 million symbols per second.</source>
     <message numerus="yes">
         <location filename="../programs/mythbackend/httpstatus.cpp" line="909"/>
         <source> %n minute(s)</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform> %n минута</numerusform>
             <numerusform> %n минуты</numerusform>
             <numerusform> %n минут</numerusform>
@@ -16923,13 +16923,13 @@ Most DVB-S transponders transmit at 27.5 million symbols per second.</source>
         <location filename="../programs/mythbackend/httpstatus.cpp" line="912"/>
         <source>within one minute</source>
         <comment>Recording starting</comment>
-        <translation type="unfinished">в течение одной минуты</translation>
+        <translation>в течение одной минуты</translation>
     </message>
     <message>
         <location filename="../programs/mythbackend/httpstatus.cpp" line="915"/>
         <source>soon</source>
         <comment>Recording starting</comment>
-        <translation type="unfinished">скоро</translation>
+        <translation>скоро</translation>
     </message>
     <message>
         <location filename="../programs/mythcommflag/ClassicCommDetector.cpp" line="295"/>
@@ -17214,7 +17214,7 @@ Do you wish to continue watching?</source>
     <message>
         <location filename="../libs/libmythupnp/mythxmlclient.cpp" line="124"/>
         <source>Access Denied</source>
-        <translation type="unfinished">Доступ запрещен</translation>
+        <translation>Доступ запрещен</translation>
     </message>
 </context>
 <context>
@@ -17281,7 +17281,7 @@ Do you wish to continue watching?</source>
         <location filename="../libs/libmythtv/channelscan/scanwizardconfig.cpp" line="192"/>
         <location filename="../libs/libmythtv/channelscan/scanwizardconfig.cpp" line="208"/>
         <source>Import existing scan</source>
-        <translation type="unfinished">Импортировать существующее сканирование</translation>
+        <translation>Импортировать существующее сканирование</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/scanwizardconfig.cpp" line="154"/>
@@ -17310,12 +17310,12 @@ Do you wish to continue watching?</source>
     <message>
         <location filename="../libs/libmythtv/channelscan/scanwizardconfig.cpp" line="225"/>
         <source>Scan of all existing transports</source>
-        <translation type="unfinished">Сканировать все существующие транспорты</translation>
+        <translation>Сканировать все существующие транспорты</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/scanwizardconfig.cpp" line="227"/>
         <source>Scan of single existing transport</source>
-        <translation type="unfinished">Сканировать отдельный транспорт</translation>
+        <translation>Сканировать отдельный транспорт</translation>
     </message>
 </context>
 <context>
@@ -17324,17 +17324,17 @@ Do you wish to continue watching?</source>
         <location filename="../libs/libmythtv/scanwizard.cpp" line="145"/>
         <location filename="../libs/libmythtv/scanwizard.cpp" line="164"/>
         <source>ScanWizard</source>
-        <translation type="unfinished">Мастер сканирования</translation>
+        <translation>Мастер сканирования</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/scanwizard.cpp" line="146"/>
         <source>Programmer Error, see console</source>
-        <translation type="unfinished">Ошибка программиста, смотрите консоль</translation>
+        <translation>Ошибка программиста, смотрите консоль</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/scanwizard.cpp" line="165"/>
         <source>Error parsing parameters</source>
-        <translation type="unfinished">Ошибка разбора параметров</translation>
+        <translation>Ошибка разбора параметров</translation>
     </message>
 </context>
 <context>
@@ -17689,22 +17689,22 @@ Please shut them down before upgrading.</source>
     <message>
         <location filename="../libs/libmyth/schemawizard.cpp" line="377"/>
         <source>(schema is %1 versions behind)</source>
-        <translation type="unfinished">(схема на %1 версий ниже)</translation>
+        <translation>(схема на %1 версий ниже)</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/schemawizard.cpp" line="378"/>
         <source>Please run mythtv-setup or mythbackend to update your database.</source>
-        <translation type="unfinished">Пожалуйста запустите mythtv-setup или mythbackend для обновления базы данных.</translation>
+        <translation>Пожалуйста запустите mythtv-setup или mythbackend для обновления базы данных.</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/schemawizard.cpp" line="385"/>
         <source>Warning: MythTV database has newer %1 schema (%2) than expected (%3).</source>
-        <translation type="unfinished">Предупреждение: база данных MythTV имеет более новую %1 схему (%2), чем ожидалось (%3).</translation>
+        <translation>Предупреждение: база данных MythTV имеет более новую %1 схему (%2), чем ожидалось (%3).</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/schemawizard.cpp" line="389"/>
         <source>Error: MythTV database has newer %1 schema (%2) than expected (%3).</source>
-        <translation type="unfinished">Ошибка: база данных MythTV имеет более новую %1 схему (%2), чем ожидалось (%3).</translation>
+        <translation>Ошибка: база данных MythTV имеет более новую %1 схему (%2), чем ожидалось (%3).</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/schemawizard.cpp" line="396"/>
@@ -17715,7 +17715,7 @@ Please shut them down before upgrading.</source>
         <location filename="../libs/libmyth/schemawizard.cpp" line="403"/>
         <source>Database Host: %1
 Database Name: %2</source>
-        <translation type="unfinished">Хост базы данных: %1
+        <translation>Хост базы данных: %1
 Имя базы данных: %2</translation>
     </message>
     <message>
@@ -17730,7 +17730,7 @@ is located in %2</source>
     <message>
         <location filename="../libs/libmyth/schemawizard.cpp" line="438"/>
         <source>This cannot be un-done, so having a database backup would be a good idea.</source>
-        <translation type="unfinished">Это не может быть незавершено, так как наличие резервной копии базы данных было бы хорошей идеей.</translation>
+        <translation>Это не может быть незавершено, так как наличие резервной копии базы данных было бы хорошей идеей.</translation>
     </message>
 </context>
 <context>
@@ -17840,12 +17840,12 @@ is located in %2</source>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="770"/>
         <source>is recording</source>
-        <translation type="unfinished">записывает</translation>
+        <translation>записывает</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="772"/>
         <source>is not recording</source>
-        <translation type="unfinished">не записывает</translation>
+        <translation>не записывает</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="825"/>
@@ -17962,118 +17962,118 @@ No other details</source>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="311"/>
         <source>Resume</source>
-        <translation type="unfinished">Возобновить</translation>
+        <translation>Возобновить</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="313"/>
         <source>Pause</source>
-        <translation type="unfinished">Пауза</translation>
+        <translation>Пауза</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="314"/>
         <source>Stop</source>
-        <translation type="unfinished">Остановить</translation>
+        <translation>Остановить</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="315"/>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="358"/>
         <source>No Change</source>
-        <translation type="unfinished">Не изменять</translation>
+        <translation>Не изменять</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="319"/>
         <source>Requeue Job?</source>
-        <translation type="unfinished">Повторно поставить в очередь?</translation>
+        <translation>Повторно поставить в очередь?</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="337"/>
         <source>AutoExpire Actions:</source>
-        <translation type="unfinished">Действия Автоустаревания:</translation>
+        <translation>Действия Автоустаревания:</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="347"/>
         <source>Delete Now</source>
-        <translation type="unfinished">Удалить сейчас</translation>
+        <translation>Удалить сейчас</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="350"/>
         <source>Move to Default group</source>
-        <translation type="unfinished">Переместить в группу по умолчанию</translation>
+        <translation>Переместить в группу по умолчанию</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="354"/>
         <source>Undelete</source>
-        <translation type="unfinished">Восстановить</translation>
+        <translation>Восстановить</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="356"/>
         <source>Disable AutoExpire</source>
-        <translation type="unfinished">Запретить Автоустаревание</translation>
+        <translation>Запретить Автоустаревание</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="478"/>
         <source>Listings Status shows the latest status information from mythfilldatabase</source>
-        <translation type="unfinished">Состояние программы показывает последнюю информацию от mythfilldatabase</translation>
+        <translation>Состояние программы показывает последнюю информацию от mythfilldatabase</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="506"/>
         <source>Mythfrontend version: %1 (%2)</source>
-        <translation type="unfinished">Версия mythfrontend: %1 (%2)</translation>
+        <translation>Версия mythfrontend: %1 (%2)</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="508"/>
         <source>Last mythfilldatabase guide update:</source>
-        <translation type="unfinished">Последнее обновление программы через mythfilldatabase:</translation>
+        <translation>Последнее обновление программы через mythfilldatabase:</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="509"/>
         <source>Started:   %1</source>
-        <translation type="unfinished">Начато:   %1</translation>
+        <translation>Начато:   %1</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="512"/>
         <source>Finished: %1</source>
-        <translation type="unfinished">Завершено: %1</translation>
+        <translation>Завершено: %1</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="514"/>
         <source>Result: %1</source>
-        <translation type="unfinished">Результат: %1</translation>
+        <translation>Результат: %1</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="518"/>
         <source>Suggested Next: %1</source>
-        <translation type="unfinished">Предлагаемая следующая: %1</translation>
+        <translation>Предлагаемая следующая: %1</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="524"/>
         <source>There&apos;s no guide data available!</source>
-        <translation type="unfinished">Нет данных программы передач!</translation>
+        <translation>Нет данных программы передач!</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="525"/>
         <source>Have you run mythfilldatabase?</source>
-        <translation type="unfinished">Вы запускали mythfilldatabase?</translation>
+        <translation>Вы запускали mythfilldatabase?</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="529"/>
         <source>There is guide data until %1</source>
-        <translation type="unfinished">Есть программа до %1</translation>
+        <translation>Есть программа до %1</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="537"/>
         <source>WARNING: is mythfilldatabase running?</source>
-        <translation type="unfinished">ВНИМАНИЕ: mythfilldatabase запущено?</translation>
+        <translation>ВНИМАНИЕ: mythfilldatabase запущено?</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="541"/>
         <source>DataDirect Status: </source>
-        <translation type="unfinished">Состояние DataDirect: </translation>
+        <translation>Состояние DataDirect: </translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="552"/>
         <source>Schedule Status shows current statistics from the scheduler.</source>
-        <translation type="unfinished">Состояние планировщика показывает текущую статистику планировщика.</translation>
+        <translation>Состояние планировщика показывает текущую статистику планировщика.</translation>
     </message>
     <message numerus="yes">
         <location filename="../programs/mythfrontend/statusbox.cpp" line="560"/>
