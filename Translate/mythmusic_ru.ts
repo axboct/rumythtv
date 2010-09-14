@@ -594,142 +594,142 @@ Could not copy file to: %1</source>
 <context>
     <name>MythControls</name>
     <message>
-        <location filename="../mythmusic/main.cpp" line="456"/>
+        <location filename="../mythmusic/main.cpp" line="503"/>
         <source>Play music</source>
         <translation>Воспроизвести музыку</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="458"/>
+        <location filename="../mythmusic/main.cpp" line="505"/>
         <source>Select music playlists</source>
         <translation>Выбрать плейлист</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="460"/>
+        <location filename="../mythmusic/main.cpp" line="507"/>
         <source>Rip CD</source>
         <translation>Импортировать CD</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="462"/>
+        <location filename="../mythmusic/main.cpp" line="509"/>
         <source>Scan music</source>
         <translation>Искать музыку</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="464"/>
+        <location filename="../mythmusic/main.cpp" line="511"/>
         <source>Show Music Miniplayer</source>
         <translation>Показать мини-плеер</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="467"/>
+        <location filename="../mythmusic/main.cpp" line="514"/>
         <source>Move to the next track</source>
         <translation>Перейти к следующей дорожке</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="469"/>
+        <location filename="../mythmusic/main.cpp" line="516"/>
         <source>Move to the previous track</source>
         <translation>Перейти к предыдущей дорожке</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="471"/>
+        <location filename="../mythmusic/main.cpp" line="518"/>
         <source>Fast forward</source>
         <translation>Быстрая перемотка вперед</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="473"/>
+        <location filename="../mythmusic/main.cpp" line="520"/>
         <source>Rewind</source>
         <translation>Перемотка назад</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="475"/>
+        <location filename="../mythmusic/main.cpp" line="522"/>
         <source>Pause/Start playback</source>
         <translation>Пауза/Начало воспроизведения</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="477"/>
+        <location filename="../mythmusic/main.cpp" line="524"/>
         <source>Start playback</source>
         <translation>Начать воспроизведение</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="479"/>
+        <location filename="../mythmusic/main.cpp" line="526"/>
         <source>Stop playback</source>
         <translation>Остановить воспроизведение</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="481"/>
+        <location filename="../mythmusic/main.cpp" line="528"/>
         <source>Volume down</source>
         <translation>Уменьшить громкость</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="483"/>
+        <location filename="../mythmusic/main.cpp" line="530"/>
         <source>Volume up</source>
         <translation>Увеличить громкость</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="485"/>
+        <location filename="../mythmusic/main.cpp" line="532"/>
         <source>Mute</source>
         <translation>Выключить звук</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="487"/>
+        <location filename="../mythmusic/main.cpp" line="534"/>
         <source>Toggle audio upmixer</source>
         <translation>Переключить аудио апмиксер</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="489"/>
+        <location filename="../mythmusic/main.cpp" line="536"/>
         <source>Cycle visualizer mode</source>
         <translation>Переключить режим визуализатора</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="491"/>
+        <location filename="../mythmusic/main.cpp" line="538"/>
         <source>Blank screen</source>
         <translation>Пустой экран</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="493"/>
+        <location filename="../mythmusic/main.cpp" line="540"/>
         <source>Increase rating</source>
         <translation>Увеличить рейтинг</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="495"/>
+        <location filename="../mythmusic/main.cpp" line="542"/>
         <source>Decrease rating</source>
         <translation>Уменьшить рейтинг</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="497"/>
+        <location filename="../mythmusic/main.cpp" line="544"/>
         <source>Refresh music tree</source>
         <translation>Обновить дерево</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="499"/>
+        <location filename="../mythmusic/main.cpp" line="546"/>
         <source>Filter All My Music</source>
         <translation>Фильтровать всю мою музыку</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="501"/>
+        <location filename="../mythmusic/main.cpp" line="548"/>
         <source>Show incremental search dialog</source>
         <translation>Показать диалог поиска</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="503"/>
+        <location filename="../mythmusic/main.cpp" line="550"/>
         <source>Incremental search find next match</source>
         <translation>Перейти к следующему результату поиска</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="505"/>
+        <location filename="../mythmusic/main.cpp" line="552"/>
         <source>Increase Play Speed</source>
         <translation>Увеличить скорость воспроизведения</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="507"/>
+        <location filename="../mythmusic/main.cpp" line="554"/>
         <source>Decrease Play Speed</source>
         <translation>Уменьшить скорость воспроизведения</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="510"/>
+        <location filename="../mythmusic/main.cpp" line="557"/>
         <source>MythMusic Media Handler 1/2</source>
         <translation>MythMusic Media Handler (1/2)</translation>
     </message>
     <message>
-        <location filename="../mythmusic/main.cpp" line="513"/>
+        <location filename="../mythmusic/main.cpp" line="560"/>
         <source>MythMusic Media Handler 2/2</source>
         <translation>MythMusic Media Handler (2/2)</translation>
     </message>

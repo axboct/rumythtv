@@ -4,12 +4,12 @@
 <context>
     <name>MythControls</name>
     <message>
-        <location filename="../mythnetvision/main.cpp" line="35"/>
+        <location filename="../mythnetvision/main.cpp" line="100"/>
         <source>Internet Television Client - Search</source>
         <translation>Клиент интернет телевидения - Поиск</translation>
     </message>
     <message>
-        <location filename="../mythnetvision/main.cpp" line="37"/>
+        <location filename="../mythnetvision/main.cpp" line="102"/>
         <source>Internet Television Client - Site/Tree View</source>
         <translation>Клиент интернет телевидения - Сайт/Дерево</translation>
     </message>
@@ -54,23 +54,23 @@
     <message>
         <location filename="../mythnetvision/netsearch.cpp" line="275"/>
         <source>Manage Search Scripts</source>
-        <translation type="unfinished">Управление поисковыми скриптами</translation>
+        <translation>Управление поисковыми скриптами</translation>
     </message>
     <message>
         <location filename="../mythnetvision/netsearch.cpp" line="357"/>
         <source>Searching %1 for &quot;%2&quot;...</source>
-        <translation type="unfinished">Поиск %1 для &quot;%2&quot;...</translation>
+        <translation>Поиск %1 для &quot;%2&quot;...</translation>
     </message>
     <message>
         <location filename="../mythnetvision/netsearch.cpp" line="380"/>
         <location filename="../mythnetvision/netsearch.cpp" line="398"/>
         <source>Changing to page %1 of search &quot;%2&quot;...</source>
-        <translation type="unfinished">Перейти на страницу %1 поиска &quot;%2&quot;...</translation>
+        <translation>Перейти на страницу %1 поиска &quot;%2&quot;...</translation>
     </message>
     <message>
         <location filename="../mythnetvision/netsearch.cpp" line="465"/>
         <source>Timed out waiting for query to finish.  API might be down.</source>
-        <translation type="unfinished">Время ожидания выполнения запроса вышло.  Возможно API не работает.</translation>
+        <translation>Время ожидания выполнения запроса вышло.  Возможно API не работает.</translation>
     </message>
     <message>
         <source>Web Only</source>
@@ -83,12 +83,12 @@
     <message>
         <location filename="../mythnetvision/netsearch.cpp" line="572"/>
         <source>No browser command set! MythNetVision needs MythBrowser installed to display the video.</source>
-        <translation type="unfinished">Не задана команда браузера! Для воспроизведения видео MythNetVision требуется MythBrowser.</translation>
+        <translation>Не задана команда браузера! Для воспроизведения видео MythNetVision требуется MythBrowser.</translation>
     </message>
     <message>
         <location filename="../mythnetvision/netsearch.cpp" line="616"/>
         <source>Are you sure you want to delete this file?</source>
-        <translation type="unfinished">Вы уверены что хотите удалить этот файл?</translation>
+        <translation>Вы уверены что хотите удалить этот файл?</translation>
     </message>
     <message>
         <source>Download already running.  Try again when the download is finished.</source>
@@ -98,7 +98,7 @@
         <location filename="../mythnetvision/netsearch.cpp" line="707"/>
         <source>This file already downloaded to:
 %1</source>
-        <translation type="unfinished">Этот файл уже загружен в:
+        <translation>Этот файл уже загружен в:
 %1</translation>
     </message>
 </context>
@@ -107,17 +107,17 @@
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="28"/>
         <source>RSS Feeds</source>
-        <translation type="unfinished">Ленты RSS</translation>
+        <translation>Ленты RSS</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="29"/>
         <source>Searches</source>
-        <translation type="unfinished">Поиск</translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="30"/>
         <source>Downloaded Files</source>
-        <translation type="unfinished">Загруженные файлы</translation>
+        <translation>Загруженные файлы</translation>
     </message>
     <message>
         <source>Web Only</source>
@@ -130,82 +130,82 @@
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="490"/>
         <source>Playback/Download Options</source>
-        <translation type="unfinished">Параметры Воспроизведения/Загрузки</translation>
+        <translation>Параметры Воспроизведения/Загрузки</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="512"/>
         <source>Open Web Link</source>
-        <translation type="unfinished">Открыть веб ссылку</translation>
+        <translation>Открыть веб ссылку</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="515"/>
         <source>Save This Video</source>
-        <translation type="unfinished">Сохранить это видео</translation>
+        <translation>Сохранить это видео</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="518"/>
         <source>Scan/Manage Subscriptions</source>
-        <translation type="unfinished">Поиск/Управление подписками</translation>
+        <translation>Поиск/Управление подписками</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="519"/>
         <source>Change View</source>
-        <translation type="unfinished">Изменить режим просмотра</translation>
+        <translation>Изменить режим просмотра</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="533"/>
         <source>View Options</source>
-        <translation type="unfinished">Параметры просмотра</translation>
+        <translation>Параметры просмотра</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="545"/>
         <source>Switch to List View</source>
-        <translation type="unfinished">Переключиться в режим списока</translation>
+        <translation>Переключиться в режим списка</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="547"/>
         <source>Switch to Gallery View</source>
-        <translation type="unfinished">Переключиться в режим галереи</translation>
+        <translation>Переключиться в режим галереи</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="549"/>
         <source>Switch to Browse View</source>
-        <translation type="unfinished">Переключиться в режим браузера</translation>
+        <translation>Переключиться в режим браузера</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="561"/>
         <source>Subscription Management</source>
-        <translation type="unfinished">Управление подписками</translation>
+        <translation>Управление подписками</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="572"/>
         <source>Update Site Maps</source>
-        <translation type="unfinished">Обновить карты сайтов</translation>
+        <translation>Обновить карты сайтов</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="573"/>
         <source>Update RSS</source>
-        <translation type="unfinished">Обновить RSS</translation>
+        <translation>Обновить RSS</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="574"/>
         <source>Manage Site Subscriptions</source>
-        <translation type="unfinished">Управление подписками сайтов</translation>
+        <translation>Управление подписками сайтов</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="575"/>
         <source>Manage RSS Subscriptions</source>
-        <translation type="unfinished">Управление подписками RSS</translation>
+        <translation>Управление подписками RSS</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="577"/>
         <source>Enable Automatic Site Updates</source>
-        <translation type="unfinished">Включить автоматическое обновление сайтов</translation>
+        <translation>Включить автоматическое обновление сайтов</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="579"/>
         <source>Disable Automatic Site Updates</source>
-        <translation type="unfinished">Выключить автоматическое обновление сайтов</translation>
+        <translation>Выключить автоматическое обновление сайтов</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="646"/>
@@ -213,17 +213,17 @@
         <location filename="../mythnetvision/nettree.cpp" line="703"/>
         <location filename="../mythnetvision/nettree.cpp" line="747"/>
         <source>Back</source>
-        <translation type="unfinished">Назад</translation>
+        <translation>Назад</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="839"/>
         <source>No browser command set! MythNetTree needs MythBrowser installed to display the video.</source>
-        <translation type="unfinished">Не задана команда браузера! Для воспроизведения видео MythNetVision требуется MythBrowser.</translation>
+        <translation>Не задана команда браузера! Для воспроизведения видео MythNetVision требуется MythBrowser.</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="893"/>
         <source>Are you sure you want to delete this file?</source>
-        <translation type="unfinished">Вы уверены что хотите удалить этот файл?</translation>
+        <translation>Вы уверены что хотите удалить этот файл?</translation>
     </message>
     <message>
         <source>Download already running.  Try again when the download is finished.</source>
@@ -232,12 +232,12 @@
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="1225"/>
         <source>Updating RSS.  This could take a while...</source>
-        <translation type="unfinished">Обновление RSS.  Это может занять некоторое время...</translation>
+        <translation>Обновление RSS.  Это может занять некоторое время...</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="1240"/>
         <source>Updating Site Maps.  This could take a while...</source>
-        <translation type="unfinished">Обновление карт сайтов.  Это может занять некоторое время...</translation>
+        <translation>Обновление карт сайтов.  Это может занять некоторое время...</translation>
     </message>
 </context>
 <context>
@@ -292,7 +292,7 @@
     <message>
         <location filename="../mythnetvision/searcheditor.cpp" line="87"/>
         <source>Querying Backend for Internet Content Sources...</source>
-        <translation type="unfinished">С бэкэнда запрашиваются источники интернет контента ...</translation>
+        <translation>С бэкэнда запрашиваются источники интернет контента...</translation>
     </message>
 </context>
 <context>
@@ -300,27 +300,27 @@
     <message>
         <location filename="themestrings.h" line="3"/>
         <source>No search scripts found!  This usually indicates missing prerequisites.</source>
-        <translation type="unfinished">Не найдено поисковых скриптов!  Обычно это указывает на отсутствие необходимых условий.</translation>
+        <translation>Не найдено поисковых скриптов!  Обычно это указывает на отсутствие необходимых условий.</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="4"/>
         <source>Page %1</source>
-        <translation type="unfinished">Страница %1</translation>
+        <translation>Страница %1</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="5"/>
         <source>Search:</source>
-        <translation type="unfinished">Искать:</translation>
+        <translation>Искать:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="6"/>
         <source>Author: %1</source>
-        <translation type="unfinished">Автор: %1</translation>
+        <translation>Автор: %1</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="7"/>
         <source>Edit/Add a New RSS Feed</source>
-        <translation type="unfinished">Изменить/Добавить новый канал RSS</translation>
+        <translation>Изменить/Добавить новый канал RSS</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="8"/>
@@ -334,7 +334,7 @@ For new subscriptions, you can simply enter the URL and click &quot;Save.&quot;<
     <message>
         <location filename="themestrings.h" line="9"/>
         <source>Title:</source>
-        <translation type="unfinished">Название:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="10"/>
@@ -344,17 +344,17 @@ For new subscriptions, you can simply enter the URL and click &quot;Save.&quot;<
     <message>
         <location filename="themestrings.h" line="11"/>
         <source>Author:</source>
-        <translation type="unfinished">Автор:</translation>
+        <translation>Автор:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="12"/>
         <source>Description:</source>
-        <translation type="unfinished">Описание:</translation>
+        <translation>Описание:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="13"/>
         <source>Download video from this feed automatically</source>
-        <translation type="unfinished">Автоматически загружать видео из этого канала</translation>
+        <translation>Автоматически загружать видео из этого канала</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="14"/>
@@ -364,12 +364,12 @@ For new subscriptions, you can simply enter the URL and click &quot;Save.&quot;<
     <message>
         <location filename="themestrings.h" line="15"/>
         <source>Save</source>
-        <translation type="unfinished">Сохранить</translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="16"/>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="17"/>
@@ -392,137 +392,137 @@ For new subscriptions, you can simply enter the URL and click &quot;Save.&quot;<
     <message>
         <location filename="themestrings.h" line="18"/>
         <source>Manage Subscriptions</source>
-        <translation type="unfinished">Управление подписками</translation>
+        <translation>Управление подписками</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="19"/>
         <source>Choose the sites you wish to browse/search.</source>
-        <translation type="unfinished">Выберите сайт который вы хотите просматривать/выполнять поиск.</translation>
+        <translation>Выберите сайт который вы хотите просматривать/выполнять поиск.</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="20"/>
         <source>New Site</source>
-        <translation type="unfinished">Новый сайт</translation>
+        <translation>Новый сайт</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="21"/>
         <source>Edit Site</source>
-        <translation type="unfinished">Изменить сайт</translation>
+        <translation>Изменить сайт</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="22"/>
         <source>Unsubscribe</source>
-        <translation type="unfinished">Отказаться от подписки</translation>
+        <translation>Отказаться от подписки</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="23"/>
         <source>Search Net Videos</source>
-        <translation type="unfinished">Поиск видео в сети</translation>
+        <translation>Поиск видео в сети</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="24"/>
         <source>Search Term:</source>
-        <translation type="unfinished">Поиск слова:</translation>
+        <translation>Поиск слова:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="25"/>
         <source>Size: %1</source>
-        <translation type="unfinished">Размер: %1</translation>
+        <translation>Размер: %1</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="26"/>
         <source>Description: %1</source>
-        <translation type="unfinished">Описание: %1</translation>
+        <translation>Описание: %1</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="27"/>
         <source>Can&apos;t find any search scripts!  This usually indicates missing search script prerequisites.  Try running a script from the command line.</source>
-        <translation type="unfinished">Не могу найти поисковые скрипты!  Обычно это указывает на отсутствие необходимых условий.  Попробуйте запустить скрипт из командной строки.</translation>
+        <translation>Не могу найти поисковые скрипты!  Обычно это указывает на отсутствие необходимых условий.  Попробуйте запустить скрипт из командной строки.</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="28"/>
         <source>Manage Site Subscriptions</source>
-        <translation type="unfinished">Управление подписками</translation>
+        <translation>Управление подписками</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="29"/>
         <source>Edit</source>
-        <translation type="unfinished">Изменить</translation>
+        <translation>Изменить</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="30"/>
         <source>New</source>
-        <translation type="unfinished">Создать</translation>
+        <translation>Создать</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="31"/>
         <source>Remove</source>
-        <translation type="unfinished">Удалить</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="32"/>
         <source>Manage RSS Subscriptions</source>
-        <translation type="unfinished">Управление подписками RSS</translation>
+        <translation>Управление подписками RSS</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="33"/>
         <source>Feed Name:</source>
-        <translation type="unfinished">Название канала:</translation>
+        <translation>Название канала:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="34"/>
         <source>Feed URL:</source>
-        <translation type="unfinished">URL канала:</translation>
+        <translation>URL канала:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="35"/>
         <source>Site Description:</source>
-        <translation type="unfinished">Описание сайта:</translation>
+        <translation>Описание сайта:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="36"/>
         <source>Feed Author:</source>
-        <translation type="unfinished">Автор канала:</translation>
+        <translation>Автор канала:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="37"/>
         <source>Download this feed automatically</source>
-        <translation type="unfinished">Автоматически загружать этот канал</translation>
+        <translation>Автоматически загружать этот канал</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="38"/>
         <source>Choose Image</source>
-        <translation type="unfinished">Выберите изображение</translation>
+        <translation>Выберите изображение</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="39"/>
         <source>Browse Net Videos</source>
-        <translation type="unfinished">Просмотреть видео в сети</translation>
+        <translation>Просмотреть видео в сети</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="40"/>
         <source>Posted: %1</source>
-        <translation type="unfinished">Отправлено: %1</translation>
+        <translation>Отправлено: %1</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="41"/>
         <source>Runtime</source>
-        <translation type="unfinished">Продолжительность</translation>
+        <translation>Продолжительность</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="42"/>
         <source>Author</source>
-        <translation type="unfinished">Автор</translation>
+        <translation>Автор</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="43"/>
         <source>Rating</source>
-        <translation type="unfinished">Рейтинг</translation>
+        <translation>Рейтинг</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="44"/>
         <source>Search Internet Video</source>
-        <translation type="unfinished">Искать интернет видео</translation>
+        <translation>Искать интернет видео</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="45"/>
@@ -532,12 +532,12 @@ For new subscriptions, you can simply enter the URL and click &quot;Save.&quot;<
     <message>
         <location filename="themestrings.h" line="46"/>
         <source>Browse Internet Video</source>
-        <translation type="unfinished">Просмотреть интернет видео</translation>
+        <translation>Просмотреть интернет видео</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="47"/>
         <source>Browse highlights and entire sites</source>
-        <translation type="unfinished">Просмотреть новинки и сайты целиком</translation>
+        <translation>Просмотреть новинки и сайты целиком</translation>
     </message>
 </context>
 <context>
@@ -545,7 +545,7 @@ For new subscriptions, you can simply enter the URL and click &quot;Save.&quot;<
     <message>
         <location filename="../mythnetvision/treeeditor.cpp" line="95"/>
         <source>Querying Backend for Internet Content Sources...</source>
-        <translation type="unfinished">С бэкэнда запрашиваются источники интернет контента ...</translation>
+        <translation>С бэкэнда запрашиваются источники интернет контента...</translation>
     </message>
 </context>
 </TS>
