@@ -4,25 +4,29 @@
 <context>
     <name>FunctionDialog</name>
     <message>
-        <location filename="../mythzoneminder/zmconsole.cpp" line="67"/>
         <source>Ok</source>
-        <translation>Ок</translation>
+        <translation type="obsolete">Ок</translation>
+    </message>
+    <message>
+        <location filename="../mythzoneminder/zmconsole.cpp" line="67"/>
+        <source>OK</source>
+        <translation>ОК</translation>
     </message>
 </context>
 <context>
     <name>MythControls</name>
     <message>
-        <location filename="../mythzoneminder/main.cpp" line="41"/>
+        <location filename="../mythzoneminder/main.cpp" line="129"/>
         <source>ZoneMinder Console</source>
         <translation>Управление ZoneMinder</translation>
     </message>
     <message>
-        <location filename="../mythzoneminder/main.cpp" line="43"/>
+        <location filename="../mythzoneminder/main.cpp" line="131"/>
         <source>ZoneMinder Live View</source>
         <translation>Камеры ZoneMinder</translation>
     </message>
     <message>
-        <location filename="../mythzoneminder/main.cpp" line="45"/>
+        <location filename="../mythzoneminder/main.cpp" line="133"/>
         <source>ZoneMinder Events</source>
         <translation>События ZoneMinder</translation>
     </message>
@@ -57,12 +61,12 @@
     <message>
         <location filename="../mythzoneminder/zmsettings.cpp" line="41"/>
         <source>Samples are shown using today&apos;s date.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Примеры показываются с использованием сегодняшней даты.</translation>
     </message>
     <message>
         <location filename="../mythzoneminder/zmsettings.cpp" line="47"/>
         <source>Samples are shown using tomorrow&apos;s date.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Примеры показываются с использованием завтрашней даты.</translation>
     </message>
     <message>
         <location filename="../mythzoneminder/zmsettings.cpp" line="63"/>
@@ -110,7 +114,7 @@
     <message>
         <location filename="themestrings.h" line="6"/>
         <source>Load: 0.12</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Загрузка: 0.12</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="7"/>
@@ -240,7 +244,7 @@
     <message>
         <location filename="themestrings.h" line="32"/>
         <source>Mon 01 Nov 2006 12:34</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пон 01 Ноя 2006 12:34</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="33"/>
