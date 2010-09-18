@@ -21,12 +21,12 @@ except NameError: from sets import Set as set
 name = 'WCU-3D-XML';
 version = 0.01;
 author = 'Alex Vasilyev';
-email = 'sandybigboy@gmail.ru';
+email = 'sandybigboy@gmail.com';
 
 update_timeout = 120*60
 retrieve_timeout = 30
 
-data_fields = ('3dlocation', '6dlocation',  'updatetime', 
+data_fields = ('3dlocation', '6dlocation',  'station_id',  'updatetime', 'copyright', 
         'high-0', 'high-1', 'high-2', 'high-3', 'high-4', 'high-5',
         'low-0', 'low-1', 'low-2', 'low-3', 'low-4', 'low-5',
         'icon-0', 'icon-1', 'icon-2', 'icon-3', 'icon-4', 'icon-5',
@@ -150,6 +150,8 @@ def get_data(location_id):
     tree = etree.XML(xml_page)
     #names = get_text_list('/forecast/city/name_en')
     names = get_text_list('/forecast/city/name')
+    sys.stdout.write( u'copyright::(c) DiscoveringWeather\n')
+    sys.stdout.write( u'station_id::%s\n' % location_id)
     sys.stdout.write( u'3dlocation::%s\n' % names[0])
     sys.stdout.write( u'6dlocation::%s\n' % names[0])
     updatetimes = tree.xpath('/forecast[@version]')
