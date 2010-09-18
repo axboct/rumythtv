@@ -18,7 +18,7 @@ from lxml import etree
 name = 'WCU-Current-XML';
 version = 0.01;
 author = 'Alex Vasilyev';
-email = 'sandybigboy@gmail.ru';
+email = 'sandybigboy@gmail.com';
 
 update_timeout = 120*60
 retrieve_timeout = 30
@@ -92,8 +92,8 @@ def search_locations(location_str):
     countries = []
     #Для устранения проблемы отображенения символов кириллицы в MythWeather,
     #однако название страны по прежнему на русском, а следовательно - закорюками.
-    city_nodes = tree.xpath('//name_en') 
-    #city_nodes = tree.xpath('//name') 
+    #city_nodes = tree.xpath('//name_en') 
+    city_nodes = tree.xpath('//name') 
     for node in city_nodes: 
         cities.append(node .text)
     id_nodes = tree.xpath('/city/city') 
@@ -104,7 +104,8 @@ def search_locations(location_str):
         countries.append(node.text)
     for i in range(len(city_nodes)):
         #Для устранения проблемы закорюк выковыриваем и английское название страны
-        country_ids = countries_tree.xpath('/country/country[@id=' + countries[i] + ']/name_en')
+        #country_ids = countries_tree.xpath('/country/country[@id=' + countries[i] + ']/name_en')
+        country_ids = countries_tree.xpath('/country/country[@id=' + countries[i] + ']/name')
         sys.stdout.write(u'%s::%s, %s\n' % (ids[i], cities[i],  country_ids[0].text))
 
 def get_data(location_id):
@@ -174,8 +175,8 @@ def get_data(location_id):
     tree = etree.XML(xml_page)
     #tree = etree.parse(StringIO(xml_page))
    
-    #names = get_text_list('/forecast/city/name')
-    names = get_text_list('/forecast/city/name_en')
+    names = get_text_list('/forecast/city/name')
+    #names = get_text_list('/forecast/city/name_en')
     picts = get_text_list('/forecast/current/pict')
     times = get_text_list('/forecast/current/time')
     clouds = get_text_list('/forecast/current/cloud')
