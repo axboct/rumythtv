@@ -36,12 +36,18 @@ icons = {'_0_moon.gif' : 'sunny.png',  '_0_sun.gif' :  'sunny.png',  '_1_moon_cl
             '_255_NA.gif' : 'unknown.png'
              }
     
-weather = {255 : "N/A", 10 : "Clear", 20 : "Cloudly", 30 : "Clear/Cloudly", 40 : "Pasmurno", 50 : "Short Rain", 
-                    60 : "Rain",  70 : "Hail", 80 : "Rain with snow",  90 : "Snow",  100 : "Heavy Snow"
+#weather = {255 : "N/A", 10 : "Clear", 20 : "Cloudly", 30 : "Clear/Cloudly", 40 : "Pasmurno", 50 : "Short Rain", 
+#                    60 : "Rain",  70 : "Hail", 80 : "Rain with snow",  90 : "Snow",  100 : "Heavy Snow"
+#                    }
+weather = {25 : "Н/Д", 0 : "Ясно", 1 : "С прояснениями", 2 : "Перем. облачность", 3 : "Пасмурно", 4 : "Небольшой дождь", 
+                    5 : "Дождь",  6 : "Гроза",  7 : "Град", 8 : "Снег с дождем",  9 : "Снег",  10 : "Сильный снег"
                     }
-wind_dir = {255 : "N/A", 20 : "N", 35 : "NNE", 55 : "NE",  70 : "ENE", 110 : "E", 125 : "ESE", 145 : "SE", 160 : "SSE", 
-                    200 : "S", 215 : "SSW", 235 : "SW", 250 : "WSW", 290 : "W", 305 : "WNW",  325 : "NW", 340 : "NNW", 360 : "N"
-                }
+#wind_dir = {255 : "N/A", 20 : "N", 35 : "NNE", 55 : "NE",  70 : "ENE", 110 : "E", 125 : "ESE", 145 : "SE", 160 : "SSE", 
+                    #200 : "S", 215 : "SSW", 235 : "SW", 250 : "WSW", 290 : "W", 305 : "WNW",  325 : "NW", 340 : "NNW", 360 : "N"
+                #}
+wind_dir = {255 : "Н/Д", 20 : "С", 35 : "ССЗ", 55 : "СВ",  70 : "ВСВ", 110 : "В", 125 : "ВЮВ", 145 : "ЮВ", 160 : "ЮЮВ", 
+                    200 : "Ю", 215 : "ЮЮЗ", 235 : "ЮЗ", 250 : "ЗЮЗ", 290 : "З", 305 : "ЗСЗ",  325 : "СЗ", 340 : "ССЗ", 360 : "С"
+                }                
 
 def comment_out(str):
 	s = str
@@ -92,6 +98,7 @@ def search_locations(location_str):
     countries = []
     #Для устранения проблемы отображенения символов кириллицы в MythWeather,
     #однако название страны по прежнему на русском, а следовательно - закорюками.
+    #для версии MythTV 0.24 проблем с отображением кириллических символов нет, поэтому возвращаем русские названия городов
     #city_nodes = tree.xpath('//name_en') 
     city_nodes = tree.xpath('//name') 
     for node in city_nodes: 
@@ -125,11 +132,12 @@ def get_data(location_id):
 
 #Из значения облачности получаем тип погоды, тип погоды меняется каждый десяток
     def get_weather(WID):
-        result = 255
-        for i in range(0, 90, 10):
+        '''result = 255
+        for i in range(0, 100, 10):
             max_value = i + 10
             if WID in range(i,  max_value):
-                result = max_value
+                result = max_value'''
+        result = WID/10
         return result
             
     def get_wind(WID):
@@ -187,15 +195,16 @@ def get_data(location_id):
     wind_rumbs = get_text_list('/forecast/current/w_rumb')
     humidities = get_text_list('/forecast/current/h')
 
+
     for i in range(len(clouds)):
         sys.stdout.write( u'copyright::(c) DiscoveringWeather\n')
         sys.stdout.write( u'station_id::%s\n' % location_id)
         sys.stdout.write( u'cclocation:: %s\n' % names[0])
-        sys.stdout.write( u'weather::%s\n' % weather[get_weather(int(clouds[0]))])
+        sys.stdout.write( u'weather::%s\n' % unicode(weather[get_weather(int(clouds[0]))], 'utf8'))
         sys.stdout.write( u'weather_icon::%s\n' % get_icon(picts[0]))
         sys.stdout.write( u'temp::%s\n' % temps[0])
         sys.stdout.write( u'appt::%s\n' % temp_fs[0])
-        sys.stdout.write( u'wind_dir::%s\n' % wind_dir[get_wind(int(wind_rumbs[0]))])
+        sys.stdout.write( u'wind_dir::%s\n' % unicode(wind_dir[get_wind(int(wind_rumbs[0]))], 'utf8'))
         wind = float(winds[0])*3.6
         sys.stdout.write( u'wind_spdgst::%.1f\n' % wind)
         pressure = float(pressures[0])*001.33322368

@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 # This script is partially based on script dwua_xml.pl by Victor Bron
-# Script gets the wheater  form the weather.co.ua
-# For six day forecast, we have forecast only for five days since such data provides site weather.co.ua
+# Script gets the wheater form the weather.co.ua
+# For six day forecast, we have forecast for only five days, since such data provides site weather.co.ua
 import string
 import time
 import datetime
@@ -110,7 +110,8 @@ def search_locations(location_str):
         countries.append(node.text)
     for i in range(len(city_nodes)):
         #Для устранения проблемы закорюк выковыриваем и английское название страны
-        country_ids = countries_tree.xpath('/country/country[@id=' + countries[i] + ']/name_en')
+        #country_ids = countries_tree.xpath('/country/country[@id=' + countries[i] + ']/name_en')
+        country_ids = countries_tree.xpath('/country/country[@id=' + countries[i] + ']/name')
         sys.stdout.write( u'%s::%s, %s\n' % (ids[i], cities[i],  country_ids[0].text))
 
 def get_data(location_id):
@@ -147,7 +148,8 @@ def get_data(location_id):
     base_url = 'http://xml.weather.co.ua/1.2/forecast/'
     xml_page = get_page(base_url + urllib.quote(location_id.encode('utf8')) + '?dayf=5&userid=YourSite_com&lang=ru')
     tree = etree.XML(xml_page)
-    names = get_text_list('/forecast/city/name_en')
+    #names = get_text_list('/forecast/city/name_en')
+    names = get_text_list('/forecast/city/name')
     sys.stdout.write( u'3dlocation::%s\n' % names[0])
     sys.stdout.write( u'6dlocation::%s\n' % names[0])
     updatetimes = tree.xpath('/forecast[@version]')
