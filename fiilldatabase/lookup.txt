@@ -1,62 +1,67 @@
+1+1 International|none|http://www.lyngsat-logo.com/logo/tv/num/1plus1_international.jpg
 1+1|none|http://www.lyngsat-logo.com/logo/tv/num/1plus1.jpg 
+1 Auto|none|http://www.lyngsat-logo.com/logo/tv/pp/pershiy_avtomobilniy.jpg 
 2+2|none|http://www.lyngsat-logo.com/logo/tv/num/2plus2.jpg 
-Channel 5 (Ukraine)|none|http://www.lyngsat-logo.com/logo/tv/kk/kanal5_ua.jpg 
 Babay|none|http://www.lyngsat-logo.com/logo/tv/bb/babay.jpg 
+Channel 5 (Ukraine)|none|http://www.lyngsat-logo.com/logo/tv/kk/kanal5_ua.jpg 
 ChePe Info|none|http://www.lyngsat-logo.com/logo/tv/cc/che_pe_info.jpg 
 CiTi|none|http://www.lyngsat-logo.com/logo/tv/cc/citi_tv.jpg 
 CNL Ukraina|none|http://www.lyngsat-logo.com/logo/tv/cc/cnl_new_life_channel.jpg 
 Eko TV|none| 
-English Club TV|none|http://www.lyngsat-logo.com/logo/tv/ee/english_club_tv.jpg 
+ENGLISH CLUB TV|none|http://www.lyngsat-logo.com/logo/tv/ee/english_club_tv.jpg 
 Enter Film|none|http://www.lyngsat-logo.com/logo/tv/ee/enter_film.jpg 
 Enter Music|none|http://www.lyngsat-logo.com/logo/tv/ee/enter_music_tv.jpg 
-Glas|none|http://www.lyngsat-logo.com/logo/tv/gg/glas_ua.jpg 
+Gamma|none|http://www.lyngsat-logo.com/logo/tv/gg/gamma_telekanal.jpg 
+GLAS|none|http://www.lyngsat-logo.com/logo/tv/gg/glas_ua.jpg 
 Gumor TV|none|http://www.lyngsat-logo.com/logo/tv/gg/gumor.jpg 
 ICTV|none|http://www.lyngsat-logo.com/logo/tv/ii/ictv_ua.jpg 
 Inter+|none|http://www.lyngsat-logo.com/logo/tv/ii/inter_plus_ua.jpg 
 K1|none|http://www.lyngsat-logo.com/logo/tv/kk/k1.jpg 
 K2|none|http://www.lyngsat-logo.com/logo/tv/kk/k2.jpg 
 KDRTRK|none|http://www.lyngsat-logo.com/logo/tv/kk/kdrtrk.jpg 
+KIEV STB|none| http://www.lyngsat-logo.com/logo/tv/ss/stb.jpg 
 Kiko|none| http://www.lyngsat-logo.com/logo/tv/kk/kiko.jpg 
 KRT|none|
 Kultura|none|http://www.lyngsat-logo.com/logo/tv/kk/kultura_ua.jpg 
 M1|none|http://www.lyngsat-logo.com/logo/tv/mm/m1_ua.jpg 
-M2|none|http://www.lyngsat-logo.com/logo/tv/mm/m2_ua.jpg 
+M2 Estrada|none|http://www.lyngsat-logo.com/logo/tv/mm/m2_ua.jpg 
 Malyatko TV|none|
 Maxxi TV|none|http://www.lyngsat-logo.com/logo/tv/mm/maxxi_tv.jpg 
 Mega|none|http://www.lyngsat-logo.com/logo/tv/mm/mega_ua.jpg 
 Menu TV|none|http://www.lyngsat-logo.com/logo/tv/mm/menu_tv.jpg 
 MTV UA|none|http://www.lyngsat-logo.com/logo/tv/mm/mtv_ua.jpg 
-Music Box Ukraina|none|http://www.lyngsat-logo.com/logo/tv/mm/musicbox_tv.jpg 
+MUSIC BOX|none|http://www.lyngsat-logo.com/logo/tv/mm/musicbox_tv.jpg 
 NEWS 24|none|http://www.lyngsat-logo.com/logo/tv/nn/news24_ua.jpg 
-News One|none|http://www.lyngsat-logo.com/logo/tv/nn/news_one_channel.jpg 
+NEWS ONE|none|http://www.lyngsat-logo.com/logo/tv/nn/news_one_channel.jpg 
 NOVY CHANNEL|none|http://www.lyngsat-logo.com/logo/tv/nn/novykanal.jpg 
 NTA|none|
 NTN|none|http://www.lyngsat-logo.com/logo/tv/nn/ntn_ua.jpg 
-OK|none|http://www.lyngsat-logo.com/logo/tv/oo/ok_tv_ua.jpg 
+OSK-Odessa|none|http://www.lyngsat-logo.com/logo/tv/oo/ok_tv_ua.jpg 
 OTV Music|none|http://www.lyngsat-logo.com/logo/tv/oo/otv.jpg 
-Pershiy Avtomobilniy|none|http://www.lyngsat-logo.com/logo/tv/pp/pershiy_avtomobilniy.jpg 
-Pershiy Diloviy|none|http://www.lyngsat-logo.com/logo/tv/pp/pershiy_diloviy_tv1.jpg 
+Pervy delovoy|none|http://www.lyngsat-logo.com/logo/tv/pp/pershiy_diloviy_tv1.jpg 
 Planeta|none|
-Pogoda TV|none|http://www.lyngsat-logo.com/logo/tv/pp/pogoda_tv.jpg 
+PogodaTV|none|http://www.lyngsat-logo.com/logo/tv/pp/pogoda_tv.jpg 
 Pro Vse|none|http://www.lyngsat-logo.com/logo/tv/pp/pro_vse.jpg 
 QTV|none|http://www.lyngsat-logo.com/logo/tv/qq/qtv_ua.jpg 
-Rada|none|http://www.lyngsat-logo.com/logo/tv/rr/rada_parlamentskiy_telekanal.jpg 
+RADA|none|http://www.lyngsat-logo.com/logo/tv/rr/rada_parlamentskiy_telekanal.jpg 
 REAL ESTATE TV|none|http://www.lyngsat-logo.com/logo/tv/rr/real_estate_tv_ua.jpg 
+Romantica 2|none|
 RTR Planeta|none|http://www.lyngsat-logo.com/logo/tv/rr/rtr_planeta.jpg 
-Ru Music|none|http://www.lyngsat-logo.com/logo/tv/rr/ru_music_tv.jpg 
-Shopping TV|none|http://www.lyngsat-logo.com/logo/tv/ss/shopping_tv_ua.jpg 
-Slavonic Channel International|none|http://www.lyngsat-logo.com/logo/tv/ii/inter_ua.jpg 
-Star TV|none|http://www.lyngsat-logo.com/logo/tv/ss/star_tv_ua.jpg 
+RU MUSIC|none|http://www.lyngsat-logo.com/logo/tv/rr/ru_music_tv.jpg 
+SCI|none|http://www.lyngsat-logo.com/logo/tv/ss/slavonian_channel_international.jpg
+SHOPping TV|none|http://www.lyngsat-logo.com/logo/tv/ss/shopping_tv_ua.jpg 
+Star TV UKR|none|http://www.lyngsat-logo.com/logo/tv/ss/star_tv_ua.jpg 
 Svit|none|http://www.lyngsat-logo.com/logo/tv/ss/svit_ua.jpg 
-Gamma|none|http://www.lyngsat-logo.com/logo/tv/gg/gamma_telekanal.jpg 
-KIEV STB|none| http://www.lyngsat-logo.com/logo/tv/ss/stb.jpg 
+TBi|none|http://www.lyngsat-logo.com/logo/tv/tt/tvi_ua.jpg 
+TET|none|http://www.lyngsat-logo.com/logo/tv/tt/tet_ua.jpg
 Tisa 1|none|http://www.lyngsat-logo.com/logo/tv/tt/tisa1.jpg 
 Tonis|none|http://www.lyngsat-logo.com/logo/tv/tt/tonis.jpg 
-TBi|none|http://www.lyngsat-logo.com/logo/tv/tt/tvi_ua.jpg 
 UBC|none|http://www.lyngsat-logo.com/logo/tv/uu/ubc_ua.jpg 
 UBR|none|http://www.lyngsat-logo.com/logo/tv/uu/ubr.jpg 
+UKRAINA|none|http://www.lyngsat-logo.com/logo/tv/tt/trk_ukraina.jpg
 Unian-TV|none|
-UNT|none|http://www.lyngsat-logo.com/logo/tv/uu/unt_ua.jpg
+UNT|none|http://www.lyngsat-logo.com/logo/tv/uu/unt_ua.jpg 
 UTR|none|http://www.lyngsat-logo.com/logo/tv/uu/utr_ua.jpg 
+YHT|none|http://www.lyngsat-logo.com/logo/tv/uu/unt_ua.jpg
 Zik|none|http://www.lyngsat-logo.com/logo/tv/zz/zik_ua.jpg
-#ТВ Бульвар|none|http://www.lyngsat-logo.com/logo/tv/uu/unt_ua.jpg
+
