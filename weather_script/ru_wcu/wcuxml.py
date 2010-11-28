@@ -70,7 +70,8 @@ def print_exception(str):
 def get_page(address,  title=''):
     data={}
     req = urllib2.Request(address, data)
-    response = urllib2.urlopen(req)
+    #response = urllib2.urlopen(req)
+    response = urllib2.urlopen(req.get_full_url())
     if response.code == 200:
         pagedata = response.read()
         return pagedata
