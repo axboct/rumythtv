@@ -44,7 +44,7 @@ icons = {'_0_moon.gif' : 'sunny.png',  '_0_sun.gif' :  'sunny.png',  '_1_moon_cl
             '_1_sun_cl.gif' : 'pcloudy.png',  '_2_cloudy.gif' : 'mcloudy.png', '_3_pasmurno.gif' :  'cloudy.png', 
             '_4_short_rain.gif' : 'lshowers.png', '_5_rain.gif' : 'showers.png',  
             '_6_lightning.gif' : 'thunshowers.png', '_7_hail.gif' :  'fog.png', 
-            'ico=~/^_8_rain_snow.gif' :  'rainsnow.png', 'ico=~ /_9_snow.gif' : 'snowshow.png',  '_10_heavy_snow.gif' :  'snowshow.png', 
+            '_8_rain_snow.gif' :  'rainsnow.png', '_9_snow.gif' : 'snowshow.png',  '_10_heavy_snow.gif' :  'snowshow.png', 
             '_255_NA.gif' : 'unknown.png'
              }
 weather = {25 : "Н/Д", 0 : "Ясно", 1 : "С прояснениями", 2 : "Перем. облачность", 3 : "Пасмурно", 4 : "Небольшой дождь", 
