@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<!-- 
+To submit translations for your native language
+
+1. Create a copy of this file
+2. Replace all english terms with your native equivalent
+3. Email the file to analogue@yahoo.com or create an issue on the googlecode issue tracker.
+-->
+
+<strings>
+  <string id="0">Myth TV</string>
+  <string id="1">Смотреть ТВ</string>
+  <string id="2">Смотреть записи (этот экран переписывается)</string>
+  <string id="3">Программа передач</string>
+  <string id="4">Предстоящие записи</string>
+  <string id="5">Статус</string>
+  <string id="6">Настройки</string>
+  <string id="7">Главный хост IP/Имя</string>
+  <string id="8">Порт</string>
+  <string id="9">Порт статуса</string>
+  <string id="10">Версия протокола</string>
+  <string id="11">Имя базы данных</string>
+  <string id="12">Пользователь</string>
+  <string id="13">Пароль</string>
+  <string id="14">Каталог записей</string>
+  <string id="15"></string>
+  <string id="16"></string>
+  <string id="17">Сохранить</string>
+  <string id="18">Myth TV - Настройки</string>
+  <string id="19">Myth TV - Настройки MySQL</string>
+  <string id="20">Myth TV - Настройки путей</string>
+  <string id="21">Myth TV</string>
+  <string id="22">MySQL</string>
+  <string id="23">Пути</string>
+  <string id="24">Проверить настройки</string>
+  <string id="25">Настройки успешно сохранены.</string>
+  
+  <string id="29">Настройки были изменены. Потерять сохраненные настройки?</string>
+  <string id="30">Задано неверное целое значение.</string>
+  <string id="31">Сбой при подключении к главному бэкэнду Myth TV.</string>
+  <string id="32">Сбой при подключении к базе данных MySQL.</string>
+  <string id="33">Настройки успешно проверены.</string>
+  <string id="34">Отсутсвует тэг '%s' настроек.</string>
+  <string id="35">Не найден файл настроек.</string>
+  <string id="36">Файл настроек устарел - объединение с файлом по умолчанию.</string>
+  <string id="37">Хост MySQL  IP/Имя</string>
+  <string id="38">Смотреть по: Дата по возрастанию</string>
+  <string id="39">Смотреть по: Заголовок по возрастанию</string>
+  <string id="40">Заголовок</string>
+  <string id="41">Канал</string>
+  <string id="42">Дата первого эфира</string>
+  <string id="43">Дата эфира</string>
+  <string id="44">Описание</string>
+  
+  <!-- Strings -->
+  <string id="26">Информация</string>
+  <string id="27">Ошибка</string>
+  <string id="28">Подтверждение</string>
+  <string id="45">Неизвестно</string>
+  <string id="65">Вы уверены что хотите удалить запись?</string>
+  <string id="51">Вы уверены что хотите записать запись?</string>
+  
+  
+  
+  <string id="46">Недоступно</string>
+  <string id="47">Подробности о показе</string>
+  <string id="48">Воспроизвести</string>
+  <string id="49">Сохранить</string>
+  <string id="50">Устаревает</string>
+  
+  <string id="52">Удалить</string>
+  <string id="53">Обновить</string>
+  <string id="54">Невозмжно найти показ '%s' на '%s'.</string>
+  <string id="55">Размер буфера LiveTV (КБ)</string>
+  <string id="56">Категория</string>
+  <string id="57">Автоустаревание</string>
+  <string id="58">Да</string>
+  <string id="59">Нет</string>
+  <string id="60">Размер файла</string>
+  <string id="61">КБ</string>
+  <string id="62">МБ</string>
+  <string id="63">ГБ</string>
+  <string id="64">байт</string>
+  
+  <string id="66">Копирования файла завершено.</string>
+  <string id="67">Ошибка копирования файла.</string>
+  <string id="68">Копировать показ на локальный жесткий диск?</string>
+  <string id="69">Смотреть по: Дата по убыванию</string>
+  <string id="70">Смотреть по: Заголовок по убыванию</string>
+  <string id="71">Статут тюнера</string>
+  <string id="72">Расписание</string>
+  <string id="73">Информация о компьютере</string>
+  <string id="74">Введите FQDN или IP вашего главного бэкэнда Myth TV.</string>
+  <string id="75">Не удалось проанализировать информацию о состоянии, возвращаемую сервером.</string>
+  <string id="76">Свободно места</string>
+  <string id="77">Всего места</string>
+  <string id="78">Места используется</string>
+  <string id="79">1 минута</string>
+  <string id="80">5 минут</string>
+  <string id="81">15 минут</string>
+  <string id="82">Место на диске</string>
+  <string id="83">Средняя загрузка</string>
+  <string id="84">Следующие %d показов которые запланированы для записи.</string>
+  <string id="85">Невозможно получить скриншот с бэкэнда.</string>
+  <string id="86">Настройки отсутсвуют или устарели. Пожалуйста проверьте ваши настройки.</string>
+  <string id="87">Примечания</string>
+  
+  
+  <!-- enums.RecordingStatus -->
+  <string id="88">Showing was recorded but was deleted before completion</string>
+  <string id="89">Showing was recorded but was stopped before completion</string>
+  <string id="90">Showing was recorded</string>
+  <string id="91">Showing is being recorded</string>
+  <string id="92">Showing will be recorded</string>
+  <string id="93">Status of this showing is unknown</string>
+  <string id="94">Showing was manually set to not record</string>
+  <string id="95">Episode was previously recorded</string>
+  <string id="96">Episode was previously recorded and is still available</string>
+  <string id="97">Episode will be recorded at an earlier time</string>
+  <string id="98">Max number of recordings limit reached</string>
+  <string id="99">Scheduled to be recorded but was manually cancelled</string>
+  <string id="100">Another program with a higher priority will be recorded</string>
+  <string id="101">Episode will be recorded at a later time</string>
+  <string id="102">Episode is a repeat and will not be recorded</string>
+  <string id="103">This is covered by another scheduled recording for the same program</string>
+  <string id="104">Недостаточно места на диске для записи этой программы</string>
+  <string id="105">Тюнер был занят на момент этой записи</string>
+  
+  
+  <string id="106">Вы хотите автоматически пропускать рекламу?</string>
+  <string id="107">Программа передач</string>
+  <string id="108">Нет данных</string>
+  <string id="109">Ошибка версии протокола: %s</string>
+  <string id="110">Расписание записей</string>
+  
+  <!-- enums.ScheduleType -->
+  <string id="170">Не записывать</string>
+  <string id="111">Один раз</string>
+  <string id="112">Ежедневно</string>
+  <string id="113">Канал</string>
+  <string id="114">Всегда</string>
+  <string id="115">Еженедельно</string>
+  <string id="116">Найти однократные</string>
+  <string id="117">Перезаписать</string>
+  <string id="118">Не записывать</string>
+  
+  
+  <string id="119">Найти ежедневные</string>
+  <string id="120">Найти еженедельные</string>
+  <string id="121">Подробности расписания записи - "%s"</string>
+  <string id="122">Расписание записи больше не существует.</string>
+  <string id="123">Тип</string>
+  <string id="124">Профиль</string>
+  <string id="125">Группа</string>
+  <string id="126">Приоритет</string>
+  <string id="127">Duplicates In</string>
+  <string id="128">Метод проверки</string>
+  <string id="129">Пометка рекламы</string>
+  <string id="130">Автоустаревание</string>
+  <string id="131">Record New Expire Old</string>
+  <string id="132">Number To Keep</string>
+  <string id="133">Сдвиг начала</string>
+  <string id="134">Сдвиг конца</string>
+  
+  <!-- enums.ScheduleType.long_translations -->
+  <string id="135">Только этот показ</string>
+  <string id="136">Ежедневно в это время</string>
+  <string id="137">В любое время на этом канале</string>
+  <string id="138">В любое время на любом канале</string>
+  <string id="139">Еженедельно в это время</string>
+  <string id="140">Найти один показ</string>
+  <string id="141">(Переопределение) Записать этот конкретный показ</string>
+  <string id="142">(Переопределение) Не записывать этот конкретный показ</string>
+  <string id="143">Один раз в день</string>
+  <string id="144">Один раз в неделю</string>
+  
+  <!-- enums.CheckForDupesUsing -->
+  <string id="145">Нет</string>
+  <string id="146">Подзаголовок</string>
+  <string id="147">Описание</string>
+  <string id="148">Подзаголовок и описание</string>
+  <string id="200">Подзаголовок и потом описание</string>
+  
+  <!-- enums.CheckForDupesIn -->
+  <string id="149">Текущие записи</string>
+  <string id="150">Предыдущие записи</string>
+  <string id="153">Все записи</string>
+  
+  <!-- enums.EpisodeFilter -->
+  <string id="201">Нет</string>
+  <string id="152">Только новые эпизоды</string>
+  <string id="151">Исключая повторяющиеся эпизоды</string>
+  <string id="202">Исключая общие эпизоды</string>
+  <string id="203">Исключая повторяющиеся и общие эпизоды</string>      
+
+  <!-- enums.JobType -->
+  <string id="250">Нет</string>
+  <string id="251">Система</string>
+  <string id="252">Перекодировка</string>
+  <string id="253">Пометка рекламы</string>
+  <string id="254">Задание пользователя</string>
+  <string id="255">Задание пользователя 1</string>
+  <string id="256">Задание пользователя 2</string>
+  <string id="257">Задание пользователя 3</string>
+  <string id="258">Задание пользователя 4</string>
+
+  <!-- enums.JobStatus -->
+  <string id="260">Неизвестно</string>
+  <string id="261">В очереди</string>
+  <string id="262">Ожидает</string>
+  <string id="263">Начинается</string>
+  <string id="264">Выполняется</string>
+  <string id="265">Останавливается</string>
+  <string id="266">Остановлено</string>
+  <string id="267">Повтор</string>
+  <string id="268">Ошибка</string>
+  <string id="269">Прерывание</string>
+  <string id="270">Выполнено (Неверный статус!)</string>
+  <string id="271">Закончено</string>
+  <string id="272">Остановлено</string>
+  <string id="273">Ошибка</string>
+  <string id="274">Отменено</string>
+  
+  
+  <string id="154">Значение должно быть &gt;= к %d</string>
+  <string id="155">Значение должно быть &lt;= к %d</string>
+  <string id="156">Выберите значение</string>
+  <string id="157">Удалить расписание полностью?</string>
+  <string id="158">Изменения расписания успешно сохранены.</string>
+  <string id="159">Группа записей</string>
+  <string id="160">Показать заголовок</string>
+  <string id="161">Эпизод</string>
+  <string id="162">LiveTV Tuning Wait</string>
+  <string id="163">ID стартовой страницы</string>
+  <string id="164">DVDPlayer для просмотра ТВ</string>
+  <string id="165">DVDPlayer для записей</string>
+  <string id="166">Record LiveTV</string>
+  <string id="167">Record LiveTV Length</string>
+  <string id="168">Перезапись</string>
+  <string id="169">Воспроизведение и пропуск</string>
+  
+  
+  <!--  Common -->
+  <string id="210">Обновить</string>
+  <string id="211">[B]Дата[/B]</string>
+  <string id="212">[B]Заголовок[/B]</string>
+
+  <!-- Screen Titles -->
+  <string id="295">[B]Настройки[/B]</string>
+
+  
+  <!-- Home Screen -->
+  <string id="300">Смотреть записи</string>
+  <string id="301">Смотреть ТВ</string>
+  <string id="302">Программа передач</string>
+  <string id="303">Расписание записей</string>              
+  <string id="304">Предстоящие записи</string>
+  <string id="305">Настройки</string>
+  
+  <string id="310">[B]Тюнер[/B]</string>
+  <string id="311">[B]Статус[/B]</string>
+  <string id="312">[B]Задание[/B]</string>
+  
+  <string id="313">Пометка рекламы</string>
+  <string id="314">Перекодировка</string>
+  <string id="315">обработка</string>
+  <string id="316">Ожидание пометки рекламы</string>
+  <string id="317">Ожидание перекодировки</string>
+  <string id="318">Ожидание запуска %s на %s</string>
+    
+  <string id="319">Свободен</string>
+  <string id="320">Следующая запись %s начнется в %s</string>
+  <string id="321">Просмотр %s на %s. Показ закончится в %s.</string> 
+  <string id="322">Просматривается записанное видео</string>    
+  <string id="323">Просмот и запись %s на %s до %s</string>
+  <string id="324">Запись %s на %s до %s</string>
+  <string id="325">Занят</string>
+  <string id="326">Неизвестный статус тюнера %d</string>
+      
+  <!-- Watch Recordings Screen -->
+  <string id="500">[B]Записи[/B]</string>
+
+
+  <!-- Recording Details Screen -->
+  <string id="600">[B]Recording Details[/B]</string>
+  <string id="601">Воспроизвести</string>
+  <string id="602">Воспроизвести с пропуском</string>
+  <string id="603">Удалить</string>
+  <string id="604">Перезаписать</string>
+  <string id="605">Изменить расписание</string>
+  <string id="606">Front of Queue</string>
+  
+  <string id="610">Заголовок</string>
+  <string id="611">Описание</string>
+  <string id="612">Дата эфира</string>
+  <string id="613">Канал</string>
+  <string id="614">Категория</string>
+  <string id="615">Дата первого эфира</string>
+  <string id="616">Размер</string>
+  <string id="617">Перерывы на рекламу</string>
+  
+  <string id="630">Задание не найдено</string>
+  <string id="631">Загрузка...</string>
+  <string id="632">Нет</string>
+  <string id="633">Queued %d of %d</string>
+  <string id="634">Completed %s at %s fps</string>
+  <string id="635">на</string>
+  <string id="636">Запись %s не найдена.</string>
+  <string id="637">%s на %s к/с</string>
+  <string id="638">Запись %s из %s</string>
+  
+  
+  <!-- Watch TV Screen -->
+  <string id="700">[B]Смотреть ТВ[/B]</string>
+  <string id="701">Все тюнеры заняты.</string>
+  <string id="702">Тюнер(ы) на канале %s занят(ы).</string>
+
+
+  <!-- Player -->
+  <string id="750">Продолжить в %s</string>
+  <string id="751">Пропускать рекламу %s</string>
+  <string id="752">Перематывать рекламу %s</string>
+
+  <!-- TV Guide Screen -->
+  <string id="800">[B]Программа передач[/B]</string>
+  <string id="801">Программа передач недоступна.</string>
+
+
+  <!-- Recordings Screen -->
+  <string id="850">Дата</string>
+  <string id="851">Заголовок</string>
+  <string id="852">Дата первого эфира</string>
+  <string id="853">Сортировать</string>  
+  
+  <!-- Recording Schedules Screen -->
+  <string id="900">[B]Расписание записей[/B]</string>
+  <string id="901">[B]Заголовок[/B]</string>
+  <string id="902">[B]Тип[/B]</string>
+  <string id="903">[B]Приоритет[/B]</string>
+  <string id="904">[B]Канал[/B]</string>
+    
+  
+  <!-- Upcoming Recording Screen -->
+  <string id="1000">[B]Предстоящие записи[/B]</string>
+  <string id="1001">[B]Дата[/B]</string>
+  <string id="1002">[B]Заголовок[/B]</string>
+  <string id="1003">[B]Start Time[/B]</string>
+  <string id="1004">[B]Канал[/B]</string>
+  <string id="1005">[B]Тюнер[/B]</string>
+  
+  <string id="1010">Программа не сопоставлена с запланированной записью</string>
+  <string id="1011">Расписание записи %d не найдено</string>
+  <string id="1012">Сегодня</string>
+  <string id="1013">Завтра</string>  
+
+  <!-- Create/Edit schedule dialog -->
+  <string id="1100">Новое расписание записи</string>
+  <string id="1101">Изменить расписание записи</string>
+  
+  <string id="1102">Запись</string>
+  <string id="1103">Приоритет</string>
+  <string id="1104">Check for Duplicates Using</string>
+  <string id="1105">Check for Duplicates In</string>
+  <string id="1106">Фильтр эпизодов</string>
+  <string id="1107">Автоматическая пометка рекламы</string>
+  <string id="1108">Автоустаревание</string>
+  <string id="1109">Автоперекодировка</string>
+  <string id="1110">Keep At Most</string>
+  <string id="1111">Record New and Expire Old</string>
+  <string id="1112">Начало записи</string>
+  <string id="1113">Конец записи</string>
+  <string id="1114">Расписание включено</string>
+  <string id="1115">%d эпизод(ов)</string>
+  <string id="1116">Все эпизоды</string>
+  <string id="1117">%d минут(а) ранее</string>
+  <string id="1118">Вовремя</string>
+  <string id="1119">%d минут(а) позже</string>  
+  <string id="1123">Значение должно быть между %d и %d</string>
+  
+  <string id="1120">Сохранить</string>
+  <string id="1121">Отмена</string>
+  <string id="1122">Удалить</string>
+  
+  
+  <!-- Settings Screen -->
+  <string id="400">База данных MySQL</string>
+  <string id="401">Имя хоста</string>
+  <string id="402">Порт</string>
+  <string id="403">Имя базы данных</string>
+  <string id="404">Пользователь</string>
+  <string id="405">Пароль</string>
+  <string id="406">Порт по умолчанию 3306</string>
+  <string id="407">Имя базы данных по умолчанию mythconverg</string>
+  <string id="408">Пользователь по умолчанию mythtv</string>
+            
+  <string id="410">MythTV</string>
+  <string id="411">Хост главного бэкэнда</string>
+  <string id="412">Порт главного бэкэнда</string>
+  <string id="413">Локальный каталог(и) записей</string>
+  <string id="414"></string>
+  <string id="415">Подтверждение при удалении</string>
+  <string id="416">Расположение записей MythTV в локальной файловой системе (смонтированные каталоги групп хранения, если бэкэнд удаленный).</string>
+  <string id="417">Несколько каталогов могут быть разделены двоеточием на Linux/Mac или точкой с запятой на Windows.</string>
+  <string id="418">FFMpeg поставляется в комплекте с MythBox для Mac и Windows.  Пользователи Linux должны выполнить 'apt-get install ffmpeg'</string>
+  <string id="419">Включить агрессивное кэширование</string>
+  <string id="427">Агрессивно кэшируются данные за счет увеличения трафика и высокой нагрузки на бэкэнд.</string>
+  <string id="428">НЕ включайте, если вы подключены к бэкэнду MythTV по беспроводному каналу.</string>
+  
+    
+  <string id="420">Fan Art</string>
+  <string id="421">Включить TVDB.com</string>
+  <string id="422">Включить TheMovieDB.org</string>
+  <string id="423">Включить IMDB.com</string>
+  <string id="424">Включить Google Image Search</string>
+  <string id="425">Очистить кэш</string>
+  <string id="426">Caches cleared successfully</string>
+  <string id="429">Включить TVRage.com</string>
+    
+  <string id="430">Проверить настройки</string>
+  <string id="431">Настройки OK</string>
+
+  <string id="440">Дополнительно</string>
+  <string id="441">Включить хак для lirc для потора нажатий клавиш</string>
+  <string id="442">Включить отладочное логирование</string>
+  <string id="443">Каналы Twitter</string>
+  <string id="444">Если вы используете пульт ДУ с LIRC, и иногда получаете два события нажатия кнопки вместо одного</string>
+  <string id="445">тогда включите это, чтобы избежать лишних нажатий.</string>
+  <string id="446">Разделенный запятыми список названий публичных имен Twitter. Попробуйте некоторые из них: cnnbrk, woot, thelittleidiot, wired, current...</string> 
+  
+  <string id="450">Настройки XBMC</string>
+  <string id="455">Readme и FAQ</string>
+  <string id="460">О плагине</string>
+  
+</strings>
