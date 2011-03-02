@@ -1,6 +1,8 @@
 
 #include <cstring>
 
+#include <QTextCodec>
+
 #include "bdnav/mpls_parse.h"
 #include "bdnav/navigation.h"
 #include "bdnav/bdparse.h"
@@ -58,13 +60,13 @@ bool BDRingBufferPriv::OpenFile(const QString &filename)
 {
     QTextCodec::setCodecForCStrings(QTextCodec::codecForName("UTF-8"));
     VERBOSE(VB_IMPORTANT, LOC + QString("Opened BDRingBuffer device at %1")
-            .arg(filename.toAscii().data()));
+            .arg(filename.toUtf8().data()));
 
     QString keyfile = QString("%1/KEYDB.cfg").arg(GetConfDir());
-    QByteArray keyarray = keyfile.toAscii();
+    QByteArray keyarray = keyfile.toUtf8();
     const char *keyfilepath = keyarray.data();
 
-    bdnav = bd_open(filename.toAscii().data(), keyfilepath);
+    bdnav = bd_open(filename.toUtf8().data(), keyfilepath);
 
     // The following settings affect HDMV navigation (default audio track selection,
     // parental controls, menu language, etc.  They are not yet used.
@@ -72,9 +74,9 @@ bool BDRingBufferPriv::OpenFile(const QString &filename)
     // Set parental level "age" to 99 for now.  TODO: Add support for FE level
     bd_set_player_setting(bdnav, BLURAY_PLAYER_SETTING_PARENTAL, 99);
     // Set preferred language to FE guide language
-    const char *langpref = gCoreContext->GetSetting("ISO639Language0", "eng").toAscii().data();
+    const char *langpref = gCoreContext->GetSetting("ISO639Language0", "eng").toUtf8().data();
     QString QScountry  = gCoreContext->GetLocale()->GetCountryCode().toLower();
-    const char *country = QScountry.toAscii().data();
+    const char *country = QScountry.toUtf8().data();
     bd_set_player_setting_str(bdnav, BLURAY_PLAYER_SETTING_AUDIO_LANG, langpref);
     // Set preferred presentation graphics language to the FE guide language
     bd_set_player_setting_str(bdnav, BLURAY_PLAYER_SETTING_PG_LANG, langpref);
