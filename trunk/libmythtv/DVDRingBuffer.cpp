@@ -1,6 +1,8 @@
 #include <unistd.h>
 #include <stdlib.h>
 
+#include <QTextCodec>
+
 #include "mythconfig.h"
 
 #include "DVDRingBuffer.h"
@@ -168,7 +170,7 @@ bool DVDRingBufferPriv::OpenFile(const QString &filename)
     m_dvdFilename = filename;
     m_dvdFilename.detach();
     QTextCodec::setCodecForCStrings(QTextCodec::codecForName("UTF-8"));
-    QByteArray fname = m_dvdFilename.toAscii();
+    QByteArray fname = m_dvdFilename.toUtf8();
 
     dvdnav_status_t res = dvdnav_open(&m_dvdnav, fname.constData());
     if (res == DVDNAV_STATUS_ERR)
