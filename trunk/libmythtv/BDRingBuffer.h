@@ -4,6 +4,7 @@
 #define BD_BLOCK_SIZE 6144LL
 
 #include <QString>
+#include <QTextCodec>
 
 #include "libmythbluray/bluray.h"
 #include "libmythbluray/keys.h"
