@@ -43,7 +43,7 @@ class MPUBLIC DVDRingBufferPriv
     long long GetTotalReadPosition(void) { return m_titleLength; }
     void GetDescForPos(QString &desc);
     void GetPartAndTitle(int &_part, int &_title) const
-	{ _part  = m_part; _title = m_title; }
+        { _part  = m_part; _title = m_title; }
     uint GetTotalTimeOfTitle(void);
     uint GetChapterLength(void) const { return m_pgLength / 90000; }
     uint GetCellStart(void);
@@ -72,7 +72,7 @@ class MPUBLIC DVDRingBufferPriv
     // Subtitles
     uint GetSubtitleLanguage(int key);
     bool DecodeSubtitles(AVSubtitle * sub, int * gotSubtitles,
-			 const uint8_t * buf, int buf_size);
+                         const uint8_t * buf, int buf_size);
 
     uint GetAudioLanguage(int id);
     int  GetAudioTrackNum(uint key);
@@ -82,13 +82,13 @@ class MPUBLIC DVDRingBufferPriv
     double GetFrameRate(void);
     bool StartOfTitle(void) { return (m_part == 0); }
     bool EndOfTitle(void)   { return    ((!m_titleParts) ||
-					(m_part == (m_titleParts - 1)) ||
-					(m_titleParts == 1)); }
+                                        (m_part == (m_titleParts - 1)) ||
+                                        (m_titleParts == 1)); }
 
     // commands
     bool OpenFile(const QString &filename);
     void PlayTitleAndPart(int _title, int _part)
-	{ dvdnav_part_play(m_dvdnav, _title, _part); }
+        { dvdnav_part_play(m_dvdnav, _title, _part); }
     bool StartFromBeginning(void);
     void CloseDVD(void);
     bool nextTrack(void);
@@ -195,11 +195,11 @@ class MPUBLIC DVDRingBufferPriv
 
     int get_nibble(const uint8_t *buf, int nibble_offset);
     int decode_rle(uint8_t *bitmap, int linesize, int w, int h,
-		    const uint8_t *buf, int nibble_offset, int buf_size);
+                    const uint8_t *buf, int nibble_offset, int buf_size);
     void guess_palette(uint32_t *rgba_palette,uint8_t *palette,
-		       uint8_t *alpha);
+                       uint8_t *alpha);
     int is_transp(const uint8_t *buf, int pitch, int n,
-		  const uint8_t *transp_color);
+                  const uint8_t *transp_color);
     int find_smallest_bounding_rectangle(AVSubtitle *s);
 };
 
