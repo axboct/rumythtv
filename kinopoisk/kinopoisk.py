@@ -45,6 +45,16 @@ def print_exception(str):
 	for line in str.splitlines():
 		comment_out(line)
 
+
+def title_correction(title):
+    try:
+        regexp= re.compile(r'<.*?>')
+        title = regexp.sub('',  title)
+        return title
+    except:
+        return title
+        
+
 #Замена различных спецсимволов и тегов HTML на обычные символы, 
 #возможно есть более правильное решение, но вроде и это работает.
 def  normilize_string(processingstring):
@@ -267,7 +277,9 @@ def search_data(uid, rating_country):
                 #				'writers' : '',
 				}
         data = get_page("/level/1/film/"+uid, 1)
-        filmdata['title'] =normilize_string(single_value(data, 'class="moviename-big">(.*?)</h1>') ).rstrip()
+        #filmdata['title'] =normilize_string(single_value(data, 'class="moviename-big">(.*?)</h1>') ).rstrip()
+        filmdata['title'] =normilize_string(title_correction(single_value(data, 'class="moviename-big">(.*?)</h1>') ).rstrip())
+        
         filmdata['directors'] = normilize_string(get_multi_value('>режиссер</td>(.*?)</tr>', '<a href=".*?>(.*?)</a>'))
         filmdata['countries'] = get_multi_value('>страна</td>(.*?)</tr>', '<a href=".*?>(.*?)</a>')
         filmdata['year'] = single_value(data, '>год</td>.*?<a href=.*?>(.*?)</a>')
