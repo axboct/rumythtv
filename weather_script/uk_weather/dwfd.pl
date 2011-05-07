@@ -3,6 +3,8 @@
 # Based on nwsxml.pl by Lucien Dunning
 #
 use strict;
+#use utf8;
+#use open qw(:std :utf8);
 use XML::SAX::PurePerl;
 use XML::Simple;
 use LWP::Simple;
@@ -141,7 +143,7 @@ if (defined $opt_l) {
     }
     for  (my $i=0; $xml->{city}->[$i]->{id} !=''; ++$i) {
      my $city_id=$xml->{city}->[$i]->{id};
-     my $city_name=$xml->{city}->[$i]->{name_en}[0];
+     my $city_name=$xml->{city}->[$i]->{name}[0];
      printf "$city_id\:\:$city_name\n";
     }
     exit 0;
