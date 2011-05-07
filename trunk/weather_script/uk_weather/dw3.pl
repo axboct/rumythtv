@@ -3,6 +3,8 @@
 # Based on nwsxml.pl by Lucien Dunning
 #
 use strict;
+use utf8;
+use open qw(:std :utf8);
 use XML::SAX::PurePerl;
 use XML::Simple;
 use LWP::Simple;
@@ -30,7 +32,7 @@ my $dir = "./";
   # print Dumper($xml)
   for  (my $i=0; $xml->{city}->[$i]->{id} !=''; ++$i) {
     if ($id==$xml->{city}->[$i]->{id}) {
-      return $xml->{city}->[$i]->{name_en}[0]; 
+      return $xml->{city}->[$i]->{name}[0]; 
     }  
   }
   return "N/A";
@@ -41,7 +43,6 @@ sub dataout
  my $locid=$_[0];
  my $base_url;
  my $local_base_url ='http://xml.weather.co.ua/1.2/forecast/';
-# my $local_base_url ='http://weather.co.ua/xml/feed.xml?version=1.0&city=';
  $base_url =$local_base_url . $locid . "?&dayf=1&userid=yoursite_com";
  my $response = get $base_url; 
  die unless defined $response;
@@ -168,7 +169,7 @@ if (defined $opt_l) {
     }
     for  (my $i=0; $xml->{city}->[$i]->{id} !=''; ++$i) {
      my $city_id=$xml->{city}->[$i]->{id};
-     my $city_name=$xml->{city}->[$i]->{name_en}[0];
+     my $city_name=$xml->{city}->[$i]->{name}[0];
      printf "$city_id\:\:$city_name\n";
     }
     exit 0;
