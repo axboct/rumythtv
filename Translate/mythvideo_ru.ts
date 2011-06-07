@@ -4,28 +4,24 @@
 <context>
     <name></name>
     <message>
-        <location filename="../mythvideo/globalsettings.cpp" line="246"/>
         <source>G</source>
         <comment>PL 1 default search string.</comment>
-        <translation>G</translation>
+        <translation type="obsolete">G</translation>
     </message>
     <message>
-        <location filename="../mythvideo/globalsettings.cpp" line="248"/>
         <source>PG</source>
         <comment>PL 2 default search string.</comment>
-        <translation>PG</translation>
+        <translation type="obsolete">PG</translation>
     </message>
     <message>
-        <location filename="../mythvideo/globalsettings.cpp" line="250"/>
         <source>PG-13</source>
         <comment>PL3 default search string.</comment>
-        <translation>PG-13</translation>
+        <translation type="obsolete">PG-13</translation>
     </message>
     <message>
-        <location filename="../mythvideo/globalsettings.cpp" line="252"/>
         <source>R:NC-17</source>
         <comment>PL4 default search string.</comment>
-        <translation>R:NC-17</translation>
+        <translation type="obsolete">R:NC-17</translation>
     </message>
     <message>
         <source>Tried to write %1, but it appears to be an HTML redirect (filesize %2).</source>
@@ -145,7 +141,42 @@
         <translation type="obsolete">Удалить</translation>
     </message>
     <message>
-        <location filename="../mythvideo/fileassoc.cpp" line="430"/>
+        <location filename="../mythvideo/fileassoc.cpp" line="373"/>
+        <source>Select a file extension from this list to modify or delete its settings.</source>
+        <translation>Выберите расширение файла из этого списка чтобы изменить или удалить его настройки.</translation>
+    </message>
+    <message>
+        <location filename="../mythvideo/fileassoc.cpp" line="375"/>
+        <source>The command to use when playing this kind of file.  To use MythTV&apos;s Internal player, use &quot;Internal&quot; as the player.  For all other players, you can use %s to substitute the filename.</source>
+        <translation>Команда используется для воспроизведения этого типа файлов. Чтобы использовать внутренний плеер MythTV, используйте &quot;Internal&quot;. Для остальных плееров вы можете использовать %s для подстановки имени файла.</translation>
+    </message>
+    <message>
+        <location filename="../mythvideo/fileassoc.cpp" line="379"/>
+        <source>When checked, this will cause the file extension to be ignored in scans of your library.</source>
+        <translation>Если это флажок установлен, расширение файла будет игнорироваться при сканировании библиотеки видео.</translation>
+    </message>
+    <message>
+        <location filename="../mythvideo/fileassoc.cpp" line="381"/>
+        <source>When checked, this will cause the global player settings to override this one.</source>
+        <translation>Если это флажок установлен, то глобальные настройки плеера будут переопределены этими настройками.</translation>
+    </message>
+    <message>
+        <location filename="../mythvideo/fileassoc.cpp" line="383"/>
+        <source>Save and exit this screen.</source>
+        <translation>Сохранить и выйти из этого экрана.</translation>
+    </message>
+    <message>
+        <location filename="../mythvideo/fileassoc.cpp" line="384"/>
+        <source>Create a new file extension.</source>
+        <translation>Создать новое расширение.</translation>
+    </message>
+    <message>
+        <location filename="../mythvideo/fileassoc.cpp" line="385"/>
+        <source>Delete this file extension.</source>
+        <translation>Удалить это расширение.</translation>
+    </message>
+    <message>
+        <location filename="../mythvideo/fileassoc.cpp" line="444"/>
         <source>Enter the new extension:</source>
         <translation>Введите новое расширение:</translation>
     </message>
@@ -184,12 +215,12 @@
         <translation type="obsolete">Этот скрипт используется для поиска и загрузки метаданных телепередач.</translation>
     </message>
     <message>
-        <location filename="../mythvideo/metadatasettings.cpp" line="148"/>
+        <location filename="../mythvideo/metadatasettings.cpp" line="83"/>
         <source>If set, this will enable a button called &quot;Watch With Trailers&quot; which will play a user-specified number of trailers before the movie.</source>
-        <translation type="unfinished">Если установлено, будет доступна кнопка &quot;Смотреть с трейлерами&quot;, которая позволит воспроизвести перед фильмом заданное пользователем число трейлеров.</translation>
+        <translation>Если установлено, будет доступна кнопка &quot;Смотреть с трейлерами&quot;, которая позволит воспроизвести перед фильмом заданное пользователем число трейлеров.</translation>
     </message>
     <message>
-        <location filename="../mythvideo/metadatasettings.cpp" line="153"/>
+        <location filename="../mythvideo/metadatasettings.cpp" line="87"/>
         <source>Number of trailers to play before a film.</source>
         <translation>Число трейлеров проигрываемых перед фильмом.</translation>
     </message>
@@ -198,27 +229,27 @@
         <translation type="obsolete">Если установлено, все файлы каталога MythVideo будут отображены, если явно не задано, что расширение файла должно быть игнорировано.</translation>
     </message>
     <message>
-        <location filename="../mythvideo/metadatasettings.cpp" line="155"/>
+        <location filename="../mythvideo/metadatasettings.cpp" line="89"/>
         <source>If set, all files below the MythVideo directory will be displayed unless their extension is explicitly set to be ignored.</source>
-        <translation type="unfinished">Если установлено, будут отображаться все файлы каталога MythVideo , если явно не задано, что расширение файла должно быть игнорировано.</translation>
+        <translation>Если установлено, будут отображаться все файлы каталога MythVideo , если явно не задано, что расширение файла должно быть игнорировано.</translation>
     </message>
     <message>
-        <location filename="../mythvideo/metadatasettings.cpp" line="159"/>
+        <location filename="../mythvideo/metadatasettings.cpp" line="93"/>
         <source>If set, every time a scan for new videos is performed, a mass metadata update of the collection will also occur.</source>
-        <translation type="unfinished">Если установлено, каждый раз после поиска изменений будет выполняться массовое обновление метаданных.</translation>
+        <translation>Если установлено, каждый раз после поиска изменений будет выполняться массовое обновление метаданных.</translation>
     </message>
     <message>
-        <location filename="../mythvideo/metadatasettings.cpp" line="163"/>
+        <location filename="../mythvideo/metadatasettings.cpp" line="97"/>
         <source>If set along with Browse Files, this will cause the Video List to load any known video metadata from the database. Turning this off can greatly speed up how long it takes to load the Video List tree.</source>
-        <translation type="unfinished">Если установить одновременно с режимом просмотра файлов, то список видео будет получать все известные метаданные фильмов из базы данных. Отключение этой функции может значительно ускорить загрузку дерева видео.</translation>
+        <translation>Если установить одновременно с режимом просмотра файлов, то список видео будет получать все известные метаданные фильмов из базы данных. Отключение этой функции может значительно ускорить загрузку дерева видео.</translation>
     </message>
     <message>
-        <location filename="../mythvideo/metadatasettings.cpp" line="168"/>
+        <location filename="../mythvideo/metadatasettings.cpp" line="101"/>
         <source>Exit without saving settings</source>
         <translation>Выйти без сохранения настроек</translation>
     </message>
     <message>
-        <location filename="../mythvideo/metadatasettings.cpp" line="170"/>
+        <location filename="../mythvideo/metadatasettings.cpp" line="102"/>
         <source>Save settings and Exit</source>
         <translation>Сохранить настройки и выйти</translation>
     </message>
@@ -226,99 +257,101 @@
 <context>
     <name>MythControls</name>
     <message>
-        <location filename="../mythvideo/main.cpp" line="285"/>
+        <location filename="../mythvideo/main.cpp" line="237"/>
         <source>The MythVideo default view</source>
-        <translation type="unfinished">Режим просмотра по умолчанию </translation>
+        <translation>Режим просмотра по умолчанию</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="287"/>
+        <location filename="../mythvideo/main.cpp" line="239"/>
         <source>The MythVideo video manager</source>
-        <translation type="unfinished">Менеджер фильмов</translation>
+        <translation>Менеджер видео</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="289"/>
+        <location filename="../mythvideo/main.cpp" line="241"/>
         <source>The MythVideo video browser</source>
-        <translation type="unfinished">Браузер фильмов</translation>
+        <translation>Браузер видео</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="291"/>
+        <location filename="../mythvideo/main.cpp" line="243"/>
         <source>The MythVideo video listings</source>
-        <translation type="unfinished">Списки фильмов</translation>
+        <translation>Списки видео</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="293"/>
+        <location filename="../mythvideo/main.cpp" line="245"/>
         <source>The MythVideo video gallery</source>
-        <translation type="unfinished">Галерея фильмов</translation>
+        <translation>Галерея видео</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="296"/>
+        <location filename="../mythvideo/main.cpp" line="248"/>
         <source>Play selected item in alternate player</source>
-        <translation type="unfinished">Воспроизвести выбранный элемент в альтернативном плеере</translation>
+        <translation>Воспроизвести выбранный элемент в альтернативном плеере</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="299"/>
+        <location filename="../mythvideo/main.cpp" line="251"/>
         <source>Open video filter dialog</source>
-        <translation type="unfinished">Открыть диалог фильтра фильмов</translation>
+        <translation>Открыть диалог фильтра видео</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="302"/>
+        <location filename="../mythvideo/main.cpp" line="254"/>
         <source>Change browsable in video manager</source>
-        <translation type="unfinished">Изменить просматриваемость в менедржере фильмов</translation>
+        <translation type="unfinished">Изменить просматриваемость в менедржере видео</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="304"/>
+        <location filename="../mythvideo/main.cpp" line="256"/>
         <source>Increase Parental Level</source>
-        <translation type="unfinished">Увеличить родительский уровень</translation>
+        <translation>Увеличить родительский уровень</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="306"/>
+        <location filename="../mythvideo/main.cpp" line="258"/>
         <source>Decrease Parental Level</source>
-        <translation type="unfinished">Уменьшить родительский уровень</translation>
+        <translation>Уменьшить родительский уровень</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="309"/>
+        <location filename="../mythvideo/main.cpp" line="261"/>
         <source>Show Incremental Search Dialog</source>
         <translation>Показать диалог инкрементального поиска</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="311"/>
+        <location filename="../mythvideo/main.cpp" line="263"/>
         <source>Download metadata for current item</source>
         <translation>Загрузить метаданные для текущего элемента</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="313"/>
+        <location filename="../mythvideo/main.cpp" line="265"/>
         <source>Display Item Detail Popup</source>
         <translation type="unfinished">Показать всплывающее окно подробностей об элементе</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="316"/>
+        <location filename="../mythvideo/main.cpp" line="268"/>
         <source>Go to the first video</source>
         <translation>Перейти к первому фильму</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="318"/>
+        <location filename="../mythvideo/main.cpp" line="270"/>
         <source>Go to the last video</source>
         <translation>Перейти к последнему фильму</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="322"/>
-        <source>Play a DVD</source>
-        <translation>Воспроизвести DVD</translation>
+        <location filename="../mythvideo/main.cpp" line="274"/>
+        <source>Play an Optical Disc</source>
+        <translation>Воспроизвести оптический диск</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="324"/>
+        <source>Play a DVD</source>
+        <translation type="obsolete">Воспроизвести DVD</translation>
+    </message>
+    <message>
+        <location filename="../mythvideo/main.cpp" line="276"/>
         <source>MythDVD DVD Media Handler</source>
         <translation type="unfinished">Обработчик DVD дисков</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="328"/>
         <source>Play a VCD</source>
-        <translation>Воспроизвести VCD</translation>
+        <translation type="obsolete">Воспроизвести VCD</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="330"/>
         <source>MythDVD VCD Media Handler</source>
-        <translation type="unfinished">Обработчик VCD дисков</translation>
+        <translation type="obsolete">Обработчик VCD дисков</translation>
     </message>
     <message>
         <source>Import a DVD into your MythVideo database</source>
@@ -328,42 +361,50 @@
 <context>
     <name>PlayerSettings</name>
     <message>
-        <location filename="../mythvideo/playersettings.cpp" line="141"/>
+        <location filename="../mythvideo/playersettings.cpp" line="82"/>
         <source>This is the command used for any file whose extension is not specifically defined. You may also enter the name of one of the playback plugins such as &apos;Internal&apos;.</source>
         <translation>Эта команда используется для любого файла, расширение которого не задано. Вы можете также ввести имя одного из плагинов воспроизведения, таких как &quot;Internal&quot;.</translation>
     </message>
     <message>
-        <location filename="../mythvideo/playersettings.cpp" line="146"/>
+        <location filename="../mythvideo/playersettings.cpp" line="87"/>
         <source>This can be any command to launch a DVD  player. Internal is the default.  For other players, %d will be substituted for the DVD device (e.g. /dev/dvd).</source>
         <translation>Это может быть любая команда для запуска плеера DVD. По умолчанию это Internal.  Для других плееров, %d будет заменено на устройство DVD (например /dev/dvd).</translation>
     </message>
     <message>
-        <location filename="../mythvideo/playersettings.cpp" line="150"/>
+        <location filename="../mythvideo/playersettings.cpp" line="91"/>
         <source>This device must exist, and the user playing the DVD needs to have read permission on the device.  &apos;default&apos; will let the MediaMonitor choose a device.</source>
         <translation>Это устройство должно существовать, и пользователь воспроизводящий DVD должен иметь прова на чтение этого устройства.  &quot;по умолчанию&quot; означает, что MediaMonitor автоматически выберет устройство.</translation>
     </message>
     <message>
-        <location filename="../mythvideo/playersettings.cpp" line="155"/>
+        <location filename="../mythvideo/playersettings.cpp" line="96"/>
+        <source>This path is the location your operating system mounts Blu-ray discs.</source>
+        <translation>Это путь для местоположения точек монтирования дисков Blu-ray.</translation>
+    </message>
+    <message>
         <source>This can be any command to launch a VCD player. The Internal player will not play VCDs. %d will be substituted for the VCD device (e.g. /dev/cdrom).</source>
-        <translation>Это может быть любой командой для запуска плеера VCD. Внутренний (Internal) плеер не воспроизводит VCD. %d будет заменено на устройствоVCD (например /dev/cdrom).</translation>
+        <translation type="obsolete">Это может быть любой командой для запуска плеера VCD. Внутренний (Internal) плеер не воспроизводит VCD. %d будет заменено на устройствоVCD (например /dev/cdrom).</translation>
     </message>
     <message>
-        <location filename="../mythvideo/playersettings.cpp" line="159"/>
         <source>This device must exist, and the user playing the VCD needs to have read permission on the device.  &apos;default&apos; will let the MediaMonitor choose a device.</source>
-        <translation>Это устройство должно существовать, и пользователь воспроизводящий VCD должен иметь прова на чтение этого устройства.  &quot;по умолчанию&quot; означает, что MediaMonitor автоматически выберет устройство.</translation>
+        <translation type="obsolete">Это устройство должно существовать, и пользователь воспроизводящий VCD должен иметь прова на чтение этого устройства.  &quot;по умолчанию&quot; означает, что MediaMonitor автоматически выберет устройство.</translation>
     </message>
     <message>
-        <location filename="../mythvideo/playersettings.cpp" line="164"/>
+        <location filename="../mythvideo/playersettings.cpp" line="99"/>
         <source>If for some reason the default player doesn&apos;t play a video, you can play it in an alternate player by selecting &apos;Play in Alternate Player.&apos;</source>
         <translation>Если по каким-либо причинам плеер по умолчанию не воспроизводит видео, вы можете воспроизвести его альтернативным плеером, выбрав &quot;Воспроизвести в альтернативном плеере.&quot;</translation>
     </message>
     <message>
-        <location filename="../mythvideo/playersettings.cpp" line="168"/>
+        <location filename="../mythvideo/playersettings.cpp" line="103"/>
+        <source>Some Blu-ray discs require that a player region be explicitly set. Only change the value from &apos;No Region&apos; if you encounter a disc which fails to play citing a region mismatch.</source>
+        <translation>Некоторые диски Blu-ray требуют чтобы регион плеера был явно установлен. Просто измените значение &quot;No Region&quot; если вы столкнулись с диском, который не воспроизводится со ссылкой на несоответсвие региона.</translation>
+    </message>
+    <message>
+        <location filename="../mythvideo/playersettings.cpp" line="107"/>
         <source>Exit without saving settings</source>
         <translation>Выйти без сохранения настроек</translation>
     </message>
     <message>
-        <location filename="../mythvideo/playersettings.cpp" line="170"/>
+        <location filename="../mythvideo/playersettings.cpp" line="108"/>
         <source>Save settings and Exit</source>
         <translation>Сохранить настройки и выйти</translation>
     </message>
@@ -429,12 +470,12 @@
         <translation type="obsolete">Ожидание загрузки подробностей</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videofilter.cpp" line="790"/>
+        <location filename="../mythvideo/videofilter.cpp" line="795"/>
         <source>Unknown</source>
         <translation>Неизвестно</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videofilter.cpp" line="797"/>
+        <location filename="../mythvideo/videofilter.cpp" line="802"/>
         <source>None</source>
         <translation>Нет</translation>
     </message>
@@ -514,66 +555,70 @@
         <translation type="obsolete">Список фильмов загружает метаданные</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videofilter.cpp" line="670"/>
-        <location filename="../mythvideo/videofilter.cpp" line="686"/>
-        <location filename="../mythvideo/videofilter.cpp" line="699"/>
-        <location filename="../mythvideo/videofilter.cpp" line="712"/>
-        <location filename="../mythvideo/videofilter.cpp" line="726"/>
-        <location filename="../mythvideo/videofilter.cpp" line="741"/>
-        <location filename="../mythvideo/videofilter.cpp" line="758"/>
-        <location filename="../mythvideo/videofilter.cpp" line="772"/>
-        <location filename="../mythvideo/videofilter.cpp" line="780"/>
-        <location filename="../mythvideo/videofilter.cpp" line="788"/>
-        <location filename="../mythvideo/videofilter.cpp" line="795"/>
+        <location filename="../mythvideo/videofilter.cpp" line="675"/>
+        <location filename="../mythvideo/videofilter.cpp" line="691"/>
+        <location filename="../mythvideo/videofilter.cpp" line="704"/>
+        <location filename="../mythvideo/videofilter.cpp" line="717"/>
+        <location filename="../mythvideo/videofilter.cpp" line="731"/>
+        <location filename="../mythvideo/videofilter.cpp" line="746"/>
+        <location filename="../mythvideo/videofilter.cpp" line="763"/>
+        <location filename="../mythvideo/videofilter.cpp" line="777"/>
+        <location filename="../mythvideo/videofilter.cpp" line="785"/>
+        <location filename="../mythvideo/videofilter.cpp" line="793"/>
+        <location filename="../mythvideo/videofilter.cpp" line="800"/>
         <source>All</source>
         <translation>Все</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videofilter.cpp" line="773"/>
-        <location filename="../mythvideo/videofilter.cpp" line="781"/>
+        <location filename="../mythvideo/videofilter.cpp" line="778"/>
+        <location filename="../mythvideo/videofilter.cpp" line="786"/>
         <source>Yes</source>
         <translation>Да</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videofilter.cpp" line="775"/>
-        <location filename="../mythvideo/videofilter.cpp" line="783"/>
+        <location filename="../mythvideo/videofilter.cpp" line="780"/>
+        <location filename="../mythvideo/videofilter.cpp" line="788"/>
         <source>No</source>
         <translation>Нет</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videofilter.cpp" line="802"/>
+        <location filename="../mythvideo/videofilter.cpp" line="807"/>
         <source>Title</source>
         <translation>Заголовок</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videofilter.cpp" line="806"/>
+        <location filename="../mythvideo/videofilter.cpp" line="811"/>
         <source>Year</source>
         <translation>Год</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videofilter.cpp" line="808"/>
+        <location filename="../mythvideo/videofilter.cpp" line="813"/>
         <source>User Rating</source>
         <translation>Рейтинг зрителей</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videofilter.cpp" line="810"/>
+        <location filename="../mythvideo/videofilter.cpp" line="815"/>
         <source>Runtime</source>
         <translation>Длина</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videofilter.cpp" line="812"/>
+        <location filename="../mythvideo/videofilter.cpp" line="817"/>
         <source>Filename</source>
         <translation>Имя файла</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videofilter.cpp" line="814"/>
+        <location filename="../mythvideo/videofilter.cpp" line="819"/>
         <source>Video ID</source>
         <translation>Идентификатор</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="112"/>
+        <location filename="../mythvideo/videofilter.cpp" line="821"/>
+        <source>Date Added</source>
+        <translation>Дата добавления</translation>
+    </message>
+    <message>
         <source>OK, I&apos;ll go run Setup</source>
-        <translation>Хорошо, перейдем к настройке</translation>
+        <translation type="obsolete">Хорошо, перейдем к настройке</translation>
     </message>
     <message>
         <source>Location of VCD device</source>
@@ -680,7 +725,7 @@
         <translation type="obsolete">Если установлено отличное от 0, импортированные видео заголовки будут разбиты на файлы этого размера (в МБ). Применимо как для записей отличного качества, так и для промежуточных файлов для перекодирования.</translation>
     </message>
     <message>
-        <location filename="../mythvideo/globalsettings.cpp" line="304"/>
+        <location filename="../mythvideo/globalsettings.cpp" line="293"/>
         <source>Parental Control Settings</source>
         <translation>Настройки родительского контроля</translation>
     </message>
@@ -777,7 +822,7 @@
         <translation type="obsolete">В ожидании доступа к DVD</translation>
     </message>
     <message>
-        <location filename="../mythvideo/globalsettings.cpp" line="320"/>
+        <location filename="../mythvideo/globalsettings.cpp" line="309"/>
         <source>General Settings (%1/%2)</source>
         <translation>Общие настройки (%1/%2)</translation>
     </message>
@@ -786,17 +831,17 @@
         <translation type="obsolete">Нет</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videolist.cpp" line="915"/>
+        <location filename="../mythvideo/videolist.cpp" line="941"/>
         <source>No files found</source>
         <translation>Файлов не найдено</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videolist.cpp" line="1254"/>
+        <location filename="../mythvideo/videolist.cpp" line="1280"/>
         <source>Unknown Prefix</source>
         <translation>Неизвестный префикс</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videolist.cpp" line="1352"/>
+        <location filename="../mythvideo/videolist.cpp" line="1378"/>
         <source>videos</source>
         <translation>фильмы</translation>
     </message>
@@ -807,32 +852,32 @@
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="39"/>
         <source>Parental Level 4 PIN</source>
-        <translation type="unfinished">PIN для четвертого уровня родительского контроля</translation>
+        <translation>PIN для четвертого уровня родительского контроля</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="41"/>
         <source>This PIN is used to enter Parental Control Level 4 as well as the Video Manager.</source>
-        <translation type="unfinished">Этот PIN используется для ввода родительского контроля четвертого уровня, а также менеджером фильмов.</translation>
+        <translation>Этот PIN используется для ввода родительского контроля четвертого уровня, а также менеджером видео.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="50"/>
         <source>Parental Level 3 PIN</source>
-        <translation type="unfinished">PIN для третьего уровня родительского контроля</translation>
+        <translation>PIN для третьего уровня родительского контроля</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="52"/>
         <source>This PIN is used to enter Parental Control Level 3.</source>
-        <translation type="unfinished">Этот PIN используется для входа на третий уровень родительского контроля.</translation>
+        <translation>Этот PIN используется для входа на третий уровень родительского контроля.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="60"/>
         <source>Parental Level 2 PIN</source>
-        <translation type="unfinished">PIN для второго уровня родительского контроля</translation>
+        <translation>PIN для второго уровня родительского контроля</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="62"/>
         <source>This PIN is used to enter Parental Control Level 2.</source>
-        <translation type="unfinished">Этот PIN используется для входа на второй уровень родительского контроля.</translation>
+        <translation>Этот PIN используется для входа на второй уровень родительского контроля.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="82"/>
@@ -842,7 +887,7 @@
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="84"/>
         <source>Multiple directories can be separated by &apos;:&apos;. Each directory must exist and be readable by the user running MythVideo.</source>
-        <translation type="unfinished">Несколько каталогов могут быть указаны через &apos;:&apos;. Каждый каталог должен существовать и быть доступен для чтения пользователю запустившему MythVideo.</translation>
+        <translation>Несколько каталогов могут быть указаны через &apos;:&apos;. Каждый каталог должен существовать и быть доступен для чтения пользователю запустившему MythVideo.</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="158"/>
@@ -850,12 +895,11 @@
         <translation>Чтобы эта функция работала, должен быть включен мониторинг носителей (Настройки -&gt; Общие -&gt; Отслеживать CD/DVD).</translation>
     </message>
     <message>
-        <location filename="../mythvideo/globalsettings.cpp" line="168"/>
         <source>Delete DVD Bookmarks that are older than the number of days specified.</source>
-        <translation>Удалить закладки DVD, которые старше, чем заданное количество дней.</translation>
+        <translation type="obsolete">Удалить закладки DVD, которые старше, чем заданное количество дней.</translation>
     </message>
     <message>
-        <location filename="../mythvideo/globalsettings.cpp" line="176"/>
+        <location filename="../mythvideo/globalsettings.cpp" line="166"/>
         <source>DVD Drive Speed</source>
         <translation>Скорость привода DVD</translation>
     </message>
@@ -868,22 +912,22 @@
         <translation type="obsolete">Если установлено, перекодировка определит частоту кадров автоматически. Если не установлено, принимается значение 23.976.</translation>
     </message>
     <message>
-        <location filename="../mythvideo/globalsettings.cpp" line="234"/>
+        <location filename="../mythvideo/globalsettings.cpp" line="224"/>
         <source>Enable automatic Parental Level from rating</source>
         <translation>Включить автоматическую установку уровня родительского контроля исходя из рейтинга</translation>
     </message>
     <message>
-        <location filename="../mythvideo/globalsettings.cpp" line="237"/>
+        <location filename="../mythvideo/globalsettings.cpp" line="227"/>
         <source>If enabled, searches will automatically set the Parental Level to the one matching the rating below.</source>
         <translation>Если установлено, поиск будет автоматически устанавливать уровень родительского контроля в соответствии с рейтингами представлеными ниже.</translation>
     </message>
     <message>
-        <location filename="../mythvideo/globalsettings.cpp" line="261"/>
+        <location filename="../mythvideo/globalsettings.cpp" line="251"/>
         <source>Level %1</source>
         <translation>Уровень %1</translation>
     </message>
     <message>
-        <location filename="../mythvideo/globalsettings.cpp" line="262"/>
+        <location filename="../mythvideo/globalsettings.cpp" line="252"/>
         <source>Ratings containing these strings (separated by :) will be assigned to Parental Level %1.</source>
         <translation>Рейтинги содержащие эти строки (разделенные двоеточием) будут назначены для родительского контроля уровня %1.</translation>
     </message>
@@ -896,14 +940,12 @@
         <translation type="obsolete">Перекодировка думает</translation>
     </message>
     <message>
-        <location filename="../mythvideo/dbcheck.cpp" line="39"/>
         <source>Error: failed to add new file type &apos;%1&apos;</source>
-        <translation>Ошибка: сбой добавления нового типа файлов &apos;%1&apos;</translation>
+        <translation type="obsolete">Ошибка: сбой добавления нового типа файлов &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../mythvideo/dbcheck.cpp" line="77"/>
         <source>Error: failed to hash file &apos;%1&apos;</source>
-        <translation>Ошибка: сбой хеширования файла &apos;%1&apos;</translation>
+        <translation type="obsolete">Ошибка: сбой хеширования файла &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../mythvideo/globalsettings.cpp" line="104"/>
@@ -926,17 +968,16 @@
         <translation>Каталог содержащий трейлеры фильмов</translation>
     </message>
     <message>
-        <location filename="../mythvideo/globalsettings.cpp" line="166"/>
         <source>Remove DVD Bookmarks Older than (days)</source>
-        <translation>Удалить закладки DVD старше чем (дней)</translation>
+        <translation type="obsolete">Удалить закладки DVD старше чем (дней)</translation>
     </message>
     <message>
-        <location filename="../mythvideo/globalsettings.cpp" line="178"/>
+        <location filename="../mythvideo/globalsettings.cpp" line="168"/>
         <source>Set DVD Drive Speed during DVD Playback. Speed is in multiples of 177KB/s. Slower speeds may reduce drive noise but in some cases it causes playback to stutter.</source>
         <translation>Установить скорость воспроизведения привода DVD. Скорость кратна 177 КБ/с. Медленные скорости могу уменьшить шум привода, но в некоторых случаях воспроизведение будет &quot;заикаться&quot;.</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="32"/>
+        <location filename="../mythvideo/main.cpp" line="31"/>
         <source>Loading videos ...</source>
         <translation>Загрузка фильмов...</translation>
     </message>
@@ -945,12 +986,11 @@
         <translation type="obsolete">Нет каталога %1 - импорт DVD приведет к ошибке</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="105"/>
         <source>You have no VCD Player command defined.</source>
-        <translation>Вы не определили команду для VCD проигрывателя.</translation>
+        <translation type="obsolete">Вы не определили команду для VCD проигрывателя.</translation>
     </message>
     <message>
-        <location filename="../mythvideo/main.cpp" line="378"/>
+        <location filename="../mythvideo/main.cpp" line="325"/>
         <source>Aggressive Parental Controls Warning: invalid password. An attempt to enter a MythVideo settings screen was prevented.</source>
         <translation>Предупреждение агрессивного родительского контроля: неверный пароль. Была предотвращена попытка войти на экран настроек MythVideo.</translation>
     </message>
@@ -974,33 +1014,33 @@ Check VideoManager Settings</source>
 Проверьте настройки менеджера фильмов</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videofilter.cpp" line="804"/>
+        <location filename="../mythvideo/videofilter.cpp" line="809"/>
         <source>Season/Episode</source>
         <translation>Сезон/Серия</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videolist.cpp" line="905"/>
-        <location filename="../mythvideo/videolist.cpp" line="913"/>
+        <location filename="../mythvideo/videolist.cpp" line="931"/>
+        <location filename="../mythvideo/videolist.cpp" line="939"/>
         <source>Video Home</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mythvideo/videolist.cpp" line="1189"/>
+        <location filename="../mythvideo/videolist.cpp" line="1215"/>
         <source>Television</source>
-        <translation type="unfinished">Телевидение</translation>
+        <translation>Телевидение</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videolist.cpp" line="1192"/>
+        <location filename="../mythvideo/videolist.cpp" line="1218"/>
         <source>Movies</source>
-        <translation type="unfinished">Фильмы</translation>
+        <translation>Фильмы</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videolist.cpp" line="1204"/>
+        <location filename="../mythvideo/videolist.cpp" line="1230"/>
         <source>Season %1</source>
         <translation>Сезон %1</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videolist.cpp" line="1258"/>
+        <location filename="../mythvideo/videolist.cpp" line="1284"/>
         <source>Storage Groups</source>
         <translation>Группы хранения</translation>
     </message>
@@ -1010,773 +1050,827 @@ Check VideoManager Settings</source>
     </message>
 </context>
 <context>
+    <name>RatingsToPL</name>
+    <message>
+        <location filename="../mythvideo/globalsettings.cpp" line="236"/>
+        <source>G</source>
+        <comment>PL 1 default search string.</comment>
+        <translation>G</translation>
+    </message>
+    <message>
+        <location filename="../mythvideo/globalsettings.cpp" line="238"/>
+        <source>PG</source>
+        <comment>PL 2 default search string.</comment>
+        <translation>PG</translation>
+    </message>
+    <message>
+        <location filename="../mythvideo/globalsettings.cpp" line="240"/>
+        <source>PG-13</source>
+        <comment>PL3 default search string.</comment>
+        <translation>PG-13</translation>
+    </message>
+    <message>
+        <location filename="../mythvideo/globalsettings.cpp" line="242"/>
+        <source>R:NC-17</source>
+        <comment>PL4 default search string.</comment>
+        <translation>R:NC-17</translation>
+    </message>
+</context>
+<context>
     <name>ThemeUI</name>
     <message>
-        <location filename="themestrings.h" line="62"/>
+        <location filename="themestrings.h" line="10"/>
         <source>Director:</source>
         <translation>Режиссер:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="76"/>
+        <location filename="themestrings.h" line="4"/>
         <source>Year:</source>
         <translation>Год:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="162"/>
+        <location filename="themestrings.h" line="11"/>
         <source>Rated:</source>
         <translation>Рейтинг:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="78"/>
+        <location filename="themestrings.h" line="12"/>
         <source>Parental Level:</source>
         <translation>Родительский уровень:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="73"/>
+        <location filename="themestrings.h" line="17"/>
         <source>Browsable:</source>
         <translation>Просматриваемый:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="94"/>
+        <location filename="themestrings.h" line="6"/>
         <source>Runtime:</source>
         <translation>Длина:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="64"/>
+        <location filename="themestrings.h" line="18"/>
         <source>Plot:</source>
         <translation>Описание:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="163"/>
+        <location filename="themestrings.h" line="19"/>
         <source>Filename:</source>
         <translation>Имя файла:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="164"/>
+        <location filename="themestrings.h" line="20"/>
         <source>Cover File:</source>
         <translation>Файл обложки:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="192"/>
+        <location filename="themestrings.h" line="22"/>
         <source>Directed by</source>
         <translation>Режиссер</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="195"/>
+        <location filename="themestrings.h" line="27"/>
         <source>MythVideo File Associations</source>
         <translation>Ассоциация файла MythVideo</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="53"/>
+        <location filename="themestrings.h" line="28"/>
         <source>Extension:</source>
         <translation>Расширение:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="54"/>
+        <location filename="themestrings.h" line="29"/>
         <source>Command:</source>
         <translation>Команда:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="122"/>
+        <location filename="themestrings.h" line="30"/>
         <source>Use default player:</source>
         <translation>Использовать проигрыватель по умолчанию:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="123"/>
+        <location filename="themestrings.h" line="31"/>
         <source>Ignore:</source>
         <translation>Игнорировать:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="198"/>
+        <location filename="themestrings.h" line="34"/>
         <source>Edit Video Information</source>
         <translation>Редартировать информацию фильма</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="23"/>
         <source>Name:</source>
-        <translation>Название:</translation>
+        <translation type="obsolete">Название:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="126"/>
+        <location filename="themestrings.h" line="40"/>
         <source>Parental Control:</source>
         <translation>Родительский контроль:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="199"/>
+        <location filename="themestrings.h" line="41"/>
         <source>File to Always Play Next:</source>
         <translation>Файл всегда проигрывается следующим:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="128"/>
+        <location filename="themestrings.h" line="42"/>
         <source>Include while Browsing:</source>
         <translation>Включать при просмотре:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="65"/>
+        <location filename="themestrings.h" line="44"/>
         <source>Cover Art:</source>
         <translation>Обложка:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="130"/>
+        <location filename="themestrings.h" line="49"/>
         <source>Unique Player Command:</source>
         <translation>Уникальная команда воспроизведения:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="171"/>
+        <location filename="themestrings.h" line="50"/>
         <source>/path/to/the/thing.jpg</source>
         <translation>/путь/к/вещи.jpg</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="79"/>
+        <location filename="themestrings.h" line="39"/>
         <source>Category:</source>
         <translation>Категория:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="196"/>
+        <location filename="themestrings.h" line="51"/>
         <source>Filters video list</source>
         <translation>Фильтровать список фильмов</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="172"/>
+        <location filename="themestrings.h" line="53"/>
         <source>Category :</source>
         <translation>Категория :</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="173"/>
+        <location filename="themestrings.h" line="54"/>
         <source>Genre :</source>
         <translation>Жанр :</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="174"/>
+        <location filename="themestrings.h" line="55"/>
         <source>Country :</source>
         <translation>Страна :</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="176"/>
+        <location filename="themestrings.h" line="57"/>
         <source>Year :</source>
         <translation>Год :</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="177"/>
+        <location filename="themestrings.h" line="58"/>
         <source>Runtime :</source>
         <translation>Длина :</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="178"/>
+        <location filename="themestrings.h" line="59"/>
         <source>User Rating :</source>
         <translation>Рейтинг зрителей:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="179"/>
+        <location filename="themestrings.h" line="60"/>
         <source>Browse :</source>
         <translation>Просматриваемый :</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="182"/>
+        <location filename="themestrings.h" line="63"/>
         <source>Sort by :</source>
         <translation>Сортировать по :</translation>
     </message>
     <message>
-        <source></source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="themestrings.h" line="139"/>
+        <location filename="themestrings.h" line="24"/>
         <source>Year</source>
         <translation>Год</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="140"/>
+        <location filename="themestrings.h" line="23"/>
         <source>Runtime</source>
         <translation>Длина</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="141"/>
+        <location filename="themestrings.h" line="25"/>
         <source>User Rating</source>
         <translation>Рейтинг зрителей</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="17"/>
         <source>Rip/Transcode</source>
-        <translation>Импорт/Перекодирование</translation>
+        <translation type="obsolete">Импорт/Перекодирование</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="20"/>
         <source>Job 1 of 1</source>
-        <translation>Задание 1 из 1</translation>
+        <translation type="obsolete">Задание 1 из 1</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="21"/>
+        <location filename="themestrings.h" line="131"/>
         <source>Length:</source>
         <translation>Длина:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="22"/>
-        <source>Select:</source>
-        <translation>Выбор:</translation>
+        <location filename="themestrings.h" line="33"/>
+        <source>Delete</source>
+        <oldsource>Select:</oldsource>
+        <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="24"/>
         <source>Quality:</source>
-        <translation>Качество:</translation>
+        <translation type="obsolete">Качество:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="8"/>
         <source>Audio Track:</source>
-        <translation>Аудио дорожки:</translation>
+        <translation type="obsolete">Аудио дорожки:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="25"/>
         <source>AC3 Audio:</source>
-        <translation>AC3 звук:</translation>
+        <translation type="obsolete">AC3 звук:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="26"/>
         <source>Subtitles:</source>
-        <translation>Субтитры:</translation>
+        <translation type="obsolete">Субтитры:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="37"/>
         <source>View:</source>
-        <translation>Просмотр:</translation>
+        <translation type="obsolete">Просмотр:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="13"/>
         <source>Title 1 of 1</source>
-        <translation>Заголовок 1 из 1</translation>
+        <translation type="obsolete">Заголовок 1 из 1</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="6"/>
         <source>0:00:00</source>
-        <translation>0:00:00</translation>
+        <translation type="obsolete">0:00:00</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="42"/>
+        <location filename="themestrings.h" line="2"/>
         <source>OK</source>
         <translation>ОК</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="166"/>
+        <location filename="themestrings.h" line="3"/>
         <source>Directed by:</source>
         <translation>Режиссер:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="77"/>
+        <location filename="themestrings.h" line="5"/>
         <source>User Rating:</source>
         <translation>Рейтинг зрителей:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="124"/>
+        <location filename="themestrings.h" line="7"/>
         <source>Done</source>
         <translation>Готово</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="106"/>
+        <location filename="themestrings.h" line="8"/>
         <source>Play</source>
         <translation>Воспроизвести</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="186"/>
+        <location filename="themestrings.h" line="13"/>
         <source>Lowest</source>
         <translation>Самый низкий</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="187"/>
+        <location filename="themestrings.h" line="14"/>
         <source>Low</source>
         <translation>Низкий</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="188"/>
+        <location filename="themestrings.h" line="15"/>
         <source>Medium</source>
         <translation>Средний</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="189"/>
+        <location filename="themestrings.h" line="16"/>
         <source>High</source>
         <translation>Высокий</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="165"/>
+        <location filename="themestrings.h" line="21"/>
         <source>Video Num.:</source>
         <translation>Номер видео:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="194"/>
+        <location filename="themestrings.h" line="26"/>
         <source>Parental Level</source>
         <translation>Родительский уровень</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="59"/>
+        <location filename="themestrings.h" line="35"/>
         <source>Title:</source>
         <translation>Заголовок:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="9"/>
+        <location filename="themestrings.h" line="36"/>
         <source>Subtitle:</source>
         <translation>Подзаголовок:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="74"/>
+        <location filename="themestrings.h" line="37"/>
         <source>Season:</source>
         <translation>Сезон:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="75"/>
+        <location filename="themestrings.h" line="38"/>
         <source>Episode:</source>
         <translation>Серия:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="200"/>
+        <location filename="themestrings.h" line="43"/>
         <source>Item has been watched:</source>
-        <translation type="unfinished">Просмотрен:</translation>
+        <translation>Просмотрен:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="66"/>
+        <location filename="themestrings.h" line="45"/>
         <source>Screenshot:</source>
         <translation>Скриншот:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="67"/>
+        <location filename="themestrings.h" line="46"/>
         <source>Banner:</source>
         <translation>Баннер:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="68"/>
+        <location filename="themestrings.h" line="47"/>
         <source>Fanart:</source>
         <translation>Обои:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="69"/>
+        <location filename="themestrings.h" line="48"/>
         <source>Trailer:</source>
         <translation>Трейлер:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="99"/>
+        <location filename="themestrings.h" line="52"/>
         <source>Text Filter:</source>
         <translation>Текстовый фильтр:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="116"/>
+        <location filename="themestrings.h" line="73"/>
+        <source>Blu-ray Mount:</source>
+        <translation>Точка монтирования Blu-ray:</translation>
+    </message>
+    <message>
+        <location filename="themestrings.h" line="74"/>
+        <source>Blu-ray Region:</source>
+        <translation>Регион Blu-ray:</translation>
+    </message>
+    <message>
+        <location filename="themestrings.h" line="99"/>
+        <source>Parental:</source>
+        <translation>Родительский:</translation>
+    </message>
+    <message>
+        <location filename="themestrings.h" line="100"/>
+        <source>IMDB ID:</source>
+        <translation>IMDB ID:</translation>
+    </message>
+    <message>
+        <location filename="themestrings.h" line="101"/>
+        <source>Video Browser</source>
+        <translation>Браузер видео</translation>
+    </message>
+    <message>
+        <location filename="themestrings.h" line="107"/>
+        <source>Enable random trailer playback</source>
+        <translation>Включить случайное воспроизведение трейлеров</translation>
+    </message>
+    <message numerus="yes">
+        <location filename="themestrings.h" line="108"/>
+        <source>Play %n trailer(s)</source>
+        <translation>
+            <numerusform>Воспроизводить %n трейлер</numerusform>
+            <numerusform>Воспроизводить %n трейлера</numerusform>
+            <numerusform>Воспроизводить %n трейлеров</numerusform>
+        </translation>
+    </message>
+    <message>
+        <location filename="themestrings.h" line="154"/>
+        <source>BD Mount:</source>
+        <translation>Точка монтирования BD:</translation>
+    </message>
+    <message>
+        <location filename="themestrings.h" line="155"/>
+        <source>BD Region:</source>
+        <translation>Регион BD:</translation>
+    </message>
+    <message>
+        <location filename="themestrings.h" line="158"/>
         <source>Update metadata after video scan</source>
         <translation>Обновлять метаданные после поиска изменений</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="121"/>
+        <location filename="themestrings.h" line="160"/>
         <source>Video File Associations</source>
         <translation>Ассоциации видео файлов</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="125"/>
+        <location filename="themestrings.h" line="105"/>
         <source>Edit Video Metadata</source>
         <translation>Редактировать метаданные</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="127"/>
+        <location filename="themestrings.h" line="161"/>
         <source>File to Play Next:</source>
         <translation>Файл воспроизводимый следующим:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="129"/>
+        <location filename="themestrings.h" line="106"/>
         <source>Item has been Watched:</source>
         <translation>Просмотрен:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="131"/>
+        <location filename="themestrings.h" line="84"/>
         <source>Search Results</source>
         <translation>Результаты поиска</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="132"/>
+        <location filename="themestrings.h" line="85"/>
         <source>Cast Members</source>
         <translation>В ролях</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="133"/>
+        <location filename="themestrings.h" line="86"/>
         <source>Full Plot</source>
         <translation>Полное описание</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="135"/>
+        <location filename="themestrings.h" line="88"/>
         <source>Category</source>
         <translation>Категория</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="136"/>
+        <location filename="themestrings.h" line="89"/>
         <source>Genre</source>
         <translation>Жанр</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="137"/>
+        <location filename="themestrings.h" line="90"/>
         <source>Country</source>
         <translation>Страна</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="138"/>
+        <location filename="themestrings.h" line="91"/>
         <source>Actor/Actress</source>
         <translation>Актер/Актриса</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="142"/>
+        <location filename="themestrings.h" line="92"/>
         <source>Browse</source>
         <translation>Просмотреть</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="143"/>
+        <location filename="themestrings.h" line="93"/>
         <source>InetRef</source>
         <translation>Ссылка</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="144"/>
+        <location filename="themestrings.h" line="94"/>
         <source>Cover File</source>
         <translation>Файл обложки</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="145"/>
+        <location filename="themestrings.h" line="95"/>
         <source>Sort by</source>
         <translation>Сортировать по</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="147"/>
+        <location filename="themestrings.h" line="97"/>
         <source>Make default</source>
         <translation>Сделать по умолчанию</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="148"/>
+        <location filename="themestrings.h" line="162"/>
         <source>Videos - Manager</source>
-        <translation type="unfinished">Видео - Менеджер</translation>
+        <translation>Видео - Менеджер</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="149"/>
+        <location filename="themestrings.h" line="163"/>
         <source>Cast:</source>
         <translation>В ролях:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="150"/>
+        <location filename="themestrings.h" line="164"/>
         <source>Videos - Browser</source>
-        <translation type="unfinished">Видео - Браузер</translation>
+        <translation>Видео - Браузер</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="151"/>
+        <location filename="themestrings.h" line="102"/>
         <source>Videos - Gallery</source>
-        <translation type="unfinished">Видео - Галерея</translation>
+        <translation>Видео - Галерея</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="152"/>
+        <location filename="themestrings.h" line="103"/>
         <source>Videos - Tree</source>
-        <translation type="unfinished">Видео - Дерево</translation>
+        <translation>Видео - Дерево</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="175"/>
+        <location filename="themestrings.h" line="56"/>
         <source>Actor/Actress :</source>
         <translation>Актер/Актриса:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="180"/>
+        <location filename="themestrings.h" line="61"/>
         <source>InetRef :</source>
         <translation>Ссылка :</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="181"/>
+        <location filename="themestrings.h" line="62"/>
         <source>Cover File :</source>
         <translation>Файл постера:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="183"/>
+        <location filename="themestrings.h" line="64"/>
         <source>Watched :</source>
         <translation>Просмотрен:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="100"/>
+        <location filename="themestrings.h" line="188"/>
+        <source>Player Applications and Optical Drives</source>
+        <translation type="unfinished">Плееры и приводы оптических дисков</translation>
+    </message>
+    <message>
+        <location filename="themestrings.h" line="193"/>
+        <source>Play a DVD or Blu-ray</source>
+        <translation type="unfinished">Воспроизвести DVD или Blu-ray</translation>
+    </message>
+    <message>
+        <location filename="themestrings.h" line="195"/>
+        <source>Video Settings</source>
+        <translation>Настройки видео</translation>
+    </message>
+    <message>
+        <location filename="themestrings.h" line="196"/>
+        <source>Configure video and DVD playback</source>
+        <translation type="unfinished">Настроить воспроизведение видео и DVD</translation>
+    </message>
+    <message>
+        <location filename="themestrings.h" line="65"/>
         <source>Result</source>
         <translation>Результат</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="206"/>
+        <location filename="themestrings.h" line="66"/>
         <source>Save as default</source>
         <translation>Сохранить по умолчанию</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="209"/>
+        <location filename="themestrings.h" line="186"/>
         <source>General Settings</source>
         <translation>Общие настройки</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="153"/>
+        <location filename="themestrings.h" line="69"/>
         <source>Player Settings</source>
         <translation>Настройки проигрывателя</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="213"/>
+        <location filename="themestrings.h" line="190"/>
         <source>File Types</source>
         <translation>Типы файлов</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="215"/>
         <source>Rip Settings</source>
-        <translation>Настройки импорта</translation>
+        <translation type="obsolete">Настройки импорта</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="217"/>
+        <location filename="themestrings.h" line="192"/>
         <source>Browse Videos</source>
         <translation>Просмотр фильмов</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="218"/>
+        <location filename="themestrings.h" line="177"/>
         <source>Video List</source>
         <translation>Список фильмов</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="193"/>
+        <location filename="themestrings.h" line="176"/>
         <source>Video Gallery</source>
         <translation>Галерея фильмов</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="219"/>
+        <location filename="themestrings.h" line="98"/>
         <source>Video Manager</source>
         <translation>Менеджер фильмов</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="220"/>
         <source>Play DVD</source>
-        <translation>Проигрывать DVD</translation>
+        <translation type="obsolete">Проигрывать DVD</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="221"/>
         <source>Play VCD</source>
-        <translation>Проигрывать VCD</translation>
+        <translation type="obsolete">Проигрывать VCD</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="222"/>
         <source>Rip DVD</source>
-        <translation>Импорт DVD</translation>
+        <translation type="obsolete">Импорт DVD</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="223"/>
+        <location filename="themestrings.h" line="194"/>
         <source>Eject media</source>
         <translation>Извлечь диск</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="224"/>
         <source>Videos Settings</source>
-        <translation>Настройки видео</translation>
+        <translation type="obsolete">Настройки видео</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="225"/>
         <source>Configure playback and DVD ripping</source>
-        <translation>Настроить воспроизведение и импорт DVD</translation>
+        <translation type="obsolete">Настроить воспроизведение и импорт DVD</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="2"/>
         <source>Select a Title to Rip</source>
-        <translation>Выберите название для импорта</translation>
+        <translation type="obsolete">Выберите название для импорта</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="3"/>
         <source>Select the parts of the DVD you wish to copy.</source>
-        <translation>Выберите части DVD, которые вы хотите скопировать.</translation>
+        <translation type="obsolete">Выберите части DVD, которые вы хотите скопировать.</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="4"/>
         <source>Film Name:</source>
-        <translation>Название фильма:</translation>
+        <translation type="obsolete">Название фильма:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="5"/>
         <source>Track Length:</source>
-        <translation>Длина дорожки:</translation>
+        <translation type="obsolete">Длина дорожки:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="7"/>
         <source>Rip Quality:</source>
-        <translation>Качество импорта:</translation>
+        <translation type="obsolete">Качество импорта:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="10"/>
         <source>Rip AC-3 Audio</source>
-        <translation>Импортировать AC-3 дорожку</translation>
+        <translation type="obsolete">Импортировать AC-3 дорожку</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="11"/>
         <source>Preview this title</source>
-        <translation>Предварительный просмотр этого заголовка</translation>
+        <translation type="obsolete">Предварительный просмотр этого заголовка</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="12"/>
         <source>Rip This Track</source>
-        <translation>Импортировать эту дорожку</translation>
+        <translation type="obsolete">Импортировать эту дорожку</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="14"/>
         <source>Previous Title</source>
-        <translation>Предыдущий заголовок</translation>
+        <translation type="obsolete">Предыдущий заголовок</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="15"/>
         <source>Next Title</source>
-        <translation>Следующий заголовок</translation>
+        <translation type="obsolete">Следующий заголовок</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="16"/>
         <source>Begin Ripping</source>
-        <translation>Начать импортирование</translation>
+        <translation type="obsolete">Начать импортирование</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="18"/>
         <source>Overall Progress</source>
-        <translation>Выполнено всего</translation>
+        <translation type="obsolete">Выполнено всего</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="19"/>
         <source>Job Progress</source>
-        <translation>Степень выполнения задания</translation>
+        <translation type="obsolete">Степень выполнения задания</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="27"/>
         <source>Preview Track</source>
-        <translation>Предварительный просмотр дорожки</translation>
+        <translation type="obsolete">Предварительный просмотр дорожки</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="28"/>
         <source>No Current Jobs</source>
-        <translation>Нет заданий</translation>
+        <translation type="obsolete">Нет заданий</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="29"/>
         <source>Select a Track to Rip</source>
-        <translation>Выберите дорожку для импорта</translation>
+        <translation type="obsolete">Выберите дорожку для импорта</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="30"/>
         <source>Name of Film:</source>
-        <translation>Название фильма:</translation>
+        <translation type="obsolete">Название фильма:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="31"/>
         <source>Selected track length:</source>
-        <translation>Длина выбранной дорожки:</translation>
+        <translation type="obsolete">Длина выбранной дорожки:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="32"/>
         <source>Check this box to select this track:</source>
-        <translation>Установите флажок для выбора этой дорожки:</translation>
+        <translation type="obsolete">Установите флажок для выбора этой дорожки:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="33"/>
         <source>Check to rip AC-3 audio:</source>
-        <translation>Установите для импорта AC-3 дорожки:</translation>
+        <translation type="obsolete">Установите для импорта AC-3 дорожки:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="34"/>
         <source>Press to view excerpt:</source>
-        <translation>Нажмите чтобы просмотреть отрывок:</translation>
+        <translation type="obsolete">Нажмите чтобы просмотреть отрывок:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="35"/>
         <source>Previous</source>
-        <translation>Предыдущий</translation>
+        <translation type="obsolete">Предыдущий</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="36"/>
         <source>Next</source>
-        <translation>Следующий</translation>
+        <translation type="obsolete">Следующий</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="38"/>
+        <location filename="themestrings.h" line="109"/>
         <source>Released %1</source>
         <translation>Дата выхода %1</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="39"/>
+        <location filename="themestrings.h" line="110"/>
         <source>User Rating: %1</source>
         <translation>Рейтинг зрителей: %1</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="40"/>
+        <location filename="themestrings.h" line="111"/>
         <source>Cast</source>
         <translation>В ролях</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="41"/>
+        <location filename="themestrings.h" line="112"/>
         <source>Plot</source>
         <translation>Описание</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="43"/>
+        <location filename="themestrings.h" line="113"/>
         <source>%DATE%, %TIME%</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="44"/>
+        <location filename="themestrings.h" line="114"/>
         <source>Season/Episode: %1</source>
         <translation>Сезон/Серия: %1</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="60"/>
+        <location filename="themestrings.h" line="125"/>
         <source>Tagline:</source>
         <translation type="unfinished">Рекламный слоган:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="82"/>
+        <location filename="themestrings.h" line="134"/>
         <source>Click to select from online coverart...</source>
         <translation type="unfinished">Щелкните чтобы выбрать обложку онлайн...</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="84"/>
+        <location filename="themestrings.h" line="136"/>
         <source>Click to select from online screenshots...</source>
         <translation type="unfinished">Щелкните чтобы выбрать скриншот онлайн...</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="86"/>
+        <location filename="themestrings.h" line="138"/>
         <source>Click to select from online banners...</source>
         <translation type="unfinished">Щелкните чтобы выбрать баннер онлайн...</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="88"/>
+        <location filename="themestrings.h" line="140"/>
         <source>Click to select from online fanart...</source>
         <translation type="unfinished">Щелкните чтобы выбрать фанарт онлайн...</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="102"/>
+        <location filename="themestrings.h" line="149"/>
         <source>Directed by %1</source>
         <translation type="unfinished">Режиссер: %1</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="45"/>
+        <location filename="themestrings.h" line="115"/>
         <source>Starring: %1</source>
         <translation type="unfinished">В главных ролях: %1</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="46"/>
+        <location filename="themestrings.h" line="116"/>
         <source>Parental Level 0</source>
         <translation>Родительский уровень 0</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="47"/>
+        <location filename="themestrings.h" line="117"/>
         <source>Parental Level 1</source>
         <translation>Родительский уровень 1</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="48"/>
+        <location filename="themestrings.h" line="118"/>
         <source>Parental Level 2</source>
         <translation>Родительский уровень 2</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="49"/>
+        <location filename="themestrings.h" line="119"/>
         <source>Parental Level 3</source>
         <translation>Родительский уровень 3</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="50"/>
+        <location filename="themestrings.h" line="120"/>
         <source>Parental Level 4</source>
         <translation>Родительский уровень 4</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="51"/>
+        <location filename="themestrings.h" line="121"/>
         <source>Add New File Types</source>
         <translation>Добавить новый тип файлов</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="52"/>
+        <location filename="themestrings.h" line="122"/>
         <source>On this screen, you can add new extensions to be recognized by the Video Plugin.  If a scan does not add your files, create a new extension below by clicking the &quot;New&quot; button.
 
 If you select &quot;Use Default Player,&quot; the player command set for the extension will be ignored.  &quot;Ignore This File Type&quot; prevents the items from appearing in a scan.</source>
@@ -1785,24 +1879,19 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
 Если вы выберите &quot;Использовать плеер по умолчанию&quot;, команда запуска плеера для расширения будет проигнорирована.  &quot;Игнорировать этот тип файлов&quot; позволяет игнорировать файлы при поиске.</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="55"/>
+        <location filename="themestrings.h" line="123"/>
         <source>Use Default Player</source>
         <translation>Использовать плеер по умолчанию</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="56"/>
+        <location filename="themestrings.h" line="124"/>
         <source>Ignore This File Type</source>
         <translation>Игнорировать этот тип файлов</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="57"/>
+        <location filename="themestrings.h" line="32"/>
         <source>New</source>
-        <translation>Новый</translation>
-    </message>
-    <message>
-        <location filename="themestrings.h" line="58"/>
-        <source>Delete</source>
-        <translation>Удалить</translation>
+        <translation type="unfinished">Создать</translation>
     </message>
     <message>
         <source>Edit Metadata</source>
@@ -1813,22 +1902,22 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
         <translation type="obsolete">Измените метаданные фильма.</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="61"/>
+        <location filename="themestrings.h" line="126"/>
         <source>Rating:</source>
         <translation>Рейтинг:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="63"/>
+        <location filename="themestrings.h" line="127"/>
         <source>TMDB Number:</source>
         <translation>№ TMDB:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="70"/>
+        <location filename="themestrings.h" line="128"/>
         <source>Homepage:</source>
         <translation>Домашняя страница:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="71"/>
+        <location filename="themestrings.h" line="129"/>
         <source>Custom Player:</source>
         <translation>Пользовательский плеер:</translation>
     </message>
@@ -1841,144 +1930,142 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
         <translation type="obsolete">Фильм доступен для просмотра</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="80"/>
+        <location filename="themestrings.h" line="132"/>
         <source>Next File:</source>
         <translation>Следующий файл:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="81"/>
+        <location filename="themestrings.h" line="133"/>
         <source>Click here to search existing coverart...</source>
         <translation>Щелкните здесь для поиска существующей обложки...</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="83"/>
+        <location filename="themestrings.h" line="135"/>
         <source>Click here to search existing screenshots...</source>
         <translation>Щелкните здесь для поиска существующего скриншота...</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="85"/>
+        <location filename="themestrings.h" line="137"/>
         <source>Click here to search existing banners...</source>
         <translation>Щелкните здесь для поиска существующего баннера...</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="87"/>
+        <location filename="themestrings.h" line="139"/>
         <source>Click here to search existing fanart...</source>
         <translation>Щелкните здесь для поиска существующих обоев...</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="89"/>
+        <location filename="themestrings.h" line="141"/>
         <source>Click here to search existing trailers...</source>
         <translation>Щелкните здесь для поиска существующего трейлера...</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="90"/>
+        <location filename="themestrings.h" line="142"/>
         <source>Filter Videos</source>
         <translation>Фильр фильмов</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="91"/>
+        <location filename="themestrings.h" line="143"/>
         <source>Genre:</source>
         <translation>Жанр:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="92"/>
+        <location filename="themestrings.h" line="144"/>
         <source>Country:</source>
         <translation>Страна:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="93"/>
+        <location filename="themestrings.h" line="145"/>
         <source>Actor/Actress:</source>
         <translation>Актер/Актриса:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="95"/>
+        <location filename="themestrings.h" line="146"/>
         <source>Browse:</source>
         <translation>Просмотреть:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="96"/>
+        <location filename="themestrings.h" line="147"/>
         <source>TMDB/TVDB #:</source>
         <translation>№ TMDB/TVDB :</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="97"/>
+        <location filename="themestrings.h" line="67"/>
         <source>Coverart:</source>
         <translation>Обложка:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="98"/>
+        <location filename="themestrings.h" line="148"/>
         <source>Sort By:</source>
         <translation>Сортировать по:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="72"/>
+        <location filename="themestrings.h" line="130"/>
         <source>Watched:</source>
         <translation>Просмотрен:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="101"/>
+        <location filename="themestrings.h" line="104"/>
         <source>Save</source>
         <translation>Сохранить</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="103"/>
+        <location filename="themestrings.h" line="150"/>
         <source>This item was released on %1.</source>
         <translation>Этот фильм был выпущен %1.</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="104"/>
+        <location filename="themestrings.h" line="151"/>
         <source>It was added to your collection on %1.</source>
         <translation>Это было добавлено к вашей коллекции %1.</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="105"/>
+        <location filename="themestrings.h" line="77"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="107"/>
+        <location filename="themestrings.h" line="152"/>
         <source>Video Player Settings</source>
         <translation>Настройки видеоплеера</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="108"/>
+        <location filename="themestrings.h" line="153"/>
         <source>Default:</source>
         <translation>По умолчанию:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="109"/>
+        <location filename="themestrings.h" line="71"/>
         <source>DVD Player:</source>
         <translation>DVD плеер:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="110"/>
+        <location filename="themestrings.h" line="72"/>
         <source>DVD Drive:</source>
         <translation>DVD привод:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="111"/>
         <source>VCD Player:</source>
-        <translation>VCD плеер:</translation>
+        <translation type="obsolete">VCD плеер:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="112"/>
         <source>VCD Drive:</source>
-        <translation>VCD привод:</translation>
+        <translation type="obsolete">VCD привод:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="113"/>
+        <location filename="themestrings.h" line="156"/>
         <source>Enable Alternate Player</source>
         <translation>Включить альтернативный плеер</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="114"/>
+        <location filename="themestrings.h" line="157"/>
         <source>Alt. Player:</source>
         <translation>Альт. плеер:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="115"/>
+        <location filename="themestrings.h" line="78"/>
         <source>Video Metadata Settings</source>
-        <translation>Настройки метаданных фильмов</translation>
+        <translation>Настройки метаданных видео</translation>
     </message>
     <message>
         <source>Movie Grab:</source>
@@ -1989,179 +2076,187 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
         <translation type="obsolete">Граббер телефильмов:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="117"/>
+        <location filename="themestrings.h" line="81"/>
         <source>Display unknown file types</source>
         <translation>Показывать неизвестные типы файлов</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="118"/>
+        <location filename="themestrings.h" line="82"/>
         <source>Enable metadata in file browse mode</source>
         <translation>Включить метаданные в режиме просмотра файлов</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="119"/>
+        <location filename="themestrings.h" line="80"/>
         <source>Enable Random Trailer Playback</source>
         <translation>Включить случайное воспроизведение трейлеров</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="120"/>
+        <location filename="themestrings.h" line="159"/>
         <source>Trailer #:</source>
         <translation>Трейлер №:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="161"/>
+        <location filename="themestrings.h" line="9"/>
         <source>No videos in library, or no files found.  If you have configured a video directory, press &quot;M&quot; (or the MENU key) and select &quot;Scan for Changes.&quot;</source>
         <translation>Нет фильмов в библиотеке, или файлы не найдены.  Если вы настроили каталог с фильмами, нажмите &quot;M&quot; (или клавишу MENU) и выберите &quot;Найти изменения.&quot;</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="167"/>
+        <location filename="themestrings.h" line="168"/>
         <source>TMDB:</source>
         <translation>TMDB:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="168"/>
+        <location filename="themestrings.h" line="169"/>
         <source>Parental Lvl:</source>
         <translation>Род. уровень:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="169"/>
+        <location filename="themestrings.h" line="170"/>
         <source>Browseable</source>
         <translation>Просматриваемый</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="146"/>
+        <location filename="themestrings.h" line="96"/>
         <source>Watched</source>
         <translation>Просмотрен</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="170"/>
+        <location filename="themestrings.h" line="171"/>
         <source>Player Command:</source>
         <translation>Команда плеера:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="184"/>
+        <location filename="themestrings.h" line="172"/>
         <source>Text Filter :</source>
         <translation>Текстовый фильтр:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="185"/>
+        <location filename="themestrings.h" line="173"/>
         <source>Seas/Ep:</source>
         <translation>Сезон/Серия:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="190"/>
+        <location filename="themestrings.h" line="174"/>
         <source>SELECT: Edit</source>
         <translation>ВЫБОР: Изменение</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="191"/>
+        <location filename="themestrings.h" line="175"/>
         <source>INFO - Action Menu</source>
         <translation>ИНФО - Меню действий</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="197"/>
+        <location filename="themestrings.h" line="178"/>
+        <source>File Associations</source>
+        <translation>Ассоциации файлов</translation>
+    </message>
+    <message>
+        <location filename="themestrings.h" line="179"/>
+        <source>Video Filters</source>
+        <translation>Фильтры видео</translation>
+    </message>
+    <message>
+        <location filename="themestrings.h" line="180"/>
         <source>Background:</source>
         <translation>Фон:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="134"/>
+        <location filename="themestrings.h" line="87"/>
         <source>Video List Filters</source>
         <translation>Фильтр списка фильмов</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="154"/>
+        <location filename="themestrings.h" line="70"/>
         <source>Default Player:</source>
         <translation>Плеер по умолчанию:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="155"/>
+        <location filename="themestrings.h" line="75"/>
         <source>Enable Alternate Player:</source>
         <translation>Включить альтернативный плеер:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="156"/>
+        <location filename="themestrings.h" line="76"/>
         <source>Alternate Player:</source>
         <translation>Альтернативный плеер:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="158"/>
+        <location filename="themestrings.h" line="166"/>
         <source>Movie Grabber:</source>
         <translation>Граббер фильмов:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="159"/>
+        <location filename="themestrings.h" line="167"/>
         <source>TV Grabber:</source>
         <translation>Граббер ТВ:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="160"/>
+        <location filename="themestrings.h" line="83"/>
         <source>Trailers to Play:</source>
         <translation>Трейлер для воспроизведения:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="201"/>
+        <location filename="themestrings.h" line="181"/>
         <source>Visible:</source>
-        <translation type="unfinished">Видимый:</translation>
+        <translation>Видимый:</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="202"/>
+        <location filename="themestrings.h" line="182"/>
         <source>Coverart</source>
         <translation>Обложка</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="203"/>
+        <location filename="themestrings.h" line="183"/>
         <source>Screenshots</source>
         <translation>Скриншоты</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="204"/>
+        <location filename="themestrings.h" line="184"/>
         <source>Banners</source>
         <translation>Баннеры</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="205"/>
+        <location filename="themestrings.h" line="185"/>
         <source>Fanart</source>
         <translation>Фанарт</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="207"/>
+        <location filename="themestrings.h" line="79"/>
         <source>Perform metadata update after video scan</source>
         <translation>Выполнять обновление метаданных после поиска изменений</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="208"/>
+        <location filename="themestrings.h" line="68"/>
         <source>Find Online...</source>
         <translation>Найти онлайн...</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="210"/>
+        <location filename="themestrings.h" line="187"/>
         <source>File Paths and general options</source>
         <translation>Пути к файлам и общие настройки</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="211"/>
         <source>Player Applications and DVD/VCD Drives</source>
-        <translation>Приложения плееров и приводы DVD/VCD</translation>
+        <translation type="obsolete">Приложения плееров и приводы DVD/VCD</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="157"/>
+        <location filename="themestrings.h" line="165"/>
         <source>Metadata Settings</source>
         <translation>Настройки метаданных</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="212"/>
+        <location filename="themestrings.h" line="189"/>
         <source>Grabber Setup and display preferences</source>
         <translation>Настройка грабберов и параметры отображения</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="214"/>
+        <location filename="themestrings.h" line="191"/>
         <source>Associate new file extensions</source>
         <translation>Ассоциировать новое расширение файлов</translation>
     </message>
     <message>
-        <location filename="themestrings.h" line="216"/>
         <source>DVD Rip and Transcode options</source>
-        <translation>Настройки иморта DVD и перекодирования</translation>
+        <translation type="obsolete">Настройки иморта DVD и перекодирования</translation>
     </message>
 </context>
 <context>
@@ -2198,38 +2293,38 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
 <context>
     <name>VideoDialog</name>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2546"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2531"/>
         <source>Switch to Browse View</source>
-        <translation type="unfinished">Переключиться на браузер</translation>
+        <translation>Переключиться на браузер</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2550"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2535"/>
         <source>Switch to Gallery View</source>
-        <translation type="unfinished">Переключиться на галерею</translation>
+        <translation>Переключиться на галерею</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2554"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2539"/>
         <source>Switch to List View</source>
-        <translation type="unfinished">Переключиться на список</translation>
+        <translation>Переключиться на список</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="1319"/>
-        <location filename="../mythvideo/videodlg.cpp" line="1334"/>
+        <location filename="../mythvideo/videodlg.cpp" line="1315"/>
+        <location filename="../mythvideo/videodlg.cpp" line="1330"/>
         <source>Season</source>
         <translation>Сезон</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2261"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2257"/>
         <source>Video Search</source>
         <translation>Поиск фильмов</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2322"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2318"/>
         <source>%1 of %2</source>
         <translation>%1 из %2</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2408"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2404"/>
         <source>Video Options
 %1
 %2</source>
@@ -2238,45 +2333,41 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
 %2</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2411"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2407"/>
         <source>Video Options
 %1</source>
         <translation>Параметры фильмов
 %1</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2414"/>
-        <location filename="../mythvideo/videodlg.cpp" line="2439"/>
-        <location filename="../mythvideo/videodlg.cpp" line="2715"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2410"/>
         <source>Video Options</source>
         <translation>Параметры фильмов</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2430"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2426"/>
         <source>Play...</source>
         <translation>Воспроизведение...</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2432"/>
-        <location filename="../mythvideo/videodlg.cpp" line="2468"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2428"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2467"/>
         <source>Play</source>
         <translation>Воспроизведение</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2434"/>
-        <location filename="../mythvideo/videodlg.cpp" line="2727"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2430"/>
         <source>Mark as Unwatched</source>
         <translation>Пометить как непросмотренный</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2436"/>
-        <location filename="../mythvideo/videodlg.cpp" line="2729"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2432"/>
         <source>Mark as Watched</source>
         <translation>Пометить как просмотренный</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2437"/>
-        <location filename="../mythvideo/videodlg.cpp" line="2685"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2433"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2684"/>
         <source>Video Info</source>
         <translation>Информация о фильме</translation>
     </message>
@@ -2285,172 +2376,170 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
         <translation type="obsolete">Метаданные</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2440"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2438"/>
         <source>Delete</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2443"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2442"/>
         <source>Play Folder</source>
         <translation>Воспроизвести папку</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2457"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2456"/>
         <source>Playback Options
 %1</source>
         <translation>Параметры воспроизведения
 %1</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2472"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2471"/>
         <source>Play in Alternate Player</source>
         <translation>Воспроизвести в альтернативном плеере</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2477"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2476"/>
         <source>Play With Trailers</source>
         <translation>Воспроизвести с трейлером</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2485"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2484"/>
         <source>Play Trailer</source>
         <translation>Воспроизвести трейлер</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2496"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2495"/>
         <source>Video Display Menu</source>
         <translation>Меню фильмов</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2505"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2504"/>
         <source>Scan For Changes</source>
         <translation>Найти изменения</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2506"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2505"/>
         <source>Retrieve All Details</source>
-        <translation type="unfinished">Получить все подробности</translation>
+        <translation>Получить все подробности</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2507"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2506"/>
         <source>Filter Display</source>
         <translation>Фильтр</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2509"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2508"/>
         <source>Browse By...</source>
         <translation>Навигация по...</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2511"/>
-        <location filename="../mythvideo/videodlg.cpp" line="2536"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2510"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2521"/>
         <source>Change View</source>
         <translation>Изменить вид</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2514"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2546"/>
         <source>Disable File Browse Mode</source>
-        <translation type="unfinished">Выключить режим навигации по файлам</translation>
+        <translation>Выключить режим навигации по файлам</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2517"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2549"/>
         <source>Enable File Browse Mode</source>
-        <translation type="unfinished">Выключить режим навигации по файлам</translation>
+        <translation>Выключить режим навигации по файлам</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2521"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2553"/>
         <source>Disable Flat View</source>
-        <translation type="unfinished">Выключить плоский вид</translation>
+        <translation>Выключить плоский вид</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2524"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2556"/>
         <source>Enable Flat View</source>
-        <translation type="unfinished">Включить плоский вид</translation>
+        <translation>Включить плоский вид</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2557"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2542"/>
         <source>Switch to Manage View</source>
-        <translation type="unfinished">Переключиться на режим менеджера</translation>
+        <translation>Переключиться на режим менеджера</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2629"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2628"/>
         <source>Browse By</source>
-        <translation type="unfinished">Просмотр по</translation>
+        <translation>Просмотр по</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2639"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2638"/>
         <source>Cast</source>
-        <translation type="unfinished">Актер/Актриса</translation>
+        <translation>Актер/Актриса</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2643"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2642"/>
         <source>Category</source>
         <translation>Категория</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2647"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2646"/>
         <source>Date Added</source>
         <translation>Дата добавления</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2651"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2650"/>
         <source>Director</source>
         <translation>Режиссер</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2655"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2654"/>
         <source>Studio</source>
-        <translation type="unfinished">Студия</translation>
+        <translation>Студия</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2659"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2658"/>
         <source>Folder</source>
         <translation>Папка</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2663"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2662"/>
         <source>Genre</source>
         <translation>Жанр</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2667"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2666"/>
         <source>TV/Movies</source>
         <translation>ТВ/Фильмы</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2671"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2670"/>
         <source>User Rating</source>
         <translation>Рейтинг зрителей</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2675"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2674"/>
         <source>Year</source>
         <translation>Год</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2695"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2694"/>
         <source>View Details</source>
         <translation>Подробности о фильме</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2697"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2696"/>
         <source>View Full Plot</source>
         <translation>Полное описание</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2703"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2702"/>
         <source>View Cast</source>
         <translation>Актеры</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2732"/>
         <source>Mark as Non-Browseable</source>
-        <translation type="unfinished">Пометить как непросматриваемый</translation>
+        <translation type="obsolete">Пометить как непросматриваемый</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2734"/>
         <source>Mark as Browseable</source>
-        <translation type="unfinished">Пометить как просматриваемый</translation>
+        <translation type="obsolete">Пометить как просматриваемый</translation>
     </message>
     <message>
         <source>Manage Metadata</source>
@@ -2469,9 +2558,8 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
         <translation type="obsolete">Поиск ТВ по Заголовку/Подзаголовку</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2756"/>
         <source>Manually Enter Video #</source>
-        <translation>Ввести номер вручную</translation>
+        <translation type="obsolete">Ввести номер вручную</translation>
     </message>
     <message>
         <source>Manually Enter Video Title</source>
@@ -2482,38 +2570,37 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
         <translation type="obsolete">Сбросить метаданные</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="3003"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2972"/>
         <source>An error occurred when switching views.</source>
         <translation>Произошла ошибка при переключение режимов просмотра.</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="3552"/>
+        <location filename="../mythvideo/videodlg.cpp" line="3521"/>
         <source>Fetching details for %1</source>
-        <translation type="unfinished">Извлечение данных для %1</translation>
+        <translation>Извлечение данных для %1</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="3557"/>
+        <location filename="../mythvideo/videodlg.cpp" line="3526"/>
         <source> %1x%2</source>
-        <translation type="unfinished"> %1x%2</translation>
+        <translation> %1x%2</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="3645"/>
         <source>Enter Video Unique ID:</source>
-        <translation>Введите уникальный идентификатор фильма:</translation>
+        <translation type="obsolete">Введите уникальный идентификатор фильма:</translation>
     </message>
     <message>
         <source>Enter Video Title:</source>
         <translation type="obsolete">Введите заголовок фильма:</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="3698"/>
+        <location filename="../mythvideo/videodlg.cpp" line="3625"/>
         <source>Are you sure you want to delete:
 %1</source>
         <translation>Вы уверены что хотите удалить:
 %1</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="3736"/>
+        <location filename="../mythvideo/videodlg.cpp" line="3663"/>
         <source>Failed to delete file</source>
         <translation>Ошибка при удалении файла</translation>
     </message>
@@ -2532,77 +2619,77 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
         <translation type="obsolete">Совпадений не найдено.</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="1151"/>
+        <location filename="../mythvideo/videodlg.cpp" line="1147"/>
         <source>Video dialog loading, or no videos available...</source>
         <translation>Загружается диалог плагина или фильмы отсутствуют...</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2438"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2434"/>
         <source>Change Video Details</source>
-        <translation type="unfinished">Изменить подробности о видео</translation>
+        <translation>Изменить подробности о видео</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2527"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2512"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2567"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2566"/>
         <source>Video Settings</source>
         <translation>Настройки фильмов</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2576"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2575"/>
         <source>Player Settings</source>
         <translation>Настройки проигрывателя</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2577"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2576"/>
         <source>Metadata Settings</source>
         <translation>Настройки метаданных</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2578"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2577"/>
         <source>File Type Settings</source>
         <translation>Настройки типов файлов</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2705"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2704"/>
         <source>View Homepage</source>
         <translation>Домашняя страница</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2743"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2714"/>
         <source>Manage Video Details</source>
-        <translation type="unfinished">Управление подробностями видео</translation>
+        <translation>Управление подробностями видео</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2754"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2725"/>
         <source>Edit Details</source>
-        <translation type="unfinished">Редактировать подробности</translation>
+        <translation>Редактировать подробности</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2755"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2726"/>
         <source>Retrieve Details</source>
-        <translation type="unfinished">Получить подробности</translation>
+        <translation>Получить подробности</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2759"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2728"/>
         <source>Allow Updates</source>
         <translation>Позволить обновление</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2761"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2730"/>
         <source>Disable Updates</source>
         <translation>Запретить обновление</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="2762"/>
+        <location filename="../mythvideo/videodlg.cpp" line="2731"/>
         <source>Reset Details</source>
-        <translation type="unfinished">Очистить подробности</translation>
+        <translation>Очистить подробности</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videodlg.cpp" line="3076"/>
+        <location filename="../mythvideo/videodlg.cpp" line="3045"/>
         <source>No browser command set! MythVideo needs MythBrowser installed to display the homepage.</source>
         <translation>Не задана команда для браузера! Нужно установить MythBrowser, чтобы отобразить домашнюю страницу.</translation>
     </message>
@@ -2614,18 +2701,18 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
         <translation type="obsolete">Результат этого фильтра: %1 фильм(ов)</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videofilter.cpp" line="635"/>
+        <location filename="../mythvideo/videofilter.cpp" line="640"/>
         <source>Result of this filter : No Videos</source>
         <translation>Результат этого фильтра: Нет фильмов</translation>
     </message>
     <message>
-        <location filename="../mythvideo/videofilter.cpp" line="750"/>
-        <location filename="../mythvideo/videofilter.cpp" line="751"/>
+        <location filename="../mythvideo/videofilter.cpp" line="755"/>
+        <location filename="../mythvideo/videofilter.cpp" line="756"/>
         <source>minutes</source>
         <translation>минут</translation>
     </message>
     <message numerus="yes">
-        <location filename="../mythvideo/videofilter.cpp" line="629"/>
+        <location filename="../mythvideo/videofilter.cpp" line="634"/>
         <source>Result of this filter : %n video(s)</source>
         <translation>
             <numerusform>Результат этого фильтра : %n фильм</numerusform>
