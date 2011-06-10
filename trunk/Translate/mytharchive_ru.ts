@@ -75,7 +75,7 @@
     <message>
         <location filename="../mytharchive/importnative.cpp" line="436"/>
         <source>It was not possible to import the Archive.  An error occured when running &apos;mytharchivehelper&apos;</source>
-        <translation type="unfinished">Невозможно импортировать архив.  Произошла ошибка при запуске &apos;mytharchivehelper&apos;</translation>
+        <translation>Невозможно импортировать архив. Произошла ошибка при запуске &apos;mytharchivehelper&apos;</translation>
     </message>
     <message>
         <location filename="../mytharchive/importnative.cpp" line="566"/>
@@ -85,7 +85,7 @@
     <message>
         <location filename="../mytharchive/importnative.cpp" line="592"/>
         <source>Select a ChanNo</source>
-        <translation type="unfinished">Выберите номер канала</translation>
+        <translation>Выберите номер канала</translation>
     </message>
     <message>
         <location filename="../mytharchive/importnative.cpp" line="618"/>
@@ -137,19 +137,19 @@
         <location filename="../mytharchive/mythburn.cpp" line="333"/>
         <location filename="../mytharchive/mythburn.cpp" line="453"/>
         <source>Using Cutlist</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Используется список пропускаемых областей</translation>
     </message>
     <message>
         <location filename="../mytharchive/mythburn.cpp" line="338"/>
         <location filename="../mytharchive/mythburn.cpp" line="458"/>
         <source>Not Using Cutlist</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не используется список пропускаемых областей</translation>
     </message>
     <message>
         <location filename="../mytharchive/mythburn.cpp" line="344"/>
         <location filename="../mytharchive/mythburn.cpp" line="464"/>
         <source>No Cut List</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Нет списка пропускаемых областей</translation>
     </message>
     <message>
         <location filename="../mytharchive/mythburn.cpp" line="355"/>
@@ -174,12 +174,12 @@
     <message>
         <location filename="../mytharchive/mythburn.cpp" line="804"/>
         <source>Don&apos;t Use Cutlist</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не использовать список пропускаемых областей</translation>
     </message>
     <message>
         <location filename="../mytharchive/mythburn.cpp" line="807"/>
         <source>Use Cutlist</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Использовать список пропускаемых областей</translation>
     </message>
     <message>
         <location filename="../mytharchive/mythburn.cpp" line="811"/>
@@ -217,7 +217,7 @@
     <message>
         <location filename="../mytharchive/main.cpp" line="295"/>
         <source>Toggle use cut list state for selected program</source>
-        <translation type="unfinished">Переключить использование списка редактирования для выбранной программы</translation>
+        <translation type="unfinished">Переключить использование списка пропускаемых областей для выбранной программы</translation>
     </message>
     <message>
         <location filename="../mytharchive/main.cpp" line="298"/>
@@ -770,22 +770,22 @@ Please Wait...</source>
     <message>
         <location filename="themestrings.h" line="2"/>
         <source>A high quality profile giving approx. 1 hour of video on a single layer DVD</source>
-        <translation type="unfinished">Профиль высокого качества дает ок. 1 часа видео на однослойном DVD</translation>
+        <translation>Профиль высокого качества дает ок. 1 часа видео на однослойном DVD</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="3"/>
         <source>A standard play profile giving approx. 2 hour of video on a single layer DVD</source>
-        <translation type="unfinished">Профиль стандартного качества дает ок. 2 часов видео на однослойном DVD</translation>
+        <translation>Профиль стандартного качества дает ок. 2 часов видео на однослойном DVD</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="4"/>
         <source>A long play profile giving approx. 4 hour of video on a single layer DVD</source>
-        <translation type="unfinished">Профиль длительного воспроизведения дает ок. 4 часов видео на однослойном DVD</translation>
+        <translation>Профиль длительного воспроизведения дает ок. 4 часов видео на однослойном DVD</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="5"/>
         <source>A extended play profile giving approx. 6 hour of video on a single layer DVD</source>
-        <translation type="unfinished">Профиль расширенного воспроизведения дает ок. 6 часов видео на однослойном DVD</translation>
+        <translation>Профиль расширенного воспроизведения дает ок. 6 часов видео на однослойном DVD</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="6"/>
@@ -865,7 +865,7 @@ Please Wait...</source>
     <message>
         <location filename="themestrings.h" line="21"/>
         <source>File Finder</source>
-        <translation type="unfinished">Поиск файлов</translation>
+        <translation>Поиск файлов</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="22"/>
@@ -910,7 +910,7 @@ Please Wait...</source>
     <message>
         <location filename="themestrings.h" line="57"/>
         <source>Up Level</source>
-        <translation type="unfinished">На уровень вверх</translation>
+        <translation>На уровень вверх</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="70"/>
@@ -921,7 +921,7 @@ Please Wait...</source>
         <location filename="themestrings.h" line="72"/>
         <source>0.00 GB</source>
         <oldsource>0.00Gb</oldsource>
-        <translation type="unfinished">0.00 Гб</translation>
+        <translation>0.00 Гб</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="73"/>
@@ -941,7 +941,7 @@ Please Wait...</source>
     <message>
         <location filename="themestrings.h" line="76"/>
         <source>Select Videos</source>
-        <translation type="unfinished">Выберите видео</translation>
+        <translation>Выберите видео</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="77"/>
@@ -1203,17 +1203,17 @@ Please Wait...</source>
     <message>
         <location filename="themestrings.h" line="65"/>
         <source>Search Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Поиск канала</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="66"/>
         <source>Search Callsign</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Поиск позывного</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="67"/>
         <source>Search Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Поиск названия</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="69"/>

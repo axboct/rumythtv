@@ -1181,7 +1181,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="129"/>
         <source>If set, MythMusic will be allowed to update the metadata in the file (e.g. ID3) to match the database. This means allowing MythTV to write to the file and permissions must be set accordingly. Features such as ID3 playcounts and ratings depend on this being enabled.</source>
-        <translation type="unfinished">Если установлено, MythMusic будет обновлять метаданные в файле (т.е. ID3) в соотвтсвии с базой данных. Это разрешает MythTV записывать в файл и права доступа должны быть установлены соответствущим образом. Возможности ID3 типа числа проигрываний и рейтинг зависят от того доступны ли они.</translation>
+        <translation>Если установлено, MythMusic будет обновлять метаданные в файле (т.е. ID3) в соотвтсвии с базой данных. Это разрешает MythTV записывать в файл и права доступа должны быть установлены соответствущим образом. Возможности ID3 типа числа проигрываний и рейтинг зависят от того доступны ли они.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="141"/>
@@ -1191,7 +1191,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="143"/>
         <source>If set, MythMusic will skip checking the metadata tags in files (ID3 etc) and just try to determine Genre, Artist, Album, and Track number and title from the filename.</source>
-        <translation type="unfinished">Если установлено, MythMusic будет пропускать проверку теги метаданных в файлах (ID3 и т.п.) и попытается определить жанр, исполнителя, альбом, номер трека и название из имени файла.</translation>
+        <translation>Если установлено, MythMusic будет пропускать проверку теги метаданных в файлах (ID3 и т.п.) и попытается определить жанр, исполнителя, альбом, номер трека и название из имени файла.</translation>
     </message>
     <message>
         <location filename="../mythmusic/globalsettings.cpp" line="153"/>
