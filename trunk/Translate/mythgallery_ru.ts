@@ -69,17 +69,17 @@
     <message>
         <location filename="../mythgallery/iconview.cpp" line="880"/>
         <source>Meta Data Menu</source>
-        <translation type="unfinished">Меню Метаданные</translation>
+        <translation>Меню Метаданные</translation>
     </message>
     <message>
         <location filename="../mythgallery/iconview.cpp" line="881"/>
         <source>Marking Menu</source>
-        <translation type="unfinished">Меню Пометка</translation>
+        <translation>Меню Пометка</translation>
     </message>
     <message>
         <location filename="../mythgallery/iconview.cpp" line="882"/>
         <source>File Menu</source>
-        <translation type="unfinished">Меню Файл</translation>
+        <translation>Меню Файл</translation>
     </message>
     <message>
         <location filename="../mythgallery/iconview.cpp" line="899"/>
@@ -396,7 +396,7 @@
     <message>
         <location filename="../mythgallery/gallerysettings.cpp" line="97"/>
         <source>Check this to enable OpenGL based slideshow transitions</source>
-        <translation>Отметьте это для разрешения основанных на OpenGL эффектах перехода между изображениями.</translation>
+        <translation>Отметьте это для разрешения основанных на OpenGL эффектах перехода между изображениями</translation>
     </message>
     <message>
         <location filename="../mythgallery/gallerysettings.cpp" line="105"/>
@@ -416,7 +416,7 @@
     <message>
         <location filename="../mythgallery/gallerysettings.cpp" line="55"/>
         <source>This command is executed whenever a movie file is selected</source>
-        <translation>Эта команда иполняется когда файл фильма выбран.</translation>
+        <translation>Эта команда выполняется когда выбран файл фильма</translation>
     </message>
     <message>
         <location filename="../mythgallery/gallerysettings.cpp" line="31"/>
@@ -456,7 +456,7 @@
     <message>
         <location filename="../mythgallery/gallerysettings.cpp" line="45"/>
         <source>This is the sort order for the displayed picture thumbnails.</source>
-        <translation>Порядок сортировки при просмотре значнов</translation>
+        <translation>Порядок сортировки при просмотре значков.</translation>
     </message>
     <message>
         <location filename="../mythgallery/gallerysettings.cpp" line="127"/>
@@ -511,7 +511,7 @@ Check the directory exists, is readable and the setting is correct on MythGaller
         <location filename="../mythgallery/thumbview.cpp" line="133"/>
         <location filename="../mythgallery/thumbview.cpp" line="135"/>
         <source>pixels</source>
-        <translation>пиксели</translation>
+        <translation>пикселей</translation>
     </message>
     <message>
         <location filename="../mythgallery/thumbview.cpp" line="134"/>
@@ -536,7 +536,7 @@ Check the directory exists, is readable and the setting is correct on MythGaller
     <message>
         <location filename="../mythgallery/thumbview.cpp" line="140"/>
         <source>degrees</source>
-        <translation>градусы</translation>
+        <translation>градусов</translation>
     </message>
 </context>
 <context>
@@ -572,12 +572,12 @@ Check the directory exists, is readable and the setting is correct on MythGaller
     <message>
         <location filename="themestrings.h" line="6"/>
         <source>SELECT: View</source>
-        <translation type="unfinished">ВЫБОР: Просмотр</translation>
+        <translation>ВЫБОР: Просмотр</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="7"/>
         <source>MENU: Activate Menu</source>
-        <translation type="unfinished">МЕНЮ: Активировать меню</translation>
+        <translation>МЕНЮ: Активировать меню</translation>
     </message>
 </context>
 </TS>
