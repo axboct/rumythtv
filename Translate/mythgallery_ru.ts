@@ -6,7 +6,7 @@
     <message>
         <location filename="../mythgallery/glsingleview.cpp" line="242"/>
         <source>Press SELECT to play again</source>
-        <translation type="unfinished">Нажмите ВЫБОР для повторного воспроизведения</translation>
+        <translation>Нажмите ВЫБОР для повторного воспроизведения</translation>
     </message>
 </context>
 <context>
@@ -49,7 +49,7 @@
     <message>
         <location filename="../mythgallery/iconview.cpp" line="387"/>
         <source>%1 of %2</source>
-        <translation type="unfinished">%1 из %2</translation>
+        <translation>%1 из %2</translation>
     </message>
     <message>
         <location filename="../mythgallery/iconview.cpp" line="398"/>
@@ -59,7 +59,7 @@
     <message>
         <location filename="../mythgallery/iconview.cpp" line="865"/>
         <source>Gallery Options</source>
-        <translation type="unfinished">Параметры галереи</translation>
+        <translation>Параметры галереи</translation>
     </message>
     <message>
         <location filename="../mythgallery/iconview.cpp" line="879"/>
@@ -84,32 +84,32 @@
     <message>
         <location filename="../mythgallery/iconview.cpp" line="899"/>
         <source>Metadata Options</source>
-        <translation type="unfinished">Параметры метаданных</translation>
+        <translation>Параметры метаданных</translation>
     </message>
     <message>
         <location filename="../mythgallery/iconview.cpp" line="914"/>
         <source>Marking Options</source>
-        <translation type="unfinished">Параметры пометки</translation>
+        <translation>Параметры пометки</translation>
     </message>
     <message>
         <location filename="../mythgallery/iconview.cpp" line="923"/>
         <source>Select One</source>
-        <translation type="unfinished">Выбрать один</translation>
+        <translation>Выбрать один</translation>
     </message>
     <message>
         <location filename="../mythgallery/iconview.cpp" line="924"/>
         <source>Clear One Marked</source>
-        <translation type="unfinished">Очистить один помеченный</translation>
+        <translation>Очистить один помеченный</translation>
     </message>
     <message>
         <location filename="../mythgallery/iconview.cpp" line="931"/>
         <source>File Options</source>
-        <translation type="unfinished">Параметры файлов</translation>
+        <translation>Параметры файлов</translation>
     </message>
     <message>
         <location filename="../mythgallery/iconview.cpp" line="941"/>
         <source>Eject</source>
-        <translation type="unfinished">Извлечь</translation>
+        <translation>Извлечь</translation>
     </message>
     <message>
         <location filename="../mythgallery/iconview.cpp" line="945"/>
@@ -218,7 +218,7 @@
     <message>
         <location filename="../mythgallery/main.cpp" line="74"/>
         <source>Image viewer / slideshow</source>
-        <translation type="unfinished">Просмотрщик изображений / показ слайдов</translation>
+        <translation>Просмотрщик изображений / показ слайдов</translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="77"/>
@@ -318,12 +318,12 @@
     <message>
         <location filename="../mythgallery/main.cpp" line="116"/>
         <source>MythGallery Media Handler 1/2</source>
-        <translation type="unfinished">Обработчик медиа MythGallery 1/2</translation>
+        <translation>Обработчик медиа MythGallery 1/2</translation>
     </message>
     <message>
         <location filename="../mythgallery/main.cpp" line="119"/>
         <source>MythGallery Media Handler 2/2</source>
-        <translation type="unfinished">Обработчик медиа MythGallery 2/2</translation>
+        <translation>Обработчик медиа MythGallery 2/2</translation>
     </message>
 </context>
 <context>
@@ -346,12 +346,12 @@
     <message>
         <location filename="../mythgallery/gallerysettings.cpp" line="84"/>
         <source>Automatically load MythGallery to display pictures</source>
-        <translation type="unfinished">Автоматически загружать MythGallery для показа изображений</translation>
+        <translation>Автоматически загружать MythGallery для показа изображений</translation>
     </message>
     <message>
         <location filename="../mythgallery/gallerysettings.cpp" line="86"/>
         <source>When a new CD-Rom or removable storage device containing pictures is detected then load MythGallery to display the content.</source>
-        <translation type="unfinished">При обнаружении CD-Rom или подключаемого устройства содержащего изображения будет загружен MythGallery для отображения контента.</translation>
+        <translation>При обнаружении CD-Rom или съемного устройства содержащего изображения будет загружен MythGallery для отображения контента.</translation>
     </message>
     <message>
         <location filename="../mythgallery/gallerysettings.cpp" line="137"/>

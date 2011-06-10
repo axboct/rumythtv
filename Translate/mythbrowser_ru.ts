@@ -276,7 +276,7 @@ Use the &apos;Add Bookmark&apos; menu option to add new bookmarks</source>
     <message>
         <location filename="themestrings.h" line="9"/>
         <source>Enable browser plugins (Flash, etc):</source>
-        <translation type="unfinished">Включить плагины (Flash и т.п.):</translation>
+        <translation>Включить плагины (Flash и т.п.):</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="11"/>
@@ -320,7 +320,7 @@ When you have finished editing, select &quot;OK&quot; or &quot;Cancel&quot; to c
     <message>
         <location filename="themestrings.h" line="27"/>
         <source>Enable browser plugins (Flash, etc)</source>
-        <translation type="unfinished">Включить плагины (Flash и т.п.)</translation>
+        <translation>Включить плагины (Flash и т.п.)</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="28"/>

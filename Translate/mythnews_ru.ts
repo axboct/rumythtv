@@ -55,7 +55,7 @@
         <location filename="../mythnews/mythnews.cpp" line="473"/>
         <location filename="../mythnews/mythnews.cpp" line="732"/>
         <source>%1 of %2 (%3 percent)</source>
-        <translation type="unfinished">%1 из %2 (%3 процентов)</translation>
+        <translation>%1 из %2 (%3 процентов)</translation>
     </message>
     <message>
         <location filename="../mythnews/mythnews.cpp" line="805"/>
@@ -132,7 +132,7 @@
         <location filename="../mythnews/newssite.cpp" line="234"/>
         <location filename="../mythnews/newssite.cpp" line="243"/>
         <source>Failed to retrieve news</source>
-        <translation>Не удается загрузить новости.</translation>
+        <translation>Не удается загрузить новости</translation>
     </message>
     <message>
         <location filename="../mythnews/newssite.cpp" line="226"/>

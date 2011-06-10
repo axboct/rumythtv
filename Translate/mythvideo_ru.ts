@@ -2400,7 +2400,7 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="2476"/>
         <source>Play With Trailers</source>
-        <translation>Воспроизвести с трейлером</translation>
+        <translation type="unfinished">Воспроизвести с трейлерами</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="2484"/>
@@ -2676,7 +2676,7 @@ If you select &quot;Use Default Player,&quot; the player command set for the ext
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="2728"/>
         <source>Allow Updates</source>
-        <translation>Позволить обновление</translation>
+        <translation type="unfinished">Позволить обновления</translation>
     </message>
     <message>
         <location filename="../mythvideo/videodlg.cpp" line="2730"/>
