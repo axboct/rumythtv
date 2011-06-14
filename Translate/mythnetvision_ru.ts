@@ -75,19 +75,19 @@
     <message>
         <location filename="../mythnetvision/netsearch.cpp" line="694"/>
         <source>Downloading Video...</source>
-        <translation type="unfinished">Загрузка видео...</translation>
+        <translation>Загрузка видео...</translation>
     </message>
     <message>
         <location filename="../mythnetvision/netsearch.cpp" line="842"/>
         <source>Downloading Video...
 (%1 of %2 MB)</source>
-        <translation type="unfinished">Загрузка видео...
+        <translation>Загрузка видео...
 (%1 из %2 Мбайт)</translation>
     </message>
     <message>
         <location filename="../mythnetvision/netsearch.cpp" line="868"/>
         <source>Error downloading video to backend.</source>
-        <translation type="unfinished">Ошибка загрузки видео на бэкэнд.</translation>
+        <translation>Ошибка загрузки видео на бэкэнд.</translation>
     </message>
     <message>
         <source>Web Only</source>
@@ -203,7 +203,7 @@
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="549"/>
         <source>Manage Site Subscriptions</source>
-        <translation>Управление подписками сайтов</translation>
+        <translation>Управление подписками</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="550"/>
@@ -241,19 +241,19 @@
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="948"/>
         <source>Downloading Video...</source>
-        <translation type="unfinished">Загрузка видео...</translation>
+        <translation>Загрузка видео...</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="1291"/>
         <source>Downloading Video...
 (%1 of %2 MB)</source>
-        <translation type="unfinished">Загрузка видео...
+        <translation>Загрузка видео...
 (%1 из %2 Мбайт)</translation>
     </message>
     <message>
         <location filename="../mythnetvision/nettree.cpp" line="1317"/>
         <source>Error downloading video to backend.</source>
-        <translation type="unfinished">Ошибка загрузки видео на бэкэнд.</translation>
+        <translation>Ошибка загрузки видео на бэкэнд.</translation>
     </message>
     <message>
         <source>Download already running.  Try again when the download is finished.</source>
@@ -389,7 +389,7 @@ For new subscriptions, you can simply enter the URL and click &quot;Save.&quot;<
     <message>
         <location filename="themestrings.h" line="18"/>
         <source>Select to change image...</source>
-        <translation>Select to change image...</translation>
+        <translation>Выберите чтобы изменить изображение...</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="19"/>
@@ -404,7 +404,7 @@ For new subscriptions, you can simply enter the URL and click &quot;Save.&quot;<
     <message>
         <location filename="themestrings.h" line="21"/>
         <source>You haven&apos;t added any Sites/RSS Feeds yet!  To add a site, press MENU, then choose &quot;Scan/Manage Subscriptions,&quot; then &quot;Manage Site Subscriptions.&quot;</source>
-        <translation>You haven&apos;t added any Sites/RSS Feeds yet!  To add a site, press MENU, then choose &quot;Scan/Manage Subscriptions,&quot; then &quot;Manage Site Subscriptions.&quot;</translation>
+        <translation>Вы не добавили ни одного сайта/подписки RSS!  Чтобы добавить сайт, нажмите МЕНЮ, затем &quot;Поиск/Управление подписками,&quot; потом &quot;Управление подписками.&quot;</translation>
     </message>
     <message>
         <source>Manage Tree Subscriptions</source>
@@ -417,22 +417,22 @@ For new subscriptions, you can simply enter the URL and click &quot;Save.&quot;<
     <message>
         <location filename="themestrings.h" line="2"/>
         <source>Internet Video Browser</source>
-        <translation type="unfinished">Браузер видео в интернет</translation>
+        <translation>Браузер видео в интернет</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="3"/>
         <source>No sites configured!</source>
-        <translation type="unfinished">Сайты не настроены!</translation>
+        <translation>Сайты не настроены!</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="4"/>
         <source>Videos - Gallery</source>
-        <translation type="unfinished">Видео - Галерея</translation>
+        <translation>Видео - Галерея</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="5"/>
         <source>Videos - Tree</source>
-        <translation type="unfinished">Видео - Дерево</translation>
+        <translation>Видео - Дерево</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="6"/>
@@ -577,8 +577,7 @@ For new subscriptions, you can simply enter the URL and click &quot;Save.&quot;<
     <message>
         <location filename="themestrings.h" line="49"/>
         <source>Search popular video sites</source>
-        <translatorcomment>Search popular video sites</translatorcomment>
-        <translation type="unfinished">Искать популярные видео сайты</translation>
+        <translation>Искать популярные видео сайты</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="50"/>
