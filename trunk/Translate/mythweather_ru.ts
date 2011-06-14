@@ -1096,7 +1096,7 @@ When you have completed your changes, click &quot;Finish&quot; to continue.</sou
     <message>
         <location filename="themestrings.h" line="32"/>
         <source>Temp</source>
-        <translation>Темп. </translation>
+        <translation>Темп.</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="33"/>

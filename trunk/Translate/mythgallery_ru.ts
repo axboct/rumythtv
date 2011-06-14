@@ -4,7 +4,7 @@
 <context>
     <name>GLSingleView</name>
     <message>
-        <location filename="../mythgallery/glsingleview.cpp" line="242"/>
+        <location filename="../mythgallery/glsingleview.cpp" line="243"/>
         <source>Press SELECT to play again</source>
         <translation>Нажмите ВЫБОР для повторного воспроизведения</translation>
     </message>
@@ -12,203 +12,203 @@
 <context>
     <name>IconView</name>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="551"/>
+        <location filename="../mythgallery/iconview.cpp" line="554"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="878"/>
+        <location filename="../mythgallery/iconview.cpp" line="881"/>
         <source>SlideShow</source>
         <translation>Показ слайдов</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="908"/>
+        <location filename="../mythgallery/iconview.cpp" line="911"/>
         <source>Rotate CW</source>
         <translation>Повернуть на 90°</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="909"/>
+        <location filename="../mythgallery/iconview.cpp" line="912"/>
         <source>Rotate CCW</source>
         <translation>Повернуть на 270°</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="942"/>
+        <location filename="../mythgallery/iconview.cpp" line="945"/>
         <source>Import</source>
         <translation>Импорт</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="883"/>
+        <location filename="../mythgallery/iconview.cpp" line="886"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="187"/>
+        <location filename="../mythgallery/iconview.cpp" line="190"/>
         <source>No images found in this directory.</source>
         <translation>Изображения в этом каталоге не найдены.</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="387"/>
+        <location filename="../mythgallery/iconview.cpp" line="390"/>
         <source>%1 of %2</source>
         <translation>%1 из %2</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="398"/>
+        <location filename="../mythgallery/iconview.cpp" line="401"/>
         <source>Gallery Home</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="865"/>
+        <location filename="../mythgallery/iconview.cpp" line="868"/>
         <source>Gallery Options</source>
         <translation>Параметры галереи</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="879"/>
+        <location filename="../mythgallery/iconview.cpp" line="882"/>
         <source>Random</source>
         <translation>Случайно</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="880"/>
+        <location filename="../mythgallery/iconview.cpp" line="883"/>
         <source>Meta Data Menu</source>
         <translation>Меню Метаданные</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="881"/>
+        <location filename="../mythgallery/iconview.cpp" line="884"/>
         <source>Marking Menu</source>
         <translation>Меню Пометка</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="882"/>
+        <location filename="../mythgallery/iconview.cpp" line="885"/>
         <source>File Menu</source>
         <translation>Меню Файл</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="899"/>
+        <location filename="../mythgallery/iconview.cpp" line="902"/>
         <source>Metadata Options</source>
         <translation>Параметры метаданных</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="914"/>
+        <location filename="../mythgallery/iconview.cpp" line="917"/>
         <source>Marking Options</source>
         <translation>Параметры пометки</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="923"/>
+        <location filename="../mythgallery/iconview.cpp" line="926"/>
         <source>Select One</source>
         <translation>Выбрать один</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="924"/>
+        <location filename="../mythgallery/iconview.cpp" line="927"/>
         <source>Clear One Marked</source>
         <translation>Очистить один помеченный</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="931"/>
+        <location filename="../mythgallery/iconview.cpp" line="934"/>
         <source>File Options</source>
         <translation>Параметры файлов</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="941"/>
+        <location filename="../mythgallery/iconview.cpp" line="944"/>
         <source>Eject</source>
         <translation>Извлечь</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="945"/>
+        <location filename="../mythgallery/iconview.cpp" line="948"/>
         <source>Delete</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="131"/>
+        <location filename="../mythgallery/iconview.cpp" line="134"/>
         <source>MythGallery Directory &apos;%1&apos; does not exist or is unreadable.</source>
         <translation>Каталог MythGallery &apos;%1&apos; не существует или недоступен для чтения.</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="552"/>
+        <location filename="../mythgallery/iconview.cpp" line="555"/>
         <source>The selected device is no longer available</source>
         <translation>Выбранное устройство более не доступно</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="926"/>
+        <location filename="../mythgallery/iconview.cpp" line="929"/>
         <source>Clear Marked</source>
         <translation>Очистить отметки</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="925"/>
+        <location filename="../mythgallery/iconview.cpp" line="928"/>
         <source>Select All</source>
         <translation>Выбрать все</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="940"/>
+        <location filename="../mythgallery/iconview.cpp" line="943"/>
         <source>Show Devices</source>
         <translation>Показать устройства</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="943"/>
+        <location filename="../mythgallery/iconview.cpp" line="946"/>
         <source>Copy here</source>
         <translation>Копировать сюда</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="944"/>
+        <location filename="../mythgallery/iconview.cpp" line="947"/>
         <source>Move here</source>
         <translation>Переместить сюда</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="946"/>
+        <location filename="../mythgallery/iconview.cpp" line="949"/>
         <source>Create Dir</source>
         <translation>Создать каталог</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="997"/>
+        <location filename="../mythgallery/iconview.cpp" line="1000"/>
         <source>Delete Current File or Folder</source>
         <translation>Удалить текущий файл или каталог</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="999"/>
+        <location filename="../mythgallery/iconview.cpp" line="1002"/>
         <source>Deleting 1 folder, including any subfolders and files.</source>
         <translation>Удалить 1 каталог, включая любые подкаталоги и файлы.</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="1000"/>
+        <location filename="../mythgallery/iconview.cpp" line="1003"/>
         <source>Deleting 1 image.</source>
         <translation>Удалить 1 файл.</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="1210"/>
+        <location filename="../mythgallery/iconview.cpp" line="1213"/>
         <source>Deleting %1 images and folders, including any subfolders and files.</source>
         <translation>Удалить %1 файлов и каталогов, включая любые подкаталоги и файлы.</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="1273"/>
+        <location filename="../mythgallery/iconview.cpp" line="1276"/>
         <source>New Folder</source>
         <translation>Новый каталог</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="1275"/>
+        <location filename="../mythgallery/iconview.cpp" line="1278"/>
         <source>Create New Folder</source>
         <translation>Создать новый каталог</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="1391"/>
+        <location filename="../mythgallery/iconview.cpp" line="1394"/>
         <source>Moving marked images...</source>
         <translation>Переместить помеченные изображения...</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="1391"/>
+        <location filename="../mythgallery/iconview.cpp" line="1394"/>
         <source>Copying marked images...</source>
         <translation>Копировать помеченные изображения...</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="947"/>
-        <location filename="../mythgallery/iconview.cpp" line="1304"/>
+        <location filename="../mythgallery/iconview.cpp" line="950"/>
+        <location filename="../mythgallery/iconview.cpp" line="1307"/>
         <source>Rename</source>
         <translation>Переименовать</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="1330"/>
+        <location filename="../mythgallery/iconview.cpp" line="1333"/>
         <source>Failed to rename directory</source>
         <translation>Не удалось переименовать каталог</translation>
     </message>
     <message>
-        <location filename="../mythgallery/iconview.cpp" line="1332"/>
+        <location filename="../mythgallery/iconview.cpp" line="1335"/>
         <source>Failed to rename file</source>
         <translation>Не удалось переименовать файл</translation>
     </message>
@@ -396,7 +396,7 @@
     <message>
         <location filename="../mythgallery/gallerysettings.cpp" line="97"/>
         <source>Check this to enable OpenGL based slideshow transitions</source>
-        <translation>Отметьте это для разрешения основанных на OpenGL эффектах перехода между изображениями</translation>
+        <translation>Установите это для разрешения переходов между изображениями на основе OpenGL</translation>
     </message>
     <message>
         <location filename="../mythgallery/gallerysettings.cpp" line="105"/>
