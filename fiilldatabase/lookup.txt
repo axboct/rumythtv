@@ -2,33 +2,36 @@
 1+1|3|http://www.lyngsat-logo.com/logo/tv/num/1plus1.jpg 
 1+1 International|282|http://www.lyngsat-logo.com/logo/tv/num/1plus1_international.jpg
 1 Auto|435|http://www.lyngsat-logo.com/logo/tv/pp/pershiy_avtomobilniy.jpg 
+FIRST UKR|1|http://www.lyngsat-logo.com/logo/tv/pp/pershiy_nacionalniy_ua.jpg
 1PLUS1|3|http://www.lyngsat-logo.com/logo/tv/num/1plus1.jpg
 2+2|23|http://www.lyngsat-logo.com/logo/tv/num/2plus2.jpg 
 24Док|263|
 24Техно|381|
 2Т|496|
 2х2|341|
-365 дней ТВ|279|
-3 канал|336|
+365 дней ТВ|279|http://www.lyngsat-logo.com/logo/tv/num/365_dnei_tv.jpg
+3 канал|336|http://www.lyngsat-logo.com/logo/tv/num/3_kanal_moskovia.jpg
 3+ Латвия|174|
 3+ Эстония|252|
-5 канал (Россия) (+2)|640|
-5 канал (Россия)|308|
-5 канал (Россия) (+4)|641|
-5 канал (Россия) (+7)|642|
-7ТВ (+2)|645|
-7ТВ (+7)|646|
-7ТВ|89|
+5 канал (Россия) (+2)|640|http://www.lyngsat-logo.com/logo/tv/kk/kanal5_petersburg.jpg
+5 канал (Россия)|308|http://www.lyngsat-logo.com/logo/tv/kk/kanal5_petersburg.jpg
+5 канал (Россия) (+4)|641|http://www.lyngsat-logo.com/logo/tv/kk/kanal5_petersburg.jpg
+5 канал (Россия) (+7)|642|http://www.lyngsat-logo.com/logo/tv/kk/kanal5_petersburg.jpg
+7ТВ (+2)|645|http://www.lyngsat-logo.com/logo/tv/num/7tv_ru.jpg
+7ТВ (+7)|646|http://www.lyngsat-logo.com/logo/tv/num/7tv_ru.jpg
+7ТВ|89|http://www.lyngsat-logo.com/logo/tv/num/7tv_ru.jpg
 AB Moteurs|127|
 Adult channel|114|
 Al Jazeera International|240|
-Amazing life|347|
-Animal planet Europe|39|
-Animal planet Россия|484|
+Amazing life|347|http://www.lyngsat-logo.com/logo/tv/aa/amazing_life.jpg
+Animal planet Europe|39|http://www.lyngsat-logo.com/logo/tv/aa/animal_planet.jpg
+Animal planet Россия|484|http://www.lyngsat-logo.com/logo/tv/aa/animal_planet.jpg
+Animal planet|484|http://www.lyngsat-logo.com/logo/tv/aa/animal_planet.jpg
+Animal planet HD|none|http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us_hd.jpg
 A-one|316|
 AXN Sci-Fi Россия|403|
-Babay|none|http://www.lyngsat-logo.com/logo/tv/bb/babay.jpg 
-BabyTV|528|
+Babay|528|http://www.lyngsat-logo.com/logo/tv/bb/babay.jpg 
+BabyTV|528|http://www.lyngsat-logo.com/logo/tv/bb/babay.jpg
 BBC Entertainment|147|
 BBC World|46|
 Bebe TV|656|
@@ -36,8 +39,8 @@ Bebe TV HD|657|
 BizTV|515|
 BizTV|516|
 Bloomberg|90|
-Blue Hustler|140|
-Blue Hustler (для Украины)|665|
+Blue Hustler|140|http://www.lyngsat-logo.com/logo/tv/bb/blue_hustler.jpg
+Blue Hustler (для Украины)|665|http://www.lyngsat-logo.com/logo/tv/bb/blue_hustler.jpg
 Boomerang|404|
 Bridge TV|409|
 Cartoon network|54|
@@ -45,7 +48,7 @@ Cartoon Network / TCM|577|
 CCTV Русский|598|
 Channel 5 (Ukraine)|106|http://www.lyngsat-logo.com/logo/tv/kk/kanal5_ua.jpg 
 ChePe Info|none|http://www.lyngsat-logo.com/logo/tv/cc/che_pe_info.jpg 
-CiTi|none|http://www.lyngsat-logo.com/logo/tv/cc/citi_tv.jpg 
+CiTi|24|http://www.lyngsat-logo.com/logo/tv/cc/citi_tv.jpg 
 C Music TV|582|
 CNBC Europe|70|
 CNL|125|
@@ -53,78 +56,81 @@ CNL Ukraina|none|http://www.lyngsat-logo.com/logo/tv/cc/cnl_new_life_channel.jpg
 CNL Сибирь|527|
 CNL Украина|392|
 CNN|47|
-Comedy TV|476|
-Da Vinci Learning|644|
-Da Vinci Learning|659|
-Da Vinci Learning Россия|651|
+Comedy TV|476|http://www.lyngsat-logo.com/logo/tv/cc/comedy_tv_ru.jpg
+Da Vinci Learning|644|http://www.lyngsat-logo.com/logo/tv/dd/da_vinci_learning.jpg
+Da Vinci Learning|659|http://www.lyngsat-logo.com/logo/tv/dd/da_vinci_learning.jpg
+Da Vinci Learning Россия|651|http://www.lyngsat-logo.com/logo/tv/dd/da_vinci_learning.jpg
 Da Vinci Universitas|650|
 Deutsche Welle|84|
-Discovery HD Showcase|599|
-Discovery Science|41|
+Discovery HD Showcase|599|http://www.lyngsat-logo.com/logo/tv/dd/discovery_hd_showcase_emea.jpg
+Discovery Science|41|http://www.lyngsat-logo.com/logo/tv/dd/discovery_science_uk.jpg
 Discovery Travel & Living|105|
-Discovery World|424|
+Discovery World|424|http://www.lyngsat-logo.com/logo/tv/dd/discovery_world.jpg
 Discovery Восточная Европа|397|
-Discovery Россия|38|
+Discovery Россия|38|http://www.lyngsat-logo.com/logo/tv/dd/discovery_ru.jpg
+Discovery|38|http://www.lyngsat-logo.com/logo/tv/dd/discovery_ru.jpg
 Disney channel Россия|44|
 Disney channel Украина|673|
 Diva Universal Россия|43|
 Eko TV|none| 
 El Garage TV Россия|674|
-English Club TV|485|
-ENGLISH CLUB TV|none|http://www.lyngsat-logo.com/logo/tv/ee/english_club_tv.jpg 
+English Club TV|485|http://www.lyngsat-logo.com/logo/tv/ee/english_club_tv.jpg 
+ENGLISH CLUB TV|485|http://www.lyngsat-logo.com/logo/tv/ee/english_club_tv.jpg 
 Enter|27|
 Enter|373|
 Enter Film|92|http://www.lyngsat-logo.com/logo/tv/ee/enter_film.jpg 
 Enter Music|27|http://www.lyngsat-logo.com/logo/tv/ee/enter_music_tv.jpg 
-Enter-фильм|372|
-Enter-фильм|92|
+Enter-фiльм|372|http://www.lyngsat-logo.com/logo/tv/ee/enter_film.jpg 
+Enter-фильм|92|http://www.lyngsat-logo.com/logo/tv/ee/enter_film.jpg 
 ESPN Classic|173|
 Euronews|37|
 Eurosport 2|229|
 Eurosport|36|
-Eurosport HD|535|
+Eurosport HD|535|http://www.lyngsat-logo.com/logo/tv/ee/eurosport.jpg
 Extreme sports|99|
 Fashion TV Europe|342|
 Fashion TV Россия|86|
 Fine Living Network|406|
-Fox Crime Россия|413|
-Fox Life Россия|432|
+Fox Crime|413|http://www.lyngsat-logo.com/logo/tv/ff/fox_crime_ru.jpg
+Fox Life|432|http://www.lyngsat-logo.com/logo/tv/ff/fox_life_ru.jpg
 France 24|486|
 FTV HD|510|
 Gamma|479|http://www.lyngsat-logo.com/logo/tv/gg/gamma_telekanal.jpg 
 GLAS|294|http://www.lyngsat-logo.com/logo/tv/gg/glas_ua.jpg 
-Gulli Россия|596|
+Gulli Россия|596|http://www.lyngsat-logo.com/logo/tv/gg/gulli.jpg
 Gumor TV|613|http://www.lyngsat-logo.com/logo/tv/gg/gumor.jpg 
-HD-Life|459|
-HD Кино|590|
-HD Спорт|591|
+HD-Life|459|http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_hd_life.jpg
+HD-Кино|590|http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_hd_kino.jpg
+HD-Спорт|591|http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_hd_sport.jpg
 High Life HD|622|
-Hustler TV Europe|120|
-Hustler TV Europe (для Украины)|666|
+Hustler TV Europe|120|http://www.lyngsat-logo.com/logo/tv/hh/hustler_tv.jpg
+Hustler TV Europe (для Украины)|666|http://www.lyngsat-logo.com/logo/tv/hh/hustler_tv.jpg
 ICTV|5|http://www.lyngsat-logo.com/logo/tv/ii/ictv_ua.jpg 
+Inter|4|http://www.lyngsat-logo.com/logo/tv/ii/inter_ua.jpg
 Inter+|69|http://www.lyngsat-logo.com/logo/tv/ii/inter_plus_ua.jpg 
-Investigation Discovery|635|
-JimJam|454|
+Investigation Discovery|635|http://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_europe.jpg
+JimJam|454|http://www.lyngsat-logo.com/logo/tv/jj/jim_jam.jpg
 K1|19|http://www.lyngsat-logo.com/logo/tv/kk/k1.jpg 
 K2|20|http://www.lyngsat-logo.com/logo/tv/kk/k2.jpg 
 KDRTRK|317|http://www.lyngsat-logo.com/logo/tv/kk/kdrtrk.jpg 
 KidsCo|391|
 KIEV STB|6| http://www.lyngsat-logo.com/logo/tv/ss/stb.jpg 
 Kiko|497| http://www.lyngsat-logo.com/logo/tv/kk/kiko.jpg 
-KRT|149|
+KRT|149|http://www.lyngsat-logo.com/logo/tv/kk/krt_kievskaya_rus_tv.jpg
 Kultura|285|http://www.lyngsat-logo.com/logo/tv/kk/kultura_ua.jpg 
 Luxe.TV|475|
 Luxe.TV HD|536|
 M1|94|http://www.lyngsat-logo.com/logo/tv/mm/m1_ua.jpg 
+M2|445|http://www.lyngsat-logo.com/logo/tv/mm/m2_ua.jpg 
 M2 Estrada|445|http://www.lyngsat-logo.com/logo/tv/mm/m2_ua.jpg 
 Malyatko TV|606|
 MAN TV|456|
 Maxxi TV|356|http://www.lyngsat-logo.com/logo/tv/mm/maxxi_tv.jpg 
 MCM Top|116|
-Mega|234|http://www.lyngsat-logo.com/logo/tv/mm/mega_ua.jpg 
+MEGA|234|http://www.lyngsat-logo.com/logo/tv/mm/mega_ua.jpg 
 Menu TV|348|http://www.lyngsat-logo.com/logo/tv/mm/menu_tv.jpg 
 Mezzo|85|
-Mezzo Live HD|672|
+Mezzo Live HD|672|http://www.lyngsat-logo.com/logo/tv/mm/mezzo_live_hd.jpg
 MGM International|214|
 Motors|117|
 MTV Dance|224|
@@ -132,10 +138,10 @@ MTV Europe|218|
 MTV Hits|221|
 MTVNHD|488|
 MTV ROCKS|222|
-MTV UA|428|http://www.lyngsat-logo.com/logo/tv/mm/mtv_ua.jpg 
-MTV Россия (+4)|569|
-MTV Россия|48|
-MTV Россия (+7)|626|
+MTV UA|#428|http://www.lyngsat-logo.com/logo/tv/mm/mtv_ua.jpg 
+MTV Россия (+4)|569|http://www.lyngsat-logo.com/logo/tv/mm/mtv_ru.jpg
+MTV Россия|48|http://www.lyngsat-logo.com/logo/tv/mm/mtv_ru.jpg
+MTV Россия (+7)|626|http://www.lyngsat-logo.com/logo/tv/mm/mtv_ru.jpg
 MUSIC BOX|417|http://www.lyngsat-logo.com/logo/tv/mm/musicbox_tv.jpg 
 MusicBox RU|412|
 MusicBox TV|411|
@@ -144,8 +150,9 @@ MusicBox UA|470|
 myZen.tv|534|
 myZen.tv HD|580|
 Nat Geo Music|593|
-Nat Geo Wild HD|671|
-Nat Geo Wild Россия|344|
+Nat Geo Wild HD|671|http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_emea.jpg
+Nat Geo Wild Россия|344|http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_emea.jpg
+Nat Geo Wild|344|http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_emea.jpg
 National Geographic HD|594|
 National Geographic Россия|295|
 NEWS 24|298|http://www.lyngsat-logo.com/logo/tv/nn/news24_ua.jpg 
@@ -157,21 +164,25 @@ NTA|none|
 NTN|212|http://www.lyngsat-logo.com/logo/tv/nn/ntn_ua.jpg 
 Ocean TV|414|
 OSK-Odessa|483|http://www.lyngsat-logo.com/logo/tv/oo/ok_tv_ua.jpg 
+OTV|64|http://www.lyngsat-logo.com/logo/tv/oo/otv.jpg 
 OTV Music|64|http://www.lyngsat-logo.com/logo/tv/oo/otv.jpg 
+PB|140|http://www.lyngsat-logo.com/logo/tv/bb/blue_hustler.jpg
 Pervy delovoy|299|http://www.lyngsat-logo.com/logo/tv/pp/pershiy_diloviy_tv1.jpg 
+PG|120|http://www.lyngsat-logo.com/logo/tv/hh/hustler_tv.jpg
 Planeta|498|
-Playboy TV UK|172|
-Playboy TV UK (для Украины)|663|
+Playboy TV UK|172|http://www.lyngsat-logo.com/logo/tv/pp/playboy.jpg
+Playboy TV UK (для Украины)|663|http://www.lyngsat-logo.com/logo/tv/pp/playboy.jpg
 PogodaTV|none|http://www.lyngsat-logo.com/logo/tv/pp/pogoda_tv.jpg 
 Private Spice|143|
-ProPoker|589|
+ProPoker|589|http://www.lyngsat-logo.com/logo/tv/pp/pro_poker_tv.jpg
+PROPOKER|589|http://www.lyngsat-logo.com/logo/tv/pp/pro_poker_tv.jpg
 Pro Vse|402|http://www.lyngsat-logo.com/logo/tv/pp/pro_vse.jpg 
 Pro Деньги|492|
 QTV|460|http://www.lyngsat-logo.com/logo/tv/qq/qtv_ua.jpg 
-R1|405|
+R1|405|http://www.lyngsat-logo.com/logo/tv/rr/r1.jpg
 RADA|none|http://www.lyngsat-logo.com/logo/tv/rr/rada_parlamentskiy_telekanal.jpg 
 REAL ESTATE TV|481|http://www.lyngsat-logo.com/logo/tv/rr/real_estate_tv_ua.jpg 
-Romantica 2|35|
+Romantica 2|35|http://www.lyngsat-logo.com/logo/tv/zz/zone_romantica_pan_europe.jpg
 RTG|605|
 RTR Planeta|98|http://www.lyngsat-logo.com/logo/tv/rr/rtr_planeta.jpg 
 RTVI|22|
@@ -180,9 +191,10 @@ RU MUSIC|388|http://www.lyngsat-logo.com/logo/tv/rr/ru_music_tv.jpg
 Ru.Music|469|
 Rusong TV|668|
 Russia Today|301|
-RU.TV|334|
-SCI|564|http://www.lyngsat-logo.com/logo/tv/ss/slavonian_channel_international.jpg
-SET Россия|525|
+RU.TV|334|http://www.lyngsat-logo.com/logo/tv/rr/ru_tv.jpg
+SCI|654|http://www.lyngsat-logo.com/logo/tv/ss/slavonian_channel_international.jpg
+SET Россия|525|http://www.lyngsat-logo.com/logo/tv/ss/set_eastern_europe.jpg
+SET|525|http://www.lyngsat-logo.com/logo/tv/ss/set_eastern_europe.jpg
 SHOPping TV|none|http://www.lyngsat-logo.com/logo/tv/ss/shopping_tv_ua.jpg 
 Spice|307|
 Star TV UKR|513|http://www.lyngsat-logo.com/logo/tv/ss/star_tv_ua.jpg 
@@ -196,28 +208,34 @@ Teen TV|448|
 TET|18|http://www.lyngsat-logo.com/logo/tv/tt/tet_ua.jpg
 TiJi Россия|597|
 Tisa 1|315|http://www.lyngsat-logo.com/logo/tv/tt/tisa1.jpg 
+TONIS|25|http://www.lyngsat-logo.com/logo/tv/tt/tonis.jpg 
 Tonis|25|http://www.lyngsat-logo.com/logo/tv/tt/tonis.jpg 
 Trace TV|230|
-Travel channel|88|
-TV1000 Action East (-21)|512|
-TV1000 Action East|458|
-TV1000 East|107|
+Travel|88|http://www.lyngsat-logo.com/logo/tv/tt/travel_channel_europe.jpg
+Travel channel|88|http://www.lyngsat-logo.com/logo/tv/tt/travel_channel_europe.jpg
+TV1000 Action East (-21)|512|http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv1000_action.jpg
+TV1000 Action East|458|http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv1000_action.jpg
+TV1000 Action|458|http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv1000_action.jpg
+TV1000 East|107|http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv1000_east.jpg
+TV1000|107|http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv1000_east.jpg
 TV1000 Premium|423|
-TV1000 Русское кино|255|
+TV1000 Русское кино|255|http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv1000_russkoe_kino.jpg
+TV 3|none|http://www.lyngsat-logo.com/logo/tv/tt/tv3_ru.jpg
 TV5 Monde Europe|74|
 TV5 Латвия|434|
+TV KYIV|75|http://www.lyngsat-logo.com/logo/tv/tt/trk_kiew.jpg
 UBC|386|http://www.lyngsat-logo.com/logo/tv/uu/ubc_ua.jpg 
 UBR|609|http://www.lyngsat-logo.com/logo/tv/uu/ubr.jpg 
 UKRAINA|108|http://www.lyngsat-logo.com/logo/tv/tt/trk_ukraina.jpg
-Unian-TV|none|
+Unian-TV|740|http://www.lyngsat-logo.com/logo/tv/uu/unian_tv.jpg
 Universal Россия|453|
 UNT|none|http://www.lyngsat-logo.com/logo/tv/uu/unt_ua.jpg 
 UTR|165|http://www.lyngsat-logo.com/logo/tv/uu/utr_ua.jpg 
 VH1 Classic Europe|227|
-VH1 Europe|50|
-Viasat Explorer|152|
+VH1 Europe|50|http://www.lyngsat-logo.com/logo/tv/vv/vh1.jpg
+Viasat Explorer|152|http://www.lyngsat-logo.com/logo/tv/vv/viasat_explorer.jpg
 Viasat Explorer / Spice|579|
-Viasat History|175|
+Viasat History|175|http://www.lyngsat-logo.com/logo/tv/vv/viasat_history.jpg
 Viasat Nature CEE|652|
 Viasat Sport Baltics|504|
 Viasat Sport Россия|332|
@@ -229,15 +247,15 @@ XXL (для Украины)|664|
 YHT|none|http://www.lyngsat-logo.com/logo/tv/uu/unt_ua.jpg
 ZeeTV Россия|442|
 Zik|none|http://www.lyngsat-logo.com/logo/tv/zz/zik_ua.jpg
-Zone Reality|91|
+Zone Reality|91|http://www.lyngsat-logo.com/logo/tv/zz/zone_reality_europe.jpg
 ZooПарк|331|
-Авто Плюс|311|
+Авто Плюс|311|http://www.lyngsat-logo.com/logo/tv/aa/auto_plus.jpg
 Аджара ТВ|95|
 Бабай ТБ|611|
 Беларусь ТВ|231|
 Бибигон|354|
-Боец|310|
-Бульвар ТВ|384|
+Боец|310|http://www.lyngsat-logo.com/logo/tv/bb/boyets.jpg
+Бульвар ТВ|384|http://www.lyngsat-logo.com/logo/tv/bb/bulvar_tv.jpg
 Война и мир|660|
 Вопросы и ответы|603|
 Время|303|
@@ -251,6 +269,7 @@ ZooПарк|331|
 Детский мир / Телеклуб|578||
 Днепропетровский Державный|380|
 Дождь. Optimistic channel|675|
+Дождь|675|http://www.lyngsat-logo.com/logo/tv/dd/dozhd.jpg
 Домашние животные|601|
 Домашний|124|
 Домашний (+2)|561|
@@ -267,34 +286,34 @@ ZooПарк|331|
 Живи|511|
 Загородная жизнь|647|
 Загородный|662|
-Закон ТВ|408|
-Звезда|232|
-Звезда (+2)|566|
-Звезда (+4)|567|
-Звезда (+7)|568|
-Здоровое ТВ|242|
+Закон ТВ|408|http://www.lyngsat-logo.com/logo/tv/zz/zakon_tv.jpg
+Звезда|232|http://www.lyngsat-logo.com/logo/tv/zz/zvezda_telekanal.jpg
+Звезда (+2)|566|http://www.lyngsat-logo.com/logo/tv/zz/zvezda_telekanal.jpg
+Звезда (+4)|567|http://www.lyngsat-logo.com/logo/tv/zz/zvezda_telekanal.jpg
+Звезда (+7)|568|http://www.lyngsat-logo.com/logo/tv/zz/zvezda_telekanal.jpg
+Здоровое ТВ|242|http://www.lyngsat-logo.com/logo/tv/zz/zvezda_telekanal.jpg
 Знание|493|
 Зоо ТВ|451|
 Израиль+ Россия|532|
 Иллюзион+|327|
 Индия ТВ|293|
-Inter|4|
 Интересное ТВ|385|
 К+|616|
 Киномания|306|
-Кино Плюс|608|
-Кинопоказ (+3)|574|
-Кинопоказ|447|
+Кино Плюс|608|http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_kino_plus.jpg
+КИНО ПЛЮС|608|http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_kino_plus.jpg
+Кинопоказ (+3)|574|http://www.lyngsat-logo.com/logo/tv/kk/kinopokaz.jpg
+Кинопоказ|447|http://www.lyngsat-logo.com/logo/tv/kk/kinopokaz.jpg
 Кинопоказ HD1|620|
 Кинопоказ HD2|621|
-Киносоюз|261|
-Комедия ТВ|292|
-Кто есть кто|399|
+Киносоюз|261|http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_kino_soyuz.jpg
+Комедия ТВ|292|http://www.lyngsat-logo.com/logo/tv/kk/komedia_telekanal.jpg
+Кто есть кто|399|http://www.lyngsat-logo.com/logo/tv/kk/kto_est_kto.jpg
 Культура|15|
 Культура (+2)|552|
 Культура (+4)|553|
 Культура (+7)|555|
-Кухня ТВ|383|
+Кухня ТВ|383|http://www.lyngsat-logo.com/logo/tv/kk/kuhnia_tv.jpg
 КХЛ ТВ|604|
 Любимое кино|526|
 Ля-минор|297|
@@ -306,32 +325,33 @@ Inter|4|
 Многосерийное ТВ|278|
 Моя планета|639|
 Мужской|648|
-Муз ТВ|49|
+Муз ТВ|49|http://www.lyngsat-logo.com/logo/tv/mm/muz_tv.jpg
 Музыка Первого|439|
 Мультимания|286|
-Наше кино|29|
-Наше кино (НТВ+)|312|
-Наше новое кино|260|
+Наука 2.0|none|http://www.lyngsat-logo.com/logo/tv/nn/nauka20_ru.jpg
+Наше кино|29|http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_nashe_kino.jpg
+Наше кино (НТВ+)|312|http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_nashe_kino.jpg
+Наше новое кино|260|http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_nashe_novoe_kino.jpg
 Недвижимость ТВ|530|
-Ностальгия|216|
+Ностальгия|216|http://www.lyngsat-logo.com/logo/tv/nn/nostalgia.jpg
 Ночной клуб (+3)|576|
 Ночной клуб|455|
 НСТ (Смешное)|233|
 НСТ (Страшное)|329|
 НТА|669|
 НТА|669|
-НТВ|10|
-НТВ (+2)|545|
-НТВ (+3)|509|
-НТВ (+4)|546|
-НТВ (+7)|547|
-НТВ+ Баскетбол|277|
-НТВ+ Киноклуб|30|
-НТВ+ Кинохит|213|
-НТВ-Мир|82|
-НТВ+ Наш футбол|284|
-НТВ+ Премьера|34|
-НТВ+ Спорт|32|
+НТВ|10|http://www.lyngsat-logo.com/logo/tv/nn/ntv_ru.jpg
+НТВ (+2)|545|http://www.lyngsat-logo.com/logo/tv/nn/ntv_ru.jpg
+НТВ (+3)|509|http://www.lyngsat-logo.com/logo/tv/nn/ntv_ru.jpg
+НТВ (+4)|546|http://www.lyngsat-logo.com/logo/tv/nn/ntv_ru.jpg
+НТВ (+7)|547| http://www.lyngsat-logo.com/logo/tv/nn/ntv_ru.jpg
+Баскетбол|277|http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_basketbol.jpg
+Киноклуб|30|http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_kinoklub.jpg
+Кинохит|213|http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_kino_hit.jpg
+НТВ-Мир|82|http://www.lyngsat-logo.com/logo/tv/nn/ntv_world_ru.jpg
+Наш футбол|284|http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_nash_futbol.jpg
+Премьера|34|http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_premiera.jpg
+Спорт|32|http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_sport.jpg
 НТВ+ Спорт Классика|281|
 НТВ+ Спорт Онлайн|154|
 НТВ+ Спорт Союз|280|
@@ -339,40 +359,43 @@ Inter|4|
 НТВ+ Футбол|33|
 О2ТВ|257|
 ОТВ (Екатеринбург)|655|
-Охота и рыбалка|243|
+Охота и рыбалка|243|http://www.lyngsat-logo.com/logo/tv/oo/ohota_i_rybalka_tricolor.jpg
 Охотник и рыболов|628|
-Парк развлечений|351|
+Парк развлечений|351|http://www.lyngsat-logo.com/logo/tv/pp/park_razvlicenii.jpg
 Первый автомобильный|435|
 Первый игровой|437|
-Первый канал (+2)|541|
-Первый канал (+4)|542|
-Первый канал (+6)|543|
-Первый канал (+8)|544|
-Первый канал (Россия)|8|
-Первый канал (Россия) Европа|21|
-Первый канал (Россия) СНГ|314|
-Первый канал (Россия) Украина|339|
+Первый канал (+2)|541|http://www.lyngsat-logo.com/logo/tv/pp/perviy_1_kanal.jpg
+Первый канал (+4)|542|http://www.lyngsat-logo.com/logo/tv/pp/perviy_1_kanal.jpg
+Первый канал (+6)|543|http://www.lyngsat-logo.com/logo/tv/pp/perviy_1_kanal.jpg
+Первый канал (+8)|544|http://www.lyngsat-logo.com/logo/tv/pp/perviy_1_kanal.jpg
+Первый канал (Россия)|8|http://www.lyngsat-logo.com/logo/tv/pp/perviy_1_kanal.jpg
+Первый|8|http://www.lyngsat-logo.com/logo/tv/pp/perviy_1_kanal.jpg
+Первый канал (Россия) Европа|21|http://www.lyngsat-logo.com/logo/tv/pp/perviy_1_kanal.jpg
+1TVRUS Europe|21|http://www.lyngsat-logo.com/logo/tv/pp/perviy_1_kanal.jpg
+Первый канал (Россия) СНГ|314|http://www.lyngsat-logo.com/logo/tv/pp/perviy_1_kanal.jpg
+Первый канал (Россия) Украина|339|http://www.lyngsat-logo.com/logo/tv/pp/perviy_1_kanal.jpg
 Первый муниципальный (Донецк)|670|
-Первый национальный / ТРК Эра|540|
-Первый национальный (Украина)|1|
+Первый национальный / ТРК Эра|540|http://www.lyngsat-logo.com/logo/tv/pp/pershiy_nacionalniy_ua.jpg
+Первый национальный (Украина)|1|http://www.lyngsat-logo.com/logo/tv/pp/pershiy_nacionalniy_ua.jpg
 Подмосковье|653|
 Психология21|602|
 РБК ТВ|146|
-РЕН ТВ|13|
-РЕН ТВ (+2)|570|
-РЕН ТВ (+4)|571|
-РЕН ТВ (+7)|572|
+РЕН ТВ|13|http://www.lyngsat-logo.com/logo/tv/rr/ren_tv.jpg
+REN-TV|13|http://www.lyngsat-logo.com/logo/tv/rr/ren_tv.jpg
+РЕН ТВ (+2)|570|http://www.lyngsat-logo.com/logo/tv/rr/ren_tv.jpg
+РЕН ТВ (+4)|571|http://www.lyngsat-logo.com/logo/tv/rr/ren_tv.jpg
+РЕН ТВ (+7)|572|http://www.lyngsat-logo.com/logo/tv/rr/ren_tv.jpg
 Ретро|244|
-Россия 2|144|
-Россия 24|328|
+Россия 2|144|http://www.lyngsat-logo.com/logo/tv/rr/rossiya_2.jpg
+Россия 24|328|http://www.lyngsat-logo.com/logo/tv/rr/rossiya_24.jpg
 Россия (+2)|548|
 Россия (+4)|549|
 Россия (+6)|550|
 Россия (+8)|551|
 Россия|9|
-РТР-Планета|98|
-РТР-Планета СНГ|355|
-Русская ночь|296|
+РТР-Планета|98|http://www.lyngsat-logo.com/logo/tv/rr/rtr_planeta_ua.jpg
+РТР-Планета СНГ|355|http://www.lyngsat-logo.com/logo/tv/rr/rtr_planeta_ua.jpg
+Русская ночь|296|http://www.lyngsat-logo.com/logo/tv/rr/russkaja_noch.jpg
 Русский иллюзион|177|
 Русский экстрим|288|
 Сарафан|433|
@@ -380,10 +403,10 @@ Inter|4|
 Сити|24|
 Совершенно секретно|350|
 Союз (Екатеринбург)|235|
-Спас|238|
+Спас|238|http://www.lyngsat-logo.com/logo/tv/ss/spas.jpg
 Спорт 1|270|
 Спорт 1 (Россия)|667|
-Спорт 2|309|
+Спорт 2|309|http://www.lyngsat-logo.com/logo/tv/ss/sport2_ru.jpg
 Спорт Плюс|595|
 СТВ|115|
 Столица|123|
@@ -400,13 +423,15 @@ Inter|4|
 ТВ АРМ РУ|676|
 ТВ Клуб|607|
 Твой ТВ Петербург|615|
-ТВ Центр|11|
-ТВ Центр (+2)|559|
-ТВ Центр (+4)|560|
-ТВ Центр (+7)|624|
-ТВ Центр Международный (TVCI)|237|
+ТВ Центр|11|http://www.lyngsat-logo.com/logo/tv/tt/tvcentr.jpg
+ТВ Центр (+2)|559|http://www.lyngsat-logo.com/logo/tv/tt/tvcentr.jpg
+ТВ Центр (+4)|560|http://www.lyngsat-logo.com/logo/tv/tt/tvcentr.jpg
+ТВ Центр (+7)|624| http://www.lyngsat-logo.com/logo/tv/tt/tvcentr.jpg
+ТВ Центр Международный (TVCI)|237|http://www.lyngsat-logo.com/logo/tv/tt/tvcentr.jpg
+TVCI new|237|http://www.lyngsat-logo.com/logo/tv/tt/tvcentr.jpg
 ТДК|142|
-Телекафе|415|
+Телекафе|415|http://www.lyngsat-logo.com/logo/tv/tt/telecafe_ru.jpg
+ТЕЛЕКАФЕ|415|http://www.lyngsat-logo.com/logo/tv/tt/telecafe_ru.jpg
 Телеклуб|141|
 Теленяня|304|
 Телепутешествия|450|
@@ -414,11 +439,11 @@ Inter|4|
 Тиса-1|315|
 Тиса-1|467|
 ТНВ|145|
-ТНТ|14|
-ТНТ (+2)|556|
-ТНТ (+4)|557|
-ТНТ (+7)|558|
-Тонус ТВ|495|
+ТНТ|14|http://www.lyngsat-logo.com/logo/tv/tt/tnt_ru.jpg
+ТНТ (+2)|556|http://www.lyngsat-logo.com/logo/tv/tt/tnt_ru.jpg
+ТНТ (+4)|557|http://www.lyngsat-logo.com/logo/tv/tt/tnt_ru.jpg
+ТНТ (+7)|558|http://www.lyngsat-logo.com/logo/tv/tt/tnt_ru.jpg
+Тонус ТВ|495|http://www.lyngsat-logo.com/logo/tv/tt/tonus_tv.jpg
 ТРК Буковина|633|
 ТРК Эра|78|
 ТРК Юнион|661|
@@ -433,9 +458,18 @@ Inter|4|
 Футбол (Россия)|440|
 Футбол (Украина)|507|
 Футбол (Украина)|638|
+Футбол HD|none|http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_futbol.jpg
 ЧП.INFO|446|
 Школьник ТВ|122|
-Эксперт ТВ|489|
+Эксперт ТВ|489|http://www.lyngsat-logo.com/logo/tv/ee/expert_tv_ru.jpg
+Эксперт|489|http://www.lyngsat-logo.com/logo/tv/ee/expert_tv_ru.jpg
+Эгоист ТВ|none|http://www.lyngsat-logo.com/logo/tv/ee/egoist_tv.jpg
 Югра|128|
 Юмор ТВ|410|
-
+Телеканал КХЛ|604|http://www.lyngsat-logo.com/logo/tv/kk/khl_ru.jpg
+МИНИ МУВИ|none|http://www.lyngsat-logo.com/logo/tv/mm/mini_movie_channel_ru.jpg
+Кинорейс 1|none|http://www.lyngsat-logo.com/logo/tv/kk/kinoreys_1.jpg
+Кинорейс 2|none|http://www.lyngsat-logo.com/logo/tv/kk/kinoreys_2.jpg
+Кинорейс 3|none|http://www.lyngsat-logo.com/logo/tv/kk/kinoreys_3.jpg
+Кинорейс 4|none|http://www.lyngsat-logo.com/logo/tv/kk/kinoreys_4.jpg
+Кинорейс 5|none|
