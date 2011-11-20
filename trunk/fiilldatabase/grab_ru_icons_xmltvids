@@ -199,13 +199,13 @@ while ($videosource_file = $query_handle->fetchrow())
 } 
 $query_handle->finish;
 open (OUTPUT, ">:utf8", $file);
-print OUTPUT  "--------------- cut beginning from here ----------------------------\n";
+print OUTPUT  "";
 foreach $item (keys %db_xmltvid) {
     $ch_id = $db_xmltvid{$item}; 
     $ch_id =~ s/\.+.*$//;
-    print OUTPUT "channel $ch_id $item\n";
+    print OUTPUT "$ch_id;$item\n";
 }
-print OUTPUT "--------------- end cut --------------------------------------------\n";
+print OUTPUT "";
 print "Now remember to save text above and run mythfilldatabase --update!\n";
     close (OUTPUT);
 
