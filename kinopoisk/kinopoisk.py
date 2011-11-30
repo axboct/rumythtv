@@ -93,6 +93,7 @@ def  normilize_string(processingstring):
 #Получение HTML страницы
 def get_page(address,  data=0,  title=''):
     #headers = {"Host": "www.kinopoisk.ru",
+    opener = urllib2.build_opener()
     if data == 0:
         headers = {"Host": "s.kinopoisk.ru",
             "User-Agent": "Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9.0.14) Gecko/2009090216 Ubuntu/9.04 	(jaunty) Firefox/3.0.14",
@@ -103,6 +104,14 @@ def get_page(address,  data=0,  title=''):
             "Connection": "keep-alive"
             }
         address = 'http://s.kinopoisk.ru' + address+urllib.quote(title.encode('utf8'))
+        opener.addheaders = [("Host",  "s.kinopoisk.ru"), 
+                            ('User-agent', 'Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9.0.14) Gecko/2009090216 Ubuntu/9.04 	(jaunty) Firefox/3.0.14'), 
+                            ("Accept",  "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"), 
+                            ("Accept-Language",  "ru,en-us;q=0.7,en;q=0.3"),
+                            ("Accept-Charset",  "windows-1251,utf-8;q=0.7,*;q=0.7"),
+                            ("Keep-Alive",  "300"),
+                            ("Connection",  "keep-alive")]
+        
     else:
         headers = {"Host": "www.kinopoisk.ru",
             "User-Agent": "Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9.0.14) Gecko/2009090216 Ubuntu/9.04 	(jaunty) Firefox/3.0.14",
@@ -113,19 +122,16 @@ def get_page(address,  data=0,  title=''):
             "Connection": "keep-alive"
             }
         address = 'http://www.kinopoisk.ru' + address+urllib.quote(title.encode('utf8'))
-    data={}
-    #address = 'http://www.kinopoisk.ru' + address+urllib.quote(title.encode('utf8'))
-    #address = 'http://s.kinopoisk.ru' + address+urllib.quote(title.encode('utf8'))
-    req = urllib2.Request(address, data,  headers)
-    response = urllib2.urlopen(req)
-    if response.code == 200:
-        #С пятисекундной паузой у меня рабоатает лучше, не знаю кто виноват, 
-        #сам кинопоиск или мой провайдер, вы можете попробовать закомментить следущую строку, чтобы исключить паузу.
-        time.sleep(5)
-        pagedata = response.read().decode('cp1251')
-        return pagedata
-    else:
-        raise Exception( "get_page() error: ",response.code)   
+        opener.addheaders = [("Host",  "www.kinopoisk.ru"), 
+                            ('User-agent', 'Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9.0.14) Gecko/2009090216 Ubuntu/9.04 	(jaunty) Firefox/3.0.14'), 
+                            ("Accept",  "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"), 
+                            ("Accept-Language",  "ru,en-us;q=0.7,en;q=0.3"),
+                            ("Accept-Charset",  "windows-1251,utf-8;q=0.7,*;q=0.7"),
+                            ("Keep-Alive",  "300"),
+                            ("Connection",  "keep-alive")]
+    time.sleep(1)
+    f = opener.open(address)
+    return f.read().decode('cp1251')
 
 def single_value(content,  matchstring):
     matchstring = unicode(matchstring, "utf8")
@@ -173,7 +179,8 @@ def search_fanart(uid):
             data = get_page(Coverart+uid, 1)
             if  data != None:
                 #coveritem = single_value(data, '/picture/.*?src=\'(.*?)\' width=')
-                coveritem = single_value(data, '-5000px" src="(.*?)"')
+                #coveritem = single_value(data, '-5000px" src="(.*?)"')
+                coveritem = single_value(data, 'id="image" src="(.*?)"')
                 return coveritem
             else:
                 return ''
@@ -198,7 +205,8 @@ def search_poster(uid):
                 #Выполняем дополнительный поиск, т.к. странички кинопоиск выдает всякие разные, 
                 #возможно  еще какие-то варианты не учтены
                 if coveritem == '':
-                    coveritem = single_value(data, '<img alt=".*?src=\'(.*?)\' width=')
+                    #coveritem = single_value(data, '<img alt=".*?src=\'(.*?)\' width=')
+                    coveritem = single_value(data, 'id="image" src="(.*?)"')
                     return coveritem
                 else:
                     return coveritem
@@ -240,8 +248,9 @@ def search_title(title):
         matchstring = unicode(matchstring, "utf8")
         regexp= re.compile(matchstring,re.DOTALL)
         result = regexp.search(data)
-        iditems = get_item(result ,  '<p class="name"><a href="http://www.kinopoisk.ru/level/1/film/(.*?)/sr/1/')
-        titleitems = get_item(result ,  '<p class="name"><a href="http://www.kinopoisk.ru/level/1/film.*?/sr/1/">(.*?)</a>')
+        iditems = get_item(result ,  '<p class="name"><a href="/level/1/film/(.*?)/sr/1/')
+        #titleitems = get_item(result ,  '<p class="name"><a href="http://www.kinopoisk.ru/level/1/film.*?/sr/1/">(.*?)</a>')
+        titleitems = get_item(result ,  '<p class="name"><a href="/level/1/film.*?/sr/1/">(.*?)</a>')
         yearitems = get_item(result ,  '<span class="year">(.*?)</span></p>')
         for i in range(0,  len(titleitems)):
                 sys.stdout.write( u'%s:%s\n' % (iditems[i], normilize_string(titleitems[i]) + ' ('+ yearitems[i] + ')'))
@@ -278,14 +287,14 @@ def search_data(uid, rating_country):
 				}
         data = get_page("/level/1/film/"+uid, 1)
         #filmdata['title'] =normilize_string(single_value(data, 'class="moviename-big">(.*?)</h1>') ).rstrip()
-        filmdata['title'] =normilize_string(title_correction(single_value(data, 'class="moviename-big">(.*?)</h1>') ).rstrip())
-        
+        filmdata['title'] =normilize_string(title_correction(single_value(data, 'class="moviename-big" itemprop="name">(.*?)</h1>') ).rstrip())
         filmdata['directors'] = normilize_string(get_multi_value('>режиссер</td>(.*?)</tr>', '<a href=".*?>(.*?)</a>'))
         filmdata['countries'] = get_multi_value('>страна</td>(.*?)</tr>', '<a href=".*?>(.*?)</a>')
         filmdata['year'] = single_value(data, '>год</td>.*?<a href=.*?>(.*?)</a>')
         filmdata['genre'] = get_multi_value('>жанр</td>(.*?)</tr>', '<a href=".*?>(.*?)</a>')
-        filmdata['user_rating'] = single_value(data, '<a href="/level/83/film/.*?>(.*?)<span')
-        filmdata['plot'] = normilize_string(single_value(data, '<tr><td colspan=3 style="padding: 10px.*?reachbanner_">(.*?)</span>'))
+        #filmdata['user_rating'] = single_value(data, '<a href="/level/83/film/.*?>(.*?)</span')
+        filmdata['user_rating'] = get_multi_value('<a href="/level/83/film(.*?)</span>', '<span>(.*?)</span>')
+        filmdata['plot'] = normilize_string(single_value(data, '<div class="brand_words" itemprop="description">(.*?)</div>'))
         runtime = string.split(single_value(data, '<td class="time" id="runtime">(.*?)</td>'))
         filmdata['runtime'] = runtime[0]
         
@@ -295,13 +304,13 @@ def search_data(uid, rating_country):
         result = regexp.search(data)
         if result == None:
             #Если не ту, то выбираем одно условие поиска
-            #filmdata['cast'] = normilize_string(get_multi_value('<!-- актеры фильма -->(.*?)<!-- /актеры фильма -->',  'href="/level/4/people.*?class="all">(.*?)</a>'))
             filmdata['cast'] = normilize_string(get_multi_value('<!-- актеры фильма -->(.*?)<!-- /актеры фильма -->',  'href="/level/4/people.*?">(.*?)</a>'))
         #Если да, то другое, с отбрасыванием дублирующих
         else:
-            #filmdata['cast'] = normilize_string(get_multi_value('<!-- актеры фильма -->(.*?)Роли дублировали:',  'href="/level/4/people.*?class="all">(.*?)</a>'))
             filmdata['cast'] = normilize_string(get_multi_value('<!-- актеры фильма -->(.*?)Роли дублировали:',  'href="/level/4/people.*?">(.*?)</a>'))
-        movierating = string.split(single_value(data, ">рейтинг MPAA</td>.*?<img src.*?alt='(.*?)' border=0>"))
+        #movierating = string.split(single_value(data, ">рейтинг MPAA</td>.*?<img src.*?alt='(.*?)' border=0>"))
+        movierating = string.split(single_value(data, '<a href="/level/38/film.*?alt=(.*?)" border'))
+        
         #Проверка нужна так как российские фильмы обычно не имеют рейтинга MPAA
         if len(movierating) > 0:
             filmdata['movie_rating'] = movierating[1]
@@ -374,8 +383,8 @@ Usage: %prog [-M TITLE | -D UID [-R COUNTRY[,COUNTRY]] | -P UID | -B UID]
         sys.stdout.write(usage_examples)
         sys.exit(0)
     if options.title_search:
-        search_title(unicode(options.title_search, "utf8"))
-        #search_title(options.title_search)
+        #search_title(unicode(options.title_search, "utf8"))
+        search_title(options.title_search)
     elif options.data_search:
         rf = options.ratings_from
         if rf:
@@ -383,11 +392,11 @@ Usage: %prog [-M TITLE | -D UID [-R COUNTRY[,COUNTRY]] | -P UID | -B UID]
         #search_data(unicode(options.data_search, "utf8"), rf)
         search_data(options.data_search, rf)
     elif options.poster_search:
-        search_poster(unicode(options.poster_search, "utf8"))
-        #search_poster(options.poster_search)
+        #search_poster(unicode(options.poster_search, "utf8"))
+        search_poster(options.poster_search)
     elif options.fanart_search:
-        search_fanart(unicode(options.fanart_search, "utf8"))
-        #search_fanart(options.fanart_search)
+        #search_fanart(unicode(options.fanart_search, "utf8"))
+        search_fanart(options.fanart_search)
     else:
         parser.print_usage()
         sys.exit(1)
