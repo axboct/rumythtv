@@ -1068,7 +1068,7 @@
     <message>
         <location filename="../programs/mythfrontend/custompriority.cpp" line="197"/>
         <source>Modify priority by star rating (0.0 to 1.0 for movies only)</source>
-        <translation>Изменить приоритет по рейтингу звезд (от 0.0 до 1.0 только для фильмов)</translation>
+        <translation type="unfinished">Изменить приоритет по рейтингу (от 0.0 до 1.0 только для фильмов)</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/custompriority.cpp" line="200"/>
@@ -5060,8 +5060,8 @@ Returning to the previous menu.</source>
 <context>
     <name>MythUISearchDialog</name>
     <message numerus="yes">
-        <location filename="../libs/libmythui/mythdialogbox.cpp" line="747"/>
-        <location filename="../libs/libmythui/mythdialogbox.cpp" line="808"/>
+        <location filename="../libs/libmythui/mythdialogbox.cpp" line="750"/>
+        <location filename="../libs/libmythui/mythdialogbox.cpp" line="811"/>
         <source>%n match(es)</source>
         <translation>
             <numerusform>%n совпадение</numerusform>
@@ -16142,7 +16142,7 @@ name can not be blank.</source>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1442"/>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="334"/>
         <source>Entertainment</source>
-        <translation>Развлечение</translation>
+        <translation type="unfinished">Развлечения</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1443"/>
@@ -16179,7 +16179,7 @@ name can not be blank.</source>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1448"/>
         <source>Action</source>
-        <translation>Действие</translation>
+        <translation type="unfinished">Боевик</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1449"/>
@@ -16199,7 +16199,7 @@ name can not be blank.</source>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1452"/>
         <source>Automobile</source>
-        <translation>Автомобиль</translation>
+        <translation type="unfinished">Автомобили</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1453"/>
@@ -16281,7 +16281,7 @@ name can not be blank.</source>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1468"/>
         <location filename="../libs/libmythtv/mpeg/dvbdescriptors.cpp" line="331"/>
         <source>Documentary</source>
-        <translation>Документалистика</translation>
+        <translation type="unfinished">Документальный фильм</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1469"/>
@@ -16302,7 +16302,7 @@ name can not be blank.</source>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1472"/>
         <source>Exercise</source>
-        <translation>Тренировки</translation>
+        <translation type="unfinished">Тренировка</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1473"/>
@@ -16312,7 +16312,7 @@ name can not be blank.</source>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1474"/>
         <source>Farm</source>
-        <translation>Ферма</translation>
+        <translation type="unfinished">Село</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1475"/>
@@ -16338,7 +16338,7 @@ name can not be blank.</source>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1479"/>
         <source>Foreign</source>
-        <translation>Иностранный</translation>
+        <translation type="unfinished">Иностранное</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1480"/>
@@ -16398,7 +16398,7 @@ name can not be blank.</source>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1491"/>
         <source>Horror</source>
-        <translation>Ужас</translation>
+        <translation type="unfinished">Ужасы</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1492"/>
@@ -16408,12 +16408,12 @@ name can not be blank.</source>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1493"/>
         <source>Instruction</source>
-        <translation>Инструкции</translation>
+        <translation type="unfinished">Инструкция</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1494"/>
         <source>International</source>
-        <translation>Интернациональное</translation>
+        <translation type="unfinished">Международное</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1495"/>
@@ -16458,7 +16458,7 @@ name can not be blank.</source>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1504"/>
         <source>Miniseries</source>
-        <translation>Минисерии</translation>
+        <translation type="unfinished">Минисериал</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1505"/>
@@ -16549,7 +16549,7 @@ name can not be blank.</source>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1523"/>
         <source>Series</source>
-        <translation>Сериалы</translation>
+        <translation type="unfinished">Сериал</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/cc608decoder.cpp" line="1524"/>
@@ -17851,7 +17851,7 @@ Check if the video exists</source>
     <message>
         <location filename="../libs/libmythtv/dvbsignalmonitor.cpp" line="52"/>
         <source>Rotor Progress</source>
-        <translation type="unfinished">Прогресс позиционера</translation>
+        <translation type="unfinished">Положение позиционера</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/dvbsignalmonitor.cpp" line="218"/>
@@ -17984,7 +17984,7 @@ Check if the video exists</source>
         <location filename="../libs/libmyth/programinfo.cpp" line="4199"/>
         <source>Live TV</source>
         <comment>Recording Group Live TV</comment>
-        <translation type="unfinished">Live TV</translation>
+        <translation type="unfinished">&quot;Живое&quot; ТВ</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/programinfo.cpp" line="4205"/>
@@ -18170,13 +18170,13 @@ Check if the video exists</source>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="1017"/>
         <source>High Quality</source>
         <comment>Sample: high quality</comment>
-        <translation type="unfinished">Высокое качество</translation>
+        <translation>Высокое качество</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videodisplayprofile.cpp" line="1033"/>
         <source>Normal</source>
         <comment>Sample: average quality</comment>
-        <translation type="unfinished">Нормальный</translation>
+        <translation type="unfinished">Нормальное</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/jobqueue.h" line="25"/>
@@ -18454,7 +18454,7 @@ Do you wish to continue watching?</source>
     <message>
         <location filename="../libs/libmythtv/transporteditor.cpp" line="438"/>
         <source>OpenCable</source>
-        <translation type="unfinished">OpenCable</translation>
+        <translation>OpenCable</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/transporteditor.cpp" line="441"/>
@@ -18520,7 +18520,7 @@ Most DVB-S transponders transmit at 27.5 million symbols per second.</source>
     </message>
     <message>
         <location filename="../libs/libmythtv/bdringbuffer.cpp" line="170"/>
-        <location filename="../libs/libmythtv/dvdringbuffer.cpp" line="306"/>
+        <location filename="../libs/libmythtv/dvdringbuffer.cpp" line="308"/>
         <source>Title %1 chapter %2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18942,14 +18942,14 @@ Most DVB-S transponders transmit at 27.5 million symbols per second.</source>
         <location filename="../programs/mythcommflag/PrePostRollFlagger.cpp" line="335"/>
         <location filename="../programs/mythtranscode/transcode.cpp" line="1785"/>
         <source>%1% Completed @ %2 fps.</source>
-        <translation type="unfinished">%1% завершено @ %2 кадров в секунду.</translation>
+        <translation>%1% завершено @ %2 кадров в секунду.</translation>
     </message>
     <message>
         <location filename="../programs/mythcommflag/ClassicCommDetector.cpp" line="528"/>
         <location filename="../programs/mythcommflag/CommDetector2.cpp" line="478"/>
         <location filename="../programs/mythcommflag/PrePostRollFlagger.cpp" line="338"/>
         <source>%1 Frames Completed @ %2 fps.</source>
-        <translation type="unfinished">%1 кадров завершено @ %2 кадров в секунду.</translation>
+        <translation>%1 кадров завершено @ %2 кадров в секунду.</translation>
     </message>
     <message>
         <location filename="../programs/mythcommflag/CommDetector2.cpp" line="604"/>
@@ -18991,12 +18991,12 @@ Most DVB-S transponders transmit at 27.5 million symbols per second.</source>
     <message>
         <location filename="../programs/mythfilldatabase/filldata.cpp" line="459"/>
         <source>FAILED: xmltv ran but was interrupted.</source>
-        <translation type="unfinished">СБОЙ: xmltv был запущен, но прерван.</translation>
+        <translation>СБОЙ: xmltv был запущен, но прерван.</translation>
     </message>
     <message>
         <location filename="../programs/mythfilldatabase/filldata.cpp" line="464"/>
         <source>FAILED: xmltv returned error code %1.</source>
-        <translation type="unfinished">СБОЙ: xmltv возвратил код ошибки %1.</translation>
+        <translation>СБОЙ: xmltv возвратил код ошибки %1.</translation>
     </message>
     <message>
         <location filename="../programs/mythfilldatabase/filldata.cpp" line="1000"/>
@@ -19027,12 +19027,12 @@ Most DVB-S transponders transmit at 27.5 million symbols per second.</source>
     <message>
         <location filename="../programs/mythtv-setup/checksetup.cpp" line="23"/>
         <source>Path &quot;%1&quot; doesn&apos;t exist.</source>
-        <translation type="unfinished">Путь &quot;%1&quot; не существует.</translation>
+        <translation>Путь &quot;%1&quot; не существует.</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/checksetup.cpp" line="32"/>
         <source>Unable to create file &quot;%1&quot; - directory is not writable?</source>
-        <translation type="unfinished">Невозможно создать файл &quot;%1&quot;. Запись в каталог невозможна?</translation>
+        <translation>Невозможно создать файл &quot;%1&quot;. Запись в каталог невозможна?</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/checksetup.cpp" line="63"/>
@@ -19060,29 +19060,29 @@ Do you wish to continue watching?</source>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="8324"/>
         <source>MythTV has been idle for %1 minutes and will exit in %d seconds. Are you still watching?</source>
-        <translation type="unfinished">MythTV простаивает %1 минут и выйдет через %d секунд. Вы продолжаете просмотр?</translation>
+        <translation>MythTV простаивает %1 минут и выйдет через %d секунд. Вы продолжаете просмотр?</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9318"/>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9331"/>
         <source>Save Cuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить вырезки</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9320"/>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9327"/>
         <source>Save Cuts and Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить вырезки и выйти</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9326"/>
         <source>Exit Recording Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Выйти из редактора записи</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="12020"/>
         <source>Cannot delete program </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Невозможно удалить программу</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="12029"/>
@@ -19092,7 +19092,7 @@ Do you wish to continue watching?</source>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="1058"/>
         <source>, using your %1 rate of %2 kb/s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">, используя ваш %1 поток в %2 кб/с</translation>
     </message>
     <message>
         <source>Invalid or unuseable audio device</source>
@@ -19102,7 +19102,7 @@ Do you wish to continue watching?</source>
         <location filename="../libs/libmythtv/mythbdplayer.cpp" line="244"/>
         <location filename="../libs/libmythtv/mythdvdplayer.cpp" line="633"/>
         <source>Angle %1</source>
-        <translation type="unfinished">Угол %1</translation>
+        <translation>Угол %1</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythbdplayer.cpp" line="267"/>
@@ -19120,53 +19120,53 @@ Do you wish to continue watching?</source>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9229"/>
         <source>Edit Cut Points</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Изменить точки вырезки</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9235"/>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9270"/>
         <source>Move Previous Cut End Here</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Передвинуть предыдущую точку вырезки сюда</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/deletemap.cpp" line="89"/>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9240"/>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9274"/>
         <source>Cut to Beginning</source>
-        <translation type="unfinished"></translation>
+        <translation>Вырезать до начала</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/deletemap.cpp" line="91"/>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9245"/>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9278"/>
         <source>Cut to End</source>
-        <translation type="unfinished"></translation>
+        <translation>Вырезать до конца</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9249"/>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9282"/>
         <source>Move Next Cut Start Here</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Переместить следующую начальную точку вырезки сюда</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9256"/>
         <source>Move Start of Cut Here</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Переместить начало вырезки сюда</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9259"/>
         <source>Move End of Cut Here</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Переместить конец вырезки сюда</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9263"/>
         <source>Delete This Cut</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Удалить эту точку вырезки</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9285"/>
         <source>Add New Cut</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Добавить новую точку вырезки</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9288"/>
@@ -19177,7 +19177,7 @@ Do you wish to continue watching?</source>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9301"/>
         <location filename="../libs/libmythtv/tv_play.cpp" line="9307"/>
         <source>Cut List Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Параметры списка вырезок</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/mythplayer.cpp" line="3851"/>
@@ -19363,52 +19363,50 @@ Do you wish to continue watching?</source>
         <translation type="obsolete">Удалить закладки DVD, которые старше, чем заданное количество дней.</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="166"/>
         <source>DVD Drive Speed</source>
-        <translation>Скорость привода DVD</translation>
+        <translation type="obsolete">Скорость привода DVD</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="168"/>
         <source>Set DVD Drive Speed during DVD Playback. Speed is in multiples of 177KB/s. Slower speeds may reduce drive noise but in some cases it causes playback to stutter.</source>
-        <translation>Установить скорость воспроизведения привода DVD. Скорость кратна 177 КБ/с. Медленные скорости могу уменьшить шум привода, но в некоторых случаях воспроизведение будет &quot;заикаться&quot;.</translation>
+        <translation type="obsolete">Установить скорость воспроизведения привода DVD. Скорость кратна 177 КБ/с. Медленные скорости могу уменьшить шум привода, но в некоторых случаях воспроизведение будет &quot;заикаться&quot;.</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="178"/>
+        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="166"/>
         <source>Video Tree remembers last selected position</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="180"/>
+        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="168"/>
         <source>If set, the current position in the Video Tree is persistent.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="234"/>
+        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="222"/>
         <source>Enable automatic Parental Level from rating</source>
         <translation>Включить автоматическую установку уровня родительского контроля исходя из рейтинга</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="237"/>
+        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="225"/>
         <source>If enabled, searches will automatically set the Parental Level to the one matching the rating below.</source>
         <translation>Если установлено, поиск будет автоматически устанавливать уровень родительского контроля в соответствии с рейтингами представлеными ниже.</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="261"/>
+        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="249"/>
         <source>Level %1</source>
         <translation>Уровень %1</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="262"/>
+        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="250"/>
         <source>Ratings containing these strings (separated by :) will be assigned to Parental Level %1.</source>
         <translation>Рейтинги содержащие эти строки (разделенные двоеточием) будут назначены для родительского контроля уровня %1.</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="304"/>
+        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="291"/>
         <source>Parental Control Settings</source>
         <translation>Настройки родительского контроля</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="320"/>
+        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="307"/>
         <source>General Settings (%1/%2)</source>
         <translation>Общие настройки (%1/%2)</translation>
     </message>
@@ -19884,25 +19882,25 @@ Check VideoManager Settings</source>
 <context>
     <name>RatingsToPL</name>
     <message>
-        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="246"/>
+        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="234"/>
         <source>G</source>
         <comment>PL 1 default search string.</comment>
         <translation>G</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="248"/>
+        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="236"/>
         <source>PG</source>
         <comment>PL 2 default search string.</comment>
         <translation>PG</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="250"/>
+        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="238"/>
         <source>PG-13</source>
         <comment>PL3 default search string.</comment>
         <translation>PG-13</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="252"/>
+        <location filename="../programs/mythfrontend/videoglobalsettings.cpp" line="240"/>
         <source>R:NC-17</source>
         <comment>PL4 default search string.</comment>
         <translation>R:NC-17</translation>
@@ -27543,7 +27541,7 @@ dd MMMM yyyy</source>
     <message>
         <location filename="../themes/themestrings.h" line="728"/>
         <source>Arclight is a sleek theme meant for widescreen HD displays.  It is high contrast and uses shapes and an attractive layout to convey information simply and consistently.</source>
-        <translation>Arclight - это тема предназначенная для широкоэкранных экранов высокого разрешения.  Она высоконтрастна и использует фигуры и разметку, чтобы представить инфорацию просто, цельно и привлекательно.</translation>
+        <translation type="unfinished">Arclight - это тема предназначенная для широкоэкранных экранов высокого разрешения.  Она высоконтрастна и использует привлекательную разметку, чтобы представить информацию просто, цельно и привлекательно.</translation>
     </message>
     <message>
         <location filename="../themes/themestrings.h" line="154"/>
