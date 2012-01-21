@@ -20615,7 +20615,7 @@ No other details</source>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="759"/>
         <source>marked as HDTV</source>
-        <translation type="unfinished">помечено как HDTV</translation>
+        <translation>помечено как HDTV</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="769"/>
@@ -20625,12 +20625,12 @@ No other details</source>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="114"/>
         <source>Listings Status</source>
-        <translation type="unfinished">Состояние программы</translation>
+        <translation>Состояние программы</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="118"/>
         <source>Schedule Status</source>
-        <translation type="unfinished">Состояние планировщика</translation>
+        <translation>Состояние планировщика</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="122"/>
@@ -20665,18 +20665,18 @@ No other details</source>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="213"/>
         <source>Acknowledge all log entries at this priority level or lower?</source>
-        <translation type="unfinished">Подтвердить все записи журнала на этом уровне и ниже?</translation>
+        <translation>Подтвердить все записи журнала на этом уровне и ниже?</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="230"/>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="233"/>
         <source>Setting priority level to %1</source>
-        <translation type="unfinished">Установлен уровень %1</translation>
+        <translation>Установлен уровень %1</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="288"/>
         <source>Acknowledge this log entry?</source>
-        <translation type="unfinished">Подтвердить эту запись?</translation>
+        <translation>Подтвердить эту запись?</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="308"/>
@@ -20686,7 +20686,7 @@ No other details</source>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="324"/>
         <source>Job Queue Actions:</source>
-        <translation type="unfinished">Действия очереди заданий:</translation>
+        <translation>Действия очереди заданий:</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="337"/>
@@ -20816,10 +20816,10 @@ No other details</source>
     <message numerus="yes">
         <location filename="../programs/mythfrontend/statusbox.cpp" line="703"/>
         <source>%n matching showing(s)</source>
-        <translation type="unfinished">
-            <numerusform>%n найденное шоу</numerusform>
-            <numerusform>%n найденных шоу</numerusform>
-            <numerusform>%n найденных шоу</numerusform>
+        <translation>
+            <numerusform>%n найденный показ</numerusform>
+            <numerusform>%n найденных показа</numerusform>
+            <numerusform>%n найденных показов</numerusform>
         </translation>
     </message>
     <message>
@@ -20855,7 +20855,7 @@ No other details</source>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="881"/>
         <source>Log Entries shows any unread log entries from the system if you have logging enabled</source>
-        <translation type="unfinished">Журнал событий показывает все непрочитанные записи событий системы, если Вы включили журнал</translation>
+        <translation>Если Вы включили логирование, журнал событий показывает все непрочитанные записи событий системы</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="903"/>
@@ -20874,7 +20874,7 @@ No other details</source>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="922"/>
         <source>No items found at priority level %1 or lower.</source>
-        <translation>Нет записей на уровне %1 и меньше.</translation>
+        <translation>Нет записей приоритета %1 и меньше.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/statusbox.cpp" line="924"/>
@@ -21069,18 +21069,18 @@ No other details</source>
     <message>
         <location filename="../libs/libmyth/storagegroupeditor.cpp" line="91"/>
         <source>Add Storage Group Directory</source>
-        <translation type="unfinished">Добавить каталог в группу хранения</translation>
+        <translation>Добавить каталог в группу хранения</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/storagegroupeditor.cpp" line="92"/>
         <location filename="../libs/libmyth/storagegroupeditor.cpp" line="117"/>
         <source>Enter directory name or press SELECT to enter text via the On Screen Keyboard</source>
-        <translation type="unfinished">Введите имя каталога или нажмите ВЫБОР, чтобы ввести текст с помощью экранной клавиатуры</translation>
+        <translation>Введите имя каталога или нажмите ВЫБОР, чтобы ввести текст с помощью экранной клавиатуры</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/storagegroupeditor.cpp" line="116"/>
         <source>Edit Storage Group Directory</source>
-        <translation type="unfinished">Изменить каталог группы хранения</translation>
+        <translation>Изменить каталог группы хранения</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/storagegroupeditor.cpp" line="156"/>
