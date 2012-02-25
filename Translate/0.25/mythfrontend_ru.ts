@@ -101,7 +101,7 @@
     </message>
     <message>
         <source>No command to run.</source>
-        <translation type="obsolete">Нет команды для выполения.</translation>
+        <translation type="obsolete">Нет команды для выполнения.</translation>
     </message>
 </context>
 <context>
@@ -183,7 +183,7 @@
     <message>
         <location filename="../programs/mythfrontend/setupwizard_audio.cpp" line="287"/>
         <source>Stop Speaker Test</source>
-        <translation>Отсановить тест колонок</translation>
+        <translation>Остановить тест колонок</translation>
     </message>
 </context>
 <context>
@@ -222,7 +222,7 @@
     </message>
     <message>
         <source>Shall I attempt to connect to this host with default database parameters?</source>
-        <translation type="obsolete">Должен ли я попытаться устновить соединение с этим хостом с параметрами базы данных по умолчанию?</translation>
+        <translation type="obsolete">Должен ли я попытаться установить соединение с этим хостом с параметрами базы данных по умолчанию?</translation>
     </message>
     <message>
         <source>Backend uses a PIN. </source>
@@ -326,7 +326,7 @@
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2918"/>
         <source>Use channel scanner to find channels for this input.</source>
-        <translation>Использовать сканнер каналов для поиска каналов на этом входе.</translation>
+        <translation>Использовать сканер каналов для поиска каналов на этом входе.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2920"/>
@@ -450,7 +450,7 @@
     <message>
         <location filename="../programs/mythtv-setup/channeleditor.cpp" line="141"/>
         <source>Starts the channel scanner.</source>
-        <translation>Запустить сканнер каналов.</translation>
+        <translation>Запустить сканер каналов.</translation>
     </message>
     <message>
         <location filename="../programs/mythtv-setup/channeleditor.cpp" line="145"/>
@@ -936,7 +936,7 @@
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="711"/>
         <source>Power Search rules cannot include semicolon ( ; ) </source>
-        <translation>Правила расишренного поиска не могут включаь точку с запятой ( ; ) </translation>
+        <translation>Правила расширенного поиска не могут включать точку с запятой ( ; ) </translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/customedit.cpp" line="843"/>
@@ -1135,7 +1135,7 @@
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="3802"/>
         <source>DiSEqC (Switch, LNB, and Rotor Configuration)</source>
-        <translation>DiSEqC (Настройка переключателя, конвертора и позиционера)</translation>
+        <translation>DiSEqC (Настройка переключателя, конвертера и позиционера)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="3803"/>
@@ -1197,7 +1197,7 @@
     </message>
     <message>
         <source>Unknown connection error.</source>
-        <translation type="obsolete">Неизвестная ошибка при подлкючении.</translation>
+        <translation type="obsolete">Неизвестная ошибка при подключении.</translation>
     </message>
 </context>
 <context>
@@ -1280,7 +1280,7 @@
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="52"/>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="980"/>
         <source>LNB</source>
-        <translation>Конвертор</translation>
+        <translation>Конвертер</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="82"/>
@@ -1498,12 +1498,12 @@
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="623"/>
         <source>LNB Preset</source>
-        <translation type="unfinished">Настройки конвертора</translation>
+        <translation type="unfinished">Настройки конвертера</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="624"/>
         <source>Select the LNB preset from the list, or choose &apos;Custom&apos; and set the advanced settings below.</source>
-        <translation type="unfinished">Выберите настройку конвертора из списка или выберите &apos;Вручную&apos; и задайте дополнительные параметры ниже.</translation>
+        <translation type="unfinished">Выберите настройку конвертера из списка или выберите &apos;Вручную&apos; и задайте дополнительные параметры ниже.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="632"/>
@@ -1513,12 +1513,12 @@
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="659"/>
         <source>LNB Type</source>
-        <translation>Тип конвертора</translation>
+        <translation>Тип конвертера</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="660"/>
         <source>Select the type of LNB from the list.</source>
-        <translation>Выберите тип конвертора из списка.</translation>
+        <translation>Выберите тип конвертера из списка.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="661"/>
@@ -1543,12 +1543,12 @@
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="696"/>
         <source>LNB LOF Switch (MHz)</source>
-        <translation type="unfinished">Частота переключения конвертора (МГц)</translation>
+        <translation type="unfinished">Частота переключения конвертера (МГц)</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="697"/>
         <source>This defines at what frequency the LNB will do a switch from high to low setting, and vice versa.</source>
-        <translation type="unfinished">Это определяет на какой частоте конвертор осуществляет переключение с высокого на низкий диапазон и наоборот.</translation>
+        <translation type="unfinished">Это определяет на какой частоте конвертер осуществляет переключение с высокого на низкий диапазон и наоборот.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/diseqcsettings.cpp" line="726"/>
@@ -1720,7 +1720,7 @@
     <name>ExecuteExternalCommand</name>
     <message>
         <source>No command to run.</source>
-        <translation type="obsolete">Нет команды для выполения.</translation>
+        <translation type="obsolete">Нет команды для выполнения.</translation>
     </message>
 </context>
 <context>
@@ -1857,7 +1857,7 @@
     <message>
         <location filename="../programs/mythfrontend/setupwizard_general.cpp" line="56"/>
         <source>Anonymously submit a profile of your hardware. This helps the developers to determine where to focus their efforts.</source>
-        <translation>Анонимная передача профия вашего оборудования. Это поможет разработчикам определить на чем нужно сосредоточить усилия.</translation>
+        <translation>Анонимная передача профиля вашего оборудования. Это поможет разработчикам определить на чем нужно сосредоточить усилия.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/setupwizard_general.cpp" line="59"/>
@@ -1917,7 +1917,7 @@
     <message>
         <location filename="../programs/mythfrontend/setupwizard_general.cpp" line="260"/>
         <source>Hardware profile deleted.</source>
-        <translation>Hardware profile deleted.</translation>
+        <translation>Профиль оборудования удален.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/setupwizard_general.cpp" line="273"/>
@@ -2548,7 +2548,7 @@
     <message>
         <location filename="../html/htmlstrings.h" line="68"/>
         <source>Myth Service</source>
-        <translation type="unfinished">Сервис Mytht</translation>
+        <translation type="unfinished">Сервис Mythtv</translation>
     </message>
     <message>
         <location filename="../html/htmlstrings.h" line="69"/>
@@ -2892,7 +2892,7 @@
     <message>
         <location filename="../libs/libmythtv/jobqueue.cpp" line="2147"/>
         <source>Metadata Lookup Starting</source>
-        <translation>Поиск метеданных начался</translation>
+        <translation>Поиск метаданных начался</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/jobqueue.cpp" line="2172"/>
@@ -3060,7 +3060,7 @@
     <message>
         <location filename="../libs/libmyth/mythmediamonitor.cpp" line="216"/>
         <source>Select removable media to eject or insert</source>
-        <translation>Выберите съемное устройство для извелчения или установки</translation>
+        <translation>Выберите съемное устройство для извлечения или установки</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/mythmediamonitor.cpp" line="225"/>
@@ -3164,7 +3164,7 @@
     <message>
         <location filename="../programs/mythfrontend/videometadatasettings.cpp" line="102"/>
         <source>If set, all files below the MythVideo directory will be displayed unless their extension is explicitly set to be ignored.</source>
-        <translation>Если установлено, будут отображаться все файлы каталога MythVideo , если явно не задано, что расширение файла должно быть игнорировано.</translation>
+        <translation>Если установлено, будут отображаться все файлы каталога MythVideo , если явно не задано, что расширение файла должно быть проигнорировано.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/videometadatasettings.cpp" line="106"/>
@@ -3320,7 +3320,7 @@
     <message>
         <location filename="../programs/mythfrontend/mythcontrols.cpp" line="603"/>
         <source>This key binding conflicts with %1 in the %2 context.</source>
-        <translation>Эта привязка клавиши конфилктует с %1 в контексте %2.</translation>
+        <translation>Эта привязка клавиши конфликтует с %1 в контексте %2.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/mythcontrols.cpp" line="609"/>
@@ -3773,12 +3773,12 @@
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="1216"/>
         <source>Go back to previous page</source>
-        <translation>Вернуться к предыдущей странцие</translation>
+        <translation>Вернуться к предыдущей странице</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="1218"/>
         <source>Go forward to previous page</source>
-        <translation>Перейти вперед к предыдующей странице</translation>
+        <translation>Перейти вперед к предыдущей странице</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/mythmainwindow.cpp" line="1221"/>
@@ -3903,12 +3903,12 @@
     <message>
         <location filename="../programs/mythfrontend/main.cpp" line="1351"/>
         <source>Reset All Keys</source>
-        <translation type="unfinished">Сбросить все клавишы</translation>
+        <translation type="unfinished">Сбросить все клавиши</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/main.cpp" line="1352"/>
         <source>Reset all keys to defaults</source>
-        <translation type="unfinished">Сбросить все клавишы к настройкам по умолчанию</translation>
+        <translation type="unfinished">Сбросить все клавиши к настройкам по умолчанию</translation>
     </message>
     <message>
         <source>ScreenShot</source>
@@ -4337,12 +4337,12 @@
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="686"/>
         <source>Next Text track</source>
-        <translation>Следущие текстовые субтитры</translation>
+        <translation>Следующие текстовые субтитры</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="688"/>
         <source>Previous Text track</source>
-        <translation>Прдыдущие текстовые субтитры</translation>
+        <translation>Предыдущие текстовые субтитры</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="690"/>
@@ -4660,7 +4660,7 @@
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="823"/>
         <source>Previous Subpage</source>
-        <translation>Предыщущая подстраница</translation>
+        <translation>Предыдущая подстраница</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="825"/>
@@ -4730,7 +4730,7 @@
     <message>
         <location filename="../programs/mythfrontend/main.cpp" line="1369"/>
         <source>Change browsable in video manager</source>
-        <translation type="unfinished">Изменить просматриваемость в менедржере фильмов</translation>
+        <translation type="unfinished">Изменить просматриваемость в менеджере фильмов</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/main.cpp" line="1371"/>
@@ -6018,12 +6018,12 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="643"/>
         <source> Multithreaded decoding disabled-only one CPU will be used, please recompile with --enable-ffmpeg-pthreads to enable.</source>
-        <translation>Многопоточное декодирования выключено - будет использоваться только один процессор, пожалуйста, перекомпилируйте с опцией --enable-ffmpeg-pthreads.</translation>
+        <translation>Многопотоковое декодирование выключено - будет использоваться только один процессор, пожалуйста, перекомпилируйте с опцией --enable-ffmpeg-pthreads.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="651"/>
         <source>When unchecked the deblocking loopfilter will be disabled </source>
-        <translation>Когда флажок снят фильт удаления блочности будет выключен </translation>
+        <translation>Когда флажок снят фильтр удаления блочности будет выключен </translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="656"/>
@@ -6114,7 +6114,7 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/videoplayersettings.cpp" line="108"/>
         <source>Some Blu-ray discs require that a player region be explicitly set. Only change the value from &apos;No Region&apos; if you encounter a disc which fails to play citing a region mismatch.</source>
-        <translation>Некоторые диски Blu-ray требуют чтобы регион плеера был явно установлен. Просто измените значение &quot;No Region&quot; если вы столкнулись с диском, который не воспроизводится со ссылкой на несоответсвие региона.</translation>
+        <translation>Некоторые диски Blu-ray требуют чтобы регион плеера был явно установлен. Просто измените значение &quot;No Region&quot; если вы столкнулись с диском, который не воспроизводится со ссылкой на несоответствие региона.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/videoplayersettings.cpp" line="112"/>
@@ -6265,7 +6265,7 @@ Are you sure you want to delete:</source>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="333"/>
         <source>Subtitled</source>
-        <translation>C cубтитрами</translation>
+        <translation>С субтитрами</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/progdetails.cpp" line="335"/>
@@ -7360,7 +7360,7 @@ Your grabber does not provide channel numbers, so you have to set them manually.
     <message>
         <location filename="../programs/mythfrontend/audiogeneralsettings.cpp" line="1080"/>
         <source>Enable to override audio sample rate conversion quality.</source>
-        <translation>Включите, чтобы переопредлять качество передискретизации.</translation>
+        <translation>Включите, чтобы переопределить качество передискретизации.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/audiogeneralsettings.cpp" line="1093"/>
@@ -8366,7 +8366,7 @@ Most cards can autodetect this now, so leave it at Auto unless it won&apos;t wor
     </message>
     <message>
         <source>TV - Adds A/V services only, TV+Radio - Adds all services with audio, All - Adds all services (including data only serices).</source>
-        <translation type="obsolete">ТВ - Добавляет только аудио и видео услуги, ТВ+Радио - добавляет все услуги с адуио, Все - добавляет все услуги (включая услуги передачи данных).</translation>
+        <translation type="obsolete">ТВ - Добавляет только аудио и видео услуги, ТВ+Радио - добавляет все услуги с аудио, Все - добавляет все услуги (включая услуги передачи данных).</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscanmiscsettings.h" line="90"/>
