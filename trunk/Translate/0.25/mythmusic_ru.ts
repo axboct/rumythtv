@@ -328,7 +328,7 @@
         <location filename="../mythmusic/editmetadata.cpp" line="498"/>
         <location filename="../mythmusic/editmetadata.cpp" line="780"/>
         <source>Search Internet For Album Image</source>
-        <translation>Искать изображение албома в интернете</translation>
+        <translation>Искать изображение альбома в интернете</translation>
     </message>
     <message>
         <location filename="../mythmusic/editmetadata.cpp" line="499"/>
@@ -440,7 +440,7 @@
     <message>
         <location filename="../mythmusic/generalsettings.cpp" line="86"/>
         <source>CD-ROM device used for ripping/playback.</source>
-        <translation>Устройтсво CD-ROM используемое для импорта/воспроизведения.</translation>
+        <translation>Устройство CD-ROM используемое для импорта/воспроизведения.</translation>
     </message>
     <message>
         <location filename="../mythmusic/generalsettings.cpp" line="87"/>
@@ -472,7 +472,7 @@
     <message>
         <location filename="../mythmusic/generalsettings.cpp" line="98"/>
         <source>If set, MythMusic will be allowed to update the metadata in the file (e.g. ID3) to match the database. This means allowing MythTV to write to the file and permissions must be set accordingly. Features such as ID3 playcounts and ratings depend on this being enabled.</source>
-        <translation>Если установлено, MythMusic будет обновлять метаданные в файле (т.е. ID3) в соответствии с базой данных. Это позволяет MythTV записывать в файл, права доступа должны быть установлены соответствущим образом. Возможности ID3 типа числа проигрываний и рейтинг зависят от того доступны ли они.</translation>
+        <translation>Если установлено, MythMusic будет обновлять метаданные в файле (т.е. ID3) в соответствии с базой данных. Это позволяет MythTV записывать в файл, права доступа должны быть установлены соответствующим образом. Возможности ID3 типа числа проигрываний и рейтинг зависят от того доступны ли они.</translation>
     </message>
     <message>
         <location filename="../mythmusic/generalsettings.cpp" line="104"/>
@@ -817,7 +817,7 @@ GENRE, ARTIST, ALBUM, TRACK, TITLE, YEAR</translation>
     <message>
         <location filename="../mythmusic/musiccommon.cpp" line="1064"/>
         <source>Buffering stream.</source>
-        <translation>Буфферизация потока.</translation>
+        <translation>Буферизация потока.</translation>
     </message>
     <message>
         <location filename="../mythmusic/musiccommon.cpp" line="1068"/>
@@ -1061,7 +1061,7 @@ GENRE, ARTIST, ALBUM, TRACK, TITLE, YEAR</translation>
     <message>
         <location filename="../mythmusic/musiccommon.cpp" line="2039"/>
         <source>Fullscreen Visualizer</source>
-        <translation>Полноэкранный визуализатор</translation>
+        <translation>Полноэкранная визуализация</translation>
     </message>
     <message>
         <location filename="../mythmusic/musiccommon.cpp" line="2041"/>
@@ -1130,7 +1130,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/musiccommon.cpp" line="2183"/>
         <source>Choose Visualizer</source>
-        <translation>Выбор визуализатора</translation>
+        <translation>Выбор визуализации</translation>
     </message>
     <message>
         <location filename="../mythmusic/musiccommon.cpp" line="2298"/>
@@ -1502,7 +1502,7 @@ Do you want to continue playing in the background?</source>
     </message>
     <message>
         <source>Buffering stream.</source>
-        <translation type="obsolete">Буфферизация потока.</translation>
+        <translation type="obsolete">Буферизация потока.</translation>
     </message>
     <message>
         <source>Stream paused.</source>
@@ -1566,7 +1566,7 @@ Do you want to continue playing in the background?</source>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation type="obsolete">Удалить дупликаты</translation>
+        <translation type="obsolete">Удалить дубликаты</translation>
     </message>
 </context>
 <context>
@@ -1713,7 +1713,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/playlisteditorview.cpp" line="997"/>
         <source>** No matching tracks **</source>
-        <translation>** Нет соответсвующих дорожек **</translation>
+        <translation>** Нет соответствующих дорожек **</translation>
     </message>
     <message>
         <location filename="../mythmusic/playlisteditorview.cpp" line="1037"/>
@@ -1883,7 +1883,7 @@ Do you want to continue playing in the background?</source>
     </message>
     <message>
         <source>If set, MythMusic will be allowed to update the metadata in the file (e.g. ID3) to match the database. This means allowing MythTV to write to the file and permissions must be set accordingly. Features such as ID3 playcounts and ratings depend on this being enabled.</source>
-        <translation type="obsolete">Если установлено, MythMusic будет обновлять метаданные в файле (т.е. ID3) в соотвтсвии с базой данных. Это разрешает MythTV записывать в файл и права доступа должны быть установлены соответствущим образом. Возможности ID3 типа числа проигрываний и рейтинг зависят от того доступны ли они.</translation>
+        <translation type="obsolete">Если установлено, MythMusic будет обновлять метаданные в файле (т.е. ID3) в соотвтсвии с базой данных. Это разрешает MythTV записывать в файл и права доступа должны быть установлены соответствующим образом. Возможности ID3 типа числа проигрываний и рейтинг зависят от того доступны ли они.</translation>
     </message>
     <message>
         <source>Ignore Metadata Tags</source>
@@ -2377,7 +2377,7 @@ Do you want to continue playing in the background?</source>
     </message>
     <message>
         <source>Missing database entry: %1</source>
-        <translation type="obsolete">Отсутвует элемент базы данных: %1</translation>
+        <translation type="obsolete">Отсутствует элемент базы данных: %1</translation>
     </message>
     <message>
         <source>Ooops</source>
@@ -2514,7 +2514,7 @@ Check the URL is correct.</source>
     <message>
         <location filename="../mythmusic/ratingsettings.cpp" line="52"/>
         <source>Used in &quot;Smart&quot; Shuffle mode. This weighting affects how much strength is given to your rating of a given track when ordering a group of songs.</source>
-        <translation>Используется в &quot;умном&quot; режиме перемевания. Этот вес определяет сколько веса дается рейтингу дорожки, при определения порядка сортировки группы песен.</translation>
+        <translation>Используется в &quot;умном&quot; режиме перемешивания. Этот вес определяет сколько веса дается рейтингу дорожки, при определения порядка сортировки группы песен.</translation>
     </message>
     <message>
         <location filename="../mythmusic/ratingsettings.cpp" line="56"/>
@@ -2595,7 +2595,7 @@ Do you want to remove the existing track?</source>
 Дрожка: %3
 
 Эта дорожка уже в базе данных. 
-Хотите удалить сущесвующую дорожку?</translation>
+Хотите удалить существующую дорожку?</translation>
     </message>
     <message>
         <location filename="../mythmusic/cdrip.cpp" line="1026"/>
@@ -2631,7 +2631,7 @@ Do you want to remove the existing track?</source>
         <location filename="../mythmusic/cdrip.cpp" line="1318"/>
         <source>This track has been disabled because it is already present in the database.
 Do you want to permanently delete the existing file(s)?</source>
-        <translation>Этп дорожка заблокирована, так как она уже существует в базе данных.
+        <translation>Эта дорожка заблокирована, так как она уже существует в базе данных.
 Вы хотите удалить существующие файлы?</translation>
     </message>
     <message>
@@ -3239,7 +3239,7 @@ Do you want to permanently delete the existing file(s)?</source>
     <message>
         <location filename="themestrings.h" line="88"/>
         <source>Already in database</source>
-        <translation>Уже находится в базе даных</translation>
+        <translation>Уже находится в базе данных</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="89"/>
@@ -4191,7 +4191,7 @@ Do you want to permanently delete the existing file(s)?</source>
         <location filename="../mythmusic/visualizationsettings.cpp" line="54"/>
         <location filename="../mythmusic/visualizationsettings.cpp" line="58"/>
         <source>If set to &quot;2&quot;, visualizations will be scaled in half. Currently only used by the goom visualization. Reduces CPU load on slower machines.</source>
-        <translation>Если установлено в 2, визуализация бует масштабирована вполовину. Сейчас используется только визуализацией goom. Уменьшает загрузку процессора на медленных машинах.</translation>
+        <translation>Если установлено в 2, визуализация будет масштабирована вполовину. Сейчас используется только визуализацией goom. Уменьшает загрузку процессора на медленных машинах.</translation>
     </message>
     <message>
         <location filename="../mythmusic/visualizationsettings.cpp" line="62"/>
