@@ -472,11 +472,7 @@
     <message>
         <location filename="../mythmusic/generalsettings.cpp" line="98"/>
         <source>If set, MythMusic will be allowed to update the metadata in the file (e.g. ID3) to match the database. This means allowing MythTV to write to the file and permissions must be set accordingly. Features such as ID3 playcounts and ratings depend on this being enabled.</source>
-<<<<<<< .mine
         <translation>Если установлено, MythMusic будет обновлять метаданные в файле (т.е. ID3) в соответствии с базой данных. Это позволяет MythTV записывать в файл, права доступа должны быть установлены соответствующим образом. Возможности ID3 типа числа воспроизведений и рейтинг зависят от того доступны ли они.</translation>
-=======
-        <translation>Если установлено, MythMusic будет обновлять метаданные в файле (т.е. ID3) в соответствии с базой данных. Это позволяет MythTV записывать в файл, права доступа должны быть установлены соответствующим образом. Возможности ID3 типа числа проигрываний и рейтинг зависят от того доступны ли они.</translation>
->>>>>>> .r135
     </message>
     <message>
         <location filename="../mythmusic/generalsettings.cpp" line="104"/>
@@ -1065,7 +1061,7 @@ GENRE, ARTIST, ALBUM, TRACK, TITLE, YEAR</translation>
     <message>
         <location filename="../mythmusic/musiccommon.cpp" line="2039"/>
         <source>Fullscreen Visualizer</source>
-        <translation>Полноэкранная визуализация</translation>
+        <translation>Полноэкранный визуализатор</translation>
     </message>
     <message>
         <location filename="../mythmusic/musiccommon.cpp" line="2041"/>
@@ -1134,7 +1130,7 @@ Do you want to continue playing in the background?</source>
     <message>
         <location filename="../mythmusic/musiccommon.cpp" line="2183"/>
         <source>Choose Visualizer</source>
-        <translation>Выбор визуализации</translation>
+        <translation>Выбор визуализатора</translation>
     </message>
     <message>
         <location filename="../mythmusic/musiccommon.cpp" line="2298"/>
@@ -1506,7 +1502,7 @@ Do you want to continue playing in the background?</source>
     </message>
     <message>
         <source>Buffering stream.</source>
-        <translation type="obsolete">Буферизация потока.</translation>
+        <translation type="obsolete">Буфферизация потока.</translation>
     </message>
     <message>
         <source>Stream paused.</source>
@@ -1570,7 +1566,7 @@ Do you want to continue playing in the background?</source>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation type="obsolete">Удалить дубликаты</translation>
+        <translation type="obsolete">Удалить дупликаты</translation>
     </message>
 </context>
 <context>
@@ -1887,7 +1883,7 @@ Do you want to continue playing in the background?</source>
     </message>
     <message>
         <source>If set, MythMusic will be allowed to update the metadata in the file (e.g. ID3) to match the database. This means allowing MythTV to write to the file and permissions must be set accordingly. Features such as ID3 playcounts and ratings depend on this being enabled.</source>
-        <translation type="obsolete">Если установлено, MythMusic будет обновлять метаданные в файле (т.е. ID3) в соотвтсвии с базой данных. Это разрешает MythTV записывать в файл и права доступа должны быть установлены соответствующим образом. Возможности ID3 типа числа проигрываний и рейтинг зависят от того доступны ли они.</translation>
+        <translation type="obsolete">Если установлено, MythMusic будет обновлять метаданные в файле (т.е. ID3) в соотвтсвии с базой данных. Это разрешает MythTV записывать в файл и права доступа должны быть установлены соответствущим образом. Возможности ID3 типа числа проигрываний и рейтинг зависят от того доступны ли они.</translation>
     </message>
     <message>
         <source>Ignore Metadata Tags</source>
@@ -2381,7 +2377,7 @@ Do you want to continue playing in the background?</source>
     </message>
     <message>
         <source>Missing database entry: %1</source>
-        <translation type="obsolete">Отсутствует элемент базы данных: %1</translation>
+        <translation type="obsolete">Отсутвует элемент базы данных: %1</translation>
     </message>
     <message>
         <source>Ooops</source>
@@ -2599,7 +2595,7 @@ Do you want to remove the existing track?</source>
 Дрожка: %3
 
 Эта дорожка уже в базе данных. 
-Хотите удалить существующую дорожку?</translation>
+Хотите удалить сущесвующую дорожку?</translation>
     </message>
     <message>
         <location filename="../mythmusic/cdrip.cpp" line="1026"/>
