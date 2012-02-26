@@ -37,14 +37,6 @@
         <translation>Неизвестно</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Отмена</translation>
-    </message>
-    <message>
-        <source>Edit News Site</source>
-        <translation type="obsolete">Изменить сайт</translation>
-    </message>
-    <message>
         <location filename="../mythnews/mythnews.cpp" line="123"/>
         <source>You haven&apos;t configured MythNews to use any sites.</source>
         <translation>Вы не настроили MythNews для использования хотя бы одного сайта.</translation>
@@ -79,14 +71,6 @@
         <location filename="../mythnews/mythnews.cpp" line="905"/>
         <source>Delete Feed</source>
         <translation>Удалить ленту</translation>
-    </message>
-    <message>
-        <source>Add News Site</source>
-        <translation type="obsolete">Добавить сайт</translation>
-    </message>
-    <message>
-        <source>Delete News Site</source>
-        <translation type="obsolete">Удалить сайт</translation>
     </message>
     <message>
         <location filename="../mythnews/mythnews.cpp" line="887"/>
@@ -130,10 +114,6 @@
         <location filename="../mythnews/mythnewseditor.cpp" line="93"/>
         <source>OK</source>
         <translation>ОК</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">Ок</translation>
     </message>
     <message>
         <location filename="../mythnews/mythnewseditor.cpp" line="94"/>
@@ -286,10 +266,6 @@ When you have finished editing, select &quot;OK&quot; or &quot;Cancel&quot; to c
         <translation>Изменить новостные ленты RSS</translation>
     </message>
     <message>
-        <source>Ok</source>
-        <translation type="obsolete">Ок</translation>
-    </message>
-    <message>
         <location filename="themestrings.h" line="25"/>
         <source>Contexts</source>
         <translation>Контекст</translation>
@@ -298,14 +274,6 @@ When you have finished editing, select &quot;OK&quot; or &quot;Cancel&quot; to c
         <location filename="themestrings.h" line="26"/>
         <source>Actions</source>
         <translation>Действия</translation>
-    </message>
-    <message>
-        <source>MythNews Configuration</source>
-        <translation type="obsolete">Настройка MythNews</translation>
-    </message>
-    <message>
-        <source>Minutes</source>
-        <translation type="obsolete">Минуты</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="19"/>
