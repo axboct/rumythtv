@@ -93,113 +93,6 @@
     </message>
 </context>
 <context>
-    <name>DatabaseBox</name>
-    <message>
-        <source>OK</source>
-        <translation type="obsolete">OK</translation>
-    </message>
-    <message>
-        <source>The theme you are using does not contain enough info lines in the music element. Please contact the theme creator and ask if they could please update it.</source>
-        <translation type="obsolete">Тема которую вы используете не содержит достаточно строк для отображение информации о музыкальной композиции. Пожалуйста обратитесь к создателю темы, с просьбой об изменении.</translation>
-    </message>
-    <message>
-        <source>All My Music</source>
-        <translation type="obsolete">Вся моя музыка</translation>
-    </message>
-    <message>
-        <source>Blechy Blech Blah</source>
-        <translation type="obsolete">Blechy Blech Blah</translation>
-    </message>
-    <message>
-        <source>All My Playlists</source>
-        <translation type="obsolete">Все мои плейлисты</translation>
-    </message>
-    <message>
-        <source>Active Play Queue</source>
-        <translation type="obsolete">Активная очередь воспроизведения</translation>
-    </message>
-    <message>
-        <source>All My Music ~ Loading Music Data </source>
-        <translation type="obsolete">Вся моя музыка ~ Загрузка данных</translation>
-    </message>
-    <message>
-        <source>Loading Music Data</source>
-        <translation type="obsolete">Загрузка данных</translation>
-    </message>
-    <message>
-        <source>Couldn&apos;t create CD</source>
-        <translation type="obsolete">Не получается создать CD</translation>
-    </message>
-    <message>
-        <source>CD Created</source>
-        <translation type="obsolete">CD создан</translation>
-    </message>
-    <message>
-        <source>CD-RW Blanking Progress</source>
-        <translation type="obsolete">Прогресс очистки CD-RW</translation>
-    </message>
-    <message>
-        <source>Compilation Artist:	</source>
-        <translation type="obsolete">Исполнитель сборника:	</translation>
-    </message>
-    <message>
-        <source>Artist:	</source>
-        <translation type="obsolete">Исполнитель:	</translation>
-    </message>
-    <message>
-        <source>Album:	</source>
-        <translation type="obsolete">Альбом:	</translation>
-    </message>
-    <message>
-        <source>Title:	</source>
-        <translation type="obsolete">Название:	</translation>
-    </message>
-    <message>
-        <source>Length:	</source>
-        <translation type="obsolete">Длина:	</translation>
-    </message>
-    <message>
-        <source>Genre: </source>
-        <translation type="obsolete">Жанр: </translation>
-    </message>
-    <message>
-        <source>Move to Active Play Queue</source>
-        <translation type="obsolete">Перенести в активную очередь воспроизведения</translation>
-    </message>
-    <message>
-        <source>Delete This Playlist</source>
-        <translation type="obsolete">Удалить этот плейлист</translation>
-    </message>
-    <message>
-        <source>Rename This Playlist</source>
-        <translation type="obsolete">Переименовать этот плейлист</translation>
-    </message>
-    <message>
-        <source>Copy To New Playlist</source>
-        <translation type="obsolete">Копировать в новый плейлист</translation>
-    </message>
-    <message>
-        <source>Clear the Active Play Queue</source>
-        <translation type="obsolete">Очистить активную очередь воспроизведения</translation>
-    </message>
-    <message>
-        <source>Save Back to Playlist Tree</source>
-        <translation type="obsolete">Сохранить в дерево плейлистов</translation>
-    </message>
-    <message>
-        <source>Create Audio CD from Playlist</source>
-        <translation type="obsolete">Создать Audio CD на основе плейлиста</translation>
-    </message>
-    <message>
-        <source>Create MP3 CD from Playlist</source>
-        <translation type="obsolete">Создать CD с MP3 на основе плейлиста</translation>
-    </message>
-    <message>
-        <source>Clear CD-RW Disk</source>
-        <translation type="obsolete">Очистить диск CD-RW</translation>
-    </message>
-</context>
-<context>
     <name>EditAlbumartDialog</name>
     <message>
         <location filename="../mythmusic/editmetadata.cpp" line="1008"/>
@@ -292,22 +185,6 @@
 <context>
     <name>EditMetadataDialog</name>
     <message>
-        <source>Track Info.</source>
-        <translation type="obsolete">Инфо о дор.</translation>
-    </message>
-    <message>
-        <source>Album Art</source>
-        <translation type="obsolete">Обложка</translation>
-    </message>
-    <message>
-        <source>Statistics</source>
-        <translation type="obsolete">Статистика</translation>
-    </message>
-    <message>
-        <source>Done</source>
-        <translation type="obsolete">Готово</translation>
-    </message>
-    <message>
         <location filename="../mythmusic/editmetadata.cpp" line="482"/>
         <source>Options</source>
         <translation>Параметры</translation>
@@ -368,41 +245,9 @@
         <translation>Выбрать жанр</translation>
     </message>
     <message>
-        <source>Save Changes?</source>
-        <translation type="obsolete">Сохранить изменения?</translation>
-    </message>
-    <message>
-        <source>Save Changes</source>
-        <translation type="obsolete">Сохранить изменения</translation>
-    </message>
-    <message>
-        <source>Save to Database Only</source>
-        <translation type="obsolete">Сохранить только в базу данных</translation>
-    </message>
-    <message>
-        <source>Save to File Only</source>
-        <translation type="obsolete">Сохранить только в файл</translation>
-    </message>
-    <message>
-        <source>Save to File and Database</source>
-        <translation type="obsolete">Сохранить в файл и базу данных</translation>
-    </message>
-    <message>
-        <source>Exit/Do Not Save</source>
-        <translation type="obsolete">Выйти/Не сохранять</translation>
-    </message>
-    <message>
         <location filename="../mythmusic/editmetadata.cpp" line="501"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to save the modified metadata to the file?</source>
-        <translation type="obsolete">Вы уверены что хотите сохранить измененные метаданные в файл?</translation>
-    </message>
-    <message>
-        <source>Change Image Type</source>
-        <translation type="obsolete">Изменить тип элемента</translation>
     </message>
 </context>
 <context>
@@ -453,21 +298,9 @@
         <translation>Некоторые mp3 плееры не понимают тегов в кодировках UTF8 и UTF16, эта настройка позволяет изменить используемую кодировку. Применяется только к тегам ID3.</translation>
     </message>
     <message>
-        <source>CDRom device used for ripping/playback.</source>
-        <translation type="obsolete">Привод CD используемый для импорта/воспроизведения.</translation>
-    </message>
-    <message>
-        <source>Directory and filename Format used to grab information if no ID3 information is found. Accepts GENRE, ARTIST, ALBUM, TITLE, ARTIST_TITLE and TRACK_TITLE.</source>
-        <translation type="obsolete">Формат каталога и имени файла используемый для получения инфо о дорожке, если не найдена инфо в ID3 тегах. Доступны: GENRE, ARTIST, ALBUM, TITLE, ARTIST_TITLE и TRACK_TITLE.</translation>
-    </message>
-    <message>
         <location filename="../mythmusic/generalsettings.cpp" line="91"/>
         <source>If set, MythMusic will skip checking ID3 tags in files and just try to determine Genre, Artist, Album, and Track number and title from the filename.</source>
         <translation>Если установлено, MythMusic пропустит проверку тегов ID3 и попытается определить жанр, исполнителя, альбом, номер и название дорожки по имени файла.</translation>
-    </message>
-    <message>
-        <source>Some mp3 players don&apos;t understand tags encoded in UTF8 or UTF16, this setting allows you to change the encoding format used. Currently applies only to ID3 tags.</source>
-        <translation type="obsolete">Некоторые mp3 плееры не понимают тегов в кодировках UTF8 и UTF16, эта настройка позволяет изменить используемую кодировку. Применяется только к тегам ID3.</translation>
     </message>
     <message>
         <location filename="../mythmusic/generalsettings.cpp" line="98"/>
@@ -711,98 +544,6 @@ GENRE, ARTIST, ALBUM, TRACK, TITLE, YEAR</translation>
     </message>
 </context>
 <context>
-    <name>MiniPlayer</name>
-    <message>
-        <source>Stopped</source>
-        <translation type="obsolete">Остановлено</translation>
-    </message>
-    <message>
-        <source>Mute: On</source>
-        <translation type="obsolete">Звук: Выкл</translation>
-    </message>
-    <message>
-        <source>Mute: Off</source>
-        <translation type="obsolete">Звук: Вкл</translation>
-    </message>
-    <message>
-        <source>kbps</source>
-        <translation type="obsolete">кбит/с</translation>
-    </message>
-    <message>
-        <source>kHz</source>
-        <translation type="obsolete">kHz</translation>
-    </message>
-    <message>
-        <source>ch</source>
-        <translation type="obsolete">ch</translation>
-    </message>
-    <message>
-        <source>%1  by  %2</source>
-        <comment>Music track &apos;title by artist&apos;</comment>
-        <translation type="obsolete">%1  от  %2</translation>
-    </message>
-    <message>
-        <source>Shuffle Mode: </source>
-        <translation type="obsolete">Режим вперемешку: </translation>
-    </message>
-    <message>
-        <source>Smart</source>
-        <translation type="obsolete">Умный</translation>
-    </message>
-    <message>
-        <source>Rand</source>
-        <translation type="obsolete">Случайный</translation>
-    </message>
-    <message>
-        <source>Album</source>
-        <translation type="obsolete">Альбом</translation>
-    </message>
-    <message>
-        <source>Artist</source>
-        <translation type="obsolete">Исполнитель</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation type="obsolete">Нет</translation>
-    </message>
-    <message>
-        <source>Repeat Mode: </source>
-        <translation type="obsolete">Режим повтора: </translation>
-    </message>
-    <message>
-        <source>All</source>
-        <translation type="obsolete">Все</translation>
-    </message>
-    <message>
-        <source>Track</source>
-        <translation type="obsolete">Дорожка</translation>
-    </message>
-    <message>
-        <source>Auto Show Player: </source>
-        <translation type="obsolete">Автоматически показывать плеер: </translation>
-    </message>
-    <message>
-        <source>On</source>
-        <translation type="obsolete">Вкл</translation>
-    </message>
-    <message>
-        <source>Off</source>
-        <translation type="obsolete">Выкл</translation>
-    </message>
-    <message>
-        <source>Volume: </source>
-        <translation type="obsolete">Громкость: </translation>
-    </message>
-    <message>
-        <source>(muted)</source>
-        <translation type="obsolete">(без звука)</translation>
-    </message>
-    <message>
-        <source>Speed: </source>
-        <translation type="obsolete">Скорость: </translation>
-    </message>
-</context>
-<context>
     <name>MusicCommon</name>
     <message>
         <location filename="../mythmusic/musiccommon.cpp" line="802"/>
@@ -852,229 +593,229 @@ GENRE, ARTIST, ALBUM, TRACK, TITLE, YEAR</translation>
         <translation>Поток остановлен.</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1254"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2065"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1251"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2062"/>
         <source>Save To New Playlist</source>
         <translation>Сохранить в новом плейлисте</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1256"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1253"/>
         <source>Enter new playlist name</source>
         <translation>Ввести имя нового плейлиста</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1270"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2066"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1267"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2063"/>
         <source>Save To Existing Playlist</source>
         <translation>Сохранить в существующем плейлисте</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1272"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1269"/>
         <source>Select the playlist to save to</source>
         <translation>Выберите плейлист для сохранения</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1359"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2109"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1356"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2106"/>
         <source>Change Volume</source>
         <translation>Изменить громкость</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1361"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2110"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1358"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2107"/>
         <source>Mute</source>
         <translation>Выключить звук</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1363"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2111"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1360"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2108"/>
         <source>Previous Track</source>
         <translation>Предыдущая дорожка</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1365"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2112"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1362"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2109"/>
         <source>Next Track</source>
         <translation>Следующая дорожка</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1367"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2113"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1364"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2110"/>
         <source>Jump Back</source>
         <translation>Перейти назад</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1369"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2114"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1366"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2111"/>
         <source>Jump Forward</source>
         <translation>Перейти вперед</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1371"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2115"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1368"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2112"/>
         <source>Play</source>
         <translation>Воспроизведение</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1373"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2116"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1370"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2113"/>
         <source>Stop</source>
         <translation>Остановка</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1375"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2117"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1372"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2114"/>
         <source>Pause</source>
         <translation>Пауза</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1380"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2162"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1377"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2159"/>
         <source>All Tracks</source>
         <translation>Все дорожки</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1382"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2165"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1379"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2162"/>
         <source>From CD</source>
         <translation>С компакт-диска</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1384"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2169"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1381"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2166"/>
         <source>Tracks by current Artist</source>
         <translation>Дорожки по текущему исполнителю</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1386"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2171"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1383"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2168"/>
         <source>Tracks from current Genre</source>
         <translation>Дорожки по текущему жанру</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1388"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2170"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1385"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2167"/>
         <source>Tracks from current Album</source>
         <translation>Дорожки по текущему альбому</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1390"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2172"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1387"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2169"/>
         <source>Track from current Year</source>
         <translation>Дорожки по текущему году</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1392"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2173"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1389"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2170"/>
         <source>Tracks with same Title</source>
         <translation>Дорожки с таким же названием</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1397"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2312"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1394"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2309"/>
         <source>Replace</source>
         <translation>Замена</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1403"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2316"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1400"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2313"/>
         <source>Insert after current track</source>
         <translation>Вставить после текущей дорожки</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1408"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2317"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1405"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2314"/>
         <source>Append to end</source>
         <translation>Добавить в конец</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1413"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2320"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1410"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2317"/>
         <source>Add</source>
         <translation>Добавить</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2001"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1998"/>
         <source>Actions</source>
         <translation>Действия</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2009"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2026"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2006"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2023"/>
         <source>Switch View</source>
         <translation>Переключить режим просмотра</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2010"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2051"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2007"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2048"/>
         <source>Playlist Options</source>
         <translation>Параметры плейлиста</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2011"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2141"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2008"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2138"/>
         <source>Set Shuffle Mode</source>
         <translation>Установить режим перемешивания</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2012"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2126"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2009"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2123"/>
         <source>Set Repeat Mode</source>
         <translation>Установить режим повтора</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2013"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2010"/>
         <source>Player Options</source>
         <translation>Параметры плеера</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2014"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2158"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2011"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2155"/>
         <source>Quick Playlists</source>
         <translation>Быстрые плейлисты</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2017"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2014"/>
         <source>Change Visualizer</source>
         <translation>Изменить визуализатор</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2031"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2028"/>
         <source>Current Playlist</source>
         <translation>Текущий плейлист</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2033"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2030"/>
         <source>Playlist Editor - Tree</source>
         <translation>Редактор плейлиста - Дерево</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2035"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2032"/>
         <source>Playlist Editor - Gallery</source>
         <translation>Редактор плейлиста - Галерея</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2037"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2034"/>
         <source>Search for Music</source>
         <translation>Поиск музыки</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2039"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2036"/>
         <source>Fullscreen Visualizer</source>
         <translation>Полноэкранный визуализатор</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2041"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2038"/>
         <source>Lyrics</source>
         <translation>Тексты песен</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2042"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2039"/>
         <source>Artist Information</source>
         <translation>Информация об исполнителе</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2081"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2078"/>
         <source>Exiting Music Player.
 
 Do you want to continue playing in the background?</source>
@@ -1083,63 +824,55 @@ Do you want to continue playing in the background?</source>
 Вы хотите продолжить фоновое воспроизведение?</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2105"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2102"/>
         <source>Player Actions</source>
         <translation>Действия плеера</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2130"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2145"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2127"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2142"/>
         <source>None</source>
         <translation>Нет</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2131"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2128"/>
         <source>Track</source>
         <translation>Дорожка</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2132"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2129"/>
         <source>All</source>
         <translation>Все</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2146"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2143"/>
         <source>Random</source>
         <translation>Случайно</translation>
     </message>
     <message>
-        <source>Randon</source>
-        <translation type="obsolete">Случайно</translation>
-    </message>
-    <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2147"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2144"/>
         <source>Smart</source>
         <translation>Умный</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2148"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2145"/>
         <source>Album</source>
         <translation>Альбом</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2149"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2146"/>
         <source>Artist</source>
         <translation>Исполнитель</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2183"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2180"/>
         <source>Choose Visualizer</source>
         <translation>Выбор визуализатора</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="2298"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2295"/>
         <source>Add to Playlist Options</source>
         <translation>Параметры добавления в плейлист</translation>
-    </message>
-    <message>
-        <source>Finished playing stream.</source>
-        <translation type="obsolete">Окончание воспроизведения потока.</translation>
     </message>
     <message>
         <location filename="../mythmusic/musiccommon.cpp" line="1192"/>
@@ -1147,80 +880,72 @@ Do you want to continue playing in the background?</source>
         <translation>Ошибка декодирования.</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1228"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2007"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1225"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2004"/>
         <source>Search List...</source>
         <translation>Поиск в списке...</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1235"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2057"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1232"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2054"/>
         <source>Sync List With Current Track</source>
         <translation>Синхронизировать список с текущей дорожкой</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1239"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2058"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1236"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2055"/>
         <source>Remove Selected Track</source>
         <translation>Удалить выбранную дорожку</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1249"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2061"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1246"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2058"/>
         <source>Remove All Tracks</source>
         <translation>Удалить все дорожки</translation>
     </message>
     <message>
-        <source>Save As New Playlist</source>
-        <translation type="obsolete">Сохранить как новый плейлист</translation>
-    </message>
-    <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1285"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2071"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1282"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2068"/>
         <source>Switch To Move Mode</source>
         <translation>Переключиться в режим перемещения</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1293"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2069"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1290"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2066"/>
         <source>Switch To Select Mode</source>
         <translation>Переключиться в режим выбора</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1312"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="1321"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2019"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2044"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2074"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2098"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2119"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2134"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2151"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2176"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2190"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2322"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1309"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1318"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2016"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2041"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2071"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2095"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2116"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2131"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2148"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2173"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2187"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2319"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1346"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2096"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1343"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2093"/>
         <source>No - Exit, Stop Playing</source>
         <translation>Нет - Выйти, остановить воспроизведение</translation>
     </message>
     <message>
-        <location filename="../mythmusic/musiccommon.cpp" line="1352"/>
-        <location filename="../mythmusic/musiccommon.cpp" line="2097"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="1349"/>
+        <location filename="../mythmusic/musiccommon.cpp" line="2094"/>
         <source>Yes - Exit, Continue Playing</source>
         <translation>Да - Выйти, продолжить воспроизведение</translation>
     </message>
 </context>
 <context>
     <name>MusicPlayer</name>
-    <message>
-        <source>playlist root</source>
-        <translation type="obsolete">корень плейлиста</translation>
-    </message>
     <message>
         <location filename="../mythmusic/musicplayer.cpp" line="1213"/>
         <location filename="../mythmusic/musicplayer.cpp" line="1216"/>
@@ -1377,199 +1102,6 @@ Do you want to continue playing in the background?</source>
     </message>
 </context>
 <context>
-    <name>PlaybackBoxMusic</name>
-    <message>
-        <source>Edit Playlist</source>
-        <translation type="obsolete">Изменить плейлист</translation>
-    </message>
-    <message>
-        <source>Visualize</source>
-        <translation type="obsolete">Визуализация</translation>
-    </message>
-    <message>
-        <source>3 Edit Playlist</source>
-        <translation type="obsolete">3 Изм. плейлист</translation>
-    </message>
-    <message>
-        <source>4 Visualize</source>
-        <translation type="obsolete">4 Визуализ.</translation>
-    </message>
-    <message>
-        <source>Visualization: </source>
-        <translation type="obsolete">Визуализация: </translation>
-    </message>
-    <message>
-        <source>Exiting Music Player
-Do you want to continue playing in the background?</source>
-        <translation type="obsolete">Выход из музыкального плеера
-Хотите продолжить воспроизведение в фоновом режиме?</translation>
-    </message>
-    <message>
-        <source>No - Exit, Stop Playing</source>
-        <translation type="obsolete">Нет - Выйти и остановить воспроизведение</translation>
-    </message>
-    <message>
-        <source>Yes - Exit, Continue Playing</source>
-        <translation type="obsolete">Да - Выйти и продолжить воспроизведение</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Отмена</translation>
-    </message>
-    <message>
-        <source>Change Filter</source>
-        <translation type="obsolete">Изменить фильтр</translation>
-    </message>
-    <message>
-        <source>Smart playlists</source>
-        <translation type="obsolete">Умные плейлисты</translation>
-    </message>
-    <message>
-        <source>Search</source>
-        <translation type="obsolete">Поиск</translation>
-    </message>
-    <message>
-        <source>From CD</source>
-        <translation type="obsolete">С компакт-диска</translation>
-    </message>
-    <message>
-        <source>All Tracks</source>
-        <translation type="obsolete">Все дорожки</translation>
-    </message>
-    <message>
-        <source>Tracks by current Artist</source>
-        <translation type="obsolete">Дорожки по текущему исполнителю</translation>
-    </message>
-    <message>
-        <source>Tracks from current Album</source>
-        <translation type="obsolete">Дорожки по текущему альбому</translation>
-    </message>
-    <message>
-        <source>Tracks from current Genre</source>
-        <translation type="obsolete">Дорожки по текущему жанру</translation>
-    </message>
-    <message>
-        <source>Tracks from current Year</source>
-        <translation type="obsolete">Дорожки по текущему году</translation>
-    </message>
-    <message>
-        <source>Tracks with same Title</source>
-        <translation type="obsolete">Дорожки с таким же названием</translation>
-    </message>
-    <message>
-        <source>Speed: </source>
-        <translation type="obsolete">Скорость: </translation>
-    </message>
-    <message>
-        <source>Smart</source>
-        <translation type="obsolete">Умн</translation>
-    </message>
-    <message>
-        <source>Rand</source>
-        <translation type="obsolete">Случ</translation>
-    </message>
-    <message>
-        <source>Album</source>
-        <translation type="obsolete">Альб</translation>
-    </message>
-    <message>
-        <source>Artist</source>
-        <translation type="obsolete">Исп</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation type="obsolete">Нет</translation>
-    </message>
-    <message>
-        <source>Shuffle</source>
-        <translation type="obsolete">Вперем</translation>
-    </message>
-    <message>
-        <source>All</source>
-        <translation type="obsolete">Все</translation>
-    </message>
-    <message>
-        <source>Track</source>
-        <translation type="obsolete">Дор</translation>
-    </message>
-    <message>
-        <source>Repeat</source>
-        <translation type="obsolete">Повтор</translation>
-    </message>
-    <message>
-        <source>Playing stream.</source>
-        <translation type="obsolete">Воспроизведение потока.</translation>
-    </message>
-    <message>
-        <source>Buffering stream.</source>
-        <translation type="obsolete">Буфферизация потока.</translation>
-    </message>
-    <message>
-        <source>Stream paused.</source>
-        <translation type="obsolete">Поток приостановлен.</translation>
-    </message>
-    <message>
-        <source>kbps</source>
-        <translation type="obsolete">кбит/с</translation>
-    </message>
-    <message>
-        <source>kHz</source>
-        <translation type="obsolete">кГц</translation>
-    </message>
-    <message>
-        <source>ch</source>
-        <translation type="obsolete">кан</translation>
-    </message>
-    <message>
-        <source>Output error.</source>
-        <translation type="obsolete">Ошибка вывода.</translation>
-    </message>
-    <message>
-        <source>Stream stopped.</source>
-        <translation type="obsolete">Поток остановлен.</translation>
-    </message>
-    <message>
-        <source>Finished playing stream.</source>
-        <translation type="obsolete">Окончание воспроизведения потока.</translation>
-    </message>
-    <message>
-        <source>Decoder error.</source>
-        <translation type="obsolete">Ошибка декодирования.</translation>
-    </message>
-    <message>
-        <source>Update Playlist Options</source>
-        <translation type="obsolete">Обновить настройки плейлиста</translation>
-    </message>
-    <message>
-        <source>Replace</source>
-        <translation type="obsolete">Замена</translation>
-    </message>
-    <message>
-        <source>Insert after current track</source>
-        <translation type="obsolete">Вставить после текущей дорожки</translation>
-    </message>
-    <message>
-        <source>Append to end</source>
-        <translation type="obsolete">Добавить в конец</translation>
-    </message>
-    <message>
-        <source>Continue playing current track</source>
-        <translation type="obsolete">Продолжить воспроизведение текущей дорожки</translation>
-    </message>
-    <message>
-        <source>Play first track</source>
-        <translation type="obsolete">Воспроизвести первую дорожку</translation>
-    </message>
-    <message>
-        <source>Play first new track</source>
-        <translation type="obsolete">Воспроизвести первую новую дорожку</translation>
-    </message>
-    <message>
-        <source>Remove Duplicates</source>
-        <translation type="obsolete">Удалить дупликаты</translation>
-    </message>
-</context>
-<context>
     <name>PlayerSettings</name>
     <message>
         <location filename="../mythmusic/playersettings.cpp" line="46"/>
@@ -1605,10 +1137,6 @@ Do you want to continue playing in the background?</source>
         <location filename="../mythmusic/playersettings.cpp" line="63"/>
         <source>Resume playback at either the beginning of the active play queue, the beginning of the last track, or an exact point within the last track.</source>
         <translation>Продолжает воспроизведение или с начала активной очереди воспроизведения, или с последней воспроизведенной дорожки, или с запомненного места последней воспроизведенной дорожки.</translation>
-    </message>
-    <message>
-        <source>Resume playback at either the beginning of the active play queue, the beginning of the last track, an exact point within the last track.</source>
-        <translation type="obsolete">Продолжает воспроизведение или с начала активной очереди воспроизведения, или с последней воспроизведенной дорожки, или с запомненного места последней воспроизведенной дорожки.</translation>
     </message>
     <message>
         <location filename="../mythmusic/playersettings.cpp" line="66"/>
@@ -1734,14 +1262,6 @@ Do you want to continue playing in the background?</source>
         <translation>Внутренний декодер</translation>
     </message>
     <message>
-        <source>OSX Audio CD mount parser</source>
-        <translation type="obsolete">OSX Audio CD mount parser</translation>
-    </message>
-    <message>
-        <source>Windows CD parser</source>
-        <translation type="obsolete">Windows CD parser</translation>
-    </message>
-    <message>
         <location filename="../mythmusic/cddecoder.cpp" line="766"/>
         <source>Various Artists</source>
         <translation>Разные исполнители</translation>
@@ -1757,14 +1277,6 @@ Do you want to continue playing in the background?</source>
         <translation>Парсер Audio CD</translation>
     </message>
     <message>
-        <source>CD Audio decoder</source>
-        <translation type="obsolete">Декодер CD Audio</translation>
-    </message>
-    <message>
-        <source>Ogg Vorbis Audio</source>
-        <translation type="obsolete">Ogg Vorbis Audio</translation>
-    </message>
-    <message>
         <location filename="../mythmusic/cdrip.cpp" line="250"/>
         <source>Importing </source>
         <translation>Импортирование </translation>
@@ -1773,10 +1285,6 @@ Do you want to continue playing in the background?</source>
         <location filename="../mythmusic/cdrip.cpp" line="656"/>
         <source>Scanning CD. Please Wait ...</source>
         <translation>Сканируется CD. Подождите пожалуйста...</translation>
-    </message>
-    <message>
-        <source>The theme you are using does not contain the %1 element. Please contact the theme creator and ask if they could please update it.&lt;br&gt;&lt;br&gt;The next screen will be empty. Escape out of it to return to the menu.</source>
-        <translation type="obsolete">Тема которую вы используете не содержит элемент %1. Пожалуйста обратитесь к создателю темы.&lt;br&gt;&lt;br&gt;Следующий экран будет пустым. Выйдите в меню.</translation>
     </message>
     <message>
         <location filename="../mythmusic/musicplayer.cpp" line="1440"/>
@@ -1810,530 +1318,6 @@ Do you want to continue playing in the background?</source>
         <translation>Поиск обложек</translation>
     </message>
     <message>
-        <source>Directory to hold music</source>
-        <translation type="obsolete">Каталог для хранения музыки</translation>
-    </message>
-    <message>
-        <source>This directory must exist, and the user running MythMusic needs to have write permission to the directory.</source>
-        <translation type="obsolete">Этот каталог должен существовать, пользователь запускающий MythMusic должен иметь права на запись в этот каталог.</translation>
-    </message>
-    <message>
-        <source>Audio device</source>
-        <translation type="obsolete">Аудио устройство</translation>
-    </message>
-    <message>
-        <source>default</source>
-        <translation type="obsolete">по умолчанию</translation>
-    </message>
-    <message>
-        <source>Audio Device used for playback. &apos;default&apos; will use the device specified in MythTV</source>
-        <translation type="obsolete">Аудио устройство используемое для воспроизведения. &quot;по умолчанию&quot; будет использовать устройство заданное в MythTV</translation>
-    </message>
-    <message>
-        <source>Upconvert stereo to 5.1 surround</source>
-        <translation type="obsolete">Преобразовать стерео в окружающий звук 5.1</translation>
-    </message>
-    <message>
-        <source>MythTV can upconvert stereo tracks to 5.1 audio. Set this option to enable it by default. You can enable or disable the upconversion during playback at anytime.</source>
-        <translation type="obsolete">MythTV может преобразовать стерео в 5.1. Установите эту опцию, чтобы включить такое поведение по умолчанию. Вы можете включить или выключить преобразование во время воспроизведения.</translation>
-    </message>
-    <message>
-        <source>CD device</source>
-        <translation type="obsolete">Устройство CD</translation>
-    </message>
-    <message>
-        <source>CDRom device used for ripping/playback.</source>
-        <translation type="obsolete">Устройство CD используемое для импорта/воспроизведения.</translation>
-    </message>
-    <message>
-        <source>Tree Sorting</source>
-        <translation type="obsolete">Сортировка дерева</translation>
-    </message>
-    <message>
-        <source>Order in which to sort the Music Tree. Possible values are a space-separated list of genre, splitartist, splitartist1, artist, album, and title OR the keyword &quot;directory&quot; to indicate that the onscreen tree mirrors the filesystem.</source>
-        <translation type="obsolete">Порядок сортировки дерева музыки. Значением является разделенный пробелами список ключевых слов genre, splitartist, splitartist1, artist, album и title или одно слово directory, которое означает что дерево музыки будет содержать каталоги файловой системы.</translation>
-    </message>
-    <message>
-        <source>Script Path</source>
-        <translation type="obsolete">Путь к скрипту</translation>
-    </message>
-    <message>
-        <source>If present this script will be executed after a CD Rip is completed.</source>
-        <translation type="obsolete">Этот скрипт будет запущен после того как импорт CD завершится.</translation>
-    </message>
-    <message>
-        <source>Filename Format</source>
-        <translation type="obsolete">Формат имени файла</translation>
-    </message>
-    <message>
-        <source>Directory and filename Format used to grab information if no ID3 information is found. Accepts GENRE, ARTIST, ALBUM, TITLE, ARTIST_TITLE and TRACK_TITLE.</source>
-        <translation type="obsolete">Формат каталога и имени файла используемый для получения информ. о дорожке, если не найдена информ. в ID3 тегах. Доступно: GENRE, ARTIST, ALBUM, TITLE, ARTIST_TITLE и TRACK_TITLE.</translation>
-    </message>
-    <message>
-        <source>Ignore ID3 Tags</source>
-        <translation type="obsolete">Игнорировать теги ID3</translation>
-    </message>
-    <message>
-        <source>If set, MythMusic will skip checking ID3 tags in files and just try to determine Genre, Artist, Album, and Track number and title from the filename.</source>
-        <translation type="obsolete">Если установлено, MythMusic пропустит проверку тегов ID3 и попытается определить жанр, исполнителя, альбом, номер и название дорожки по имени файла.</translation>
-    </message>
-    <message>
-        <source>Allow metadata to be written to tags</source>
-        <translation type="obsolete">Разрешить запись метаданных в теги</translation>
-    </message>
-    <message>
-        <source>If set, MythMusic will be allowed to update the metadata in the file (e.g. ID3) to match the database. This means allowing MythTV to write to the file and permissions must be set accordingly. Features such as ID3 playcounts and ratings depend on this being enabled.</source>
-        <translation type="obsolete">Если установлено, MythMusic будет обновлять метаданные в файле (т.е. ID3) в соотвтсвии с базой данных. Это разрешает MythTV записывать в файл и права доступа должны быть установлены соответствущим образом. Возможности ID3 типа числа проигрываний и рейтинг зависят от того доступны ли они.</translation>
-    </message>
-    <message>
-        <source>Ignore Metadata Tags</source>
-        <translation type="obsolete">Игнорировать теги метаданных</translation>
-    </message>
-    <message>
-        <source>If set, MythMusic will skip checking the metadata tags in files (ID3 etc) and just try to determine Genre, Artist, Album, and Track number and title from the filename.</source>
-        <translation type="obsolete">Если установлено, MythMusic будет пропускать проверку теги метаданных в файлах (ID3 и т.п.) и попытается определить жанр, исполнителя, альбом, номер трека и название из имени файла.</translation>
-    </message>
-    <message>
-        <source>Tag Encoding</source>
-        <translation type="obsolete">Кодировка тегов</translation>
-    </message>
-    <message>
-        <source>UTF-16</source>
-        <translation type="obsolete">UTF-16</translation>
-    </message>
-    <message>
-        <source>UTF-8</source>
-        <translation type="obsolete">UTF-8</translation>
-    </message>
-    <message>
-        <source>ASCII</source>
-        <translation type="obsolete">ASCII</translation>
-    </message>
-    <message>
-        <source>Some mp3 players don&apos;t understand tags encoded in UTF8 or UTF16, this setting allows you to change the encoding format used. Currently applies only to ID3 tags.</source>
-        <translation type="obsolete">Некоторые mp3 плееры не понимают тегов в кодировках UTF8 и UTF16, эта настройка позволяет изменить используемую кодировку. Применяется только к тегам ID3.</translation>
-    </message>
-    <message>
-        <source>Automatically lookup CDs</source>
-        <translation type="obsolete">Автоматически распознавать CD</translation>
-    </message>
-    <message>
-        <source>Automatically lookup an audio CD if it is present and show its information in the Music Selection Tree.</source>
-        <translation type="obsolete">Автоматически распознавать аудио CD, если он присутствует, и показывать информацию о нем в дереве музыки.</translation>
-    </message>
-    <message>
-        <source>Automatically play CDs</source>
-        <translation type="obsolete">Автоматически воспроизводить CD</translation>
-    </message>
-    <message>
-        <source>Automatically put a new CD on the playlist and start playing the CD.</source>
-        <translation type="obsolete">Автоматически помещать новый CD в плейлист и начинать воспроизведение CD.</translation>
-    </message>
-    <message>
-        <source>Use Keyboard/Remote Accelerated Buttons</source>
-        <translation type="obsolete">Использовать Клавиатуру/ДУ</translation>
-    </message>
-    <message>
-        <source>If this is not set, you will need to use arrow keys to select and activate various functions.</source>
-        <translation type="obsolete">Если не установлено, вы должны будете использовать клавиши стрелок для выбора и активации различных функций.</translation>
-    </message>
-    <message>
-        <source>Encoding</source>
-        <translation type="obsolete">Кодер</translation>
-    </message>
-    <message>
-        <source>Ogg Vorbis</source>
-        <translation type="obsolete">Ogg Vorbis</translation>
-    </message>
-    <message>
-        <source>Lame (MP3)</source>
-        <translation type="obsolete">Lame (MP3)</translation>
-    </message>
-    <message>
-        <source>Audio encoder to use for CD ripping. Note that the quality level &apos;Perfect&apos; will use the FLAC encoder.</source>
-        <translation type="obsolete">Аудио кодер используется при импорте CD. Обратите внимание, что при выборе качества &quot;Отличное&quot; будет использоваться кодер FLAC.</translation>
-    </message>
-    <message>
-        <source>Default Rip Quality</source>
-        <translation type="obsolete">Качество импорта по умолчанию</translation>
-    </message>
-    <message>
-        <source>Low</source>
-        <translation type="obsolete">Низкое</translation>
-    </message>
-    <message>
-        <source>Medium</source>
-        <translation type="obsolete">Среднее</translation>
-    </message>
-    <message>
-        <source>High</source>
-        <translation type="obsolete">Высокое</translation>
-    </message>
-    <message>
-        <source>Perfect</source>
-        <translation type="obsolete">Отличное</translation>
-    </message>
-    <message>
-        <source>Default quality for new CD rips.</source>
-        <translation type="obsolete">Качество по умолчанию для нового импорта CD.</translation>
-    </message>
-    <message>
-        <source>Use variable bitrates</source>
-        <translation type="obsolete">Использовать переменный битрейт</translation>
-    </message>
-    <message>
-        <source>If set, the MP3 encoder will use variable bitrates (VBR) except for the low quality setting. The Ogg encoder will always use variable bitrates.</source>
-        <translation type="obsolete">Если установлено, то кодер MP3 будет использовать переменный битрейт, за исключением низкого качества. Кодер Ogg использует переменный битрейт в любом случае.</translation>
-    </message>
-    <message>
-        <source>File storage location</source>
-        <translation type="obsolete">Место хранения файлов</translation>
-    </message>
-    <message>
-        <source>Defines the location/name for new songs. Valid tokens are: GENRE, ARTIST, ALBUM, TRACK, TITLE, YEAR</source>
-        <translation type="obsolete">Задает расположение/название для новых песен. Допустимые токены: GENRE, ARTIST, ALBUM, TRACK, TITLE, YEAR</translation>
-    </message>
-    <message>
-        <source>Replace &apos; &apos; with &apos;_&apos;</source>
-        <translation type="obsolete">Заменять &apos; &apos; на &apos;_&apos;</translation>
-    </message>
-    <message>
-        <source>If set, whitespace characters in filenames will be replaced with underscore characters.</source>
-        <translation type="obsolete">Если установлено, символы пробела в именах файлов будут заменены на символ подчеркивания.</translation>
-    </message>
-    <message>
-        <source>Paranoia Level</source>
-        <translation type="obsolete">Уровень &quot;паранойи&quot;</translation>
-    </message>
-    <message>
-        <source>Full</source>
-        <translation type="obsolete">Полный</translation>
-    </message>
-    <message>
-        <source>Faster</source>
-        <translation type="obsolete">Быстрый</translation>
-    </message>
-    <message>
-        <source>Paranoia level of the CD ripper. Set to faster if you&apos;re not concerned about possible errors in the audio.</source>
-        <translation type="obsolete">Уровень &quot;паранойи&quot; при импорте CD. Установите &quot;Быстрый&quot;, если не беспокоитесь о возможных ошибках в аудио.</translation>
-    </message>
-    <message>
-        <source>Automatically eject CDs after ripping</source>
-        <translation type="obsolete">Автоматически извлекать CD после импорта</translation>
-    </message>
-    <message>
-        <source>If set, the CD tray will automatically open after the CD has been ripped.</source>
-        <translation type="obsolete">Если установлено, CD будет автоматически извлечен по окончании импорта.</translation>
-    </message>
-    <message>
-        <source>Rating Weight</source>
-        <translation type="obsolete">Вес рейтинга</translation>
-    </message>
-    <message>
-        <source>Used in &quot;Smart&quot; Shuffle mode. This weighting affects how much strength is given to your rating of a given track when ordering a group of songs.</source>
-        <translation type="obsolete">Используется в &quot;умном&quot; режиме вперемешку. Этот вес определяет сколько веса дается рейтингу дорожки, при определения порядка сортировки группы песен.</translation>
-    </message>
-    <message>
-        <source>Play Count Weight</source>
-        <translation type="obsolete">Вес числа воспроизведений</translation>
-    </message>
-    <message>
-        <source>Used in &quot;Smart&quot; Shuffle mode. This weighting affects how much strength is given to how many times a given track has been played when ordering a group of songs.</source>
-        <translation type="obsolete">Используется в &quot;умном&quot; режиме вперемешку. Этот вес определяет сколько веса дается числу воспроизведений дорожки, при определения порядка сортировки группы песен.</translation>
-    </message>
-    <message>
-        <source>Last Play Weight</source>
-        <translation type="obsolete">Вес последней воспроизведенной</translation>
-    </message>
-    <message>
-        <source>Used in &quot;Smart&quot; Shuffle mode. This weighting affects how much strength is given to how long it has been since a given track was played when ordering a group of songs.</source>
-        <translation type="obsolete">Используется в &quot;умном&quot; режиме вперемешку. Этот вес определяет сколько веса дается времени последнего воспроизведения, при определения порядка сортировки группы песен.</translation>
-    </message>
-    <message>
-        <source>Random Weight</source>
-        <translation type="obsolete">Вес случайности</translation>
-    </message>
-    <message>
-        <source>Used in &quot;Smart&quot; Shuffle mode. This weighting affects how much strength is given to good old (peudo-)randomness when ordering a group of songs.</source>
-        <translation type="obsolete">Используется в &quot;умном&quot; режиме вперемешку. Этот вес определяет сколько веса дается случайности, при определения порядка сортировки группы песен.</translation>
-    </message>
-    <message>
-        <source>Maximum Search Results</source>
-        <translation type="obsolete">Максимум результатов поиска</translation>
-    </message>
-    <message>
-        <source>Used to limit the number of results returned when using the search feature.</source>
-        <translation type="obsolete">Используется чтобы ограничить число дорожек возвращаемых при поиске.</translation>
-    </message>
-    <message>
-        <source>Number of Artists Tree Groups</source>
-        <translation type="obsolete">Число групп исполнителей в дереве музыки</translation>
-    </message>
-    <message>
-        <source>Few</source>
-        <translation type="obsolete">Мало</translation>
-    </message>
-    <message>
-        <source>Average</source>
-        <translation type="obsolete">Средне</translation>
-    </message>
-    <message>
-        <source>Many</source>
-        <translation type="obsolete">Много</translation>
-    </message>
-    <message>
-        <source>Determines how many groups we have in the artist tree.  Few gives &apos;A B C D&apos; as per the old behaviour, average gives two letters per group, many gives one letter per group.</source>
-        <translation type="obsolete">Определяет число групп отображаемых в дереве исполнителей.  &quot;Мало&quot; дает &apos;A B C D&apos;, &quot;Средне&quot; дает две буквы на группу, &quot;Много&quot; дает по группе на букву.</translation>
-    </message>
-    <message>
-        <source>Show Song Ratings</source>
-        <translation type="obsolete">Показывать рейтинг песни</translation>
-    </message>
-    <message>
-        <source>Show song ratings on the playback screen.</source>
-        <translation type="obsolete">Показывает рейтинг песни на экране воспроизведения.</translation>
-    </message>
-    <message>
-        <source>List as Shuffled</source>
-        <translation type="obsolete">Список вперемешку</translation>
-    </message>
-    <message>
-        <source>List songs on the playback screen in the order they will be played.</source>
-        <translation type="obsolete">Выводить песни на экране воспроизведения в том порядке, в каком они будут воспроизведены.</translation>
-    </message>
-    <message>
-        <source>Show entire music tree</source>
-        <translation type="obsolete">Показывать полное дерево музыки</translation>
-    </message>
-    <message>
-        <source>If selected, you can navigate your entire music tree from the playing screen. N.B. Does not work with accelerated buttons disabled</source>
-        <translation type="obsolete">Если выбрано, вы можете перемещаться по полному дереву музыки с экрана воспроизведения. Не работает если отключено управление с клавиатуры или ДУ</translation>
-    </message>
-    <message>
-        <source>Play mode</source>
-        <translation type="obsolete">Режим воспроизведения</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="obsolete">Нормально</translation>
-    </message>
-    <message>
-        <source>Random</source>
-        <translation type="obsolete">Случайно</translation>
-    </message>
-    <message>
-        <source>Intelligent</source>
-        <translation type="obsolete">Умный</translation>
-    </message>
-    <message>
-        <source>Album</source>
-        <translation type="obsolete">Альбом</translation>
-    </message>
-    <message>
-        <source>Starting shuffle mode for the player.  Can be either normal, random, intelligent (random), or Album.</source>
-        <translation type="obsolete">Включает режим воспроизведения вперемешку.  Может быть нормальным, случайным, умным или альбом.</translation>
-    </message>
-    <message>
-        <source>Resume mode</source>
-        <translation type="obsolete">Режим продолжения</translation>
-    </message>
-    <message>
-        <source>Off</source>
-        <translation type="obsolete">Выкл</translation>
-    </message>
-    <message>
-        <source>Track</source>
-        <translation type="obsolete">Дорожка</translation>
-    </message>
-    <message>
-        <source>Exact</source>
-        <translation type="obsolete">Место</translation>
-    </message>
-    <message>
-        <source>Resume playback at either the beginning of the active play queue, the beginning of the last track, an exact point within the last track.</source>
-        <translation type="obsolete">Продолжает воспроизведение или с начала активной очереди воспроизведения, или с последней воспроизведенной дорожки, или с запомненного места последней воспроизведенной дорожки.</translation>
-    </message>
-    <message>
-        <source>Action on exit</source>
-        <translation type="obsolete">Действие при выходе</translation>
-    </message>
-    <message>
-        <source>Prompt</source>
-        <translation type="obsolete">Запрос</translation>
-    </message>
-    <message>
-        <source>Stop Playing</source>
-        <translation type="obsolete">Остановить воспроизведение</translation>
-    </message>
-    <message>
-        <source>Keep Playing</source>
-        <translation type="obsolete">Продолжить воспроизведение</translation>
-    </message>
-    <message>
-        <source>Specify what action to take when exiting mythmusic plugin.</source>
-        <translation type="obsolete">Выберите какое действие будет выполняться при выходе из mythmusic.</translation>
-    </message>
-    <message>
-        <source>Delay before Visualizations start (seconds)</source>
-        <translation type="obsolete">Задержка перед началом визуализации (секунд)</translation>
-    </message>
-    <message>
-        <source>If set to 0, visualizations will never automatically start.</source>
-        <translation type="obsolete">Если установлено в 0, визуализация никогда не будет стартовать автоматически.</translation>
-    </message>
-    <message>
-        <source>Change Visualizer on each song</source>
-        <translation type="obsolete">Изменять визуализацию для каждой песни</translation>
-    </message>
-    <message>
-        <source>Change the visualizer when the song changes.</source>
-        <translation type="obsolete">Изменять визуализацию при смене песни.</translation>
-    </message>
-    <message>
-        <source>Show Album Art at the start of each song</source>
-        <translation type="obsolete">Показывать обложку в начале каждой песни</translation>
-    </message>
-    <message>
-        <source>When the song changes and the new song has an album art image display it in the visualizer for a short period.</source>
-        <translation type="obsolete">При смене песни, в случае если песня имеет обложку, то она на короткое время отображается в визуализаторе.</translation>
-    </message>
-    <message>
-        <source>Randomize Visualizer order</source>
-        <translation type="obsolete">Случайны порядок визуализаций</translation>
-    </message>
-    <message>
-        <source>On changing the visualizer pick a new one at random.</source>
-        <translation type="obsolete">При изменении визуализации выбирать следующую случайным образом.</translation>
-    </message>
-    <message>
-        <source>Width for Visual Scaling</source>
-        <translation type="obsolete">Ширина для масштабирования</translation>
-    </message>
-    <message>
-        <source>If set to &quot;2&quot;, visualizations will be scaled in half.  Currently only used by the goom visualization.  Reduces CPU load on slower machines.</source>
-        <translation type="obsolete">Если установлено в 2, визуализация будет уменьшена наполовину.  Сейчас используется только визуализацией goom.  Уменьшает загрузку CPU на медленных машинах.</translation>
-    </message>
-    <message>
-        <source>Height for Visual Scaling</source>
-        <translation type="obsolete">Высота для масштабирования</translation>
-    </message>
-    <message>
-        <source>Visualizations</source>
-        <translation type="obsolete">Визуализации</translation>
-    </message>
-    <message>
-        <source>List of visualizations to use during playback. Click the button below to edit this list</source>
-        <translation type="obsolete">Список визуализаций для использования во время воспроизведения. Щелкните на следующей кнопке, чтобы изменить этот список</translation>
-    </message>
-    <message>
-        <source>Edit Visualizations</source>
-        <translation type="obsolete">Изменить визуализации</translation>
-    </message>
-    <message>
-        <source>Edit the list of visualizations to use during playback.</source>
-        <translation type="obsolete">Измените список визуализаций, используемых во время воспроизведения.</translation>
-    </message>
-    <message>
-        <source>Enable CD Writing.</source>
-        <translation type="obsolete">Включить запись CD.</translation>
-    </message>
-    <message>
-        <source>Requires a SCSI or an IDE-SCSI CD Writer.</source>
-        <translation type="obsolete">Необходим SCSI или IDE-SCSI привод CD-R(W).</translation>
-    </message>
-    <message>
-        <source>CD-Writer Device</source>
-        <translation type="obsolete">Устройство CD-R(W)</translation>
-    </message>
-    <message>
-        <source>Select the SCSI or IDE Device for CD Writing.</source>
-        <translation type="obsolete">Выберите устройство SCSI или IDE для записи CD.</translation>
-    </message>
-    <message>
-        <source> &apos;default&apos; will let the MediaMonitor choose a device.</source>
-        <translation type="obsolete"> &apos;default&apos; позволяет выбрать устройство MediaMonitor.</translation>
-    </message>
-    <message>
-        <source>Disk Size</source>
-        <translation type="obsolete">Размер диска</translation>
-    </message>
-    <message>
-        <source>650MB/75min</source>
-        <translation type="obsolete">650МБ/74мин</translation>
-    </message>
-    <message>
-        <source>700MB/80min</source>
-        <translation type="obsolete">700МБ/80мин</translation>
-    </message>
-    <message>
-        <source>Default CD Capacity.</source>
-        <translation type="obsolete">Емкость CD по умолчанию.</translation>
-    </message>
-    <message>
-        <source>Enable directories on MP3 Creation</source>
-        <translation type="obsolete">Включить каталоги при создании MP3</translation>
-    </message>
-    <message>
-        <source>CD Write Speed</source>
-        <translation type="obsolete">Скорость записи CD</translation>
-    </message>
-    <message>
-        <source>Auto</source>
-        <translation type="obsolete">Авто</translation>
-    </message>
-    <message>
-        <source>CD Writer speed. Auto will use the recomended speed.</source>
-        <translation type="obsolete">Скорость привода CD-R(W). &quot;Авто&quot; будет использовать рекомендованную скорость.</translation>
-    </message>
-    <message>
-        <source>CD Blanking Type</source>
-        <translation type="obsolete">Тип очистки CD</translation>
-    </message>
-    <message>
-        <source>Fast</source>
-        <translation type="obsolete">Быстрая</translation>
-    </message>
-    <message>
-        <source>Complete</source>
-        <translation type="obsolete">Полная</translation>
-    </message>
-    <message>
-        <source>Blanking Method. Fast takes 1 minute. Complete can take up to 20 minutes.</source>
-        <translation type="obsolete">Метод очистки. Быстрая занимает одну минуту. Полная может занять до 20 минут.</translation>
-    </message>
-    <message>
-        <source>General Settings (1)</source>
-        <translation type="obsolete">Общие настройки (1)</translation>
-    </message>
-    <message>
-        <source>General Settings (2)</source>
-        <translation type="obsolete">Общие настройки (2)</translation>
-    </message>
-    <message>
-        <source>CD Recording Settings</source>
-        <translation type="obsolete">Настройки записи CD</translation>
-    </message>
-    <message>
-        <source>Playback Settings</source>
-        <translation type="obsolete">Настройки воспроизведения</translation>
-    </message>
-    <message>
-        <source>Playback Settings (2)</source>
-        <translation type="obsolete">Настройки воспроизведения (2)</translation>
-    </message>
-    <message>
-        <source>Visualization Settings</source>
-        <translation type="obsolete">Настойки визуализации</translation>
-    </message>
-    <message>
-        <source>CD Ripper Settings</source>
-        <translation type="obsolete">Настройки импорта CD</translation>
-    </message>
-    <message>
-        <source>CD Ripper Settings (part 2)</source>
-        <translation type="obsolete">Настройки импорта CD (2)</translation>
-    </message>
-    <message>
         <location filename="../mythmusic/metadata.cpp" line="1575"/>
         <source>Rebuilding music tree</source>
         <translation>Обновить дерево музыки</translation>
@@ -2354,38 +1338,9 @@ Do you want to continue playing in the background?</source>
         <translation>Неизвестный жанр</translation>
     </message>
     <message>
-        <source>Unknown Title</source>
-        <translation type="obsolete">Неизвестный исполнитель</translation>
-    </message>
-    <message>
-        <source>%1  by  %2</source>
-        <comment>Music track &apos;title by artist&apos;</comment>
-        <translation type="obsolete">%1  от  %2</translation>
-    </message>
-    <message>
         <location filename="../mythmusic/metadata.cpp" line="1193"/>
         <source>CD -- none</source>
         <translation>CD -- нет</translation>
-    </message>
-    <message>
-        <source>All My Music</source>
-        <translation type="obsolete">Вся моя музыка</translation>
-    </message>
-    <message>
-        <source>title</source>
-        <translation type="obsolete">название</translation>
-    </message>
-    <message>
-        <source>Missing database entry: %1</source>
-        <translation type="obsolete">Отсутвует элемент базы данных: %1</translation>
-    </message>
-    <message>
-        <source>Ooops</source>
-        <translation type="obsolete">Упс</translation>
-    </message>
-    <message>
-        <source>%1 - %2</source>
-        <translation type="obsolete">%1 - %2</translation>
     </message>
     <message>
         <location filename="../mythmusic/metadata.cpp" line="723"/>
@@ -2418,14 +1373,6 @@ Do you want to continue playing in the background?</source>
         <translation>обложка</translation>
     </message>
     <message>
-        <source>Loading Music</source>
-        <translation type="obsolete">Загрузка музыки</translation>
-    </message>
-    <message>
-        <source>Not Initialized</source>
-        <translation type="obsolete">Не инициализировано</translation>
-    </message>
-    <message>
         <location filename="../mythmusic/playlist.cpp" line="139"/>
         <source>oops</source>
         <translation>упс</translation>
@@ -2441,33 +1388,9 @@ Do you want to continue playing in the background?</source>
         <translation>Записать CD</translation>
     </message>
     <message>
-        <source>All My Playlists</source>
-        <translation type="obsolete">Все мои плейлисты</translation>
-    </message>
-    <message>
-        <source>Active Play Queue</source>
-        <translation type="obsolete">Активная очередь воспроизведения</translation>
-    </message>
-    <message>
-        <source>Active Play Queue (%1)</source>
-        <translation type="obsolete">Активная очередь воспроизведения (%1)</translation>
-    </message>
-    <message>
         <location filename="../mythmusic/playlistcontainer.cpp" line="351"/>
         <source>Something is Wrong</source>
         <translation>Что-то не в порядке</translation>
-    </message>
-    <message>
-        <source>Artists</source>
-        <translation type="obsolete">Исполнители</translation>
-    </message>
-    <message>
-        <source>Visualization requires FFT library</source>
-        <translation type="obsolete">Визуализация требует библиотеки FFT</translation>
-    </message>
-    <message>
-        <source>Did you run configure?</source>
-        <translation type="obsolete">Вы запустили настройку?</translation>
     </message>
     <message>
         <location filename="../mythmusic/visualize.cpp" line="1366"/>
@@ -2545,10 +1468,6 @@ Check the URL is correct.</source>
 <context>
     <name>RipStatus</name>
     <message>
-        <source>Are you sure you want to cancel ripping the CD?</source>
-        <translation type="obsolete">Вы уверены что хотите прервать импорт CD?</translation>
-    </message>
-    <message>
         <location filename="../mythmusic/cdrip.cpp" line="1465"/>
         <source>Cancel ripping the CD?</source>
         <translation>Прервать импорт CD?</translation>
@@ -2582,20 +1501,6 @@ Do you have write permissions for the music directory?</source>
         <location filename="../mythmusic/cdrip.cpp" line="614"/>
         <source>Perfect</source>
         <translation>Отличное</translation>
-    </message>
-    <message>
-        <source>Artist: %1
-Album: %2
-Track: %3
-
-This track is already in the database. 
-Do you want to remove the existing track?</source>
-        <translation type="obsolete">Исполнитель: %1
-Альбом: %2
-Дрожка: %3
-
-Эта дорожка уже в базе данных. 
-Хотите удалить сущесвующую дорожку?</translation>
     </message>
     <message>
         <location filename="../mythmusic/cdrip.cpp" line="1026"/>
@@ -2648,25 +1553,6 @@ Do you want to permanently delete the existing file(s)?</source>
         <location filename="../mythmusic/cdrip.cpp" line="1336"/>
         <source>Yes, Delete All</source>
         <translation>Да, удалить все</translation>
-    </message>
-</context>
-<context>
-    <name>SearchDialog</name>
-    <message>
-        <source>Search Music Database</source>
-        <translation type="obsolete">Поиск в базе данных</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation type="obsolete">ОК</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Отмена</translation>
-    </message>
-    <message>
-        <source>Search Music Database (%1 matches)</source>
-        <translation type="obsolete">Поиск в базе данных (%1 совпадений)</translation>
     </message>
 </context>
 <context>
@@ -2737,66 +1623,7 @@ Do you want to permanently delete the existing file(s)?</source>
     </message>
 </context>
 <context>
-    <name>SmartPLCriteriaRow</name>
-    <message>
-        <source>Select an Artist</source>
-        <translation type="obsolete">Выбрать исполнителя</translation>
-    </message>
-    <message>
-        <source>Select a Compilation Artist</source>
-        <translation type="obsolete">Выбрать исполнителя сборника</translation>
-    </message>
-    <message>
-        <source>Select an Album</source>
-        <translation type="obsolete">Выбрать альбом</translation>
-    </message>
-    <message>
-        <source>Select a Genre</source>
-        <translation type="obsolete">Выбрать жанр</translation>
-    </message>
-    <message>
-        <source>Select a Title</source>
-        <translation type="obsolete">Выбрать название</translation>
-    </message>
-</context>
-<context>
     <name>SmartPLDateDialog</name>
-    <message>
-        <source>Edit Date</source>
-        <translation type="obsolete">Изменить дату</translation>
-    </message>
-    <message>
-        <source>Fixed Date</source>
-        <translation type="obsolete">Фиксированная дата</translation>
-    </message>
-    <message>
-        <source>Day</source>
-        <translation type="obsolete">День</translation>
-    </message>
-    <message>
-        <source>Month</source>
-        <translation type="obsolete">Месяц</translation>
-    </message>
-    <message>
-        <source>Year</source>
-        <translation type="obsolete">Год</translation>
-    </message>
-    <message>
-        <source>Use Current Date</source>
-        <translation type="obsolete">Использовать текущую дату</translation>
-    </message>
-    <message>
-        <source>+/- Days</source>
-        <translation type="obsolete">+/- Дней</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation type="obsolete">ОК</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Отмена</translation>
-    </message>
     <message>
         <location filename="../mythmusic/smartplaylist.cpp" line="2588"/>
         <source>Invalid Date</source>
@@ -2804,106 +1631,7 @@ Do you want to permanently delete the existing file(s)?</source>
     </message>
 </context>
 <context>
-    <name>SmartPLOrderByDialog</name>
-    <message>
-        <source>Order By Fields</source>
-        <translation type="obsolete">Сортировать по полям</translation>
-    </message>
-    <message>
-        <source>1 Add</source>
-        <translation type="obsolete">1 Добавить</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">Добавить</translation>
-    </message>
-    <message>
-        <source>2 Delete</source>
-        <translation type="obsolete">2 Удалить</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="obsolete">Удалить</translation>
-    </message>
-    <message>
-        <source>3 Move Up</source>
-        <translation type="obsolete">3 Вверх</translation>
-    </message>
-    <message>
-        <source>Move Up</source>
-        <translation type="obsolete">Вверх</translation>
-    </message>
-    <message>
-        <source>4 Move Down</source>
-        <translation type="obsolete">4 Вниз</translation>
-    </message>
-    <message>
-        <source>Move Down</source>
-        <translation type="obsolete">Вниз</translation>
-    </message>
-    <message>
-        <source>5 Ascending</source>
-        <translation type="obsolete">5 По возрастанию</translation>
-    </message>
-    <message>
-        <source>Ascending</source>
-        <translation type="obsolete">По возрастанию</translation>
-    </message>
-    <message>
-        <source>6 Descending</source>
-        <translation type="obsolete">6 По убыванию</translation>
-    </message>
-    <message>
-        <source>Descending</source>
-        <translation type="obsolete">По убыванию</translation>
-    </message>
-    <message>
-        <source>7 OK</source>
-        <translation type="obsolete">7 ОК</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation type="obsolete">OK</translation>
-    </message>
-</context>
-<context>
     <name>SmartPLResultViewer</name>
-    <message>
-        <source>Smart Playlist Result Viewer</source>
-        <translation type="obsolete">Результаты применения умного плейлиста</translation>
-    </message>
-    <message>
-        <source>ID</source>
-        <translation type="obsolete">ID</translation>
-    </message>
-    <message>
-        <source>Artist</source>
-        <translation type="obsolete">Исполнитель</translation>
-    </message>
-    <message>
-        <source>Album</source>
-        <translation type="obsolete">Альбом</translation>
-    </message>
-    <message>
-        <source>Title</source>
-        <translation type="obsolete">Название</translation>
-    </message>
-    <message>
-        <source>Genre</source>
-        <translation type="obsolete">Жанр</translation>
-    </message>
-    <message>
-        <source>Year</source>
-        <translation type="obsolete">Год</translation>
-    </message>
-    <message>
-        <source>Track No.</source>
-        <translation type="obsolete">№ дор.</translation>
-    </message>
-    <message>
-        <source>Exit</source>
-        <translation type="obsolete">Выход</translation>
-    </message>
     <message>
         <location filename="../mythmusic/smartplaylist.cpp" line="1785"/>
         <source>%1 of %2</source>
@@ -2966,22 +1694,6 @@ Do you want to permanently delete the existing file(s)?</source>
 <context>
     <name>SmartPlaylistEditor</name>
     <message>
-        <source>Smart Playlist Editor</source>
-        <translation type="obsolete">Редактор умного плейлиста</translation>
-    </message>
-    <message>
-        <source>Category:</source>
-        <translation type="obsolete">Категория:</translation>
-    </message>
-    <message>
-        <source>Title:</source>
-        <translation type="obsolete">Название:</translation>
-    </message>
-    <message>
-        <source>Match</source>
-        <translation type="obsolete">Сравнение с</translation>
-    </message>
-    <message>
         <location filename="../mythmusic/smartplaylist.cpp" line="427"/>
         <location filename="../mythmusic/smartplaylist.cpp" line="766"/>
         <location filename="../mythmusic/smartplaylist.cpp" line="872"/>
@@ -2996,38 +1708,10 @@ Do you want to permanently delete the existing file(s)?</source>
         <translation>Любым</translation>
     </message>
     <message>
-        <source>Of The Following Conditions</source>
-        <translation type="obsolete">из следующих условий</translation>
-    </message>
-    <message>
-        <source>Order By:</source>
-        <translation type="obsolete">Сортировать по:</translation>
-    </message>
-    <message>
-        <source>Matches:</source>
-        <translation type="obsolete">Совпадений:</translation>
-    </message>
-    <message>
-        <source>Limit:</source>
-        <translation type="obsolete">Ограничение:</translation>
-    </message>
-    <message>
         <location filename="../mythmusic/smartplaylist.cpp" line="690"/>
         <location filename="../mythmusic/smartplaylist.cpp" line="721"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation type="obsolete">Сохранить</translation>
-    </message>
-    <message>
-        <source>Show Results</source>
-        <translation type="obsolete">Показать результаты</translation>
-    </message>
-    <message>
-        <source>Smart Playlist Categories</source>
-        <translation type="obsolete">Категории умных плейлистов</translation>
     </message>
     <message>
         <location filename="../mythmusic/smartplaylist.cpp" line="503"/>
@@ -3412,21 +2096,9 @@ Do you want to permanently delete the existing file(s)?</source>
         <translation>Кодировать дорожку</translation>
     </message>
     <message>
-        <source>Edit Playlist</source>
-        <translation type="obsolete">Изменить плейлист</translation>
-    </message>
-    <message>
         <location filename="themestrings.h" line="207"/>
         <source>Play Music</source>
         <translation>Воспроизвести музыку</translation>
-    </message>
-    <message>
-        <source>Edit Metadata</source>
-        <translation type="obsolete">Изменить метаданные</translation>
-    </message>
-    <message>
-        <source>Edit AlbumArt</source>
-        <translation type="obsolete">Изменить обложку</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="169"/>
@@ -3439,29 +2111,9 @@ Do you want to permanently delete the existing file(s)?</source>
         <translation>Импортирование CD</translation>
     </message>
     <message>
-        <source>Directory Finder</source>
-        <translation type="obsolete">Directory Finder</translation>
-    </message>
-    <message>
         <location filename="themestrings.h" line="124"/>
         <source>Import Cover Art</source>
         <translation>Импортировать обложку</translation>
-    </message>
-    <message>
-        <source>/some/file/goes/here/test.mp3</source>
-        <translation type="obsolete">/some/file/goes/here/test.mp3</translation>
-    </message>
-    <message>
-        <source>123 of 345</source>
-        <translation type="obsolete">123 из 345</translation>
-    </message>
-    <message>
-        <source>All ready in database</source>
-        <translation type="obsolete">Уже в базе данных</translation>
-    </message>
-    <message>
-        <source>%1%</source>
-        <translation type="obsolete">%1%</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="8"/>
@@ -4202,45 +2854,6 @@ Do you want to permanently delete the existing file(s)?</source>
         <location filename="../mythmusic/visualizationsettings.cpp" line="63"/>
         <source>Save settings and Exit</source>
         <translation>Сохранить настройки и выйти</translation>
-    </message>
-</context>
-<context>
-    <name>VisualizationsEditor</name>
-    <message>
-        <source>Visualizations</source>
-        <translation type="obsolete">Визуализации</translation>
-    </message>
-    <message>
-        <source>Selected Visualizations</source>
-        <translation type="obsolete">Выбранные визуализации</translation>
-    </message>
-    <message>
-        <source>Available Visualizations</source>
-        <translation type="obsolete">Доступные визуализации</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="obsolete">Название</translation>
-    </message>
-    <message>
-        <source>Provider</source>
-        <translation type="obsolete">Поставщик</translation>
-    </message>
-    <message>
-        <source>Move Up</source>
-        <translation type="obsolete">Вверх</translation>
-    </message>
-    <message>
-        <source>Move Down</source>
-        <translation type="obsolete">Вниз</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation type="obsolete">ОК</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Отмена</translation>
     </message>
 </context>
 <context>
