@@ -80,10 +80,6 @@
         <translation>Импорт</translation>
     </message>
     <message>
-        <source>Settings</source>
-        <translation type="obsolete">Настройки</translation>
-    </message>
-    <message>
         <location filename="../mythgallery/iconview.cpp" line="196"/>
         <source>No images found in this directory.</source>
         <translation>Изображения в этом каталоге не найдены.</translation>
@@ -107,18 +103,6 @@
         <location filename="../mythgallery/iconview.cpp" line="895"/>
         <source>Random</source>
         <translation>Случайно</translation>
-    </message>
-    <message>
-        <source>Meta Data Menu</source>
-        <translation type="obsolete">Меню Метаданные</translation>
-    </message>
-    <message>
-        <source>Marking Menu</source>
-        <translation type="obsolete">Меню Пометка</translation>
-    </message>
-    <message>
-        <source>File Menu</source>
-        <translation type="obsolete">Меню Файл</translation>
     </message>
     <message>
         <location filename="../mythgallery/iconview.cpp" line="925"/>
@@ -496,14 +480,6 @@
         <translation>Тип OpenGL перехода между изображениями используемый в режиме показа слайдов.</translation>
     </message>
     <message>
-        <source>Command run to display movie files</source>
-        <translation type="obsolete">Команда показа фильмов</translation>
-    </message>
-    <message>
-        <source>This command is executed whenever a movie file is selected</source>
-        <translation type="obsolete">Эта команда выполняется когда выбран файл фильма</translation>
-    </message>
-    <message>
         <location filename="../mythgallery/gallerysettings.cpp" line="55"/>
         <source>Store thumbnails in image directory</source>
         <translation>Сохранять значки в каталоге изображений</translation>
@@ -542,10 +518,6 @@
         <location filename="../mythgallery/gallerysettings.cpp" line="18"/>
         <source>Directory filter</source>
         <translation>Фильтр каталогов</translation>
-    </message>
-    <message>
-        <source>Enter direcory names to be excluded in browser. (multiple entries delimited with &apos;:&apos;)</source>
-        <translation type="obsolete">Введите имена каталогов, которые должны быть исключены из просмотра. (несколько имен разделяются &apos;:&apos;)</translation>
     </message>
     <message>
         <location filename="../mythgallery/gallerysettings.cpp" line="29"/>
@@ -752,6 +724,11 @@ Check the directory exists, is readable and the setting is correct on MythGaller
         <location filename="themestrings.h" line="12"/>
         <source>Filter/sort images</source>
         <translation>Фильтрация/сортировка изображений</translation>
+    </message>
+    <message>
+        <location filename="themestrings.h" line="13"/>
+        <source>Directory filter:</source>
+        <translation type="unfinished">Фильтр каталогов:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="14"/>

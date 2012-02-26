@@ -17,14 +17,6 @@
         <translation>Искать</translation>
     </message>
     <message>
-        <source>Searching ...</source>
-        <translation type="obsolete">Поиск ...</translation>
-    </message>
-    <message>
-        <source>Searching ... Results: %1</source>
-        <translation type="obsolete">Поиск ... Найдено: %1</translation>
-    </message>
-    <message>
         <location filename="../mythweather/weatherSetup.cpp" line="978"/>
         <source>Searching...</source>
         <translation>Поиск ...</translation>
@@ -226,10 +218,6 @@
         <location filename="../mythweather/sourceManager.cpp" line="92"/>
         <source>Searching for scripts</source>
         <translation>Поиск скриптов</translation>
-    </message>
-    <message>
-        <source>Script %1 is still running when trying to do update, Make sure it isn&apos;t hanging, make sure timeout values are sane... Not running this time around</source>
-        <translation type="obsolete">Скрипт %1 запущен и пытается обновить данные. Убедитесь что он работает и интервал обновления правильный ... Не запускайте еще раз</translation>
     </message>
 </context>
 <context>
@@ -1132,14 +1120,6 @@ When you have completed your changes, click &quot;Finish&quot; to continue.</sou
         <translation>Поиск местоположения</translation>
     </message>
     <message>
-        <source>Weather</source>
-        <translation type="obsolete">Погода</translation>
-    </message>
-    <message>
-        <source>Global Setup</source>
-        <translation type="obsolete">Глобальные настройки</translation>
-    </message>
-    <message>
         <location filename="themestrings.h" line="51"/>
         <source>Screen Setup</source>
         <translation>Настройка экранов</translation>
@@ -1188,6 +1168,11 @@ When you have completed your changes, click &quot;Finish&quot; to continue.</sou
         <location filename="themestrings.h" line="55"/>
         <source>100%</source>
         <translation>100%</translation>
+    </message>
+    <message>
+        <location filename="themestrings.h" line="56"/>
+        <source>Global Weather Settings</source>
+        <translation>Глобальные настройки погоды</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="57"/>
