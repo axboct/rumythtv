@@ -472,7 +472,11 @@
     <message>
         <location filename="../mythmusic/generalsettings.cpp" line="98"/>
         <source>If set, MythMusic will be allowed to update the metadata in the file (e.g. ID3) to match the database. This means allowing MythTV to write to the file and permissions must be set accordingly. Features such as ID3 playcounts and ratings depend on this being enabled.</source>
+<<<<<<< .mine
+        <translation>Если установлено, MythMusic будет обновлять метаданные в файле (т.е. ID3) в соответствии с базой данных. Это позволяет MythTV записывать в файл, права доступа должны быть установлены соответствующим образом. Возможности ID3 типа числа воспроизведений и рейтинг зависят от того доступны ли они.</translation>
+=======
         <translation>Если установлено, MythMusic будет обновлять метаданные в файле (т.е. ID3) в соответствии с базой данных. Это позволяет MythTV записывать в файл, права доступа должны быть установлены соответствующим образом. Возможности ID3 типа числа проигрываний и рейтинг зависят от того доступны ли они.</translation>
+>>>>>>> .r135
     </message>
     <message>
         <location filename="../mythmusic/generalsettings.cpp" line="104"/>
@@ -1150,7 +1154,7 @@ Do you want to continue playing in the background?</source>
         <location filename="../mythmusic/musiccommon.cpp" line="1228"/>
         <location filename="../mythmusic/musiccommon.cpp" line="2007"/>
         <source>Search List...</source>
-        <translation type="unfinished">Список поиска...</translation>
+        <translation>Поиск в списке...</translation>
     </message>
     <message>
         <location filename="../mythmusic/musiccommon.cpp" line="1235"/>
@@ -2519,17 +2523,17 @@ Check the URL is correct.</source>
     <message>
         <location filename="../mythmusic/ratingsettings.cpp" line="56"/>
         <source>Used in &quot;Smart&quot; Shuffle mode. This weighting affects how much strength is given to how many times a given track has been played when ordering a group of songs.</source>
-        <translation>Используется в &quot;умном&quot; режиме вперемешку. Этот вес определяет сколько веса дается числу воспроизведений дорожки, при определения порядка сортировки группы песен.</translation>
+        <translation>Используется в &quot;умном&quot; режиме перемешивания. Этот вес определяет сколько веса дается числу воспроизведений дорожки, при определения порядка сортировки группы песен.</translation>
     </message>
     <message>
         <location filename="../mythmusic/ratingsettings.cpp" line="60"/>
         <source>Used in &quot;Smart&quot; Shuffle mode. This weighting affects how much strength is given to how long it has been since a given track was played when ordering a group of songs.</source>
-        <translation>Используется в &quot;умном&quot; режиме вперемешку. Этот вес определяет сколько веса дается времени последнего воспроизведения, при определения порядка сортировки группы песен.</translation>
+        <translation>Используется в &quot;умном&quot; режиме перемешивания. Этот вес определяет сколько веса дается времени последнего воспроизведения, при определения порядка сортировки группы песен.</translation>
     </message>
     <message>
         <location filename="../mythmusic/ratingsettings.cpp" line="64"/>
         <source>Used in &quot;Smart&quot; Shuffle mode. This weighting affects how much strength is given to good old (peudo-)randomness when ordering a group of songs.</source>
-        <translation>Используется в &quot;умном&quot; режиме вперемешку. Этот вес определяет сколько веса дается случайности, при определения порядка сортировки группы песен.</translation>
+        <translation>Используется в &quot;умном&quot; режиме перемешивания. Этот вес определяет сколько веса дается случайности, при определения порядка сортировки группы песен.</translation>
     </message>
     <message>
         <location filename="../mythmusic/ratingsettings.cpp" line="68"/>
@@ -2718,7 +2722,7 @@ Do you want to permanently delete the existing file(s)?</source>
         <location filename="../mythmusic/searchview.cpp" line="200"/>
         <location filename="../mythmusic/searchview.cpp" line="294"/>
         <source>Search List...</source>
-        <translation type="unfinished">Список поиска...</translation>
+        <translation>Поиск в списке...</translation>
     </message>
     <message>
         <location filename="../mythmusic/searchview.cpp" line="273"/>
@@ -3532,7 +3536,7 @@ Do you want to permanently delete the existing file(s)?</source>
         <location filename="themestrings.h" line="158"/>
         <source>N/A</source>
         <oldsource>0%</oldsource>
-        <translation type="unfinished">Не доступно</translation>
+        <translation>Не доступно</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="156"/>
@@ -3737,12 +3741,12 @@ Do you want to permanently delete the existing file(s)?</source>
     <message>
         <location filename="themestrings.h" line="46"/>
         <source>Width for Visual Scaling:</source>
-        <translation type="unfinished">Ширина для масштабирования:</translation>
+        <translation>Ширина для масштабирования:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="47"/>
         <source>Height for Visual Scaling:</source>
-        <translation type="unfinished">Высота для масштабирования:</translation>
+        <translation>Высота для масштабирования:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="48"/>
@@ -3862,12 +3866,12 @@ Do you want to permanently delete the existing file(s)?</source>
     <message>
         <location filename="themestrings.h" line="136"/>
         <source>Match:</source>
-        <translation type="unfinished">Совпадение:</translation>
+        <translation>Совпадение:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="137"/>
         <source>of the following conditions:</source>
-        <translation type="unfinished">из следующих условий:</translation>
+        <translation>из следующих условий:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="138"/>
