@@ -2239,7 +2239,7 @@ Do you want to permanently delete the existing file(s)?</source>
     <message>
         <location filename="themestrings.h" line="14"/>
         <source>Convert stereo to 5.1 sound</source>
-        <translation>Конвертировать стерео в звук 5.1</translation>
+        <translation>Преобразовывать стерео в звук 5.1</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="15"/>
@@ -2734,7 +2734,7 @@ Do you want to permanently delete the existing file(s)?</source>
     <message>
         <location filename="themestrings.h" line="189"/>
         <source>Convert stereo to 5.1 sound:</source>
-        <translation>Конвертировать стерео в звук 5.1:</translation>
+        <translation>Преобразовывать стерео в звук 5.1:</translation>
     </message>
     <message>
         <location filename="themestrings.h" line="190"/>
