@@ -5,6 +5,8 @@
 
 import httplib,urllib,re
 import urllib2
+from lxml import html
+from lxml import etree
 import string
 import time
 import os
@@ -13,8 +15,8 @@ import traceback
 import codecs
 from optparse import OptionParser
 
-kinopoisk_version = "0.1"
-mythtv_version = "0.23"
+kinopoisk_version = "0.1.1"
+mythtv_version = "0.25"
 title = "The kinopoisk.ru Query"
 author = "Alex Vasilyev"
 usage_examples = ""
@@ -90,102 +92,51 @@ def  normilize_string(processingstring):
     except:
         return ''
 
+def outXML(rootElm):
+    outfile = sys.stdout
+    handle = unicode(etree.tostring(rootElm, pretty_print=True, encoding='utf-8', xml_declaration=True), 'utf-8')
+    outfile.writelines(handle)
+    outfile.close()
+
 #Получение HTML страницы
 def get_page(address,  data=0,  title=''):
-    #headers = {"Host": "www.kinopoisk.ru",
-    opener = urllib2.build_opener()
-    if data == 0:
-        headers = {"Host": "s.kinopoisk.ru",
-            "User-Agent": "Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9.0.14) Gecko/2009090216 Ubuntu/9.04 	(jaunty) Firefox/3.0.14",
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-            "Accept-Language": "ru,en-us;q=0.7,en;q=0.3",
-            "Accept-Charset": "windows-1251,utf-8;q=0.7,*;q=0.7",
-            "Keep-Alive": "300",
-            "Connection": "keep-alive"
-            }
-        address = 'http://s.kinopoisk.ru' + address+urllib.quote(title.encode('utf8'))
-        opener.addheaders = [("Host",  "s.kinopoisk.ru"), 
-                            ('User-agent', 'Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9.0.14) Gecko/2009090216 Ubuntu/9.04 	(jaunty) Firefox/3.0.14'), 
-                            ("Accept",  "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"), 
-                            ("Accept-Language",  "ru,en-us;q=0.7,en;q=0.3"),
-                            ("Accept-Charset",  "windows-1251,utf-8;q=0.7,*;q=0.7"),
-                            ("Keep-Alive",  "300"),
-                            ("Connection",  "keep-alive")]
+    try:
+        opener = urllib2.build_opener()
         
-    else:
-        headers = {"Host": "www.kinopoisk.ru",
-            "User-Agent": "Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9.0.14) Gecko/2009090216 Ubuntu/9.04 	(jaunty) Firefox/3.0.14",
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-            "Accept-Language": "ru,en-us;q=0.7,en;q=0.3",
-            "Accept-Charset": "windows-1251,utf-8;q=0.7,*;q=0.7",
-            "Keep-Alive": "300",
-            "Connection": "keep-alive"
-            }
-        address = 'http://www.kinopoisk.ru' + address+urllib.quote(title.encode('utf8'))
+        if data == 0:
+            address = u'http://s.kinopoisk.ru' + address+urllib.quote(title.encode('utf8'))
+        else:
+            address = u'http://www.kinopoisk.ru' + address+urllib.quote(title.encode('utf8'))
+        
         opener.addheaders = [("Host",  "www.kinopoisk.ru"), 
-                            ('User-agent', 'Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9.0.14) Gecko/2009090216 Ubuntu/9.04 	(jaunty) Firefox/3.0.14'), 
-                            ("Accept",  "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"), 
-                            ("Accept-Language",  "ru,en-us;q=0.7,en;q=0.3"),
-                            ("Accept-Charset",  "windows-1251,utf-8;q=0.7,*;q=0.7"),
-                            ("Keep-Alive",  "300"),
-                            ("Connection",  "keep-alive")]
-    time.sleep(1)
-    f = opener.open(address)
-    return f.read().decode('cp1251')
-
-def single_value(content,  matchstring):
-    matchstring = unicode(matchstring, "utf8")
-    regexp= re.compile(matchstring,re.DOTALL)
-    result = regexp.search(content)
-    if result != None:
-        result = result.group(1)
-        if result != None:
-            return result
-        else:
-            return  ''
-    else:
-        return  ''
+                                ('User-agent', 'Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9.0.14) Gecko/2009090216 Ubuntu/9.04 	(jaunty) Firefox/3.0.14'), 
+                                ("Accept",  "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"), 
+                                ("Accept-Language",  "ru,en-us;q=0.7,en;q=0.3"),
+                                ("Accept-Charset",  "windows-1251,utf-8;q=0.7,*;q=0.7"),
+                                ("Keep-Alive",  "300"),
+                                ("Connection",  "keep-alive")]
+        time.sleep(1)
+        f = opener.open(address)
+        return f.read().decode('cp1251')
     
-def multi_value(content,  matchstring, matchstring2):
-    matchstring = unicode(matchstring , "utf8")
-    matchstring2 = unicode(matchstring2 , "utf8")
-    regexp= re.compile(matchstring,re.DOTALL)
-    result = regexp.search(content)
-    if  result != None:
-        regexp = re.compile(matchstring2,re.DOTALL)
-        result = regexp.finditer(result.group(0))
-        if result != None:
-            retList=[]
-            for i in result:
-                if i.group(1):
-                    retList.append(i.group(1))
-                else:
-                    retList.append(i.group(0))
-            result = retList
-            return result
-        else:
-            return result
-    else:
-        return result
+    except:
+        print_exception(traceback.format_exc())
 
 #Ищем обои
 def search_fanart(uid):
     try:
         data = get_page("/level/12/film/"+uid, 1)
-        coveritems = []
-        coveritems = multi_value(data,  '<table class="fotos.*?">(.*?)</table>', '<a href="(.*?)">')
-        if coveritems != None:
-            Coverart = coveritems[0]
-            data = get_page(Coverart+uid, 1)
-            if  data != None:
-                #coveritem = single_value(data, '/picture/.*?src=\'(.*?)\' width=')
-                #coveritem = single_value(data, '-5000px" src="(.*?)"')
-                coveritem = single_value(data, 'id="image" src="(.*?)"')
-                return coveritem
-            else:
-                return ''
-        else:
-                return '' 
+        doc = html.document_fromstring(data)
+        result = []
+        
+        posterNodes = doc.xpath("//div/table[@class='fotos fotos2']/tr/*") 
+        for poster in posterNodes:
+            hrefTag = poster.xpath("a")
+            if len(hrefTag):
+                posterURL= hrefTag[0].attrib["href"]
+                result.append("http://www.kinopoisk.ru" + posterURL)
+        return result
+
     except:
         print_exception(traceback.format_exc())
 
@@ -193,81 +144,58 @@ def search_fanart(uid):
 def search_poster(uid):
     try:
         data = get_page("/level/17/film/"+uid, 1)
-        coveritems = []
-        #coveritems = multi_value(data,  '<table class="fotos.*?">(.*?)</table>', '<a href="(.*?)">')
-        coveritems = multi_value(data,  '<table class="fotos.*?">(.*?)</table>', '<a href="(.*?)">')
-        if coveritems != None:
-            data = get_page(coveritems[0]+uid, 1)
-            if  data != None:
-                #coveritem = single_value(data, '<a href="/picture/.*?src=\'(.*?)\' width=')
-                #coveritem = single_value(data, 'img  src="(.*?)" width')
-                coveritem = single_value(data, '-5000px" src="(.*?)"')
-                #Выполняем дополнительный поиск, т.к. странички кинопоиск выдает всякие разные, 
-                #возможно  еще какие-то варианты не учтены
-                if coveritem == '':
-                    #coveritem = single_value(data, '<img alt=".*?src=\'(.*?)\' width=')
-                    coveritem = single_value(data, 'id="image" src="(.*?)"')
-                    return coveritem
-                else:
-                    return coveritem
-            else:
-                return ''
-        else:
-            return ''
+        doc = html.document_fromstring(data)
+        result = []
+        
+        posterNodes = doc.xpath("//div/table[@class='fotos']/tr/*") 
+        for poster in posterNodes:
+
+            hrefTag = poster.xpath("a")
+            if len(hrefTag):
+                posterURL= hrefTag[0].attrib["href"]
+                result.append("http://www.kinopoisk.ru" + posterURL)
+            
+        return result
+
     except:
         print_exception(traceback.format_exc())
         
 #Получаем названия фильмов похожие на наш фильм
 def search_title(title):
-    def  get_item(content,  matchstring):
-        matchstring = unicode(matchstring, "utf8")
-        regexp  = re.compile(matchstring,re.DOTALL)
-        ids = regexp.finditer(content.group(0))
-        retList=[]
-        for i in ids:
-            if i.group(1):
-                retList.append(i.group(1))
-            else:
-                retList.append(i.group(0))
-        return retList
-        
+
     data = get_page("/index.php?first=no&kp_query=",  0, title)
+    doc = html.document_fromstring(data)
+    
     #Проверяем ту ли страницу (т.е. страницу с результатами поиска) мы получили
-    matchstring = 'Скорее всего, вы ищете'
-    matchstring = unicode(matchstring, "utf8")
-    regexp= re.compile(matchstring,re.DOTALL)
+    regexp= re.compile(unicode("Скорее всего, вы ищете", "utf8"), re.DOTALL)
     result = regexp.search(data)
     if result == None:
         #Если не ту, то парсим страницу фильма на которую нас перенаправил кинопоиск
-        idstr = single_value(data, 'id_film = (.*?); <') 
-        titlestr = single_value(data, 'class="moviename-big">(.*?)</h1>') 
+        titlestr = doc.xpath("//h1[@class='moviename-big']") [0].text.strip()
+        idstr = doc.xpath("//link[@rel='canonical']") [0].attrib["href"].split("/")[-2]
         sys.stdout.write( u'%s:%s\n' % (idstr, normilize_string(titlestr)))
     else:
-        #Если ту, то берем фильмы которые нам нашли
-        matchstring = '>Скорее всего, вы ищете:<(.*?)Если вам не удалось найти'
-        matchstring = unicode(matchstring, "utf8")
-        regexp= re.compile(matchstring,re.DOTALL)
-        result = regexp.search(data)
-        iditems = get_item(result ,  '<p class="name"><a href="/level/1/film/(.*?)/sr/1/')
-        #titleitems = get_item(result ,  '<p class="name"><a href="http://www.kinopoisk.ru/level/1/film.*?/sr/1/">(.*?)</a>')
-        titleitems = get_item(result ,  '<p class="name"><a href="/level/1/film.*?/sr/1/">(.*?)</a>')
-        yearitems = get_item(result ,  '<span class="year">(.*?)</span></p>')
-        for i in range(0,  len(titleitems)):
-                sys.stdout.write( u'%s:%s\n' % (iditems[i], normilize_string(titleitems[i]) + ' ('+ yearitems[i] + ')'))
+        titleNodes = doc.xpath("//div[@class='search_results' or @class='search_results search_results_last']/div[@class='element most_wanted' or @class='element']/div[@class='info']") 
+        
+        for titleNode in titleNodes:
+            titleInfo = titleNode.xpath("p[@class='name']/a")
+            sys.stdout.write( u'%s:%s\n' % (titleInfo[0].attrib["href"].split("/")[-4], normilize_string(titleInfo[0].text)))
 
 #Ищем и отдаем метаданные фильма
 def search_data(uid, rating_country):
-    def get_multi_value(matchstring1, matchstring2):
-        try:
-            multi_valueList = multi_value(data,  matchstring1, matchstring2)
-            if  multi_valueList != None:
-                result = ",".join(multi_valueList)
-                return result
-            else:
-                return ''
-        except:
-            print_exception(traceback.format_exc())
-    
+
+    #def addMultiValues(parentNode, parentNodeName, dataNode, xpathTuple, nodeName, valueName,  attributesDict={}):
+    def addMultiValues(dataNode, xpathTuple):
+        result = ''
+        temp_list = []
+        for xpathString in xpathTuple:
+            if len(dataNode) and len(dataNode.xpath(xpathString)):
+                for node in dataNode.xpath(xpathString):
+                    if node.text != "...":
+                        temp_list.append(node.text)
+        result = ",".join(temp_list)
+        return result
+
     try:
         filmdata = {'title' : '',
                 'countries' : '',
@@ -276,67 +204,74 @@ def search_data(uid, rating_country):
                 'cast' : '',
                 'genre' : '',
                 'user_rating' : '',
-				'movie_rating' : '',
-				'plot' : '',
+                'movie_rating' : '',
+                'plot' : '',
 #				'release_date' : '',
                 'runtime' : '',
                 'url' : '', 
                 'coverart' : '',
                 'fanart' : ''
-                #				'writers' : '',
-				}
+                #'writers' : '',
+            }
+        
         data = get_page("/level/1/film/"+uid, 1)
-        #filmdata['title'] =normilize_string(single_value(data, 'class="moviename-big">(.*?)</h1>') ).rstrip()
-        filmdata['title'] =normilize_string(title_correction(single_value(data, 'class="moviename-big" itemprop="name">(.*?)</h1>') ).rstrip())
-        filmdata['directors'] = normilize_string(get_multi_value('>режиссер</td>(.*?)</tr>', '<a href=".*?>(.*?)</a>'))
-        filmdata['countries'] = get_multi_value('>страна</td>(.*?)</tr>', '<a href=".*?>(.*?)</a>')
-        filmdata['year'] = single_value(data, '>год</td>.*?<a href=.*?>(.*?)</a>')
-        filmdata['genre'] = get_multi_value('>жанр</td>(.*?)</tr>', '<a href=".*?>(.*?)</a>')
-        #filmdata['user_rating'] = single_value(data, '<a href="/level/83/film/.*?>(.*?)</span')
-        filmdata['user_rating'] = get_multi_value('<a href="/level/83/film(.*?)</span>', '<span>(.*?)</span>')
-        filmdata['plot'] = normilize_string(single_value(data, '<div class="brand_words" itemprop="description">(.*?)</div>'))
-        runtime = string.split(single_value(data, '<td class="time" id="runtime">(.*?)</td>'))
-        filmdata['runtime'] = runtime[0]
+        doc = html.document_fromstring(data)
         
-        #Проверяем нет ли списка актеров дублирующих роли
-        matchstring = unicode('Роли дублировали:', "utf8")
-        regexp= re.compile(matchstring,re.DOTALL)
-        result = regexp.search(data)
-        if result == None:
-            #Если не ту, то выбираем одно условие поиска
-            filmdata['cast'] = normilize_string(get_multi_value('<!-- актеры фильма -->(.*?)<!-- /актеры фильма -->',  'href="/level/4/people.*?">(.*?)</a>'))
-        #Если да, то другое, с отбрасыванием дублирующих
-        else:
-            filmdata['cast'] = normilize_string(get_multi_value('<!-- актеры фильма -->(.*?)Роли дублировали:',  'href="/level/4/people.*?">(.*?)</a>'))
-        #movierating = string.split(single_value(data, ">рейтинг MPAA</td>.*?<img src.*?alt='(.*?)' border=0>"))
-        movierating = string.split(single_value(data, '<a href="/level/38/film.*?alt=(.*?)" border'))
+        filmdata['title'] = doc.xpath("//h1[@class='moviename-big']") [0].text.strip()
         
-        #Проверка нужна так как российские фильмы обычно не имеют рейтинга MPAA
-        if len(movierating) > 0:
-            filmdata['movie_rating'] = movierating[1]
-        else:
-            filmdata['movie_rating']=''
-        filmdata['coverart'] = search_poster(uid)
-        filmdata['fanart'] = search_fanart(uid)
+        userRatingNodes = doc.xpath("//div[@id='block_rating']/div/div/a/span")
+        if len(userRatingNodes):
+            filmdata['user_rating'] = userRatingNodes[0].text
+
+        infoNodes = doc.xpath("//table[@class='info']/*") 
+        for infoNode in infoNodes:
+            dataNodes =infoNode.xpath("td")  
+            if dataNodes[0].text == u"год":
+                filmdata['year'] = dataNodes[1].xpath("div/a") [0].text
+            elif dataNodes[0].text == u"страна":
+                filmdata['countries'] = addMultiValues(dataNodes[1],  ("a", "div/a"))
+            elif dataNodes[0].text == u"режиссер":
+                filmdata['directors'] = addMultiValues(dataNodes[1], ("a", "div/a"))
+            elif dataNodes[0].text == u"жанр":
+                filmdata['genre'] = addMultiValues(dataNodes[1], ("a", "div/a"))
+            elif dataNodes[0].text == u"время":
+                filmdata['runtime']  = dataNodes[1].text.split()[0]
+            elif dataNodes[0].text == u"рейтинг MPAA":
+                filmdata['movie_rating'] = dataNodes[1].xpath("a")[0].attrib["href"].split("/")[-2]
+        
+        actorNodes = doc.xpath("//td[@class='actor_list']/div")
+        if len(actorNodes):
+            filmdata['cast'] = addMultiValues(actorNodes[0], ("a", "span/a"))
+
+        descNodes = doc.xpath("//div[@class='brand_words']")
+        filmdata['plot'] = normilize_string(descNodes[0].text)
+        
+        posters = search_poster(uid)
+        if len(posters):
+            filmdata['coverart'] = posters[0]
+        
+        fanarts = search_fanart(uid)
+        if len(fanarts):
+            filmdata['fanart'] = fanarts[0]
+
         filmdata['url'] = "http://www.kinopoisk.ru/level/1/film/"+uid
 
-#ReleaseDate:%(release_date)s
-#Writers:%(writers)s
         print("""\
-Title:%(title)s
-Year:%(year)s
-Director:%(directors)s
-Plot:%(plot)s
-UserRating:%(user_rating)s
-Cast:%(cast)s
-Genres:%(genre)s
-Countries:%(countries)s
-Runtime:%(runtime)s
-MovieRating:%(movie_rating)s
-Coverart:%(coverart)s
-Fanart:%(fanart)s
-URL:%(url)s
-""" % filmdata)
+            Title:%(title)s
+            Year:%(year)s
+            Director:%(directors)s
+            Plot:%(plot)s
+            UserRating:%(user_rating)s
+            Cast:%(cast)s
+            Genres:%(genre)s
+            Countries:%(countries)s
+            Runtime:%(runtime)s
+            MovieRating:%(movie_rating)s
+            Coverart:%(coverart)s
+            Fanart:%(fanart)s
+            URL:%(url)s
+    """ % filmdata)
+
 
     except:
         print_exception(traceback.format_exc())
@@ -375,16 +310,15 @@ Usage: %prog [-M TITLE | -D UID [-R COUNTRY[,COUNTRY]] | -P UID | -B UID]
     DUMP_RESPONSE = options.dump_response
     # Process version command line requests
     if options.version:
-        sys.stdout.write("%s (%s) by %s\n" % (
-        title, kinopoisk_version, author))
+        getVersionInfo()
         sys.exit(0)
     # Process usage command line requests
     if options.usage:
         sys.stdout.write(usage_examples)
         sys.exit(0)
     if options.title_search:
-        search_title(unicode(options.title_search, "utf8"))
-        #search_title(options.title_search)
+        #search_title(unicode(options.title_search, "utf8"))
+        search_title(options.title_search)
     elif options.data_search:
         rf = options.ratings_from
         if rf:
@@ -392,8 +326,8 @@ Usage: %prog [-M TITLE | -D UID [-R COUNTRY[,COUNTRY]] | -P UID | -B UID]
         #search_data(unicode(options.data_search, "utf8"), rf)
         search_data(options.data_search, rf)
     elif options.poster_search:
-        search_poster(unicode(options.poster_search, "utf8"))
-        #search_poster(options.poster_search)
+        #search_poster(unicode(options.poster_search, "utf8"))
+        search_poster(options.poster_search)
     elif options.fanart_search:
         search_fanart(unicode(options.fanart_search, "utf8"))
         #search_fanart(options.fanart_search)
@@ -411,5 +345,3 @@ if __name__ == '__main__':
 		pass
 	except:
 		print_exception(traceback.format_exc())
-
-# vim: ts=4 sw=4:
