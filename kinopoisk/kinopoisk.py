@@ -317,8 +317,8 @@ Usage: %prog [-M TITLE | -D UID [-R COUNTRY[,COUNTRY]] | -P UID | -B UID]
         sys.stdout.write(usage_examples)
         sys.exit(0)
     if options.title_search:
-        #search_title(unicode(options.title_search, "utf8"))
-        search_title(options.title_search)
+        search_title(unicode(options.title_search, "utf8"))
+        #search_title(options.title_search)
     elif options.data_search:
         rf = options.ratings_from
         if rf:
@@ -326,8 +326,8 @@ Usage: %prog [-M TITLE | -D UID [-R COUNTRY[,COUNTRY]] | -P UID | -B UID]
         #search_data(unicode(options.data_search, "utf8"), rf)
         search_data(options.data_search, rf)
     elif options.poster_search:
-        #search_poster(unicode(options.poster_search, "utf8"))
-        search_poster(options.poster_search)
+        search_poster(unicode(options.poster_search, "utf8"))
+        #search_poster(options.poster_search)
     elif options.fanart_search:
         search_fanart(unicode(options.fanart_search, "utf8"))
         #search_fanart(options.fanart_search)
