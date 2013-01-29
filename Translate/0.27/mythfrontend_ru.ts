@@ -9205,7 +9205,7 @@ Your grabber does not provide channel numbers, so you have to set them manually.
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2817"/>
         <source>If priorities and other factors are equal the scheduler will choose the available input with the lowest, non-zero value.  Setting this value to zero will make the input unavailable to the scheduler.</source>
-        <translation>Если приоритеты и другие факторы равны, планировщик выберет доступный вход с самым низким, отличным от нуля значением. При установке в нуль вход будет недоступен для планировщика.</translation>
+        <translation>Если приоритеты и другие факторы равны, планировщик выберет доступный вход с самым низким, отличным от нуля значением. При установке в нуль, вход будет недоступен для планировщика.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2832"/>
@@ -9215,12 +9215,12 @@ Your grabber does not provide channel numbers, so you have to set them manually.
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2834"/>
         <source>When entering Live TV, the available, local input with the lowest, non-zero value will be used.  If no local inputs are available, the available, remote input with the lowest, non-zero value will be used.  Setting this value to zero will make the input unavailable to live TV.</source>
-        <translation>При переходе в &quot;живое&quot; ТВ, будет использоваться доступный локальный вход с самым низким, отличным от нуля значением. Если доступны не локальные входы то будет использоваться удаленный вход с самым низким, отличным от нуля значением. Установка в нуль сделает вход недоступным в прямом эфире.</translation>
+        <translation>При переходе в &quot;живое&quot; ТВ, будет использоваться доступный локальный вход с самым низким, отличным от нуля значением. Если доступны не локальные входы, то будет использоваться удаленный вход с самым низким, отличным от нуля значением. Установка в нуль сделает вход недоступным при просмотре &quot;живого&quot; ТВ.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="2938"/>
         <source>Input groups are only needed when two or more cards share the same resource such as a FireWire card and an analog card input controlling the same set top box.</source>
-        <translation>Группы входов нужны только когда две или более карт, например firewire карта и аналоговый тюнер, совместно используют один и тот же ресурс.</translation>
+        <translation>Группы входов нужны только когда две или более карт, например firewire карта и аналоговый тюнер, совместно используют один и тот же STB.</translation>
     </message>
     <message>
         <location filename="../libs/libmythui/myththemedmenu.cpp" line="582"/>
@@ -9270,7 +9270,7 @@ Your grabber does not provide channel numbers, so you have to set them manually.
     <message>
         <location filename="../programs/mythfrontend/audiogeneralsettings.cpp" line="1122"/>
         <source>Set the quality of audio sample-rate conversion. &quot;Good&quot; (default) provides the best compromise between CPU usage and quality. &quot;Disabled&quot; lets the audio device handle sample-rate conversion.</source>
-        <translation>Устанавливает качество передискретизации. &quot;Хорошо&quot; (по умолчанию) предоставляет хорошй компромис между использованием CPU и качеством. &quot;Выключено&quot; позволяет выполнять передискретезацию звуковой карте.</translation>
+        <translation>Устанавливает качество передискретизации. &quot;Хорошо&quot; (по умолчанию) предоставляет хороший компромис между использованием CPU и качеством. &quot;Выключено&quot; позволяет выполнять передискретезацию звуковой карте.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/audiogeneralsettings.cpp" line="982"/>
@@ -9552,7 +9552,7 @@ name cannot be blank.</source>
         <source>Unable to open or close the empty drive %1.
 
 You may have to use the eject button under its tray.</source>
-        <translation>Немогу открыть или закрыть пустой привод %1.
+        <translation>Не могу открыть или закрыть пустой привод %1.
 Вы можете использовать кнопку извлечения под лотком.</translation>
     </message>
     <message>
@@ -10038,7 +10038,7 @@ You may have to use the eject button under its tray.</source>
     <message>
         <location filename="../libs/libmythtv/channelscan/modulationsetting.h" line="48"/>
         <source>Most cable systems in the United States use QAM-256 or QAM-64, but some mixed systems may use 8-VSB for over-the-air channels.</source>
-        <translation>Большинство кабельных систем в Соединенных Штатах используют QAM-256 или QAM-64, но некоторые смешанные системы могут использовать 8-VSB для эфирных каналов.</translation>
+        <translation>Большинство кабельных систем в Соединенных Штатах используют QAM-256 или QAM-64, но некоторые смешанные системы для эфирных каналов могут использовать 8-VSB.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/modulationsetting.h" line="75"/>
@@ -10063,7 +10063,7 @@ You may have to use the eject button under its tray.</source>
     <message>
         <location filename="../libs/libmythtv/channelscan/modulationsetting.h" line="103"/>
         <source>Most DVB-S transponders use QPSK, while DVB-S2 use 8PSK. QAM-16 is not available for DVB-S2 transports.</source>
-        <translation>Большинство транспондеров DVB-S используют QPSK, в то время как DVB-S2 исспользует 8PSK. Для транспортов DVB-S2 недоступна QAM-16.</translation>
+        <translation>Большинство транспондеров DVB-S используют QPSK, в то время как DVB-S2 использует 8PSK. Для транспортов DVB-S2 недоступна QAM-16.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscanmiscsettings.h" line="219"/>
@@ -10077,7 +10077,7 @@ You may have to use the eject button under its tray.</source>
         <source>Inversion (Default: Auto):
 Most cards can autodetect this now, so leave it at Auto unless it won&apos;t work.</source>
         <translation>Инверсия (По умолчанию: Авто):
-Большинство карт умеет определять это, так что оставьте значение Auto и изменяйте только если что-то не работает.</translation>
+Большинство карт умеет определять это, так что оставьте значение Авто и изменяйте только если что-то не работает.</translation>
     </message>
     <message>
         <location filename="../libs/libmyth/settings.cpp" line="806"/>
@@ -11681,7 +11681,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="91"/>
         <source>The higher the slider number, the lower the quality of the audio. Better quality audio (lower numbers) requires more CPU.</source>
-        <translation>Чем больше число в счетчике, тем ниже качество аудио. Лучшее качество аудио (низкие значения) создает большую нагрузку на CPU.</translation>
+        <translation>Чем больше число в счетчике, тем ниже качество аудио. Лучшее качество аудио (низкие значения) создает большую нагрузку на процессор.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="106"/>
@@ -11771,7 +11771,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscan_sm.cpp" line="908"/>
         <source>%1 -- Timed out</source>
-        <translation type="unfinished">%1 -- Тайм-аут</translation>
+        <translation>%1 -- Тайм-аут</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/channelscan/channelscan_sm.cpp" line="931"/>
@@ -12100,7 +12100,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="827"/>
         <source>VBI device</source>
-        <translation>VBI устройство</translation>
+        <translation>Устройство VBI</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="905"/>
@@ -12165,7 +12165,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="1169"/>
         <source>Cable box model</source>
-        <translation>Модель приставки</translation>
+        <translation>Модель кабельной приставки</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/videosource.cpp" line="3702"/>
@@ -24038,7 +24038,7 @@ Once you have completed your modifications, click the &quot;Save&quot; button.</
     <message>
         <location filename="../themes/themestrings.h" line="969"/>
         <source>blootube-ng is a theme based on the original blootube-wide by Justin Hornsby (justin.hornsby@gmail.com) which uses very large graphics associated with every menu entry. All changes where made to bring this theme forward to MythTV 0.24.</source>
-        <translation type="unfinished">Тема blootube-ng основана на оригинальной теме blootube-wide от Justin Hornsby (justin.hornsby@gmail.com). Тема использует много графики для каждого элемента меню. Все изменения были сделаны для приведения этой темы в соответсвие с возможностями MythTV 0.24.</translation>
+        <translation>Тема blootube-ng основана на оригинальной теме blootube-wide от Justin Hornsby (justin.hornsby@gmail.com). Тема использует много графики для каждого элемента меню. Все изменения были сделаны для приведения этой темы в соответсвие с возможностями MythTV 0.24.</translation>
     </message>
     <message>
         <source>Blue-abstract is a modern looking theme meant for widescreen HD displays. The blue background and the consistent layout makes it an attractive and elegant looking theme.</source>
