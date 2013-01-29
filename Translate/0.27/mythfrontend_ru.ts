@@ -5375,27 +5375,27 @@ Delete the current cut or preserved region</extracomment>
         <translation>Отобразить запрос выхода из системы</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1269"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1291"/>
         <source>Reload Theme</source>
         <translation>Перезагрузка темы</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1271"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1293"/>
         <source>Main Menu</source>
         <translation>Главное меню</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1273"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1295"/>
         <source>Program Guide</source>
         <translation>Программа передач</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1275"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1297"/>
         <source>Program Finder</source>
         <translation>Поиск программы</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1279"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1301"/>
         <source>Manage Recordings / Fix Conflicts</source>
         <translation>Управление записями / Устранение конфликтов</translation>
     </message>
@@ -5404,102 +5404,102 @@ Delete the current cut or preserved region</extracomment>
         <translation type="obsolete">Приоритеты записи программ</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1281"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1303"/>
         <source>Manage Recording Rules</source>
         <translation>Управление правилами записи</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1283"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1305"/>
         <source>Channel Recording Priorities</source>
         <translation>Приоритеты записи каналов</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1285"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1307"/>
         <source>TV Recording Playback</source>
         <translation>Воспроизведение записей</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1287"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1309"/>
         <source>TV Recording Deletion</source>
         <translation>Удаление записей</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1289"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1311"/>
         <source>Live TV</source>
         <translation>Просмотр ТВ</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1291"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1313"/>
         <source>Live TV In Guide</source>
         <translation>Показывать ТВ в программе передач</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1293"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1315"/>
         <source>Status Screen</source>
         <translation>Экран состояния</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1295"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1317"/>
         <source>Previously Recorded</source>
         <translation>Ранее записывалось</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1298"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1320"/>
         <source>Standby Mode</source>
         <translation>Режим ожидания</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1303"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1325"/>
         <source>The Video Default View</source>
         <translation>Режим просмотра видео по умолчанию</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1305"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1327"/>
         <source>The Video Manager</source>
         <translation>Менеджер видео</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1307"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1329"/>
         <source>The Video Browser</source>
         <translation>Браузер видео</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1309"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1331"/>
         <source>The Video Listings</source>
         <translation>Список видео</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1311"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1333"/>
         <source>The Video Gallery</source>
         <translation>Галерея видео</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1313"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1335"/>
         <source>Play an Optical Disc</source>
         <translation>Воспроизвести оптический диск</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1316"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1338"/>
         <source>Toggle Show Widget Borders</source>
         <translation>Переключить отображение границ виджетов</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1318"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1340"/>
         <source>Toggle Show Widget Names</source>
         <translation>Переключить отображение имен виджетов</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1320"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1342"/>
         <source>Reset All Keys</source>
         <translation>Сбросить все клавишы</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1321"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1343"/>
         <source>Reset all keys to defaults</source>
         <translation>Сбросить все клавишы к настройкам по умолчанию</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1408"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1430"/>
         <source>MythTV&apos;s native media player.</source>
         <translation>Родной плеер MythTV.</translation>
     </message>
@@ -6333,57 +6333,57 @@ Delete the current cut or preserved region</extracomment>
         <translation>Запустить Mythtv-Setup</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1334"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1356"/>
         <source>Play selected item in alternate player</source>
         <translation>Воспроизвести выбранный элемент в альтернативном плеере</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1336"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1358"/>
         <source>Open video filter dialog</source>
         <translation>Открыть диалог фильтра фильмов</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1338"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1360"/>
         <source>Change browsable in video manager</source>
         <translation type="unfinished">Изменить просматриваемость в менедржере фильмов</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1340"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1362"/>
         <source>Increase Parental Level</source>
         <translation>Увеличить родительский уровень</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1342"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1364"/>
         <source>Decrease Parental Level</source>
         <translation>Уменьшить родительский уровень</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1344"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1366"/>
         <source>Show Incremental Search Dialog</source>
         <translation>Показать диалог инкрементального поиска</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1346"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1368"/>
         <source>Download metadata for current item</source>
         <translation>Загрузить метаданные для текущего элемента</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1348"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1370"/>
         <source>Display Item Detail Popup</source>
         <translation>Показать всплывающее окно подробностей об элементе</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1350"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1372"/>
         <source>Go to the first video</source>
         <translation>Перейти к первому фильму</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1352"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1374"/>
         <source>Go to the last video</source>
         <translation>Перейти к последнему фильму</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1410"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1432"/>
         <source>MythDVD DVD Media Handler</source>
         <translation>Обработчик DVD дисков</translation>
     </message>
@@ -6489,66 +6489,66 @@ Delete the current cut or preserved region</extracomment>
         <translation type="unfinished">Ошибка повторного открытия декодера видео</translation>
     </message>
     <message>
-        <location filename="../libs/libmythtv/mythplayer.cpp" line="2903"/>
+        <location filename="../libs/libmythtv/mythplayer.cpp" line="2902"/>
         <source>Irrecoverable recorder error</source>
         <translation type="unfinished">Непоправимая ошибка записи</translation>
     </message>
     <message>
-        <location filename="../libs/libmythtv/mythplayer.cpp" line="2981"/>
+        <location filename="../libs/libmythtv/mythplayer.cpp" line="2980"/>
         <source>Not Flagged</source>
         <extracomment>The commercials/adverts have not been flagged</extracomment>
         <translation>Не помечено</translation>
     </message>
     <message>
-        <location filename="../libs/libmythtv/mythplayer.cpp" line="3832"/>
+        <location filename="../libs/libmythtv/mythplayer.cpp" line="3833"/>
         <source>Searching</source>
         <translation>Поиск</translation>
     </message>
     <message>
-        <location filename="../libs/libmythtv/mythplayer.cpp" line="3899"/>
+        <location filename="../libs/libmythtv/mythplayer.cpp" line="3900"/>
         <source>No Seektable</source>
         <translation>Нет таблицы поиска</translation>
     </message>
     <message>
-        <location filename="../libs/libmythtv/mythplayer.cpp" line="3920"/>
+        <location filename="../libs/libmythtv/mythplayer.cpp" line="3921"/>
         <source>Using previously auto-saved cuts</source>
         <translation type="unfinished">Используются автоматически сохраненные вырезки</translation>
     </message>
     <message>
-        <location filename="../libs/libmythtv/mythplayer.cpp" line="3964"/>
+        <location filename="../libs/libmythtv/mythplayer.cpp" line="3965"/>
         <source>Paused</source>
         <translation>Пауза</translation>
     </message>
     <message>
-        <location filename="../libs/libmythtv/mythplayer.cpp" line="4045"/>
-        <location filename="../libs/libmythtv/mythplayer.cpp" line="4081"/>
+        <location filename="../libs/libmythtv/mythplayer.cpp" line="4046"/>
+        <location filename="../libs/libmythtv/mythplayer.cpp" line="4082"/>
         <source>New cut added.</source>
         <translation>Добавлена новая вырезка.</translation>
     </message>
     <message>
-        <location filename="../libs/libmythtv/mythplayer.cpp" line="4050"/>
+        <location filename="../libs/libmythtv/mythplayer.cpp" line="4051"/>
         <source>Delete</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="../libs/libmythtv/mythplayer.cpp" line="4055"/>
+        <location filename="../libs/libmythtv/mythplayer.cpp" line="4056"/>
         <source>Undo Changes</source>
         <translation>Отменить изменения</translation>
     </message>
     <message>
-        <location filename="../libs/libmythtv/mythplayer.cpp" line="4086"/>
+        <location filename="../libs/libmythtv/mythplayer.cpp" line="4087"/>
         <source>Undo - %1</source>
         <extracomment>%1 is the undo message</extracomment>
         <translation>Отменить -%1</translation>
     </message>
     <message>
-        <location filename="../libs/libmythtv/mythplayer.cpp" line="4092"/>
+        <location filename="../libs/libmythtv/mythplayer.cpp" line="4093"/>
         <source>Redo - %1</source>
         <extracomment>%1 is the redo message</extracomment>
         <translation>Повторить -%1</translation>
     </message>
     <message numerus="yes">
-        <location filename="../libs/libmythtv/mythplayer.cpp" line="4852"/>
+        <location filename="../libs/libmythtv/mythplayer.cpp" line="4853"/>
         <source>%n second(s)</source>
         <translation>
             <numerusform>%n секунда</numerusform>
@@ -6557,27 +6557,27 @@ Delete the current cut or preserved region</extracomment>
         </translation>
     </message>
     <message>
-        <location filename="../libs/libmythtv/mythplayer.cpp" line="4856"/>
+        <location filename="../libs/libmythtv/mythplayer.cpp" line="4857"/>
         <source>%1 of %2</source>
         <translation>%1 из %2</translation>
     </message>
     <message>
-        <location filename="../libs/libmythtv/mythplayer.cpp" line="5240"/>
+        <location filename="../libs/libmythtv/mythplayer.cpp" line="5241"/>
         <source>Enabled Studio Levels</source>
         <translation>Включить студийные уровни</translation>
     </message>
     <message>
-        <location filename="../libs/libmythtv/mythplayer.cpp" line="5241"/>
+        <location filename="../libs/libmythtv/mythplayer.cpp" line="5242"/>
         <source>Disabled Studio Levels</source>
         <translation>Выключить студийные уровни</translation>
     </message>
     <message>
-        <location filename="../libs/libmythtv/mythplayer.cpp" line="5265"/>
+        <location filename="../libs/libmythtv/mythplayer.cpp" line="5266"/>
         <source>Enabled Night Mode</source>
         <translation>Ночной режим включен</translation>
     </message>
     <message>
-        <location filename="../libs/libmythtv/mythplayer.cpp" line="5271"/>
+        <location filename="../libs/libmythtv/mythplayer.cpp" line="5272"/>
         <source>Disabled Night Mode</source>
         <translation>Ночной режим выключен</translation>
     </message>
@@ -9556,22 +9556,22 @@ You may have to use the eject button under its tray.</source>
 Вы можете использовать кнопку извлечения под лотком.</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="186"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="185"/>
         <source>DVD/Video contains a bookmark</source>
         <translation>DVD/Фильм содержит закладки</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="555"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="577"/>
         <source>All tuners are currently busy.</source>
         <translation>Все тюнеры в настоящее время заняты.</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="557"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="579"/>
         <source>There are no configured tuners.</source>
         <translation>Нет настроенных тюнеров.</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1606"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1628"/>
         <source>MythTV Frontend</source>
         <translation>Фронтэнд MythTV</translation>
     </message>
@@ -11095,6 +11095,16 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <translation>Пропущено</translation>
     </message>
     <message>
+        <location filename="../libs/libmyth/programtypes.cpp" line="347"/>
+        <source>this episode will be recorded at a later time instead.</source>
+        <translation type="unfinished">эта серия будет записана позже.</translation>
+    </message>
+    <message>
+        <location filename="../libs/libmyth/programtypes.cpp" line="364"/>
+        <source>the required recorder is off-line.</source>
+        <translation type="unfinished">нужный рекордер находится оффлайн.</translation>
+    </message>
+    <message>
         <source>Missed Future</source>
         <translation type="obsolete">Отсутсвующая возможность</translation>
     </message>
@@ -11149,12 +11159,12 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <translation>Этот просмотр не запланирован для записи</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="257"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="258"/>
         <source>This showing will be recorded.</source>
         <translation>Этот показ будет записан.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="260"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="261"/>
         <source>This showing is being recorded.</source>
         <translation>Этот показ записывается.</translation>
     </message>
@@ -11163,32 +11173,30 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <translation type="obsolete">Канал настроен.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="274"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="275"/>
         <source>This showing was recorded.</source>
         <translation>Этот показ был записан.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="277"/>
         <source>This showing was recorded but was aborted before recording was completed.</source>
-        <translation>Показ записывался, но был прерван до того как запись была завершена.</translation>
+        <translation type="obsolete">Показ записывался, но был прерван до того как запись была завершена.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="292"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="287"/>
         <source>This showing was not recorded because it was manually cancelled.</source>
         <translation>Этот показ не был записан, т.к. он был отменен вручную.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="368"/>
         <source>this episode will be recorded on a different channel in this time slot.</source>
-        <translation>эта серия будет записана на другом канале в это время.</translation>
+        <translation type="obsolete">эта серия будет записана на другом канале в это время.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="373"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="368"/>
         <source>This showing will not be recorded.</source>
         <translation>Эта программа не будет записана.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="375"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="370"/>
         <source>This showing was not recorded.</source>
         <translation>Эта программа не была записана.</translation>
     </message>
@@ -11205,85 +11213,114 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../libs/libmyth/programtypes.cpp" line="234"/>
         <source>Other Tuning</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Другая настройка</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="263"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="264"/>
         <source>The showing is being tuned.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показ настроен.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="266"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="267"/>
         <source>This showing is being recorded on a different channel.</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот показ записан на другом канале.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="270"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="271"/>
         <source>The showing is being tuned on a different channel.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показ настроен на другой канал.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="316"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="278"/>
+        <source>This showing was recorded but was aborted before completion.</source>
+        <translation>Показ записывался, но был прерван до того как запись была завершена.</translation>
+    </message>
+    <message>
+        <location filename="../libs/libmyth/programtypes.cpp" line="283"/>
+        <source>This showing was not recorded because the master backend was not running.</source>
+        <translation>Этот показ не был записан, так как главный бэкэнд не был запущен.</translation>
+    </message>
+    <message>
+        <location filename="../libs/libmyth/programtypes.cpp" line="291"/>
+        <source>This showing was not recorded because there wasn&apos;t enough disk space.</source>
+        <translation>Этот показ не был записан, так как недостаточно места на диске.</translation>
+    </message>
+    <message>
+        <location filename="../libs/libmyth/programtypes.cpp" line="295"/>
+        <source>This showing was not recorded because the recorder was already in use.</source>
+        <translation>Этот показ не был записан, так как рекордер уже используется.</translation>
+    </message>
+    <message>
+        <location filename="../libs/libmyth/programtypes.cpp" line="299"/>
+        <source>This showing was not recorded because the recorder failed.</source>
+        <translation>Этот показ не был записан, так как произошел сбой рекордера.</translation>
+    </message>
+    <message>
+        <location filename="../libs/libmyth/programtypes.cpp" line="303"/>
+        <source>This showing will be recorded on a different channel.</source>
+        <translation>Этот показ будет записан на другом канале.</translation>
+    </message>
+    <message>
+        <location filename="../libs/libmyth/programtypes.cpp" line="315"/>
         <source>This showing will not be recorded because </source>
         <translation>Этот показ не будет записан, так как </translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="318"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="317"/>
         <source>This showing was not recorded because </source>
         <translation>Этот показ не был записан, так как </translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="323"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="322"/>
         <source>it was manually set to not record.</source>
         <translation>был вручную установлен на не записывать.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="326"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="325"/>
         <source>this episode was previously recorded according to the duplicate policy chosen for this title.</source>
         <translation>серия была записана ранее в соответствии с политикой дубликатов выбранной для данного заголовка.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="331"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="330"/>
         <source>this episode was previously recorded and is still available in the list of recordings.</source>
         <translation>эта серия была ранее записана и еще доступна в списке записей.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="336"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="335"/>
         <source>this episode will be recorded at an earlier time instead.</source>
         <translation>эта серия будет записана немного раньше вместо этого.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="340"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="339"/>
         <source>too many recordings of this program have already been recorded.</source>
         <translation>очень много записей этой программы уже было сделано.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="344"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="343"/>
         <source>another program with a higher priority will be recorded.</source>
         <translation>будет записана другая программа с более высоким приоритетом.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="348"/>
         <source>this episode will be recorded at a later time.</source>
-        <translation>эта серия будет записана в более позднее время.</translation>
+        <translation type="obsolete">эта серия будет записана в более позднее время.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="352"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="351"/>
         <source>this episode is a repeat.</source>
         <translation>эта серия повторяется.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="355"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="354"/>
         <source>this recording rule is inactive.</source>
         <translation>это правило записи неактивно.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="358"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="357"/>
         <source>this rule does not match any showings in the current program listings.</source>
         <translation>это правило не нашло никаких передач в текущей программе передач.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="362"/>
+        <location filename="../libs/libmyth/programtypes.cpp" line="361"/>
         <source>it was marked to never be recorded.</source>
         <translation>это было помечено как никогда не записывать.</translation>
     </message>
@@ -13224,7 +13261,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2370"/>
         <source>Pressing SELECT on a show that is at least this many minutes into the future will schedule a recording.</source>
-        <translation type="unfinished">Нажатие ВЫБОР на показе, который начнется, по-крайней мере, через несколько минут запланирует запись.</translation>
+        <translation type="unfinished">При нажатии кнопки ВЫБОР на показе, который начнется, по-крайней мере через это количество минут, будет запланирована запись.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2430"/>
@@ -13254,17 +13291,17 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2476"/>
         <source>AirPlay lets you wirelessly view content on your TV from your iPhone, iPad, iPod Touch, or iTunes on your computer.</source>
-        <translation>AirPlay позволяет вам просматривать контент на вашемTV с iPhone, iPad, iPod Touch или через iTunes через беспроводное подключение.</translation>
+        <translation type="unfinished">AirPlay позволяет просматривать контент на вашемTV с iPhone, iPad, iPod Touch или через iTunes по беспроводному подключению.</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2486"/>
         <source>Only support AirTunes (no video)</source>
-        <translation>Поддержка только AirPlay (без видео)</translation>
+        <translation>Поддержка только AirTunes (без видео)</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2487"/>
         <source>Only stream audio from your iPhone, iPad, iPod Touch, or iTunes on your computer</source>
-        <translation type="unfinished">Стриминг только аудио с вашего iPhone, iPad, iPod Touch или iTunes установленного на компьютере</translation>
+        <translation>Стриминг только аудио с вашего iPhone, iPad, iPod Touch или iTunes установленного на компьютере</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/globalsettings.cpp" line="2496"/>
@@ -16471,29 +16508,24 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <translation>Рекордер недоступен</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="282"/>
         <source>This showing was not recorded because the master backend was hung or not running.</source>
-        <translation>Этот показ не был записан, так как главный бэкэнд завис или не запущен.</translation>
+        <translation type="obsolete">Этот показ не был записан, так как главный бэкэнд завис или не запущен.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="297"/>
         <source>There wasn&apos;t enough disk space available.</source>
-        <translation>Недостаточно места на диске.</translation>
+        <translation type="obsolete">Недостаточно места на диске.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="301"/>
         <source>The tuner card was already being used.</source>
-        <translation>Тюнер уже используется.</translation>
+        <translation type="obsolete">Тюнер уже используется.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="304"/>
         <source>The recorder failed to record.</source>
-        <translation>Ошибка при записи.</translation>
+        <translation type="obsolete">Ошибка при записи.</translation>
     </message>
     <message>
-        <location filename="../libs/libmyth/programtypes.cpp" line="365"/>
         <source>the backend recorder is off-line.</source>
-        <translation>рекордер недоступен.</translation>
+        <translation type="obsolete">рекордер недоступен.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/recordingprofile.cpp" line="994"/>
@@ -16709,7 +16741,7 @@ Most DVB-C transports transmit at 6.9 or 6.875 million symbols per second.</sour
         <translation type="obsolete">Настройки Приоритета типа записи</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="1089"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="1111"/>
         <source>Failed to open 
  &apos;%1&apos; in %2 
 Check if the video exists</source>
@@ -17218,12 +17250,12 @@ Check if the video exists</source>
         <translation>Изменить</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="187"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="186"/>
         <source>Play from bookmark</source>
         <translation>Воспроизвести с закладки</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="188"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="187"/>
         <source>Play from beginning</source>
         <translation>Воспроизвести с начала</translation>
     </message>
@@ -18774,12 +18806,12 @@ Do you wish to continue watching?</source>
         <translation>Ожидание загрузки подробностей</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="602"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="624"/>
         <source>Loading videos ...</source>
         <translation>Загрузка фильмов...</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/main.cpp" line="163"/>
+        <location filename="../programs/mythfrontend/main.cpp" line="162"/>
         <source>Aggressive Parental Controls Warning: invalid password. An attempt to enter a MythVideo settings screen was prevented.</source>
         <translation>Предупреждение агрессивного родительского контроля: неверный пароль. Была предотвращена попытка войти на экран настроек MythVideo.</translation>
     </message>
@@ -18948,12 +18980,12 @@ Do you wish to continue watching?</source>
         <translation>%1 Кб</translation>
     </message>
     <message>
-        <location filename="../libs/libmythtv/mythplayer.cpp" line="5074"/>
+        <location filename="../libs/libmythtv/mythplayer.cpp" line="5075"/>
         <source>Error opening remote stream buffer</source>
         <translation>Ошибка открытия удаленномо буфера потока</translation>
     </message>
     <message>
-        <location filename="../libs/libmythtv/mythplayer.cpp" line="5087"/>
+        <location filename="../libs/libmythtv/mythplayer.cpp" line="5088"/>
         <source>Error opening remote stream</source>
         <translation>Ошибка открытия удаленного потока</translation>
     </message>
@@ -19683,128 +19715,145 @@ Do you wish to continue watching?</source>
         <translation type="obsolete">Очистить перезапись</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="240"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="409"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="598"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="638"/>
         <source>Restart recording this showing</source>
-        <translation>Перезапустить запись показа</translation>
+        <translation type="obsolete">Перезапустить запись показа</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="243"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="640"/>
         <source>Stop recording this showing</source>
-        <translation>Остановить запись показа</translation>
+        <translation type="obsolete">Остановить запись показа</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="254"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="447"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="608"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="647"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="258"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="304"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="396"/>
+        <source>Record this showing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="263"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="409"/>
+        <source>Record one showing (this episode)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="265"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="415"/>
+        <source>Record all showings (this channel)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="267"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="369"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="451"/>
+        <source>Edit recording rule</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="275"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="421"/>
+        <source>Stop this recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="277"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="428"/>
+        <source>Modify recording options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="287"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="438"/>
+        <source>Restart this recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="328"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="442"/>
         <source>Don&apos;t record this showing</source>
         <translation>Не записивать этот показ</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="282"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="471"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="610"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="649"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="350"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="444"/>
         <source>Never record this episode</source>
         <translation>Никогда не записывать эту серию</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="295"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="317"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="659"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="358"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="452"/>
+        <source>Edit override rule</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="367"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="429"/>
+        <source>Add override rule</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Edit options for this showing</source>
-        <translation>Изменить параметры показа</translation>
+        <translation type="obsolete">Изменить параметры показа</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="302"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="480"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="625"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="673"/>
         <source>Override this showing with options</source>
-        <translation>Переопределить параметры показа</translation>
+        <translation type="obsolete">Переопределить параметры показа</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="322"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="493"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="620"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="668"/>
         <source>Edit override options</source>
-        <translation>Изменить параметры переопределения</translation>
+        <translation type="obsolete">Изменить параметры переопределения</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="324"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="495"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="617"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="656"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="360"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="455"/>
         <source>Delete override rule</source>
         <translation type="unfinished">Удалить правило переопределения</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="333"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="484"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="621"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="669"/>
         <source>Edit recording options</source>
-        <translation>Изменить параметры записи</translation>
+        <translation type="obsolete">Изменить параметры записи</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="335"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="486"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="618"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="657"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="371"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="454"/>
         <source>Delete recording rule</source>
         <translation>Удалить правило записи</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="368"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="217"/>
         <source>The following programs will be recorded instead:</source>
         <translation>Следующие программы будут записаны вместо:</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="426"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="600"/>
         <source>Record this showing anyway</source>
-        <translation>Записать этот показ в любом случае</translation>
+        <translation type="obsolete">Записать этот показ в любом случае</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="431"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="606"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="310"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="440"/>
         <source>Forget previous recording</source>
         <translation type="unfinished">Забыть предыдущую запись</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="530"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="569"/>
         <source>Record only this showing</source>
-        <translation>Записывать только этот показ</translation>
+        <translation type="obsolete">Записывать только этот показ</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="533"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="571"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="260"/>
+        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="407"/>
         <source>Record all showings</source>
         <translation>Записать все показы</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="537"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="573"/>
         <source>Record one showing of this episode</source>
-        <translation>Записать один показ этой серии</translation>
+        <translation type="obsolete">Записать один показ этой серии</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="540"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="579"/>
         <source>Record all showings on this channel</source>
-        <translation>Записать все показы на этом канале</translation>
+        <translation type="obsolete">Записать все показы на этом канале</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="543"/>
-        <location filename="../programs/mythfrontend/schedulecommon.cpp" line="585"/>
         <source>Record with more options</source>
-        <translation>Записать с дополнительными параметрами</translation>
+        <translation type="obsolete">Записать с дополнительными параметрами</translation>
     </message>
     <message>
         <source>Record anyway</source>
@@ -20114,48 +20163,40 @@ is located in %2</source>
 <context>
     <name>ScreenWizard</name>
     <message>
-        <location filename="../programs/mythfrontend/screenwizard.cpp" line="256"/>
         <source>Size: %1 x %2</source>
-        <translation>Размер: %1 на %2</translation>
+        <translation type="obsolete">Размер: %1 на %2</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/screenwizard.cpp" line="257"/>
         <source>Offset: %1 x %2</source>
-        <translation>Смещение: %1 x %2</translation>
+        <translation type="obsolete">Смещение: %1 x %2</translation>
     </message>
     <message numerus="yes">
-        <location filename="../programs/mythfrontend/screenwizard.cpp" line="258"/>
         <source>Change amount: %n pixel(s)</source>
-        <translation>
+        <translation type="obsolete">
             <numerusform>Шаг изменения: %n пиксель</numerusform>
             <numerusform>Шаг изменения: %n пикселя</numerusform>
             <numerusform>Шаг изменения: %n пикселей</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/screenwizard.cpp" line="267"/>
         <source>Options</source>
-        <translation>Параметры</translation>
+        <translation type="obsolete">Параметры</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/screenwizard.cpp" line="278"/>
         <source>Save and Quit</source>
-        <translation>Сохранить и выйти</translation>
+        <translation type="obsolete">Сохранить и выйти</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/screenwizard.cpp" line="283"/>
         <source>Reset Changes and Quit</source>
-        <translation>Сбросить изменения и выйти</translation>
+        <translation type="obsolete">Сбросить изменения и выйти</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/screenwizard.cpp" line="284"/>
         <source>Coarse/Fine adjustment</source>
-        <translation>Грубая/Точная настройка</translation>
+        <translation type="obsolete">Грубая/Точная настройка</translation>
     </message>
     <message>
-        <location filename="../programs/mythfrontend/screenwizard.cpp" line="285"/>
         <source>Close Menu</source>
-        <translation>Закрыть меню</translation>
+        <translation type="obsolete">Закрыть меню</translation>
     </message>
 </context>
 <context>
