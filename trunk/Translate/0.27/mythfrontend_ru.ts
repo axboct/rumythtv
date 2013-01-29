@@ -19688,13 +19688,13 @@ Do you wish to continue watching?</source>
         <location filename="../programs/mythfrontend/schedulecommon.cpp" line="598"/>
         <location filename="../programs/mythfrontend/schedulecommon.cpp" line="638"/>
         <source>Restart recording this showing</source>
-        <translation type="unfinished">Перезапустить запись показа</translation>
+        <translation>Перезапустить запись показа</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/schedulecommon.cpp" line="243"/>
         <location filename="../programs/mythfrontend/schedulecommon.cpp" line="640"/>
         <source>Stop recording this showing</source>
-        <translation type="unfinished">Остановить запись показа</translation>
+        <translation>Остановить запись показа</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/schedulecommon.cpp" line="254"/>
@@ -19702,7 +19702,7 @@ Do you wish to continue watching?</source>
         <location filename="../programs/mythfrontend/schedulecommon.cpp" line="608"/>
         <location filename="../programs/mythfrontend/schedulecommon.cpp" line="647"/>
         <source>Don&apos;t record this showing</source>
-        <translation type="unfinished">Не записивать этот показ</translation>
+        <translation>Не записивать этот показ</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/schedulecommon.cpp" line="282"/>
@@ -19717,7 +19717,7 @@ Do you wish to continue watching?</source>
         <location filename="../programs/mythfrontend/schedulecommon.cpp" line="317"/>
         <location filename="../programs/mythfrontend/schedulecommon.cpp" line="659"/>
         <source>Edit options for this showing</source>
-        <translation type="unfinished">Изменить параметры показа</translation>
+        <translation>Изменить параметры показа</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/schedulecommon.cpp" line="302"/>
@@ -19725,7 +19725,7 @@ Do you wish to continue watching?</source>
         <location filename="../programs/mythfrontend/schedulecommon.cpp" line="625"/>
         <location filename="../programs/mythfrontend/schedulecommon.cpp" line="673"/>
         <source>Override this showing with options</source>
-        <translation type="unfinished">Переопределить параметры показа</translation>
+        <translation>Переопределить параметры показа</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/schedulecommon.cpp" line="322"/>
@@ -19733,7 +19733,7 @@ Do you wish to continue watching?</source>
         <location filename="../programs/mythfrontend/schedulecommon.cpp" line="620"/>
         <location filename="../programs/mythfrontend/schedulecommon.cpp" line="668"/>
         <source>Edit override options</source>
-        <translation type="unfinished">Изменить параметры переопределения</translation>
+        <translation>Изменить параметры переопределения</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/schedulecommon.cpp" line="324"/>
@@ -19741,7 +19741,7 @@ Do you wish to continue watching?</source>
         <location filename="../programs/mythfrontend/schedulecommon.cpp" line="617"/>
         <location filename="../programs/mythfrontend/schedulecommon.cpp" line="656"/>
         <source>Delete override rule</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Удалить правило переопределения</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/schedulecommon.cpp" line="333"/>
@@ -22107,7 +22107,7 @@ Directory From Storage Group?</source>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="12363"/>
         <source>MythTV is already using all available inputs for the channel you selected. If you want to watch an in-progress recording, select one from the playback menu.  If you want to watch Live TV, cancel one of the in-progress recordings from the delete menu.</source>
-        <translation>MythTV уже использует все доступные входы для выбранного Вами канала. Если Вы хотите смотреть записываемый сейчас показ, выберите его из меню воспроизведения. Если Вы хотите смотреть LiveTV отмените одну из записей из меню удаления.</translation>
+        <translation>MythTV уже использует все доступные входы для выбранного канала. Если Вы хотите смотреть записываемый сейчас показ, выберите его из меню воспроизведения. Если Вы хотите смотреть &quot;живое&quot; ТВ отмените одну из записей из меню удаления.</translation>
     </message>
     <message>
         <location filename="../libs/libmythtv/tv_play.cpp" line="12372"/>
